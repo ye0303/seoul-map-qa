@@ -1,0 +1,41 @@
+name: 검사 배치
+
+# 필요할 때 Actions 탭에서 Run workflow로 실행한다(자동 예약 없음).
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: batch
+  cancel-in-progress: false
+
+jobs:
+  batch:
+    name: 공개 테마 수집·검사 후 결과 커밋
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - name: 수집·검사
+        run: pnpm batch
+        env:
+          SMART_SEOUL_THEME_KEY: ${{ secrets.SMART_SEOUL_THEME_KEY }}
+      - name: 결과 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "바뀐 데이터가 없습니다."
+            exit 0
+          fi
+          git commit -m "chore(data): 검사 결과 갱신 $(node -p "require('./data/run.json').runId")"
+          git push
