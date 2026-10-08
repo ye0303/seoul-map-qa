@@ -6,9 +6,11 @@ import { beforeEach, describe, expect, test } from "vitest";
 
 import type { HttpGet } from "../../src/core/api/smartSeoulApi.ts";
 import { normalizeRows } from "../../src/core/model/snapshot.ts";
-import { compareWithPrevious, runTag } from "../../src/batch/history.ts";
+import { compareWithPrevious } from "../../src/batch/history.ts";
+import type { RunInfo, ThemeEntry, VersionEntry } from "../../src/core/model/dataFiles.ts";
+import { runTag } from "../../src/core/model/run.ts";
 import { runBatch } from "../../src/batch/runBatch.ts";
-import { createStore, type RunInfo, type ThemeEntry, type VersionEntry } from "../../src/batch/storage.ts";
+import { createStore } from "../../src/batch/storage.ts";
 import { check, districts, row } from "../helpers.ts";
 
 type Rows = Record<string, unknown>[];

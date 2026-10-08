@@ -1,15 +1,12 @@
 import { splitFindingChanges, type FindingDiff } from "../core/diff/findingDiff.ts";
 import { diffSnapshots, rowsFromSnapshot, separateTimestampChanges } from "../core/diff/snapshotDiff.ts";
+import type { FindingChangeCounts, FindingCounts, RowChangeCounts, ThemeChange, ThemeEntry, VersionEntry } from "../core/model/dataFiles.ts";
 import type { ContentRow } from "../core/model/row.ts";
+import { koreanMinute, runTag } from "../core/model/run.ts";
 import type { Snapshot } from "../core/model/snapshot.ts";
 import { RULESET_VERSION } from "../core/rules/registry.ts";
 import type { Finding } from "../core/rules/types.ts";
-import type { FindingChangeCounts, FindingCounts, RowChangeCounts, Store, ThemeChange, ThemeEntry, VersionEntry } from "./storage.ts";
-
-/** 실행 ID("2026-10-08T14:58") → git 태그("snap-2026-10-08-1458"). 태그 이름에는 ":"를 쓸 수 없다. */
-export function runTag(runId: string): string {
-  return `snap-${runId.replace("T", "-").replace(":", "")}`;
-}
+import type { Store } from "./storage.ts";
 
 export type CurrentState = {
   readonly runId: string;
@@ -96,14 +93,4 @@ function countRows(raw: ReturnType<typeof diffSnapshots>): RowChangeCounts {
 
 function countFindings(diff: FindingDiff): FindingChangeCounts {
   return { added: diff.added.length, resolved: diff.resolved.length, severityChanged: diff.severityChanged.length };
-}
-
-/** 한국 시각 기준 "YYYY-MM-DDTHH:mm". 실행 ID이자 버전 이름(실행 시작 시각 기준). */
-export function koreanMinute(date: Date): string {
-  const parts = Object.fromEntries(
-    new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Seoul", year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hourCycle: "h23" })
-      .formatToParts(date)
-      .map((part) => [part.type, part.value]),
-  );
-  return `${parts["year"]}-${parts["month"]}-${parts["day"]}T${parts["hour"]}:${parts["minute"]}`;
 }

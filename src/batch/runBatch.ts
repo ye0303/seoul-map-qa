@@ -1,25 +1,24 @@
 import { fetchThemeContents, fetchThemeList, publicThemes, type ContentsResult, type HttpGet, type PublicTheme } from "../core/api/smartSeoulApi.ts";
 import type { DistrictIndex } from "../core/geo/districtIndex.ts";
+import type {
+  Department,
+  FindingChangeCounts,
+  FindingCounts,
+  RowChangeCounts,
+  RunInfo,
+  ThemeChange,
+  ThemeEntry,
+  ThemeStatus,
+} from "../core/model/dataFiles.ts";
 import type { ContentRow } from "../core/model/row.ts";
+import { koreanMinute, runTag } from "../core/model/run.ts";
 import { compareCodeUnits, contentHash, normalizeRows } from "../core/model/snapshot.ts";
 import { RULESET_VERSION } from "../core/rules/registry.ts";
 import { runRules } from "../core/rules/runRules.ts";
 import type { Finding } from "../core/rules/types.ts";
-import type { Department } from "./departments.ts";
-import { compareWithPrevious, koreanMinute, runTag } from "./history.ts";
+import { compareWithPrevious } from "./history.ts";
 import { describeError } from "./http.ts";
-import {
-  toShards,
-  type FindingChangeCounts,
-  type FindingCounts,
-  type RowChangeCounts,
-  type RunInfo,
-  type Store,
-  type ThemeChange,
-  type ThemeEntry,
-  type ThemeFiles,
-  type ThemeStatus,
-} from "./storage.ts";
+import { toShards, type Store, type ThemeFiles } from "./storage.ts";
 
 /** 공개 테마 수가 직전 실행보다 이 비율 넘게 줄면 API 장애로 보고 멈춘다(D-027). */
 export const MAX_THEME_DROP = 0.2;

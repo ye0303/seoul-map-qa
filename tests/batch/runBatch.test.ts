@@ -5,10 +5,10 @@ import { join } from "node:path";
 import { beforeEach, describe, expect, test } from "vitest";
 
 import type { HttpGet } from "../../src/core/api/smartSeoulApi.ts";
-import type { Department } from "../../src/batch/departments.ts";
-import { koreanMinute } from "../../src/batch/history.ts";
+import type { Department, RunInfo, ThemeEntry } from "../../src/core/model/dataFiles.ts";
+import { koreanMinute } from "../../src/core/model/run.ts";
 import { BatchAbortError, runBatch } from "../../src/batch/runBatch.ts";
-import { createStore, type RunInfo, type ThemeEntry } from "../../src/batch/storage.ts";
+import { createStore } from "../../src/batch/storage.ts";
 import { districts, row } from "../helpers.ts";
 
 const KEY = "SECRET/KEY+1";

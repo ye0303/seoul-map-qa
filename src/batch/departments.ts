@@ -1,15 +1,10 @@
 // 담당 부서는 OpenAPI에 없어 공개 갤러리가 쓰는 내부 엔드포인트에서 받는다(D-005, 보조 정보).
 // 그 엔드포인트의 키는 갤러리 페이지 스크립트에 공개돼 있어, 저장소에 두지 않고 실행할 때마다 읽는다.
 
+import type { Department } from "../core/model/dataFiles.ts";
+
 const GALLERY_SCRIPT_URL = "https://map.seoul.go.kr/smgis2/file/smgis3/themeGallery/index.js";
 const GALLERY_API_URL = "https://map.seoul.go.kr/smgis/apps/theme.do";
-
-export type Department = {
-  /** 화면에 보일 담당: "서울시 관광정책과", "성북구 문화체육과", "세이브더칠드런" 등. 정보가 없으면 null. */
-  readonly label: string | null;
-  /** 갤러리 원본 값 THM_MNG_TYPE_01~03 (01: 1 서울시, 2 자치구, 0 외부 기관 등). */
-  readonly codes: readonly [string, string, string];
-};
 
 /** 테마 ID → 담당 부서. 실패하면 오류를 던진다(배치가 이전 값을 쓴다). */
 export async function fetchDepartments(fetchImpl: typeof fetch = fetch): Promise<Map<string, Department>> {
