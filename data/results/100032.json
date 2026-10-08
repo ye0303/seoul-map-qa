@@ -1,0 +1,63 @@
+{
+ "themeId": "100032",
+ "rulesetVersion": 1,
+ "contentHash": "2cdd5d1c8edca247abdc8e11fc467b5c362a3f856a3f2a4126ef017aabbcc869",
+ "findings": [
+  {
+   "ruleId": "C-04",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "outside",
+   "message": "서울 밖 장소가 1건 있습니다(주소도 서울 밖).",
+   "fingerprint": "C-04|100032||outside|"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "461",
+   "field": "COT_GU_NAME",
+   "value": "성북구",
+   "severity": "error",
+   "suggestion": "동대문구",
+   "message": "구명(성북구)이 좌표·주소의 구(동대문구)와 다릅니다.",
+   "fingerprint": "C-05|100032|461||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2204",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100032|2204||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "314",
+   "groupKey": "coord:314",
+   "field": "COT_CONTS_NAME",
+   "value": "덕성여자대학교 자연관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 314, 315, 316",
+   "fingerprint": "C-08|100032|314|coord:314|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "315",
+   "groupKey": "coord:314",
+   "field": "COT_CONTS_NAME",
+   "value": "덕성여자대학교 예술관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 314, 315, 316",
+   "fingerprint": "C-08|100032|315|coord:314|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "316",
+   "groupKey": "coord:314",
+   "field": "COT_CONTS_NAME",
+   "value": "덕성여자대학교 도서관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 314, 315, 316",
+   "fingerprint": "C-08|100032|316|coord:314|COT_CONTS_NAME"
+  }
+ ]
+}

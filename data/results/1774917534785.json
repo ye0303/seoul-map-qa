@@ -1,0 +1,651 @@
+{
+ "themeId": "1774917534785",
+ "rulesetVersion": 1,
+ "contentHash": "3501b5577a4992aa99b7e5630066c7bcc4db8dfc629d98cd1351ffa5ab56338f",
+ "findings": [
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0217",
+   "groupKey": "coord:PET0217",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0217, PET0218",
+   "fingerprint": "C-08|1774917534785|PET0217|coord:PET0217|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0218",
+   "groupKey": "coord:PET0217",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0217, PET0218",
+   "fingerprint": "C-08|1774917534785|PET0218|coord:PET0217|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0258",
+   "groupKey": "coord:PET0258",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0258, PET0259",
+   "fingerprint": "C-08|1774917534785|PET0258|coord:PET0258|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0258",
+   "groupKey": "same:PET0258",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0258, PET0259",
+   "fingerprint": "C-08|1774917534785|PET0258|same:PET0258|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0259",
+   "groupKey": "coord:PET0258",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0258, PET0259",
+   "fingerprint": "C-08|1774917534785|PET0259|coord:PET0258|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0259",
+   "groupKey": "same:PET0258",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0258, PET0259",
+   "fingerprint": "C-08|1774917534785|PET0259|same:PET0258|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0370",
+   "groupKey": "coord:PET0370",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0370, PET0373",
+   "fingerprint": "C-08|1774917534785|PET0370|coord:PET0370|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0370",
+   "groupKey": "same:PET0370",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0370, PET0373",
+   "fingerprint": "C-08|1774917534785|PET0370|same:PET0370|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0373",
+   "groupKey": "coord:PET0370",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0370, PET0373",
+   "fingerprint": "C-08|1774917534785|PET0373|coord:PET0370|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0373",
+   "groupKey": "same:PET0370",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0370, PET0373",
+   "fingerprint": "C-08|1774917534785|PET0373|same:PET0370|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0376",
+   "groupKey": "coord:PET0376",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0376, PET0377",
+   "fingerprint": "C-08|1774917534785|PET0376|coord:PET0376|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0377",
+   "groupKey": "coord:PET0376",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0376, PET0377",
+   "fingerprint": "C-08|1774917534785|PET0377|coord:PET0376|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0378",
+   "groupKey": "coord:PET0378",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0378, PET0379",
+   "fingerprint": "C-08|1774917534785|PET0378|coord:PET0378|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0378",
+   "groupKey": "same:PET0378",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0378, PET0379",
+   "fingerprint": "C-08|1774917534785|PET0378|same:PET0378|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0379",
+   "groupKey": "coord:PET0378",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0378, PET0379",
+   "fingerprint": "C-08|1774917534785|PET0379|coord:PET0378|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0379",
+   "groupKey": "same:PET0378",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0378, PET0379",
+   "fingerprint": "C-08|1774917534785|PET0379|same:PET0378|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0381",
+   "groupKey": "coord:PET0381",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0381, PET0382",
+   "fingerprint": "C-08|1774917534785|PET0381|coord:PET0381|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0381",
+   "groupKey": "same:PET0381",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0381, PET0382",
+   "fingerprint": "C-08|1774917534785|PET0381|same:PET0381|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0382",
+   "groupKey": "coord:PET0381",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0381, PET0382",
+   "fingerprint": "C-08|1774917534785|PET0382|coord:PET0381|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0382",
+   "groupKey": "same:PET0381",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0381, PET0382",
+   "fingerprint": "C-08|1774917534785|PET0382|same:PET0381|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0386",
+   "groupKey": "coord:PET0386",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0386, PET0387",
+   "fingerprint": "C-08|1774917534785|PET0386|coord:PET0386|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0386",
+   "groupKey": "same:PET0386",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0386, PET0387",
+   "fingerprint": "C-08|1774917534785|PET0386|same:PET0386|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0387",
+   "groupKey": "coord:PET0386",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0386, PET0387",
+   "fingerprint": "C-08|1774917534785|PET0387|coord:PET0386|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0387",
+   "groupKey": "same:PET0386",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0386, PET0387",
+   "fingerprint": "C-08|1774917534785|PET0387|same:PET0386|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0390",
+   "groupKey": "coord:PET0390",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: PET0390, PET0391, PET0392",
+   "fingerprint": "C-08|1774917534785|PET0390|coord:PET0390|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0390",
+   "groupKey": "same:PET0390",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: PET0390, PET0391, PET0392",
+   "fingerprint": "C-08|1774917534785|PET0390|same:PET0390|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0391",
+   "groupKey": "coord:PET0390",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: PET0390, PET0391, PET0392",
+   "fingerprint": "C-08|1774917534785|PET0391|coord:PET0390|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0391",
+   "groupKey": "same:PET0390",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: PET0390, PET0391, PET0392",
+   "fingerprint": "C-08|1774917534785|PET0391|same:PET0390|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0392",
+   "groupKey": "coord:PET0390",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: PET0390, PET0391, PET0392",
+   "fingerprint": "C-08|1774917534785|PET0392|coord:PET0390|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0392",
+   "groupKey": "same:PET0390",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: PET0390, PET0391, PET0392",
+   "fingerprint": "C-08|1774917534785|PET0392|same:PET0390|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0393",
+   "groupKey": "coord:PET0393",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0393, PET0394",
+   "fingerprint": "C-08|1774917534785|PET0393|coord:PET0393|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0393",
+   "groupKey": "same:PET0393",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0393, PET0394",
+   "fingerprint": "C-08|1774917534785|PET0393|same:PET0393|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0394",
+   "groupKey": "coord:PET0393",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0393, PET0394",
+   "fingerprint": "C-08|1774917534785|PET0394|coord:PET0393|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0394",
+   "groupKey": "same:PET0393",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0393, PET0394",
+   "fingerprint": "C-08|1774917534785|PET0394|same:PET0393|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0401",
+   "groupKey": "coord:PET0401",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0401, PET0402",
+   "fingerprint": "C-08|1774917534785|PET0401|coord:PET0401|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0401",
+   "groupKey": "same:PET0401",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0401, PET0402",
+   "fingerprint": "C-08|1774917534785|PET0401|same:PET0401|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0402",
+   "groupKey": "coord:PET0401",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0401, PET0402",
+   "fingerprint": "C-08|1774917534785|PET0402|coord:PET0401|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0402",
+   "groupKey": "same:PET0401",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0401, PET0402",
+   "fingerprint": "C-08|1774917534785|PET0402|same:PET0401|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0403",
+   "groupKey": "coord:PET0403",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0403, PET0404",
+   "fingerprint": "C-08|1774917534785|PET0403|coord:PET0403|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0403",
+   "groupKey": "same:PET0403",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0403, PET0404",
+   "fingerprint": "C-08|1774917534785|PET0403|same:PET0403|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0404",
+   "groupKey": "coord:PET0403",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0403, PET0404",
+   "fingerprint": "C-08|1774917534785|PET0404|coord:PET0403|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0404",
+   "groupKey": "same:PET0403",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0403, PET0404",
+   "fingerprint": "C-08|1774917534785|PET0404|same:PET0403|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0453",
+   "groupKey": "coord:PET0453",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0453, PET0454",
+   "fingerprint": "C-08|1774917534785|PET0453|coord:PET0453|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0454",
+   "groupKey": "coord:PET0453",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0453, PET0454",
+   "fingerprint": "C-08|1774917534785|PET0454|coord:PET0453|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0460",
+   "groupKey": "coord:PET0460",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0460, PET0461",
+   "fingerprint": "C-08|1774917534785|PET0460|coord:PET0460|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0461",
+   "groupKey": "coord:PET0460",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0460, PET0461",
+   "fingerprint": "C-08|1774917534785|PET0461|coord:PET0460|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0467",
+   "groupKey": "coord:PET0467",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0467, PET0468",
+   "fingerprint": "C-08|1774917534785|PET0467|coord:PET0467|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0468",
+   "groupKey": "coord:PET0467",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0467, PET0468",
+   "fingerprint": "C-08|1774917534785|PET0468|coord:PET0467|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0473",
+   "groupKey": "coord:PET0473",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0473, PET0474",
+   "fingerprint": "C-08|1774917534785|PET0473|coord:PET0473|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0474",
+   "groupKey": "coord:PET0473",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0473, PET0474",
+   "fingerprint": "C-08|1774917534785|PET0474|coord:PET0473|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0477",
+   "groupKey": "coord:PET0477",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0477, PET0478",
+   "fingerprint": "C-08|1774917534785|PET0477|coord:PET0477|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0478",
+   "groupKey": "coord:PET0477",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0477, PET0478",
+   "fingerprint": "C-08|1774917534785|PET0478|coord:PET0477|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0486",
+   "groupKey": "coord:PET0486",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0486, PET0505",
+   "fingerprint": "C-08|1774917534785|PET0486|coord:PET0486|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0487",
+   "groupKey": "coord:PET0487",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0487, PET0502",
+   "fingerprint": "C-08|1774917534785|PET0487|coord:PET0487|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0494",
+   "groupKey": "coord:PET0494",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0494, PET0495",
+   "fingerprint": "C-08|1774917534785|PET0494|coord:PET0494|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0495",
+   "groupKey": "coord:PET0494",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병· 캔 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0494, PET0495",
+   "fingerprint": "C-08|1774917534785|PET0495|coord:PET0494|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0497",
+   "groupKey": "coord:PET0497",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0497, PET0498",
+   "fingerprint": "C-08|1774917534785|PET0497|coord:PET0497|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0497",
+   "groupKey": "same:PET0497",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0497, PET0498",
+   "fingerprint": "C-08|1774917534785|PET0497|same:PET0497|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0498",
+   "groupKey": "coord:PET0497",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0497, PET0498",
+   "fingerprint": "C-08|1774917534785|PET0498|coord:PET0497|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0498",
+   "groupKey": "same:PET0497",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0497, PET0498",
+   "fingerprint": "C-08|1774917534785|PET0498|same:PET0497|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0499",
+   "groupKey": "coord:PET0499",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0499, PET0500",
+   "fingerprint": "C-08|1774917534785|PET0499|coord:PET0499|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0499",
+   "groupKey": "same:PET0499",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0499, PET0500",
+   "fingerprint": "C-08|1774917534785|PET0499|same:PET0499|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0500",
+   "groupKey": "coord:PET0499",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0499, PET0500",
+   "fingerprint": "C-08|1774917534785|PET0500|coord:PET0499|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0500",
+   "groupKey": "same:PET0499",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: PET0499, PET0500",
+   "fingerprint": "C-08|1774917534785|PET0500|same:PET0499|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0502",
+   "groupKey": "coord:PET0487",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0487, PET0502",
+   "fingerprint": "C-08|1774917534785|PET0502|coord:PET0487|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0505",
+   "groupKey": "coord:PET0486",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0486, PET0505",
+   "fingerprint": "C-08|1774917534785|PET0505|coord:PET0486|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0531",
+   "groupKey": "coord:PET0531",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0531, PET0543",
+   "fingerprint": "C-08|1774917534785|PET0531|coord:PET0531|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "PET0543",
+   "groupKey": "coord:PET0531",
+   "field": "COT_CONTS_NAME",
+   "value": "투명페트병 무인수거함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: PET0531, PET0543",
+   "fingerprint": "C-08|1774917534785|PET0543|coord:PET0531|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-12",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "/smgis2/file/ucimgs/conts/1774917534785/PET0002_0_KOR.png",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1774917534785/PET0002_0_KOR.png",
+   "message": "575건 중 574건이 같은 대표 이미지를 씁니다.",
+   "fingerprint": "C-12|1774917534785||/smgis2/file/ucimgs/conts/1774917534785/PET0002_0_KOR.png|COT_IMG_MAIN_URL"
+  }
+ ]
+}

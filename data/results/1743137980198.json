@@ -1,0 +1,88 @@
+{
+ "themeId": "1743137980198",
+ "rulesetVersion": 1,
+ "contentHash": "7ddcabeecd99a72698d8229825f66ef65676e7b3ad67aa194415dbfeffb23d7b",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sp_0006",
+   "field": "COT_GU_NAME",
+   "suggestion": "구로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1743137980198|sp_0006||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sp_0010",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1743137980198|sp_0010||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sp_0011",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1743137980198|sp_0011||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sp_0012",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1743137980198|sp_0012||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sp_0013",
+   "field": "COT_GU_NAME",
+   "suggestion": "금천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1743137980198|sp_0013||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sp_0014",
+   "field": "COT_GU_NAME",
+   "suggestion": "금천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1743137980198|sp_0014||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sp_0016",
+   "field": "COT_GU_NAME",
+   "suggestion": "성동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1743137980198|sp_0016||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sp_0017",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1743137980198|sp_0017||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sp_0018",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1743137980198|sp_0018||COT_GU_NAME"
+  }
+ ]
+}

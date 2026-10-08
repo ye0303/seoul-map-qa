@@ -1,0 +1,394 @@
+{
+ "themeId": "11101848",
+ "rulesetVersion": 1,
+ "contentHash": "355485c8c7cc200ee57559899d4a1846da41c5da813908bd5f01c722bb095514",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11101848_1773365503143",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11101848|11101848_1773365503143||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11101848_1773365630711",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11101848|11101848_1773365630711||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11101848_1773368683492",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11101848|11101848_1773368683492||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11101848_1773368896134",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11101848|11101848_1773368896134||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11101848_1773376293083",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11101848|11101848_1773376293083||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11101848_1773377302668",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11101848|11101848_1773377302668||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11101848_1773377785007",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11101848|11101848_1773377785007||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11101848_1773378817952",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11101848|11101848_1773378817952||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11101848_1773379197513",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11101848|11101848_1773379197513||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11101848_1773379331742",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11101848|11101848_1773379331742||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11101848_1773379643173",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11101848|11101848_1773379643173||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11101848_1773379774378",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11101848|11101848_1773379774378||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11101848_1773379877869",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11101848|11101848_1773379877869||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11101848_1773380029019",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11101848|11101848_1773380029019||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11101848_1773380121930",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11101848|11101848_1773380121930||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11101848_1773380350184",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11101848|11101848_1773380350184||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00014",
+   "field": "COT_TEL_NO",
+   "value": "02-2649-84",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|11101848|YCK00014||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00031",
+   "field": "COT_TEL_NO",
+   "value": "2646-9704",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00031||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00032",
+   "field": "COT_TEL_NO",
+   "value": "2692-8975",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00032||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00035",
+   "field": "COT_TEL_NO",
+   "value": "2646-0204",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00035||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00036",
+   "field": "COT_TEL_NO",
+   "value": "2646-0606",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00036||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00037",
+   "field": "COT_TEL_NO",
+   "value": "2642-7970",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00037||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00040",
+   "field": "COT_TEL_NO",
+   "value": "2691-1424",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00040||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00042",
+   "field": "COT_TEL_NO",
+   "value": "2646-1133",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00042||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00043",
+   "field": "COT_TEL_NO",
+   "value": "2646-4265",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00043||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00044",
+   "field": "COT_TEL_NO",
+   "value": "2651-7355",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00044||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00047",
+   "field": "COT_TEL_NO",
+   "value": "2604-4151",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00047||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00049",
+   "field": "COT_TEL_NO",
+   "value": "2642-0784",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00049||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00051",
+   "field": "COT_TEL_NO",
+   "value": "2653-3417",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00051||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00052",
+   "field": "COT_TEL_NO",
+   "value": "2625-5608",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00052||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00053",
+   "field": "COT_TEL_NO",
+   "value": "2603-6235",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00053||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00055",
+   "field": "COT_TEL_NO",
+   "value": "2646-4056",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00055||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00056",
+   "field": "COT_TEL_NO",
+   "value": "2646-5674",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00056||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00057",
+   "field": "COT_TEL_NO",
+   "value": "2065-3373",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00057||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00058",
+   "field": "COT_TEL_NO",
+   "value": "2646-2561",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00058||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00059",
+   "field": "COT_TEL_NO",
+   "value": "2065-7466",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00059||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00060",
+   "field": "COT_TEL_NO",
+   "value": "2698-1681",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00060||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00061",
+   "field": "COT_TEL_NO",
+   "value": "2646-4906",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00061||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00062",
+   "field": "COT_TEL_NO",
+   "value": "2601-9846",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00062||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00063",
+   "field": "COT_TEL_NO",
+   "value": "2608-4679",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00063||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00064",
+   "field": "COT_TEL_NO",
+   "value": "2604-8297",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00064||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00065",
+   "field": "COT_TEL_NO",
+   "value": "2643-5978",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00065||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "YCK00066",
+   "field": "COT_TEL_NO",
+   "value": "2643-3477",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11101848|YCK00066||COT_TEL_NO"
+  }
+ ]
+}

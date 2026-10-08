@@ -1,0 +1,17 @@
+{
+ "themeId": "11101096",
+ "rulesetVersion": 1,
+ "contentHash": "41ba0463fa06d1f6499a43766df6c648214c55a21452331c6d3a6ea459358ca6",
+ "findings": [
+  {
+   "ruleId": "C-12",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "/smgis/ucimgs/conts/11101096/11101096_kmk2679_20190618160306_1.jpg",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis/ucimgs/conts/11101096/11101096_kmk2679_20190618160306_1.jpg",
+   "message": "34건 중 21건이 같은 대표 이미지를 씁니다.",
+   "fingerprint": "C-12|11101096||/smgis/ucimgs/conts/11101096/11101096_kmk2679_20190618160306_1.jpg|COT_IMG_MAIN_URL"
+  }
+ ]
+}

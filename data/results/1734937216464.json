@@ -1,0 +1,27 @@
+{
+ "themeId": "1734937216464",
+ "rulesetVersion": 1,
+ "contentHash": "2057aff145f875b1a78a94736da078734983b55976abaf4ad85111f905ac9a0d",
+ "findings": [
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "v_0063",
+   "groupKey": "coord:v_0063",
+   "field": "COT_CONTS_NAME",
+   "value": "슬금슬금",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: v_0063, v_0079",
+   "fingerprint": "C-08|1734937216464|v_0063|coord:v_0063|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "v_0079",
+   "groupKey": "coord:v_0063",
+   "field": "COT_CONTS_NAME",
+   "value": "슬금슬금",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: v_0063, v_0079",
+   "fingerprint": "C-08|1734937216464|v_0079|coord:v_0063|COT_CONTS_NAME"
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "themeId": "1702013591419",
+ "rulesetVersion": 1,
+ "contentHash": "babf77e05e3c65d022c3f7f73e6f667e98e6f7d28cab51d61d422f0af21ce869",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "good_restaurant_200",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1702013591419|good_restaurant_200||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "good_restaurant_201",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1702013591419|good_restaurant_201||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "good_restaurant_202",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1702013591419|good_restaurant_202||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "good_restaurant_203",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1702013591419|good_restaurant_203||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "good_restaurant_204",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1702013591419|good_restaurant_204||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "good_restaurant_205",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1702013591419|good_restaurant_205||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "good_restaurant_206",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1702013591419|good_restaurant_206||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "good_restaurant_207",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1702013591419|good_restaurant_207||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "good_restaurant_208",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1702013591419|good_restaurant_208||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "good_restaurant_209",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1702013591419|good_restaurant_209||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "good_restaurant_210",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1702013591419|good_restaurant_210||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "good_restaurant_211",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1702013591419|good_restaurant_211||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "good_restaurant_212",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1702013591419|good_restaurant_212||COT_GU_NAME"
+  }
+ ]
+}

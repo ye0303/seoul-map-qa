@@ -1,0 +1,16 @@
+{
+ "themeId": "11102271",
+ "rulesetVersion": 1,
+ "contentHash": "f41d3d41fbf0376e726caf031ab3555e6659d7a67b9e1251d7d72dc1a5f40a09",
+ "findings": [
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "11102271_1632828745352",
+   "field": "COT_GU_NAME",
+   "value": "관악구",
+   "message": "구명(관악구)과 주소의 구(동작구)가 다릅니다.",
+   "fingerprint": "C-06|11102271|11102271_1632828745352||COT_GU_NAME"
+  }
+ ]
+}

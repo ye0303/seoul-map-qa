@@ -1,0 +1,197 @@
+{
+ "themeId": "11102035",
+ "rulesetVersion": 1,
+ "contentHash": "8af159c2e4fbeb965e024fd2b3bf1485b9e55bf977a76d19b202b6b3ca43bb5e",
+ "findings": [
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G03_007",
+   "groupKey": "near:G03_007",
+   "field": "COT_CONTS_NAME",
+   "value": "자전거거치대(고척공원행복길)",
+   "message": "30m 안에 이름이 같은 행이 3건 있습니다: G03_007, G03_009, G03_010",
+   "fingerprint": "C-09|11102035|G03_007|near:G03_007|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G03_009",
+   "groupKey": "near:G03_007",
+   "field": "COT_CONTS_NAME",
+   "value": "자전거거치대(고척공원행복길)",
+   "message": "30m 안에 이름이 같은 행이 3건 있습니다: G03_007, G03_009, G03_010",
+   "fingerprint": "C-09|11102035|G03_009|near:G03_007|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G03_010",
+   "groupKey": "near:G03_007",
+   "field": "COT_CONTS_NAME",
+   "value": "자전거거치대(고척공원행복길)",
+   "message": "30m 안에 이름이 같은 행이 3건 있습니다: G03_007, G03_009, G03_010",
+   "fingerprint": "C-09|11102035|G03_010|near:G03_007|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G03_050",
+   "groupKey": "near:G03_050",
+   "field": "COT_CONTS_NAME",
+   "value": "주차장(고척공원행복길)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: G03_050, G03_051",
+   "fingerprint": "C-09|11102035|G03_050|near:G03_050|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G03_051",
+   "groupKey": "near:G03_050",
+   "field": "COT_CONTS_NAME",
+   "value": "주차장(고척공원행복길)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: G03_050, G03_051",
+   "fingerprint": "C-09|11102035|G03_051|near:G03_050|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G03_060",
+   "groupKey": "near:G03_060",
+   "field": "COT_CONTS_NAME",
+   "value": "놀이터(고척공원행복길)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: G03_060, G03_061",
+   "fingerprint": "C-09|11102035|G03_060|near:G03_060|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G03_061",
+   "groupKey": "near:G03_060",
+   "field": "COT_CONTS_NAME",
+   "value": "놀이터(고척공원행복길)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: G03_060, G03_061",
+   "fingerprint": "C-09|11102035|G03_061|near:G03_060|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G09_036",
+   "groupKey": "near:G09_036",
+   "field": "COT_CONTS_NAME",
+   "value": "암석원(푸른수목원행복길)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: G09_036, G09_039",
+   "fingerprint": "C-09|11102035|G09_036|near:G09_036|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G09_037",
+   "groupKey": "near:G09_037",
+   "field": "COT_CONTS_NAME",
+   "value": "프랑스정원(푸른수목원행복길)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: G09_037, G09_038",
+   "fingerprint": "C-09|11102035|G09_037|near:G09_037|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G09_038",
+   "groupKey": "near:G09_037",
+   "field": "COT_CONTS_NAME",
+   "value": "프랑스정원(푸른수목원행복길)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: G09_037, G09_038",
+   "fingerprint": "C-09|11102035|G09_038|near:G09_037|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G09_039",
+   "groupKey": "near:G09_036",
+   "field": "COT_CONTS_NAME",
+   "value": "암석원(푸른수목원행복길)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: G09_036, G09_039",
+   "fingerprint": "C-09|11102035|G09_039|near:G09_036|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G09_057",
+   "groupKey": "near:G09_057",
+   "field": "COT_CONTS_NAME",
+   "value": "관리실(푸른수목원행복길)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: G09_057, G09_058",
+   "fingerprint": "C-09|11102035|G09_057|near:G09_057|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G09_058",
+   "groupKey": "near:G09_057",
+   "field": "COT_CONTS_NAME",
+   "value": "관리실(푸른수목원행복길)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: G09_057, G09_058",
+   "fingerprint": "C-09|11102035|G09_058|near:G09_057|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G09_086",
+   "groupKey": "near:G09_086",
+   "field": "COT_CONTS_NAME",
+   "value": "자전거거치대(푸른수목원행복길)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: G09_086, G09_087",
+   "fingerprint": "C-09|11102035|G09_086|near:G09_086|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G09_087",
+   "groupKey": "near:G09_086",
+   "field": "COT_CONTS_NAME",
+   "value": "자전거거치대(푸른수목원행복길)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: G09_086, G09_087",
+   "fingerprint": "C-09|11102035|G09_087|near:G09_086|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G10_090",
+   "groupKey": "near:G10_090",
+   "field": "COT_CONTS_NAME",
+   "value": "철길차단봉(항동철길행복길)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: G10_090, G10_091",
+   "fingerprint": "C-09|11102035|G10_090|near:G10_090|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G10_091",
+   "groupKey": "near:G10_090",
+   "field": "COT_CONTS_NAME",
+   "value": "철길차단봉(항동철길행복길)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: G10_090, G10_091",
+   "fingerprint": "C-09|11102035|G10_091|near:G10_090|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G10_099",
+   "groupKey": "near:G10_099",
+   "field": "COT_CONTS_NAME",
+   "value": "철길입구(항동철길행복길)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: G10_099, G10_100",
+   "fingerprint": "C-09|11102035|G10_099|near:G10_099|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "G10_100",
+   "groupKey": "near:G10_099",
+   "field": "COT_CONTS_NAME",
+   "value": "철길입구(항동철길행복길)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: G10_099, G10_100",
+   "fingerprint": "C-09|11102035|G10_100|near:G10_099|COT_CONTS_NAME"
+  }
+ ]
+}

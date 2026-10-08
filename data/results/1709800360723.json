@@ -1,0 +1,509 @@
+{
+ "themeId": "1709800360723",
+ "rulesetVersion": 1,
+ "contentHash": "56f57cb43390d4ca0d8bb8a48c793f9dc9b7e20e1a3954c38206869fbec0eaca",
+ "findings": [
+  {
+   "ruleId": "C-04",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "outside",
+   "message": "서울 밖 장소가 10건 있습니다(주소도 서울 밖).",
+   "fingerprint": "C-04|1709800360723||outside|"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "2024_gil_m_03_0007",
+   "field": "COT_GU_NAME",
+   "value": "노원구",
+   "severity": "error",
+   "suggestion": "광진구",
+   "message": "구명(노원구)이 좌표·주소의 구(광진구)와 다릅니다.",
+   "fingerprint": "C-05|1709800360723|2024_gil_m_03_0007||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "2024_gil_m_18_0011",
+   "field": "COT_GU_NAME",
+   "value": "성북구",
+   "severity": "suspect",
+   "suggestion": "종로구",
+   "message": "구명(성북구)이 좌표·주소의 구(종로구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|1709800360723|2024_gil_m_18_0011||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_01_0005",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_01_0005||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_01_0006",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_01_0006||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_01_0007",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_01_0007||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_01_0008",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_01_0008||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_04_0017",
+   "field": "COT_GU_NAME",
+   "suggestion": "중랑구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_04_0017||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_04_0018",
+   "field": "COT_GU_NAME",
+   "suggestion": "중랑구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_04_0018||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_05_0004",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_05_0004||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_05_0005",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_05_0005||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_05_0006",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_05_0006||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_05_0009",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_05_0009||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_06_00019",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_06_00019||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_06_00030",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_06_00030||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_07_0013",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_07_0013||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_07_0014",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_07_0014||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_07_0015",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_07_0015||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_07_0016",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_07_0016||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_07_0017",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_07_0017||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_07_0018",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_07_0018||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_07_0019",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_07_0019||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_07_0020",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_07_0020||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_13_0001",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_13_0001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_13_0011",
+   "field": "COT_GU_NAME",
+   "suggestion": "구로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_13_0011||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_16_0007",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_16_0007||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_16_0011",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_16_0011||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_16_0015",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_16_0015||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_16_0023",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_16_0023||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_16_0024",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_16_0024||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_ck_04_0001",
+   "field": "COT_GU_NAME",
+   "suggestion": "중랑구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_ck_04_0001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_ck_13_0001",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_ck_13_0001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_jn_10_0003",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_jn_10_0003||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_jn_12_0001",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_jn_12_0001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_jn_13_0002",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_jn_13_0002||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_01_00010",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_01_00010||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_01_0010",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_01_0010||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_02_00001",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_02_00001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_02_0004",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_02_0004||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_02_0007",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_02_0007||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_02_0011",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_02_0011||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_03_00001",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_03_00001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_03_0001",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_03_0001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_03_00017",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_03_00017||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_03_001",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_03_001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_03_0014",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_03_0014||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_04_006",
+   "field": "COT_GU_NAME",
+   "suggestion": "중랑구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_04_006||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_05_00001",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_05_00001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_05_0002",
+   "field": "COT_GU_NAME",
+   "suggestion": "중랑구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_05_0002||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_05_0004",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_05_0004||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_05_0005",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_05_0005||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_05_0006",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_05_0006||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_10_00001",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_10_00001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_12_0007",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_12_0007||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_15_00013",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_15_00013||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_16_00002",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_16_00002||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_17_0001",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_17_0001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024_gil_m_18_0001",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1709800360723|2024_gil_m_18_0001||COT_GU_NAME"
+  }
+ ]
+}

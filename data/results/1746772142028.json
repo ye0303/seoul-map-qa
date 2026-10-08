@@ -1,0 +1,906 @@
+{
+ "themeId": "1746772142028",
+ "rulesetVersion": 1,
+ "contentHash": "eb0f356a93414339d73988bf79dc9fae0231a6fae001543e6b66dab14464f0fc",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "mostly-empty",
+   "field": "COT_GU_NAME",
+   "message": "구명이 2813건 중 2812건 비어 있습니다.",
+   "fingerprint": "C-07|1746772142028||mostly-empty|COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00003",
+   "groupKey": "coord:sc00003",
+   "field": "COT_CONTS_NAME",
+   "value": "대학로예술극장 대극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00003, sc00004",
+   "fingerprint": "C-08|1746772142028|sc00003|coord:sc00003|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00004",
+   "groupKey": "coord:sc00003",
+   "field": "COT_CONTS_NAME",
+   "value": "대학로예술극장 소극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00003, sc00004",
+   "fingerprint": "C-08|1746772142028|sc00004|coord:sc00003|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00039",
+   "groupKey": "coord:sc00039",
+   "field": "COT_CONTS_NAME",
+   "value": "세우아트센터 1관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00039, sc00040",
+   "fingerprint": "C-08|1746772142028|sc00039|coord:sc00039|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00040",
+   "groupKey": "coord:sc00039",
+   "field": "COT_CONTS_NAME",
+   "value": "세우아트센터 2관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00039, sc00040",
+   "fingerprint": "C-08|1746772142028|sc00040|coord:sc00039|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00041",
+   "groupKey": "coord:sc00041",
+   "field": "COT_CONTS_NAME",
+   "value": "도토리씨어터 1관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00041, sc00042",
+   "fingerprint": "C-08|1746772142028|sc00041|coord:sc00041|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00042",
+   "groupKey": "coord:sc00041",
+   "field": "COT_CONTS_NAME",
+   "value": "도토리씨어터 2관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00041, sc00042",
+   "fingerprint": "C-08|1746772142028|sc00042|coord:sc00041|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00048",
+   "groupKey": "coord:sc00048",
+   "field": "COT_CONTS_NAME",
+   "value": "대학로스타시티 후암스테이지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00048, sc00049",
+   "fingerprint": "C-08|1746772142028|sc00048|coord:sc00048|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00049",
+   "groupKey": "coord:sc00048",
+   "field": "COT_CONTS_NAME",
+   "value": "대학로스타시티 후암스테이지2관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00048, sc00049",
+   "fingerprint": "C-08|1746772142028|sc00049|coord:sc00048|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00059",
+   "groupKey": "coord:sc00059",
+   "field": "COT_CONTS_NAME",
+   "value": "엠스테이지 1관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00059, sc00060",
+   "fingerprint": "C-08|1746772142028|sc00059|coord:sc00059|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00060",
+   "groupKey": "coord:sc00059",
+   "field": "COT_CONTS_NAME",
+   "value": "엠스테이지 2관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00059, sc00060",
+   "fingerprint": "C-08|1746772142028|sc00060|coord:sc00059|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00061",
+   "groupKey": "coord:sc00061",
+   "field": "COT_CONTS_NAME",
+   "value": "미마지아트센터 풀빛극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00061, sc00062",
+   "fingerprint": "C-08|1746772142028|sc00061|coord:sc00061|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00062",
+   "groupKey": "coord:sc00061",
+   "field": "COT_CONTS_NAME",
+   "value": "미마지아트센터 물빛극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00061, sc00062",
+   "fingerprint": "C-08|1746772142028|sc00062|coord:sc00061|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00067",
+   "groupKey": "coord:sc00067",
+   "field": "COT_CONTS_NAME",
+   "value": "베리컴퍼니 1관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00067, sc00068",
+   "fingerprint": "C-08|1746772142028|sc00067|coord:sc00067|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00068",
+   "groupKey": "coord:sc00067",
+   "field": "COT_CONTS_NAME",
+   "value": "베리컴퍼니 2관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00067, sc00068",
+   "fingerprint": "C-08|1746772142028|sc00068|coord:sc00067|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00074",
+   "groupKey": "coord:sc00074",
+   "field": "COT_CONTS_NAME",
+   "value": "아트포레스트 1관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00074, sc00075",
+   "fingerprint": "C-08|1746772142028|sc00074|coord:sc00074|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00075",
+   "groupKey": "coord:sc00074",
+   "field": "COT_CONTS_NAME",
+   "value": "아트포레스트 2관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00074, sc00075",
+   "fingerprint": "C-08|1746772142028|sc00075|coord:sc00074|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00082",
+   "groupKey": "coord:sc00082",
+   "field": "COT_CONTS_NAME",
+   "value": "대학로 아트원씨어터 1관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sc00082, sc00083, sc00084",
+   "fingerprint": "C-08|1746772142028|sc00082|coord:sc00082|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00083",
+   "groupKey": "coord:sc00082",
+   "field": "COT_CONTS_NAME",
+   "value": "대학로 아트원씨어터 2관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sc00082, sc00083, sc00084",
+   "fingerprint": "C-08|1746772142028|sc00083|coord:sc00082|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00084",
+   "groupKey": "coord:sc00082",
+   "field": "COT_CONTS_NAME",
+   "value": "대학로아트원씨어터3관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sc00082, sc00083, sc00084",
+   "fingerprint": "C-08|1746772142028|sc00084|coord:sc00082|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00091",
+   "groupKey": "coord:sc00091",
+   "field": "COT_CONTS_NAME",
+   "value": "유니플렉스 1관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sc00091, sc00092, sc00093",
+   "fingerprint": "C-08|1746772142028|sc00091|coord:sc00091|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00092",
+   "groupKey": "coord:sc00091",
+   "field": "COT_CONTS_NAME",
+   "value": "유니플렉스 2관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sc00091, sc00092, sc00093",
+   "fingerprint": "C-08|1746772142028|sc00092|coord:sc00091|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00093",
+   "groupKey": "coord:sc00091",
+   "field": "COT_CONTS_NAME",
+   "value": "유니플렉스 3관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sc00091, sc00092, sc00093",
+   "fingerprint": "C-08|1746772142028|sc00093|coord:sc00091|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00107",
+   "groupKey": "coord:sc00107",
+   "field": "COT_CONTS_NAME",
+   "value": "드림아트센터 1관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00107, sc00110",
+   "fingerprint": "C-08|1746772142028|sc00107|coord:sc00107|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00108",
+   "groupKey": "coord:sc00108",
+   "field": "COT_CONTS_NAME",
+   "value": "대학로 드림아트센터 2관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00108, sc00109",
+   "fingerprint": "C-08|1746772142028|sc00108|coord:sc00108|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00109",
+   "groupKey": "coord:sc00108",
+   "field": "COT_CONTS_NAME",
+   "value": "대학로 드림아트센터 3관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00108, sc00109",
+   "fingerprint": "C-08|1746772142028|sc00109|coord:sc00108|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00110",
+   "groupKey": "coord:sc00107",
+   "field": "COT_CONTS_NAME",
+   "value": "드림아트센터 4관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00107, sc00110",
+   "fingerprint": "C-08|1746772142028|sc00110|coord:sc00107|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00116",
+   "groupKey": "coord:sc00116",
+   "field": "COT_CONTS_NAME",
+   "value": "한성아트홀1관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00116, sc00117",
+   "fingerprint": "C-08|1746772142028|sc00116|coord:sc00116|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00117",
+   "groupKey": "coord:sc00116",
+   "field": "COT_CONTS_NAME",
+   "value": "한성아트홀2관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00116, sc00117",
+   "fingerprint": "C-08|1746772142028|sc00117|coord:sc00116|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00118",
+   "groupKey": "coord:sc00118",
+   "field": "COT_CONTS_NAME",
+   "value": "대학로 티오엠1관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00118, sc00119",
+   "fingerprint": "C-08|1746772142028|sc00118|coord:sc00118|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00119",
+   "groupKey": "coord:sc00118",
+   "field": "COT_CONTS_NAME",
+   "value": "대학로 티오엠2관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00118, sc00119",
+   "fingerprint": "C-08|1746772142028|sc00119|coord:sc00118|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00120",
+   "groupKey": "coord:sc00120",
+   "field": "COT_CONTS_NAME",
+   "value": "예스24스테이지 1관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sc00120, sc00121, sc00122",
+   "fingerprint": "C-08|1746772142028|sc00120|coord:sc00120|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00121",
+   "groupKey": "coord:sc00120",
+   "field": "COT_CONTS_NAME",
+   "value": "예스24스테이지 2관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sc00120, sc00121, sc00122",
+   "fingerprint": "C-08|1746772142028|sc00121|coord:sc00120|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00122",
+   "groupKey": "coord:sc00120",
+   "field": "COT_CONTS_NAME",
+   "value": "예스24스테이지 3관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sc00120, sc00121, sc00122",
+   "fingerprint": "C-08|1746772142028|sc00122|coord:sc00120|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00125",
+   "groupKey": "coord:sc00125",
+   "field": "COT_CONTS_NAME",
+   "value": "서경대학교 공연예술센터 SKON(스콘) 1관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00125, sc00126",
+   "fingerprint": "C-08|1746772142028|sc00125|coord:sc00125|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00126",
+   "groupKey": "coord:sc00125",
+   "field": "COT_CONTS_NAME",
+   "value": "서경대학교 공연예술센터 SKON(스콘)2관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00125, sc00126",
+   "fingerprint": "C-08|1746772142028|sc00126|coord:sc00125|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00137",
+   "groupKey": "coord:sc00137",
+   "field": "COT_CONTS_NAME",
+   "value": "아르코예술극장 대극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00137, sc00138",
+   "fingerprint": "C-08|1746772142028|sc00137|coord:sc00137|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00138",
+   "groupKey": "coord:sc00137",
+   "field": "COT_CONTS_NAME",
+   "value": "아르코예술극장 소극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00137, sc00138",
+   "fingerprint": "C-08|1746772142028|sc00138|coord:sc00137|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00139",
+   "groupKey": "coord:sc00139",
+   "field": "COT_CONTS_NAME",
+   "value": "홍익대 대학로 아트센터 대극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00139, sc00140",
+   "fingerprint": "C-08|1746772142028|sc00139|coord:sc00139|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00140",
+   "groupKey": "coord:sc00139",
+   "field": "COT_CONTS_NAME",
+   "value": "홍익대 대학로 아트센터 소극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00139, sc00140",
+   "fingerprint": "C-08|1746772142028|sc00140|coord:sc00139|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00143",
+   "groupKey": "coord:sc00143",
+   "field": "COT_CONTS_NAME",
+   "value": "세종M씨어터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00143, sc00145",
+   "fingerprint": "C-08|1746772142028|sc00143|coord:sc00143|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00145",
+   "groupKey": "coord:sc00143",
+   "field": "COT_CONTS_NAME",
+   "value": "세종S씨어터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00143, sc00145",
+   "fingerprint": "C-08|1746772142028|sc00145|coord:sc00143|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00148",
+   "groupKey": "coord:sc00148",
+   "field": "COT_CONTS_NAME",
+   "value": "파랑새극장 1관(샘터파랑새극장)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00148, sc00149",
+   "fingerprint": "C-08|1746772142028|sc00148|coord:sc00148|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00149",
+   "groupKey": "coord:sc00148",
+   "field": "COT_CONTS_NAME",
+   "value": "파랑새극장 2관(샘터파랑새극장)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00148, sc00149",
+   "fingerprint": "C-08|1746772142028|sc00149|coord:sc00148|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00150",
+   "groupKey": "coord:sc00150",
+   "field": "COT_CONTS_NAME",
+   "value": "봄날아트홀 1관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00150, sc00151",
+   "fingerprint": "C-08|1746772142028|sc00150|coord:sc00150|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00151",
+   "groupKey": "coord:sc00150",
+   "field": "COT_CONTS_NAME",
+   "value": "봄날아트홀 2관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00150, sc00151",
+   "fingerprint": "C-08|1746772142028|sc00151|coord:sc00150|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00152",
+   "groupKey": "coord:sc00152",
+   "field": "COT_CONTS_NAME",
+   "value": "제이티앤 아트홀(JTN ART HALL) 1관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: sc00152, sc00153, sc00154, sc00155",
+   "fingerprint": "C-08|1746772142028|sc00152|coord:sc00152|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00153",
+   "groupKey": "coord:sc00152",
+   "field": "COT_CONTS_NAME",
+   "value": "제이티앤 아트홀(JTN ART HALL) 2관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: sc00152, sc00153, sc00154, sc00155",
+   "fingerprint": "C-08|1746772142028|sc00153|coord:sc00152|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00154",
+   "groupKey": "coord:sc00152",
+   "field": "COT_CONTS_NAME",
+   "value": "제이티앤 아트홀(JTN ART HALL) 3관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: sc00152, sc00153, sc00154, sc00155",
+   "fingerprint": "C-08|1746772142028|sc00154|coord:sc00152|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00155",
+   "groupKey": "coord:sc00152",
+   "field": "COT_CONTS_NAME",
+   "value": "제이티앤 아트홀(JTN ART HALL) 4관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: sc00152, sc00153, sc00154, sc00155",
+   "fingerprint": "C-08|1746772142028|sc00155|coord:sc00152|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00169",
+   "groupKey": "coord:sc00169",
+   "field": "COT_CONTS_NAME",
+   "value": "민송아트홀 1관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00169, sc00613",
+   "fingerprint": "C-08|1746772142028|sc00169|coord:sc00169|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00173",
+   "groupKey": "coord:sc00173",
+   "field": "COT_CONTS_NAME",
+   "value": "상명아트홀 1관 (구 상명Art Hall)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00173, sc00174",
+   "fingerprint": "C-08|1746772142028|sc00173|coord:sc00173|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00174",
+   "groupKey": "coord:sc00173",
+   "field": "COT_CONTS_NAME",
+   "value": "상명아트홀 2관 (구 상명Art Hall 2관)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00173, sc00174",
+   "fingerprint": "C-08|1746772142028|sc00174|coord:sc00173|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00199",
+   "groupKey": "coord:sc00199",
+   "field": "COT_CONTS_NAME",
+   "value": "동양예술극장 1관 (구 아트센터K 네모극장)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00199, sc00200",
+   "fingerprint": "C-08|1746772142028|sc00199|coord:sc00199|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00200",
+   "groupKey": "coord:sc00199",
+   "field": "COT_CONTS_NAME",
+   "value": "동양예술극장 2관 (구 아트센터K 세모극장)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00199, sc00200",
+   "fingerprint": "C-08|1746772142028|sc00200|coord:sc00199|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00212",
+   "groupKey": "coord:sc00212",
+   "field": "COT_CONTS_NAME",
+   "value": "충무아트센터중극장 블랙",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00212, sc00213",
+   "fingerprint": "C-08|1746772142028|sc00212|coord:sc00212|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00213",
+   "groupKey": "coord:sc00212",
+   "field": "COT_CONTS_NAME",
+   "value": "충무아트센터소극장 블루",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00212, sc00213",
+   "fingerprint": "C-08|1746772142028|sc00213|coord:sc00212|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00223",
+   "groupKey": "coord:sc00223",
+   "field": "COT_CONTS_NAME",
+   "value": "국립중앙극장 달오름극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sc00223, sc00225, sc00571",
+   "fingerprint": "C-08|1746772142028|sc00223|coord:sc00223|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00225",
+   "groupKey": "coord:sc00223",
+   "field": "COT_CONTS_NAME",
+   "value": "국립중앙극장 해오름극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sc00223, sc00225, sc00571",
+   "fingerprint": "C-08|1746772142028|sc00225|coord:sc00223|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00231",
+   "groupKey": "coord:sc00231",
+   "field": "COT_CONTS_NAME",
+   "value": "명보아트홀 가온홀",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sc00231, sc00232, sc00233",
+   "fingerprint": "C-08|1746772142028|sc00231|coord:sc00231|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00232",
+   "groupKey": "coord:sc00231",
+   "field": "COT_CONTS_NAME",
+   "value": "명보아트홀 다온홀",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sc00231, sc00232, sc00233",
+   "fingerprint": "C-08|1746772142028|sc00232|coord:sc00231|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00233",
+   "groupKey": "coord:sc00231",
+   "field": "COT_CONTS_NAME",
+   "value": "명보아트홀 라온홀",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sc00231, sc00232, sc00233",
+   "fingerprint": "C-08|1746772142028|sc00233|coord:sc00231|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00278",
+   "groupKey": "coord:sc00278",
+   "field": "COT_CONTS_NAME",
+   "value": "나루아트센터대공연장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00278, sc00279",
+   "fingerprint": "C-08|1746772142028|sc00278|coord:sc00278|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00279",
+   "groupKey": "coord:sc00278",
+   "field": "COT_CONTS_NAME",
+   "value": "나루아트센터소공연장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00278, sc00279",
+   "fingerprint": "C-08|1746772142028|sc00279|coord:sc00278|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00306",
+   "groupKey": "coord:sc00306",
+   "field": "COT_CONTS_NAME",
+   "value": "한국예술종합학교(중극장)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00306, sc00307",
+   "fingerprint": "C-08|1746772142028|sc00306|coord:sc00306|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00307",
+   "groupKey": "coord:sc00306",
+   "field": "COT_CONTS_NAME",
+   "value": "한국예술종합학교(소극장)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00306, sc00307",
+   "fingerprint": "C-08|1746772142028|sc00307|coord:sc00306|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00327",
+   "groupKey": "coord:sc00327",
+   "field": "COT_CONTS_NAME",
+   "value": "광운대학교 동해문화예술관 대극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00327, sc00328",
+   "fingerprint": "C-08|1746772142028|sc00327|coord:sc00327|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00328",
+   "groupKey": "coord:sc00327",
+   "field": "COT_CONTS_NAME",
+   "value": "광운대학교 동해문화예술관 소극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00327, sc00328",
+   "fingerprint": "C-08|1746772142028|sc00328|coord:sc00327|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00329",
+   "groupKey": "coord:sc00329",
+   "field": "COT_CONTS_NAME",
+   "value": "노원문화예술회관 대공연장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00329, sc00330",
+   "fingerprint": "C-08|1746772142028|sc00329|coord:sc00329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00330",
+   "groupKey": "coord:sc00329",
+   "field": "COT_CONTS_NAME",
+   "value": "노원문화예술회관 소공연장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00329, sc00330",
+   "fingerprint": "C-08|1746772142028|sc00330|coord:sc00329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00341",
+   "groupKey": "coord:sc00341",
+   "field": "COT_CONTS_NAME",
+   "value": "서대문문화체육회관 대극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00341, sc00342",
+   "fingerprint": "C-08|1746772142028|sc00341|coord:sc00341|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00342",
+   "groupKey": "coord:sc00341",
+   "field": "COT_CONTS_NAME",
+   "value": "서대문문화체육회관 소극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00341, sc00342",
+   "fingerprint": "C-08|1746772142028|sc00342|coord:sc00341|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00388",
+   "groupKey": "coord:sc00388",
+   "field": "COT_CONTS_NAME",
+   "value": "서강대학교 메리홀 대극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00388, sc00389",
+   "fingerprint": "C-08|1746772142028|sc00388|coord:sc00388|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00389",
+   "groupKey": "coord:sc00388",
+   "field": "COT_CONTS_NAME",
+   "value": "서강대학교 메리홀 소극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00388, sc00389",
+   "fingerprint": "C-08|1746772142028|sc00389|coord:sc00388|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00508",
+   "groupKey": "coord:sc00508",
+   "field": "COT_CONTS_NAME",
+   "value": "윤당아트홀 1관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00508, sc00509",
+   "fingerprint": "C-08|1746772142028|sc00508|coord:sc00508|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00509",
+   "groupKey": "coord:sc00508",
+   "field": "COT_CONTS_NAME",
+   "value": "윤당아트홀 2관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00508, sc00509",
+   "fingerprint": "C-08|1746772142028|sc00509|coord:sc00508|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00571",
+   "groupKey": "coord:sc00223",
+   "field": "COT_CONTS_NAME",
+   "value": "국립중앙극장 별오름극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sc00223, sc00225, sc00571",
+   "fingerprint": "C-08|1746772142028|sc00571|coord:sc00223|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00605",
+   "groupKey": "coord:sc00605",
+   "field": "COT_CONTS_NAME",
+   "value": "리엠아트센터 A홀",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00605, sc00606",
+   "fingerprint": "C-08|1746772142028|sc00605|coord:sc00605|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00606",
+   "groupKey": "coord:sc00605",
+   "field": "COT_CONTS_NAME",
+   "value": "리엠아트센터 B홀",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00605, sc00606",
+   "fingerprint": "C-08|1746772142028|sc00606|coord:sc00605|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00613",
+   "groupKey": "coord:sc00169",
+   "field": "COT_CONTS_NAME",
+   "value": "민송아트홀 2관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00169, sc00613",
+   "fingerprint": "C-08|1746772142028|sc00613|coord:sc00169|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00645",
+   "groupKey": "coord:sc00645",
+   "field": "COT_CONTS_NAME",
+   "value": "송파구민회관 대강당",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00645, sc00731",
+   "fingerprint": "C-08|1746772142028|sc00645|coord:sc00645|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00691",
+   "groupKey": "coord:sc00691",
+   "field": "COT_CONTS_NAME",
+   "value": "한국방송통신대학교 열린관 대공연장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00691, sc00699",
+   "fingerprint": "C-08|1746772142028|sc00691|coord:sc00691|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00699",
+   "groupKey": "coord:sc00691",
+   "field": "COT_CONTS_NAME",
+   "value": "한국방송통신대학교 열린관 소극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00691, sc00699",
+   "fingerprint": "C-08|1746772142028|sc00699|coord:sc00691|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00702",
+   "groupKey": "coord:sc00702",
+   "field": "COT_CONTS_NAME",
+   "value": "중구구민회관 대강당",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00702, sc00703",
+   "fingerprint": "C-08|1746772142028|sc00702|coord:sc00702|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00703",
+   "groupKey": "coord:sc00702",
+   "field": "COT_CONTS_NAME",
+   "value": "중구구민회관 소강당",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00702, sc00703",
+   "fingerprint": "C-08|1746772142028|sc00703|coord:sc00702|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00728",
+   "groupKey": "coord:sc00728",
+   "field": "COT_CONTS_NAME",
+   "value": "중랑구민회관 대공연장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00728, sc00729",
+   "fingerprint": "C-08|1746772142028|sc00728|coord:sc00728|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00729",
+   "groupKey": "coord:sc00728",
+   "field": "COT_CONTS_NAME",
+   "value": "중랑구민회관 소공연장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00728, sc00729",
+   "fingerprint": "C-08|1746772142028|sc00729|coord:sc00728|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc00731",
+   "groupKey": "coord:sc00645",
+   "field": "COT_CONTS_NAME",
+   "value": "송파구민회관 소강당",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc00645, sc00731",
+   "fingerprint": "C-08|1746772142028|sc00731|coord:sc00645|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc02524",
+   "groupKey": "coord:sc02524",
+   "field": "COT_CONTS_NAME",
+   "value": "이편한세상 서울대입구아파트 2단지작은도서관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc02524, sc02525",
+   "fingerprint": "C-08|1746772142028|sc02524|coord:sc02524|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sc02525",
+   "groupKey": "coord:sc02524",
+   "field": "COT_CONTS_NAME",
+   "value": "이편한세상서울대입구1단지 작은도서관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sc02524, sc02525",
+   "fingerprint": "C-08|1746772142028|sc02525|coord:sc02524|COT_CONTS_NAME"
+  }
+ ]
+}

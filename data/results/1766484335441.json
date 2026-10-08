@@ -1,0 +1,23 @@
+{
+ "themeId": "1766484335441",
+ "rulesetVersion": 1,
+ "contentHash": "1ef721e73e64ed06036eceb23cb6294ce22584bf56c69e201cfcac06c2624e1d",
+ "findings": [
+  {
+   "ruleId": "C-04",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "outside",
+   "message": "서울 밖 장소가 1건 있습니다(주소도 서울 밖).",
+   "fingerprint": "C-04|1766484335441||outside|"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sb_parking_028",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1766484335441|sb_parking_028||COT_GU_NAME"
+  }
+ ]
+}

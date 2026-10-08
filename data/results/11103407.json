@@ -1,0 +1,249 @@
+{
+ "themeId": "11103407",
+ "rulesetVersion": 1,
+ "contentHash": "3b478c514b5514fc5ce384656195b82ea59ee357ef4a4c96644f1f044faa5c1f",
+ "findings": [
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "2025_safe_0017",
+   "groupKey": "coord:2025_safe_0017",
+   "field": "COT_CONTS_NAME",
+   "value": "으뜸단지내상가공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 2025_safe_0017, gangbuk_047",
+   "fingerprint": "C-08|11103407|2025_safe_0017|coord:2025_safe_0017|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "2025_safe_0024",
+   "groupKey": "coord:2025_safe_0024",
+   "field": "COT_CONTS_NAME",
+   "value": "CU(송파푸르지오점)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 2025_safe_0024, songpa_007",
+   "fingerprint": "C-08|11103407|2025_safe_0024|coord:2025_safe_0024|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "2025_safe_0027",
+   "groupKey": "coord:2025_safe_0027",
+   "field": "COT_CONTS_NAME",
+   "value": "hy (한국야쿠르트) 문정점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 2025_safe_0027, songpa_038",
+   "fingerprint": "C-08|11103407|2025_safe_0027|coord:2025_safe_0027|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangbuk_047",
+   "groupKey": "coord:2025_safe_0017",
+   "field": "COT_CONTS_NAME",
+   "value": "으뜸단지내상가공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 2025_safe_0017, gangbuk_047",
+   "fingerprint": "C-08|11103407|gangbuk_047|coord:2025_safe_0017|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "songpa_007",
+   "groupKey": "coord:2025_safe_0024",
+   "field": "COT_CONTS_NAME",
+   "value": "CU(송파푸르지오점)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 2025_safe_0024, songpa_007",
+   "fingerprint": "C-08|11103407|songpa_007|coord:2025_safe_0024|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "songpa_038",
+   "groupKey": "coord:2025_safe_0027",
+   "field": "COT_CONTS_NAME",
+   "value": "hy (한국야쿠르트) 문정점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 2025_safe_0027, songpa_038",
+   "fingerprint": "C-08|11103407|songpa_038|coord:2025_safe_0027|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "2025_safe_0006",
+   "groupKey": "near:2025_safe_0006",
+   "field": "COT_CONTS_NAME",
+   "value": "영화약국",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 2025_safe_0006, Hyehwa_013",
+   "fingerprint": "C-09|11103407|2025_safe_0006|near:2025_safe_0006|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "2025_safe_0015",
+   "groupKey": "near:2025_safe_0015",
+   "field": "COT_CONTS_NAME",
+   "value": "승리이발소",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 2025_safe_0015, gangbuk_009",
+   "fingerprint": "C-09|11103407|2025_safe_0015|near:2025_safe_0015|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "2025_safe_0016",
+   "groupKey": "near:2025_safe_0016",
+   "field": "COT_CONTS_NAME",
+   "value": "GS25 풍림점",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 2025_safe_0016, gangbuk_044",
+   "fingerprint": "C-09|11103407|2025_safe_0016|near:2025_safe_0016|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "2025_safe_0026",
+   "groupKey": "near:2025_safe_0026",
+   "field": "COT_CONTS_NAME",
+   "value": "CU(마천중앙점)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 2025_safe_0026, songpa_010",
+   "fingerprint": "C-09|11103407|2025_safe_0026|near:2025_safe_0026|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "Hyehwa_013",
+   "groupKey": "near:2025_safe_0006",
+   "field": "COT_CONTS_NAME",
+   "value": "영화약국",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 2025_safe_0006, Hyehwa_013",
+   "fingerprint": "C-09|11103407|Hyehwa_013|near:2025_safe_0006|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "bangbea_009",
+   "groupKey": "near:bangbea_009",
+   "field": "COT_CONTS_NAME",
+   "value": "CU(서래중앙점)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: bangbea_009, seocho_063",
+   "fingerprint": "C-09|11103407|bangbea_009|near:bangbea_009|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gangbuk_009",
+   "groupKey": "near:2025_safe_0015",
+   "field": "COT_CONTS_NAME",
+   "value": "승리이발소",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 2025_safe_0015, gangbuk_009",
+   "fingerprint": "C-09|11103407|gangbuk_009|near:2025_safe_0015|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gangbuk_044",
+   "groupKey": "near:2025_safe_0016",
+   "field": "COT_CONTS_NAME",
+   "value": "GS25 풍림점",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 2025_safe_0016, gangbuk_044",
+   "fingerprint": "C-09|11103407|gangbuk_044|near:2025_safe_0016|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "seocho_063",
+   "groupKey": "near:bangbea_009",
+   "field": "COT_CONTS_NAME",
+   "value": "CU(서래중앙점)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: bangbea_009, seocho_063",
+   "fingerprint": "C-09|11103407|seocho_063|near:bangbea_009|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "songpa_010",
+   "groupKey": "near:2025_safe_0026",
+   "field": "COT_CONTS_NAME",
+   "value": "CU(마천중앙점)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 2025_safe_0026, songpa_010",
+   "fingerprint": "C-09|11103407|songpa_010|near:2025_safe_0026|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "2025_safe_0040",
+   "field": "COT_TEL_NO",
+   "value": "02-2234-000",
+   "message": "전화번호: 끝자리가 4자리가 아닙니다.",
+   "fingerprint": "C-10|11103407|2025_safe_0040||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "2025_safe_0042",
+   "field": "COT_TEL_NO",
+   "value": "010-8937-000",
+   "message": "전화번호: 끝자리가 4자리가 아닙니다.",
+   "fingerprint": "C-10|11103407|2025_safe_0042||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "2025_safe_0050",
+   "field": "COT_TEL_NO",
+   "value": "010-8937-000",
+   "message": "전화번호: 끝자리가 4자리가 아닙니다.",
+   "fingerprint": "C-10|11103407|2025_safe_0050||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "gangdong_042",
+   "field": "COT_TEL_NO",
+   "value": "484-1574",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11103407|gangdong_042||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "geumcheon_006",
+   "field": "COT_TEL_NO",
+   "value": "02-2234-000",
+   "message": "전화번호: 끝자리가 4자리가 아닙니다.",
+   "fingerprint": "C-10|11103407|geumcheon_006||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "jongro_003",
+   "field": "COT_TEL_NO",
+   "value": "없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103407|jongro_003||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "jongro_004",
+   "field": "COT_TEL_NO",
+   "value": "없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103407|jongro_004||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "jongro_016",
+   "field": "COT_TEL_NO",
+   "value": "없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103407|jongro_016||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-12",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "/smgis/ucimgs/conts/11103407/gangdong_022_1_KOR.png",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis/ucimgs/conts/11103407/gangdong_022_1_KOR.png",
+   "message": "1082건 중 944건이 같은 대표 이미지를 씁니다.",
+   "fingerprint": "C-12|11103407||/smgis/ucimgs/conts/11103407/gangdong_022_1_KOR.png|COT_IMG_MAIN_URL"
+  }
+ ]
+}

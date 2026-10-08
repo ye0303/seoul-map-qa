@@ -1,0 +1,259 @@
+{
+ "themeId": "1717465753363",
+ "rulesetVersion": 1,
+ "contentHash": "f62239e392e9f77113ec1cf0d7bbe73d1775d7bd4e107c41c69e4d0e8a44f7ee",
+ "findings": [
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "NL_0001",
+   "field": "COT_GU_NAME",
+   "value": "성동구",
+   "message": "구명(성동구)과 주소의 구(중구)가 다릅니다.",
+   "fingerprint": "C-06|1717465753363|NL_0001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "NL_0016",
+   "field": "COT_GU_NAME",
+   "value": "중구",
+   "message": "구명(중구)과 주소의 구(성동구)가 다릅니다.",
+   "fingerprint": "C-06|1717465753363|NL_0016||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "[보조진출입로] 버티고개역1",
+   "field": "COT_GU_NAME",
+   "value": "용산구",
+   "message": "구명(용산구)과 주소의 구(중구)가 다릅니다.",
+   "fingerprint": "C-06|1717465753363|[보조진출입로] 버티고개역1||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(광희동) 중앙아시아 푸드맵",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(광희동) 중앙아시아 푸드맵||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(동화동) 공원천국 동화 3공원 코스",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(동화동) 공원천국 동화 3공원 코스||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(동화동) 금성교회 오르막 건강코스",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(동화동) 금성교회 오르막 건강코스||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(명동) 명동의 CMYK스퀘어를 거쳐가는 외국인 하이킹코스",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(명동) 명동의 CMYK스퀘어를 거쳐가는 외국인 하이킹코스||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(명동) 청계천 베를린광장에서 출발하는 근현대사 탐방코스",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(명동) 청계천 베를린광장에서 출발하는 근현대사 탐방코스||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(소공동) 맛집 테이스티 코스",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(소공동) 맛집 테이스티 코스||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(소공동) 초심자코스",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(소공동) 초심자코스||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(신당동) 가족과 함께 신당동 떡볶이 코스",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(신당동) 가족과 함께 신당동 떡볶이 코스||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(약수동) 가족과 연인이 함께하는 송도병원 낭만길",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(약수동) 가족과 연인이 함께하는 송도병원 낭만길||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(약수동) 건강과 맛을 동시에 챙기는 약수시장 힙업길",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(약수동) 건강과 맛을 동시에 챙기는 약수시장 힙업길||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(을지로동) 힙지로에서 한옥마을 찍고 남산가는 길",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(을지로동) 힙지로에서 한옥마을 찍고 남산가는 길||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(장충동) 동국대학교를 통해 가는 남산",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(장충동) 동국대학교를 통해 가는 남산||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(장충동) 장충체육관에서 가는 남산",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(장충동) 장충체육관에서 가는 남산||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(중림동) 중림 산티아고",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(중림동) 중림 산티아고||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(필동) 도심에서 느끼는 전통의 美 한옥마을 멋자락길",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(필동) 도심에서 느끼는 전통의 美 한옥마을 멋자락길||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(필동) 보행약자도 함께해요~남산순환버스타고 가는 흥자락길",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(필동) 보행약자도 함께해요~남산순환버스타고 가는 흥자락길||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(필동) 필동의 중심거리 서애로 맛집 투어 맛자락길",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(필동) 필동의 중심거리 서애로 맛집 투어 맛자락길||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(회현동) 남산 역사 로드",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(회현동) 남산 역사 로드||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(회현동) 남산 인생샷 로드",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(회현동) 남산 인생샷 로드||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "(회현동) 남산쇼핑 ",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|(회현동) 남산쇼핑 ||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "대중교통 연결길8",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|대중교통 연결길8||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "대중교통연결길(청구역 3번출구)",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|대중교통연결길(청구역 3번출구)||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "모노레일2",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|모노레일2||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "배변봉투1",
+   "field": "COT_GU_NAME",
+   "suggestion": "성동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|배변봉투1||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "유아숲체험장 1",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1717465753363|유아숲체험장 1||COT_GU_NAME"
+  }
+ ]
+}

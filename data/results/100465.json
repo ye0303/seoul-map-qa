@@ -1,0 +1,25 @@
+{
+ "themeId": "100465",
+ "rulesetVersion": 1,
+ "contentHash": "def3858d202e80d564f7a6ad4afcbc60b6ec1fe0afcc7fb9901d1e870423994a",
+ "findings": [
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "urban_001-1",
+   "field": "COT_GU_NAME",
+   "value": "중구",
+   "message": "구명(중구)과 주소의 구(서대문구)가 다릅니다.",
+   "fingerprint": "C-06|100465|urban_001-1||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "urban_009",
+   "field": "COT_GU_NAME",
+   "value": "동대문구",
+   "message": "구명(동대문구)과 주소의 구(성동구)가 다릅니다.",
+   "fingerprint": "C-06|100465|urban_009||COT_GU_NAME"
+  }
+ ]
+}

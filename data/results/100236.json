@@ -1,0 +1,1474 @@
+{
+ "themeId": "100236",
+ "rulesetVersion": 1,
+ "contentHash": "81635509381c10a72608d266b96bbb4ac1a8fc2f924935d056a8a4d417930055",
+ "findings": [
+  {
+   "ruleId": "C-04",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "outside",
+   "message": "서울 밖 장소가 38건 있습니다(주소도 서울 밖).",
+   "fingerprint": "C-04|100236||outside|"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "mostly-empty",
+   "field": "COT_GU_NAME",
+   "message": "구명이 4977건 중 4977건 비어 있습니다.",
+   "fingerprint": "C-07|100236||mostly-empty|COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB0003",
+   "groupKey": "coord:DB0003",
+   "field": "COT_CONTS_NAME",
+   "value": "LOVE STORY-97-1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB0003, DB3613",
+   "fingerprint": "C-08|100236|DB0003|coord:DB0003|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB0230",
+   "groupKey": "coord:DB0230",
+   "field": "COT_CONTS_NAME",
+   "value": "자연원본도",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB0230, DB3147",
+   "fingerprint": "C-08|100236|DB0230|coord:DB0230|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB0235",
+   "groupKey": "coord:DB0235",
+   "field": "COT_CONTS_NAME",
+   "value": "Nature-1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB0235, DB0236",
+   "fingerprint": "C-08|100236|DB0235|coord:DB0235|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB0236",
+   "groupKey": "coord:DB0235",
+   "field": "COT_CONTS_NAME",
+   "value": "Nature-2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB0235, DB0236",
+   "fingerprint": "C-08|100236|DB0236|coord:DB0235|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB0285",
+   "groupKey": "coord:DB0285",
+   "field": "COT_CONTS_NAME",
+   "value": "product 2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB0285, DB0286",
+   "fingerprint": "C-08|100236|DB0285|coord:DB0285|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB0286",
+   "groupKey": "coord:DB0285",
+   "field": "COT_CONTS_NAME",
+   "value": "product 1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB0285, DB0286",
+   "fingerprint": "C-08|100236|DB0286|coord:DB0285|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB0350",
+   "groupKey": "coord:DB0350",
+   "field": "COT_CONTS_NAME",
+   "value": "교감(交感)Ⅰ",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB0350, DB0351",
+   "fingerprint": "C-08|100236|DB0350|coord:DB0350|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB0351",
+   "groupKey": "coord:DB0350",
+   "field": "COT_CONTS_NAME",
+   "value": "교감(交感)Ⅱ",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB0350, DB0351",
+   "fingerprint": "C-08|100236|DB0351|coord:DB0350|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB0480",
+   "groupKey": "coord:DB0480",
+   "field": "COT_CONTS_NAME",
+   "value": "무제",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: DB0480, DB0481, DB0483",
+   "fingerprint": "C-08|100236|DB0480|coord:DB0480|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB0481",
+   "groupKey": "coord:DB0480",
+   "field": "COT_CONTS_NAME",
+   "value": "무제",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: DB0480, DB0481, DB0483",
+   "fingerprint": "C-08|100236|DB0481|coord:DB0480|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB0483",
+   "groupKey": "coord:DB0480",
+   "field": "COT_CONTS_NAME",
+   "value": "무제",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: DB0480, DB0481, DB0483",
+   "fingerprint": "C-08|100236|DB0483|coord:DB0480|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB0484",
+   "groupKey": "coord:DB0484",
+   "field": "COT_CONTS_NAME",
+   "value": "Sea of Mind 2005",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB0484, DB2727",
+   "fingerprint": "C-08|100236|DB0484|coord:DB0484|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB0728",
+   "groupKey": "coord:DB0728",
+   "field": "COT_CONTS_NAME",
+   "value": "자연의소리Ⅱ",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB0728, DB0729",
+   "fingerprint": "C-08|100236|DB0728|coord:DB0728|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB0729",
+   "groupKey": "coord:DB0728",
+   "field": "COT_CONTS_NAME",
+   "value": "자연의소리Ⅰ",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB0728, DB0729",
+   "fingerprint": "C-08|100236|DB0729|coord:DB0728|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB0905",
+   "groupKey": "coord:DB0905",
+   "field": "COT_CONTS_NAME",
+   "value": "바다속풍경",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB0905, DB0906",
+   "fingerprint": "C-08|100236|DB0905|coord:DB0905|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB0906",
+   "groupKey": "coord:DB0905",
+   "field": "COT_CONTS_NAME",
+   "value": "바다속풍경",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB0905, DB0906",
+   "fingerprint": "C-08|100236|DB0906|coord:DB0905|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB1122",
+   "groupKey": "coord:DB1122",
+   "field": "COT_CONTS_NAME",
+   "value": "동대문24시+2013(Ⅱ)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB1122, DB1123",
+   "fingerprint": "C-08|100236|DB1122|coord:DB1122|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB1123",
+   "groupKey": "coord:DB1122",
+   "field": "COT_CONTS_NAME",
+   "value": "동대문24시+2013(Ⅰ)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB1122, DB1123",
+   "fingerprint": "C-08|100236|DB1123|coord:DB1122|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB1260",
+   "groupKey": "coord:DB1260",
+   "field": "COT_CONTS_NAME",
+   "value": "화합-그 놀라운 세상",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB1260, DB1261",
+   "fingerprint": "C-08|100236|DB1260|coord:DB1260|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB1261",
+   "groupKey": "coord:DB1260",
+   "field": "COT_CONTS_NAME",
+   "value": "화합- 그 놀라운 세상",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB1260, DB1261",
+   "fingerprint": "C-08|100236|DB1261|coord:DB1260|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB1299",
+   "groupKey": "coord:DB1299",
+   "field": "COT_CONTS_NAME",
+   "value": "HARMONY.4",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB1299, DB1300",
+   "fingerprint": "C-08|100236|DB1299|coord:DB1299|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB1300",
+   "groupKey": "coord:DB1299",
+   "field": "COT_CONTS_NAME",
+   "value": "HARMONY.1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB1299, DB1300",
+   "fingerprint": "C-08|100236|DB1300|coord:DB1299|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB1625",
+   "groupKey": "coord:DB1625",
+   "field": "COT_CONTS_NAME",
+   "value": "Shape-1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB1625, DB1626",
+   "fingerprint": "C-08|100236|DB1625|coord:DB1625|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB1626",
+   "groupKey": "coord:DB1625",
+   "field": "COT_CONTS_NAME",
+   "value": "Shape-2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB1625, DB1626",
+   "fingerprint": "C-08|100236|DB1626|coord:DB1625|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB1757",
+   "groupKey": "coord:DB1757",
+   "field": "COT_CONTS_NAME",
+   "value": "錄 牧民心書(록 목민심서)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: DB1757, DB1774, DB1777",
+   "fingerprint": "C-08|100236|DB1757|coord:DB1757|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB1774",
+   "groupKey": "coord:DB1757",
+   "field": "COT_CONTS_NAME",
+   "value": "錄 牧民心書 (록 목민심서)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: DB1757, DB1774, DB1777",
+   "fingerprint": "C-08|100236|DB1774|coord:DB1757|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB1777",
+   "groupKey": "coord:DB1757",
+   "field": "COT_CONTS_NAME",
+   "value": "錄 牧民心書 (록 목민심서)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: DB1757, DB1774, DB1777",
+   "fingerprint": "C-08|100236|DB1777|coord:DB1757|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB1809",
+   "groupKey": "coord:DB1809",
+   "field": "COT_CONTS_NAME",
+   "value": "농가월령도2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB1809, DB1810",
+   "fingerprint": "C-08|100236|DB1809|coord:DB1809|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB1810",
+   "groupKey": "coord:DB1809",
+   "field": "COT_CONTS_NAME",
+   "value": "농가월령도1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB1809, DB1810",
+   "fingerprint": "C-08|100236|DB1810|coord:DB1809|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB1908",
+   "groupKey": "coord:DB1908",
+   "field": "COT_CONTS_NAME",
+   "value": "순환계-흐르는 江",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB1908, DB1910",
+   "fingerprint": "C-08|100236|DB1908|coord:DB1908|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB1910",
+   "groupKey": "coord:DB1908",
+   "field": "COT_CONTS_NAME",
+   "value": "순환계-흐르는 江",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB1908, DB1910",
+   "fingerprint": "C-08|100236|DB1910|coord:DB1908|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2083",
+   "groupKey": "coord:DB2083",
+   "field": "COT_CONTS_NAME",
+   "value": "Composition",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2083, DB2085",
+   "fingerprint": "C-08|100236|DB2083|coord:DB2083|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2085",
+   "groupKey": "coord:DB2083",
+   "field": "COT_CONTS_NAME",
+   "value": "Composition",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2083, DB2085",
+   "fingerprint": "C-08|100236|DB2085|coord:DB2083|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2140",
+   "groupKey": "coord:DB2140",
+   "field": "COT_CONTS_NAME",
+   "value": "日月(작품B)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2140, DB2141",
+   "fingerprint": "C-08|100236|DB2140|coord:DB2140|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2141",
+   "groupKey": "coord:DB2140",
+   "field": "COT_CONTS_NAME",
+   "value": "日月(작품A)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2140, DB2141",
+   "fingerprint": "C-08|100236|DB2141|coord:DB2140|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2198",
+   "groupKey": "coord:DB2198",
+   "field": "COT_CONTS_NAME",
+   "value": "0121-1110=1090815",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2198, DB2199",
+   "fingerprint": "C-08|100236|DB2198|coord:DB2198|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2199",
+   "groupKey": "coord:DB2198",
+   "field": "COT_CONTS_NAME",
+   "value": "0121-1110=109093",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2198, DB2199",
+   "fingerprint": "C-08|100236|DB2199|coord:DB2198|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2287",
+   "groupKey": "coord:DB2287",
+   "field": "COT_CONTS_NAME",
+   "value": "눈꽃축제(우측벽면)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2287, DB2288",
+   "fingerprint": "C-08|100236|DB2287|coord:DB2287|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2288",
+   "groupKey": "coord:DB2287",
+   "field": "COT_CONTS_NAME",
+   "value": "눈꽃축제(좌측벽면)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2287, DB2288",
+   "fingerprint": "C-08|100236|DB2288|coord:DB2287|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2301",
+   "groupKey": "coord:DB2301",
+   "field": "COT_CONTS_NAME",
+   "value": "사이 - 식물3",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2301, DB2303",
+   "fingerprint": "C-08|100236|DB2301|coord:DB2301|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2303",
+   "groupKey": "coord:DB2301",
+   "field": "COT_CONTS_NAME",
+   "value": "사이 - 식물1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2301, DB2303",
+   "fingerprint": "C-08|100236|DB2303|coord:DB2301|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2393",
+   "groupKey": "coord:DB2393",
+   "field": "COT_CONTS_NAME",
+   "value": "사랑",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2393, DB2422",
+   "fingerprint": "C-08|100236|DB2393|coord:DB2393|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2412",
+   "groupKey": "coord:DB2412",
+   "field": "COT_CONTS_NAME",
+   "value": "일상-생성3",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: DB2412, DB2413, DB2414, DB2415",
+   "fingerprint": "C-08|100236|DB2412|coord:DB2412|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2413",
+   "groupKey": "coord:DB2412",
+   "field": "COT_CONTS_NAME",
+   "value": "일상-생성2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: DB2412, DB2413, DB2414, DB2415",
+   "fingerprint": "C-08|100236|DB2413|coord:DB2412|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2414",
+   "groupKey": "coord:DB2412",
+   "field": "COT_CONTS_NAME",
+   "value": "일상-생성1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: DB2412, DB2413, DB2414, DB2415",
+   "fingerprint": "C-08|100236|DB2414|coord:DB2412|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2415",
+   "groupKey": "coord:DB2412",
+   "field": "COT_CONTS_NAME",
+   "value": "일상-생성4",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: DB2412, DB2413, DB2414, DB2415",
+   "fingerprint": "C-08|100236|DB2415|coord:DB2412|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2422",
+   "groupKey": "coord:DB2393",
+   "field": "COT_CONTS_NAME",
+   "value": "사랑",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2393, DB2422",
+   "fingerprint": "C-08|100236|DB2422|coord:DB2393|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2451",
+   "groupKey": "coord:DB2451",
+   "field": "COT_CONTS_NAME",
+   "value": "희망",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2451, DB2453",
+   "fingerprint": "C-08|100236|DB2451|coord:DB2451|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2453",
+   "groupKey": "coord:DB2451",
+   "field": "COT_CONTS_NAME",
+   "value": "희망",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2451, DB2453",
+   "fingerprint": "C-08|100236|DB2453|coord:DB2451|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2487",
+   "groupKey": "coord:DB2487",
+   "field": "COT_CONTS_NAME",
+   "value": "CIRCLE",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2487, DB2489",
+   "fingerprint": "C-08|100236|DB2487|coord:DB2487|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2489",
+   "groupKey": "coord:DB2487",
+   "field": "COT_CONTS_NAME",
+   "value": "CIRCLE",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2487, DB2489",
+   "fingerprint": "C-08|100236|DB2489|coord:DB2487|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2530",
+   "groupKey": "coord:DB2530",
+   "field": "COT_CONTS_NAME",
+   "value": "Resilience-죽림",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2530, DB2531",
+   "fingerprint": "C-08|100236|DB2530|coord:DB2530|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2531",
+   "groupKey": "coord:DB2530",
+   "field": "COT_CONTS_NAME",
+   "value": "Resilience-숲",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2530, DB2531",
+   "fingerprint": "C-08|100236|DB2531|coord:DB2530|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2575",
+   "groupKey": "coord:DB2575",
+   "field": "COT_CONTS_NAME",
+   "value": "무제 Untitled",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2575, DB2579",
+   "fingerprint": "C-08|100236|DB2575|coord:DB2575|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2579",
+   "groupKey": "coord:DB2575",
+   "field": "COT_CONTS_NAME",
+   "value": "Untitled",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2575, DB2579",
+   "fingerprint": "C-08|100236|DB2579|coord:DB2575|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2665",
+   "groupKey": "coord:DB2665",
+   "field": "COT_CONTS_NAME",
+   "value": "B : 내면의성",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2665, DB2666",
+   "fingerprint": "C-08|100236|DB2665|coord:DB2665|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2666",
+   "groupKey": "coord:DB2665",
+   "field": "COT_CONTS_NAME",
+   "value": "A : 내면의성",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2665, DB2666",
+   "fingerprint": "C-08|100236|DB2666|coord:DB2665|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2668",
+   "groupKey": "coord:DB2668",
+   "field": "COT_CONTS_NAME",
+   "value": "날개002",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2668, DB2669",
+   "fingerprint": "C-08|100236|DB2668|coord:DB2668|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2669",
+   "groupKey": "coord:DB2668",
+   "field": "COT_CONTS_NAME",
+   "value": "날개001",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB2668, DB2669",
+   "fingerprint": "C-08|100236|DB2669|coord:DB2668|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB2727",
+   "groupKey": "coord:DB0484",
+   "field": "COT_CONTS_NAME",
+   "value": "Sea of mind 2008",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB0484, DB2727",
+   "fingerprint": "C-08|100236|DB2727|coord:DB0484|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3084",
+   "groupKey": "coord:DB3084",
+   "field": "COT_CONTS_NAME",
+   "value": "우리들의 이야기2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3084, DB3086",
+   "fingerprint": "C-08|100236|DB3084|coord:DB3084|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3086",
+   "groupKey": "coord:DB3084",
+   "field": "COT_CONTS_NAME",
+   "value": "우리들의 이야기1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3084, DB3086",
+   "fingerprint": "C-08|100236|DB3086|coord:DB3084|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3122",
+   "groupKey": "coord:DB3122",
+   "field": "COT_CONTS_NAME",
+   "value": "0121-1110=113062",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3122, DB3224",
+   "fingerprint": "C-08|100236|DB3122|coord:DB3122|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3147",
+   "groupKey": "coord:DB0230",
+   "field": "COT_CONTS_NAME",
+   "value": "자연원본도2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB0230, DB3147",
+   "fingerprint": "C-08|100236|DB3147|coord:DB0230|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3198",
+   "groupKey": "coord:DB3198",
+   "field": "COT_CONTS_NAME",
+   "value": "해피데이 II",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3198, DB3282",
+   "fingerprint": "C-08|100236|DB3198|coord:DB3198|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3224",
+   "groupKey": "coord:DB3122",
+   "field": "COT_CONTS_NAME",
+   "value": "0121-1110=113061",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3122, DB3224",
+   "fingerprint": "C-08|100236|DB3224|coord:DB3122|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3225",
+   "groupKey": "coord:DB3225",
+   "field": "COT_CONTS_NAME",
+   "value": "갈색야그 1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3225, DB3234",
+   "fingerprint": "C-08|100236|DB3225|coord:DB3225|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3226",
+   "groupKey": "coord:DB3226",
+   "field": "COT_CONTS_NAME",
+   "value": "피막골 24시 1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3226, DB4064",
+   "fingerprint": "C-08|100236|DB3226|coord:DB3226|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3234",
+   "groupKey": "coord:DB3225",
+   "field": "COT_CONTS_NAME",
+   "value": "갈색야그 2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3225, DB3234",
+   "fingerprint": "C-08|100236|DB3234|coord:DB3225|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3248",
+   "groupKey": "coord:DB3248",
+   "field": "COT_CONTS_NAME",
+   "value": "심경(心景)2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3248, DB3920",
+   "fingerprint": "C-08|100236|DB3248|coord:DB3248|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3282",
+   "groupKey": "coord:DB3198",
+   "field": "COT_CONTS_NAME",
+   "value": "해피데이 I",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3198, DB3282",
+   "fingerprint": "C-08|100236|DB3282|coord:DB3198|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3346",
+   "groupKey": "coord:DB3346",
+   "field": "COT_CONTS_NAME",
+   "value": "나의추억속에서20623",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: DB3346, DB3347, DB3353",
+   "fingerprint": "C-08|100236|DB3346|coord:DB3346|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3347",
+   "groupKey": "coord:DB3346",
+   "field": "COT_CONTS_NAME",
+   "value": "나의추억속에서20611",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: DB3346, DB3347, DB3353",
+   "fingerprint": "C-08|100236|DB3347|coord:DB3346|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3353",
+   "groupKey": "coord:DB3346",
+   "field": "COT_CONTS_NAME",
+   "value": "나의추억속에서20601",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: DB3346, DB3347, DB3353",
+   "fingerprint": "C-08|100236|DB3353|coord:DB3346|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3372",
+   "groupKey": "coord:DB3372",
+   "field": "COT_CONTS_NAME",
+   "value": "동심과 무지개A",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3372, DB3373",
+   "fingerprint": "C-08|100236|DB3372|coord:DB3372|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3373",
+   "groupKey": "coord:DB3372",
+   "field": "COT_CONTS_NAME",
+   "value": "동심과 무지개B",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3372, DB3373",
+   "fingerprint": "C-08|100236|DB3373|coord:DB3372|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3437",
+   "groupKey": "coord:DB3437",
+   "field": "COT_CONTS_NAME",
+   "value": "지난 것들에 관한 소고 I",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3437, DB3438",
+   "fingerprint": "C-08|100236|DB3437|coord:DB3437|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3438",
+   "groupKey": "coord:DB3437",
+   "field": "COT_CONTS_NAME",
+   "value": "지난 것들에 관한 소고 Ⅱ",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3437, DB3438",
+   "fingerprint": "C-08|100236|DB3438|coord:DB3437|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3613",
+   "groupKey": "coord:DB0003",
+   "field": "COT_CONTS_NAME",
+   "value": "LOVE STORY-97-4",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB0003, DB3613",
+   "fingerprint": "C-08|100236|DB3613|coord:DB0003|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3619",
+   "groupKey": "coord:DB3619",
+   "field": "COT_CONTS_NAME",
+   "value": "은둔일기 - 1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3619, DB3620",
+   "fingerprint": "C-08|100236|DB3619|coord:DB3619|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3620",
+   "groupKey": "coord:DB3619",
+   "field": "COT_CONTS_NAME",
+   "value": "은둔일기 - 2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3619, DB3620",
+   "fingerprint": "C-08|100236|DB3620|coord:DB3619|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3904",
+   "groupKey": "coord:DB3904",
+   "field": "COT_CONTS_NAME",
+   "value": "자연, 이미지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3904, DB3906",
+   "fingerprint": "C-08|100236|DB3904|coord:DB3904|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3906",
+   "groupKey": "coord:DB3904",
+   "field": "COT_CONTS_NAME",
+   "value": "자연, 이미지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3904, DB3906",
+   "fingerprint": "C-08|100236|DB3906|coord:DB3904|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB3920",
+   "groupKey": "coord:DB3248",
+   "field": "COT_CONTS_NAME",
+   "value": "심경(心景)1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3248, DB3920",
+   "fingerprint": "C-08|100236|DB3920|coord:DB3248|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB4062",
+   "groupKey": "coord:DB4062",
+   "field": "COT_CONTS_NAME",
+   "value": "머무는 곳 - 1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB4062, DB4063",
+   "fingerprint": "C-08|100236|DB4062|coord:DB4062|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB4063",
+   "groupKey": "coord:DB4062",
+   "field": "COT_CONTS_NAME",
+   "value": "머무는 곳 - 2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB4062, DB4063",
+   "fingerprint": "C-08|100236|DB4063|coord:DB4062|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB4064",
+   "groupKey": "coord:DB3226",
+   "field": "COT_CONTS_NAME",
+   "value": "피막골 24시 2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB3226, DB4064",
+   "fingerprint": "C-08|100236|DB4064|coord:DB3226|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB4105",
+   "groupKey": "coord:DB4105",
+   "field": "COT_CONTS_NAME",
+   "value": "음양3-S, 30",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB4105, DB4106",
+   "fingerprint": "C-08|100236|DB4105|coord:DB4105|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB4106",
+   "groupKey": "coord:DB4105",
+   "field": "COT_CONTS_NAME",
+   "value": "음양3-S, 31",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB4105, DB4106",
+   "fingerprint": "C-08|100236|DB4106|coord:DB4105|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB4127",
+   "groupKey": "coord:DB4127",
+   "field": "COT_CONTS_NAME",
+   "value": "청푸른나무1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB4127, DB4128",
+   "fingerprint": "C-08|100236|DB4127|coord:DB4127|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB4128",
+   "groupKey": "coord:DB4127",
+   "field": "COT_CONTS_NAME",
+   "value": "청푸른나무2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB4127, DB4128",
+   "fingerprint": "C-08|100236|DB4128|coord:DB4127|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB4149",
+   "groupKey": "coord:DB4149",
+   "field": "COT_CONTS_NAME",
+   "value": "두드리는 흐름1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB4149, DB4150",
+   "fingerprint": "C-08|100236|DB4149|coord:DB4149|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB4150",
+   "groupKey": "coord:DB4149",
+   "field": "COT_CONTS_NAME",
+   "value": "두드리는 흐름2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB4149, DB4150",
+   "fingerprint": "C-08|100236|DB4150|coord:DB4149|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB4331",
+   "groupKey": "coord:DB4331",
+   "field": "COT_CONTS_NAME",
+   "value": "꽃마중(welcoming flowers)18-1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB4331, DB4332",
+   "fingerprint": "C-08|100236|DB4331|coord:DB4331|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB4332",
+   "groupKey": "coord:DB4331",
+   "field": "COT_CONTS_NAME",
+   "value": "꽃마중(welcoming flowers)18-2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB4331, DB4332",
+   "fingerprint": "C-08|100236|DB4332|coord:DB4331|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB4677",
+   "groupKey": "coord:DB4677",
+   "field": "COT_CONTS_NAME",
+   "value": "PUBLIK PEOPLE(달리는 사람)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: DB4677, DB4678, DB4680",
+   "fingerprint": "C-08|100236|DB4677|coord:DB4677|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB4678",
+   "groupKey": "coord:DB4677",
+   "field": "COT_CONTS_NAME",
+   "value": "PUBLIK PEOPLE(시계보는 사람)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: DB4677, DB4678, DB4680",
+   "fingerprint": "C-08|100236|DB4678|coord:DB4677|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB4680",
+   "groupKey": "coord:DB4677",
+   "field": "COT_CONTS_NAME",
+   "value": "PUBLIK PEOPLE(책읽는 사람)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: DB4677, DB4678, DB4680",
+   "fingerprint": "C-08|100236|DB4680|coord:DB4677|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB4714",
+   "groupKey": "coord:DB4714",
+   "field": "COT_CONTS_NAME",
+   "value": "Nature1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB4714, DB4715",
+   "fingerprint": "C-08|100236|DB4714|coord:DB4714|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB4715",
+   "groupKey": "coord:DB4714",
+   "field": "COT_CONTS_NAME",
+   "value": "Nature2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB4714, DB4715",
+   "fingerprint": "C-08|100236|DB4715|coord:DB4714|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB4991",
+   "groupKey": "coord:DB4991",
+   "field": "COT_CONTS_NAME",
+   "value": "second orbit 1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB4991, DB4992",
+   "fingerprint": "C-08|100236|DB4991|coord:DB4991|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB4992",
+   "groupKey": "coord:DB4991",
+   "field": "COT_CONTS_NAME",
+   "value": "second orbit 2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB4991, DB4992",
+   "fingerprint": "C-08|100236|DB4992|coord:DB4991|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SA202503",
+   "groupKey": "coord:SA202503",
+   "field": "COT_CONTS_NAME",
+   "value": "소통",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SA202503, SA202522",
+   "fingerprint": "C-08|100236|SA202503|coord:SA202503|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SA202504",
+   "groupKey": "coord:SA202504",
+   "field": "COT_CONTS_NAME",
+   "value": "아름다운 비상 1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SA202504, SA202505",
+   "fingerprint": "C-08|100236|SA202504|coord:SA202504|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SA202505",
+   "groupKey": "coord:SA202504",
+   "field": "COT_CONTS_NAME",
+   "value": "아름다운 비상 2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SA202504, SA202505",
+   "fingerprint": "C-08|100236|SA202505|coord:SA202504|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SA202513",
+   "groupKey": "coord:SA202513",
+   "field": "COT_CONTS_NAME",
+   "value": "대나무",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SA202513, SA202514",
+   "fingerprint": "C-08|100236|SA202513|coord:SA202513|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SA202514",
+   "groupKey": "coord:SA202513",
+   "field": "COT_CONTS_NAME",
+   "value": "대나무",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SA202513, SA202514",
+   "fingerprint": "C-08|100236|SA202514|coord:SA202513|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SA202522",
+   "groupKey": "coord:SA202503",
+   "field": "COT_CONTS_NAME",
+   "value": "소통",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SA202503, SA202522",
+   "fingerprint": "C-08|100236|SA202522|coord:SA202503|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SG0009",
+   "groupKey": "coord:SG0009",
+   "field": "COT_CONTS_NAME",
+   "value": "Zari0802-Zari0803(예술의 길, 사색의 자리)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: SG0009, SG0010, SG0011",
+   "fingerprint": "C-08|100236|SG0009|coord:SG0009|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SG0010",
+   "groupKey": "coord:SG0009",
+   "field": "COT_CONTS_NAME",
+   "value": "Zari0804-Zari0805(예술의 길, 사색의 자리)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: SG0009, SG0010, SG0011",
+   "fingerprint": "C-08|100236|SG0010|coord:SG0009|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SG0011",
+   "groupKey": "coord:SG0009",
+   "field": "COT_CONTS_NAME",
+   "value": "Zari0806-Zari0807(예술의 길, 사색의 자리)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: SG0009, SG0010, SG0011",
+   "fingerprint": "C-08|100236|SG0011|coord:SG0009|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB0017",
+   "groupKey": "near:DB0017",
+   "field": "COT_CONTS_NAME",
+   "value": "원석의 정원",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB0017, DB5003",
+   "fingerprint": "C-09|100236|DB0017|near:DB0017|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB1340",
+   "groupKey": "near:DB1340",
+   "field": "COT_CONTS_NAME",
+   "value": "거인의 도시",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB1340, DB5041",
+   "fingerprint": "C-09|100236|DB1340|near:DB1340|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB1341",
+   "groupKey": "near:DB1341",
+   "field": "COT_CONTS_NAME",
+   "value": "환상공간",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB1341, DB5043",
+   "fingerprint": "C-09|100236|DB1341|near:DB1341|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB1342",
+   "groupKey": "near:DB1342",
+   "field": "COT_CONTS_NAME",
+   "value": "공간변주곡 2000-1",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB1342, DB5039",
+   "fingerprint": "C-09|100236|DB1342|near:DB1342|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB1344",
+   "groupKey": "near:DB1344",
+   "field": "COT_CONTS_NAME",
+   "value": "도시의 이미지",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB1344, DB5050",
+   "fingerprint": "C-09|100236|DB1344|near:DB1344|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB1345",
+   "groupKey": "near:DB1345",
+   "field": "COT_CONTS_NAME",
+   "value": "소리",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB1345, DB5048",
+   "fingerprint": "C-09|100236|DB1345|near:DB1345|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB1415",
+   "groupKey": "near:DB1415",
+   "field": "COT_CONTS_NAME",
+   "value": "공간 - 화합",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB1415, DB4208",
+   "fingerprint": "C-09|100236|DB1415|near:DB1415|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB3249",
+   "groupKey": "near:DB3249",
+   "field": "COT_CONTS_NAME",
+   "value": "Black",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB3249, DB4939",
+   "fingerprint": "C-09|100236|DB3249|near:DB3249|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB3350",
+   "groupKey": "near:DB3350",
+   "field": "COT_CONTS_NAME",
+   "value": "바람으로 부터",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB3350, DB5001",
+   "fingerprint": "C-09|100236|DB3350|near:DB3350|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB4133",
+   "groupKey": "near:DB4133",
+   "field": "COT_CONTS_NAME",
+   "value": "Pick up Stars",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB4133, DB5051",
+   "fingerprint": "C-09|100236|DB4133|near:DB4133|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB4139",
+   "groupKey": "near:DB4139",
+   "field": "COT_CONTS_NAME",
+   "value": "연속성의 마무리",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB4139, DB5042",
+   "fingerprint": "C-09|100236|DB4139|near:DB4139|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB4208",
+   "groupKey": "near:DB1415",
+   "field": "COT_CONTS_NAME",
+   "value": "공간-화합",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB1415, DB4208",
+   "fingerprint": "C-09|100236|DB4208|near:DB1415|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB4412",
+   "groupKey": "near:DB4412",
+   "field": "COT_CONTS_NAME",
+   "value": "믿음, 소망, 사랑",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB4412, DB5038",
+   "fingerprint": "C-09|100236|DB4412|near:DB4412|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB4414",
+   "groupKey": "near:DB4414",
+   "field": "COT_CONTS_NAME",
+   "value": "binding together(결속)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB4414, DB5045",
+   "fingerprint": "C-09|100236|DB4414|near:DB4414|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB4425",
+   "groupKey": "near:DB4425",
+   "field": "COT_CONTS_NAME",
+   "value": "바라보다",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB4425, DB5052",
+   "fingerprint": "C-09|100236|DB4425|near:DB4425|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB4430",
+   "groupKey": "near:DB4430",
+   "field": "COT_CONTS_NAME",
+   "value": "탐미적 블랙홀",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB4430, DB5056",
+   "fingerprint": "C-09|100236|DB4430|near:DB4430|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB4730",
+   "groupKey": "near:DB4730",
+   "field": "COT_CONTS_NAME",
+   "value": "나는 혼자가 아니야 (I AM NOT ALONE)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB4730, DB4928",
+   "fingerprint": "C-09|100236|DB4730|near:DB4730|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB4732",
+   "groupKey": "near:DB4732",
+   "field": "COT_CONTS_NAME",
+   "value": "Welcome to Paradise-Waterfall",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB4732, DB4927",
+   "fingerprint": "C-09|100236|DB4732|near:DB4732|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB4927",
+   "groupKey": "near:DB4732",
+   "field": "COT_CONTS_NAME",
+   "value": "Welcome to Paradise-Waterfall",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB4732, DB4927",
+   "fingerprint": "C-09|100236|DB4927|near:DB4732|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB4928",
+   "groupKey": "near:DB4730",
+   "field": "COT_CONTS_NAME",
+   "value": "나는 혼자가 아니야 (I AM NOT ALONE)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB4730, DB4928",
+   "fingerprint": "C-09|100236|DB4928|near:DB4730|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB4939",
+   "groupKey": "near:DB3249",
+   "field": "COT_CONTS_NAME",
+   "value": "Black",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB3249, DB4939",
+   "fingerprint": "C-09|100236|DB4939|near:DB3249|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB5001",
+   "groupKey": "near:DB3350",
+   "field": "COT_CONTS_NAME",
+   "value": "바람으로부터",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB3350, DB5001",
+   "fingerprint": "C-09|100236|DB5001|near:DB3350|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB5003",
+   "groupKey": "near:DB0017",
+   "field": "COT_CONTS_NAME",
+   "value": "원석의 정원",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB0017, DB5003",
+   "fingerprint": "C-09|100236|DB5003|near:DB0017|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB5038",
+   "groupKey": "near:DB4412",
+   "field": "COT_CONTS_NAME",
+   "value": "믿음, 소망, 사랑",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB4412, DB5038",
+   "fingerprint": "C-09|100236|DB5038|near:DB4412|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB5039",
+   "groupKey": "near:DB1342",
+   "field": "COT_CONTS_NAME",
+   "value": "공간 변주곡 2000-1",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB1342, DB5039",
+   "fingerprint": "C-09|100236|DB5039|near:DB1342|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB5041",
+   "groupKey": "near:DB1340",
+   "field": "COT_CONTS_NAME",
+   "value": "거인의 도시",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB1340, DB5041",
+   "fingerprint": "C-09|100236|DB5041|near:DB1340|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB5042",
+   "groupKey": "near:DB4139",
+   "field": "COT_CONTS_NAME",
+   "value": "연속성의 마무리",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB4139, DB5042",
+   "fingerprint": "C-09|100236|DB5042|near:DB4139|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB5043",
+   "groupKey": "near:DB1341",
+   "field": "COT_CONTS_NAME",
+   "value": "환상공간",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB1341, DB5043",
+   "fingerprint": "C-09|100236|DB5043|near:DB1341|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB5045",
+   "groupKey": "near:DB4414",
+   "field": "COT_CONTS_NAME",
+   "value": "binding together(결속)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB4414, DB5045",
+   "fingerprint": "C-09|100236|DB5045|near:DB4414|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB5048",
+   "groupKey": "near:DB1345",
+   "field": "COT_CONTS_NAME",
+   "value": "소리",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB1345, DB5048",
+   "fingerprint": "C-09|100236|DB5048|near:DB1345|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB5050",
+   "groupKey": "near:DB1344",
+   "field": "COT_CONTS_NAME",
+   "value": "도시의 이미지",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB1344, DB5050",
+   "fingerprint": "C-09|100236|DB5050|near:DB1344|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB5051",
+   "groupKey": "near:DB4133",
+   "field": "COT_CONTS_NAME",
+   "value": "Pick up Stars",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB4133, DB5051",
+   "fingerprint": "C-09|100236|DB5051|near:DB4133|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB5052",
+   "groupKey": "near:DB4425",
+   "field": "COT_CONTS_NAME",
+   "value": "바라보다",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB4425, DB5052",
+   "fingerprint": "C-09|100236|DB5052|near:DB4425|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "DB5056",
+   "groupKey": "near:DB4430",
+   "field": "COT_CONTS_NAME",
+   "value": "탐미적 블랙홀",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: DB4430, DB5056",
+   "fingerprint": "C-09|100236|DB5056|near:DB4430|COT_CONTS_NAME"
+  }
+ ]
+}

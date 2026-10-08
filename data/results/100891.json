@@ -1,0 +1,90 @@
+{
+ "themeId": "100891",
+ "rulesetVersion": 1,
+ "contentHash": "bda29a765dbaf4617ae31aa8893eb286331040b808f7d086b48bce63d2663cfd",
+ "findings": [
+  {
+   "ruleId": "C-05",
+   "contsId": "course_01_03",
+   "field": "COT_GU_NAME",
+   "value": "종로구",
+   "severity": "suspect",
+   "suggestion": "중구",
+   "message": "구명(종로구)이 좌표·주소의 구(중구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|100891|course_01_03||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "course_02_02",
+   "field": "COT_GU_NAME",
+   "suggestion": "종로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100891|course_02_02||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "course_02_04",
+   "field": "COT_GU_NAME",
+   "suggestion": "종로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100891|course_02_04||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "course_02_05",
+   "field": "COT_GU_NAME",
+   "suggestion": "종로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100891|course_02_05||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "course_02_09",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100891|course_02_09||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "course_03_05",
+   "field": "COT_GU_NAME",
+   "suggestion": "마포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100891|course_03_05||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "course_03_06",
+   "field": "COT_GU_NAME",
+   "suggestion": "용산구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100891|course_03_06||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "course_03_08",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100891|course_03_08||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "course_03_06",
+   "field": "COT_TEL_NO",
+   "value": "02-701-5501%28%EC%84%B1%EC%8B%AC%EC%97%AC%EC%9E%90%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%29",
+   "suggestion": "02-701-5501(성심여자고등학교)",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100891|course_03_06||COT_TEL_NO"
+  }
+ ]
+}

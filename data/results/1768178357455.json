@@ -1,0 +1,4887 @@
+{
+ "themeId": "1768178357455",
+ "rulesetVersion": 1,
+ "contentHash": "d190367109c41cfc8d322f2ae0ce0519940c4a622c5d75f63c992bc99975f9de",
+ "findings": [
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_medi_611",
+   "groupKey": "coord:sb_medi_611",
+   "field": "COT_CONTS_NAME",
+   "value": "(주)로코스샵",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_medi_611, sb_medi_647",
+   "fingerprint": "C-08|1768178357455|sb_medi_611|coord:sb_medi_611|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_medi_647",
+   "groupKey": "coord:sb_medi_611",
+   "field": "COT_CONTS_NAME",
+   "value": "(주)로코스9",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_medi_611, sb_medi_647",
+   "fingerprint": "C-08|1768178357455|sb_medi_647|coord:sb_medi_611|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_1",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_1||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_10",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_10||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_100",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_100||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_101",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_101||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_102",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_102||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_103",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_103||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_105",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_105||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_106",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_106||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_107",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_107||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_108",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_108||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_109",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_109||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_11",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_11||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_111",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_111||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_113",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_113||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_114",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_114||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_116",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_116||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_118",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_118||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_119",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_119||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_120",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_120||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_122",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_122||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_123",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_123||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_13",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_13||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_131",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_131||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_132",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_132||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_133",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_133||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_135",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_135||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_137",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_137||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_14",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_14||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_140",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_140||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_142",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_142||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_144",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_144||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_145",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_145||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_146",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_146||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_149",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_149||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_15",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_15||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_151",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_151||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_153",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_153||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_154",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_154||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_155",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_155||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_157",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_157||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_158",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_158||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_159",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_159||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_16",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_16||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_162",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_162||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_165",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_165||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_166",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_166||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_167",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_167||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_168",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_168||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_169",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_169||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_17",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_17||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_173",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_173||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_174",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_174||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_18",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_18||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_182",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_182||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_183",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_183||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_188",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_188||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_189",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_189||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_19",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_19||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_194",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_194||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_195",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_195||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_197",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_197||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_198",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_198||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_199",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_199||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_2",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_2||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_20",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_20||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_202",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_202||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_203",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_203||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_204",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_204||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_21",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_21||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_212",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_212||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_213",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_213||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_22",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_22||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_23",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_23||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_24",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_24||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_255",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_255||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_259",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_259||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_26",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_26||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_260",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_260||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_261",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_261||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_263",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_263||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_264",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_264||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_266",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_266||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_267",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_267||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_268",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_268||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_269",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_269||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_27",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_27||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_270",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_270||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_271",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_271||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_273",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_273||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_276",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_276||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_278",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_278||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_279",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_279||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_28",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_28||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_281",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_281||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_282",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_282||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_286",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_286||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_287",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_287||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_288",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_288||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_289",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_289||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_29",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_29||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_290",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_290||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_291",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_291||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_292",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_292||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_293",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_293||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_294",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_294||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_295",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_295||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_296",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_296||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_298",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_298||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_299",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_299||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_3",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_3||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_30",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_30||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_300",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_300||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_302",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_302||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_304",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_304||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_305",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_305||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_306",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_306||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_307",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_307||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_308",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_308||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_309",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_309||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_31",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_31||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_310",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_310||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_311",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_311||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_312",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_312||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_313",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_313||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_314",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_314||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_315",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_315||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_316",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_316||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_318",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_318||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_319",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_319||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_32",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_32||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_320",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_320||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_321",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_321||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_324",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_324||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_325",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_325||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_326",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_326||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_327",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_327||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_329",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_329||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_33",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_33||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_331",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_331||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_332",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_332||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_333",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_333||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_334",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_334||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_335",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_335||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_336",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_336||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_337",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_337||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_339",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_339||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_34",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_34||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_340",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_340||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_341",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_341||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_342",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_342||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_343",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_343||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_345",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_345||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_347",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_347||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_348",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_348||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_349",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_349||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_35",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_35||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_350",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_350||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_351",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_351||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_352",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_352||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_354",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_354||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_356",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_356||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_357",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_357||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_358",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_358||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_359",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_359||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_36",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_36||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_360",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_360||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_361",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_361||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_362",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_362||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_363",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_363||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_364",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_364||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_365",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_365||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_366",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_366||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_367",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_367||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_368",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_368||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_369",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_369||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_37",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_37||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_370",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_370||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_371",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_371||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_373",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_373||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_374",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_374||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_375",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_375||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_376",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_376||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_377",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_377||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_378",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_378||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_38",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_38||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_380",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_380||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_381",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_381||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_382",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_382||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_383",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_383||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_384",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_384||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_387",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_387||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_388",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_388||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_389",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_389||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_39",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_39||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_390",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_390||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_392",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_392||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_394",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_394||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_395",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_395||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_396",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_396||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_398",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_398||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_399",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_399||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_4",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_4||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_40",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_40||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_400",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_400||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_401",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_401||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_402",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_402||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_403",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_403||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_404",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_404||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_405",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_405||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_408",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_408||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_409",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_409||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_41",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_41||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_410",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_410||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_411",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_411||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_412",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_412||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_414",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_414||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_415",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_415||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_416",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_416||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_419",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_419||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_42",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_42||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_420",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_420||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_421",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_421||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_422",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_422||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_423",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_423||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_425",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_425||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_426",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_426||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_427",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_427||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_428",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_428||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_429",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_429||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_43",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_43||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_431",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_431||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_432",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_432||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_433",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_433||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_434",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_434||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_435",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_435||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_436",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_436||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_437",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_437||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_438",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_438||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_439",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_439||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_44",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_44||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_440",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_440||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_441",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_441||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_442",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_442||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_443",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_443||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_444",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_444||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_445",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_445||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_446",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_446||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_447",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_447||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_448",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_448||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_449",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_449||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_45",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_45||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_451",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_451||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_452",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_452||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_454",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_454||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_455",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_455||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_456",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_456||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_457",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_457||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_458",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_458||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_46",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_46||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_461",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_461||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_464",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_464||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_465",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_465||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_466",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_466||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_467",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_467||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_468",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_468||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_469",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_469||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_47",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_47||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_471",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_471||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_472",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_472||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_473",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_473||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_476",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_476||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_477",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_477||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_478",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_478||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_479",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_479||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_48",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_48||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_482",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_482||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_483",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_483||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_485",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_485||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_486",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_486||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_487",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_487||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_488",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_488||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_489",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_489||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_49",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_49||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_490",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_490||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_491",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_491||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_493",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_493||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_496",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_496||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_498",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_498||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_499",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_499||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_5",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_5||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_50",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_50||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_500",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_500||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_501",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_501||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_502",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_502||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_503",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_503||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_504",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_504||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_505",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_505||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_506",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_506||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_509",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_509||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_51",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_51||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_510",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_510||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_511",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_511||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_512",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_512||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_513",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_513||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_514",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_514||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_515",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_515||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_516",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_516||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_517",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_517||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_52",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_52||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_520",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_520||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_522",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_522||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_525",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_525||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_53",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_53||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_536",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_536||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_538",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_538||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_539",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_539||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_54",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_54||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_542",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_542||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_543",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_543||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_548",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_548||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_55",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_55||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_552",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_552||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_553",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_553||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_554",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_554||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_555",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_555||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_556",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_556||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_557",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_557||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_559",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_559||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_56",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_56||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_560",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_560||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_562",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_562||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_564",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_564||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_565",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_565||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_566",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_566||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_567",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_567||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_568",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_568||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_569",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_569||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_57",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_57||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_570",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_570||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_571",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_571||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_572",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_572||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_574",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_574||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_575",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_575||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_576",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_576||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_577",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_577||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_578",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_578||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_579",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_579||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_58",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_58||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_580",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_580||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_581",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_581||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_582",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_582||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_583",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_583||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_584",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_584||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_585",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_585||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_586",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_586||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_587",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_587||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_588",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_588||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_589",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_589||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_59",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_59||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_590",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_590||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_593",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_593||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_594",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_594||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_595",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_595||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_596",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_596||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_597",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_597||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_598",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_598||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_599",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_599||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_6",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_6||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_60",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_60||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_600",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_600||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_601",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_601||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_604",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_604||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_605",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_605||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_606",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_606||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_607",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_607||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_608",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_608||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_61",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_61||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_610",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_610||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_611",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_611||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_612",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_612||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_613",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_613||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_615",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_615||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_616",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_616||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_618",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_618||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_619",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_619||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_62",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_62||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_621",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_621||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_624",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_624||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_626",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_626||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_629",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_629||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_63",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_63||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_630",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_630||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_633",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_633||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_635",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_635||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_636",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_636||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_638",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_638||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_639",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_639||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_64",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_64||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_640",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_640||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_643",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_643||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_644",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_644||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_646",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_646||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_649",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_649||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_65",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_65||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_651",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_651||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_652",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_652||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_655",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_655||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_656",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_656||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_657",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_657||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_658",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_658||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_660",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_660||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_661",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_661||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_662",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_662||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_663",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_663||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_664",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_664||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_665",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_665||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_666",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_666||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_669",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_669||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_67",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_67||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_671",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_671||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_673",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_673||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_677",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_677||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_678",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_678||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_68",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_68||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_681",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_681||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_682",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_682||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_684",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_684||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_69",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_69||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_692",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_692||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_694",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_694||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_696",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_696||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_7",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_7||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_70",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_70||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_700",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_700||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_701",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_701||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_702",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_702||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_703",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_703||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_704",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_704||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_706",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_706||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_707",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_707||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_708",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_708||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_709",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_709||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_71",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_71||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_710",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_710||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_712",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_712||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_713",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_713||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_715",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_715||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_72",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_72||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_720",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_720||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_721",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_721||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_722",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_722||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_723",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_723||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_725",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_725||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_726",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_726||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_727",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_727||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_728",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_728||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_729",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_729||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_73",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_73||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_730",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_730||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_731",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_731||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_733",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_733||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_734",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_734||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_735",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_735||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_736",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_736||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_737",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_737||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_738",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_738||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_739",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_739||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_74",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_74||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_740",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_740||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_742",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_742||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_743",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_743||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_744",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_744||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_745",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_745||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_746",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_746||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_748",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_748||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_75",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_75||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_752",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_752||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_753",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_753||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_754",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_754||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_755",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_755||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_756",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_756||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_757",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_757||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_759",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_759||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_76",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_76||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_763",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_763||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_765",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_765||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_766",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_766||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_768",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_768||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_769",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_769||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_77",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_77||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_771",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_771||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_772",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_772||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_774",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_774||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_775",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_775||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_777",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_777||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_78",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_78||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_780",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_780||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_781",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_781||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_782",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_782||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_783",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_783||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_784",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_784||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_785",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_785||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_786",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_786||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_788",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_788||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_789",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_789||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_79",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_79||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_790",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_790||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_791",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_791||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_792",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_792||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_793",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_793||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_794",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_794||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_795",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_795||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_796",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_796||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_797",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_797||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_798",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_798||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_8",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_8||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_80",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_80||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_800",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_800||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_801",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_801||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_802",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_802||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_803",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_803||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_81",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_81||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_810",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_810||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_82",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_82||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_83",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_83||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_84",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_84||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_85",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_85||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_86",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_86||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_87",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_87||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_88",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_88||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_89",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_89||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_9",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_9||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_90",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_90||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_91",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_91||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_92",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_92||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_93",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_93||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_94",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_94||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_96",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_96||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_97",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_97||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_medi_99",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1768178357455|sb_medi_99||COT_TEL_NO"
+  }
+ ]
+}

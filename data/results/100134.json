@@ -1,0 +1,442 @@
+{
+ "themeId": "100134",
+ "rulesetVersion": 1,
+ "contentHash": "a37ef9f7baa4d9f1deaf286411b95fe01cf57d1348703a61d638a53477d9db12",
+ "findings": [
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00001",
+   "groupKey": "coord:dp00001",
+   "field": "COT_CONTS_NAME",
+   "value": "경희최종욱한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00001, dp00046",
+   "fingerprint": "C-08|100134|dp00001|coord:dp00001|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00001",
+   "groupKey": "same:dp00001",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00001, dp00046",
+   "fingerprint": "C-08|100134|dp00001|same:dp00001|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00002",
+   "groupKey": "coord:dp00002",
+   "field": "COT_CONTS_NAME",
+   "value": "좋은꿈참사랑한의원노량진점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00002, dp00049",
+   "fingerprint": "C-08|100134|dp00002|coord:dp00002|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00002",
+   "groupKey": "same:dp00002",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00002, dp00049",
+   "fingerprint": "C-08|100134|dp00002|same:dp00002|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00004",
+   "groupKey": "coord:dp00004",
+   "field": "COT_CONTS_NAME",
+   "value": "치유본한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00004, dp00054",
+   "fingerprint": "C-08|100134|dp00004|coord:dp00004|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00004",
+   "groupKey": "same:dp00004",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00004, dp00054",
+   "fingerprint": "C-08|100134|dp00004|same:dp00004|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00011",
+   "groupKey": "coord:dp00011",
+   "field": "COT_CONTS_NAME",
+   "value": "이수정성한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00011, dp00065",
+   "fingerprint": "C-08|100134|dp00011|coord:dp00011|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00011",
+   "groupKey": "same:dp00011",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00011, dp00065",
+   "fingerprint": "C-08|100134|dp00011|same:dp00011|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00018",
+   "groupKey": "coord:dp00018",
+   "field": "COT_CONTS_NAME",
+   "value": "서울열린의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00018, dp00070",
+   "fingerprint": "C-08|100134|dp00018|coord:dp00018|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00018",
+   "groupKey": "same:dp00018",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00018, dp00070",
+   "fingerprint": "C-08|100134|dp00018|same:dp00018|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00023",
+   "groupKey": "coord:dp00023",
+   "field": "COT_CONTS_NAME",
+   "value": "상도하늘애한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00023, dp00085",
+   "fingerprint": "C-08|100134|dp00023|coord:dp00023|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00023",
+   "groupKey": "same:dp00023",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00023, dp00085",
+   "fingerprint": "C-08|100134|dp00023|same:dp00023|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00024",
+   "groupKey": "coord:dp00024",
+   "field": "COT_CONTS_NAME",
+   "value": "고운비체한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00024, dp00087",
+   "fingerprint": "C-08|100134|dp00024|coord:dp00024|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00024",
+   "groupKey": "same:dp00024",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00024, dp00087",
+   "fingerprint": "C-08|100134|dp00024|same:dp00024|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00029",
+   "groupKey": "coord:dp00029",
+   "field": "COT_CONTS_NAME",
+   "value": "올곧은한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00029, dp00099",
+   "fingerprint": "C-08|100134|dp00029|coord:dp00029|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00029",
+   "groupKey": "same:dp00029",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00029, dp00099",
+   "fingerprint": "C-08|100134|dp00029|same:dp00029|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00036",
+   "groupKey": "coord:dp00036",
+   "field": "COT_CONTS_NAME",
+   "value": "문성한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00036, dp00107",
+   "fingerprint": "C-08|100134|dp00036|coord:dp00036|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00036",
+   "groupKey": "same:dp00036",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00036, dp00107",
+   "fingerprint": "C-08|100134|dp00036|same:dp00036|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00042",
+   "groupKey": "coord:dp00042",
+   "field": "COT_CONTS_NAME",
+   "value": "남서울한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00042, dp00109",
+   "fingerprint": "C-08|100134|dp00042|coord:dp00042|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00042",
+   "groupKey": "same:dp00042",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00042, dp00109",
+   "fingerprint": "C-08|100134|dp00042|same:dp00042|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00046",
+   "groupKey": "coord:dp00001",
+   "field": "COT_CONTS_NAME",
+   "value": "경희최종욱한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00001, dp00046",
+   "fingerprint": "C-08|100134|dp00046|coord:dp00001|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00046",
+   "groupKey": "same:dp00001",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00001, dp00046",
+   "fingerprint": "C-08|100134|dp00046|same:dp00001|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00049",
+   "groupKey": "coord:dp00002",
+   "field": "COT_CONTS_NAME",
+   "value": "좋은꿈참사랑한의원노량진점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00002, dp00049",
+   "fingerprint": "C-08|100134|dp00049|coord:dp00002|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00049",
+   "groupKey": "same:dp00002",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00002, dp00049",
+   "fingerprint": "C-08|100134|dp00049|same:dp00002|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00054",
+   "groupKey": "coord:dp00004",
+   "field": "COT_CONTS_NAME",
+   "value": "치유본한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00004, dp00054",
+   "fingerprint": "C-08|100134|dp00054|coord:dp00004|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00054",
+   "groupKey": "same:dp00004",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00004, dp00054",
+   "fingerprint": "C-08|100134|dp00054|same:dp00004|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00065",
+   "groupKey": "coord:dp00011",
+   "field": "COT_CONTS_NAME",
+   "value": "이수정성한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00011, dp00065",
+   "fingerprint": "C-08|100134|dp00065|coord:dp00011|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00065",
+   "groupKey": "same:dp00011",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00011, dp00065",
+   "fingerprint": "C-08|100134|dp00065|same:dp00011|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00070",
+   "groupKey": "coord:dp00018",
+   "field": "COT_CONTS_NAME",
+   "value": "서울열린의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00018, dp00070",
+   "fingerprint": "C-08|100134|dp00070|coord:dp00018|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00070",
+   "groupKey": "same:dp00018",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00018, dp00070",
+   "fingerprint": "C-08|100134|dp00070|same:dp00018|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00085",
+   "groupKey": "coord:dp00023",
+   "field": "COT_CONTS_NAME",
+   "value": "상도하늘애한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00023, dp00085",
+   "fingerprint": "C-08|100134|dp00085|coord:dp00023|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00085",
+   "groupKey": "same:dp00023",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00023, dp00085",
+   "fingerprint": "C-08|100134|dp00085|same:dp00023|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00087",
+   "groupKey": "coord:dp00024",
+   "field": "COT_CONTS_NAME",
+   "value": "고운비체한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00024, dp00087",
+   "fingerprint": "C-08|100134|dp00087|coord:dp00024|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00087",
+   "groupKey": "same:dp00024",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00024, dp00087",
+   "fingerprint": "C-08|100134|dp00087|same:dp00024|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00099",
+   "groupKey": "coord:dp00029",
+   "field": "COT_CONTS_NAME",
+   "value": "올곧은한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00029, dp00099",
+   "fingerprint": "C-08|100134|dp00099|coord:dp00029|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00099",
+   "groupKey": "same:dp00029",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00029, dp00099",
+   "fingerprint": "C-08|100134|dp00099|same:dp00029|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00107",
+   "groupKey": "coord:dp00036",
+   "field": "COT_CONTS_NAME",
+   "value": "문성한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00036, dp00107",
+   "fingerprint": "C-08|100134|dp00107|coord:dp00036|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00107",
+   "groupKey": "same:dp00036",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00036, dp00107",
+   "fingerprint": "C-08|100134|dp00107|same:dp00036|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00109",
+   "groupKey": "coord:dp00042",
+   "field": "COT_CONTS_NAME",
+   "value": "남서울한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00042, dp00109",
+   "fingerprint": "C-08|100134|dp00109|coord:dp00042|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00109",
+   "groupKey": "same:dp00042",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00042, dp00109",
+   "fingerprint": "C-08|100134|dp00109|same:dp00042|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00145",
+   "groupKey": "coord:dp00145",
+   "field": "COT_CONTS_NAME",
+   "value": "약수태평양약국",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00145, dp00155",
+   "fingerprint": "C-08|100134|dp00145|coord:dp00145|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00145",
+   "groupKey": "same:dp00145",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00145, dp00155",
+   "fingerprint": "C-08|100134|dp00145|same:dp00145|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00155",
+   "groupKey": "coord:dp00145",
+   "field": "COT_CONTS_NAME",
+   "value": "약수태평양약국",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00145, dp00155",
+   "fingerprint": "C-08|100134|dp00155|coord:dp00145|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00155",
+   "groupKey": "same:dp00145",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: dp00145, dp00155",
+   "fingerprint": "C-08|100134|dp00155|same:dp00145|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00250",
+   "groupKey": "coord:dp00250",
+   "field": "COT_CONTS_NAME",
+   "value": "새중앙약국",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00250, dp00280",
+   "fingerprint": "C-08|100134|dp00250|coord:dp00250|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dp00280",
+   "groupKey": "coord:dp00250",
+   "field": "COT_CONTS_NAME",
+   "value": "중앙약국",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dp00250, dp00280",
+   "fingerprint": "C-08|100134|dp00280|coord:dp00250|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "dp00172",
+   "field": "COT_TEL_NO",
+   "value": "28159575",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100134|dp00172||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "dp00256",
+   "field": "COT_TEL_NO",
+   "value": "269563233",
+   "suggestion": "02-6956-3233",
+   "message": "전화번호: 앞자리 0이 빠진 것 같습니다.",
+   "fingerprint": "C-10|100134|dp00256||COT_TEL_NO"
+  }
+ ]
+}

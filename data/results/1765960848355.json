@@ -1,0 +1,1997 @@
+{
+ "themeId": "1765960848355",
+ "rulesetVersion": 1,
+ "contentHash": "76eb46794ba650782aeb32ffa6344704c2aca3fa364acf5bd11f6aca1319e707",
+ "findings": [
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_mart_116",
+   "groupKey": "coord:sb_mart_116",
+   "field": "COT_CONTS_NAME",
+   "value": "드림마트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_mart_116, sb_mart_124",
+   "fingerprint": "C-08|1765960848355|sb_mart_116|coord:sb_mart_116|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_mart_116",
+   "groupKey": "same:sb_mart_116",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: sb_mart_116, sb_mart_124",
+   "fingerprint": "C-08|1765960848355|sb_mart_116|same:sb_mart_116|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_mart_124",
+   "groupKey": "coord:sb_mart_116",
+   "field": "COT_CONTS_NAME",
+   "value": "드림마트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_mart_116, sb_mart_124",
+   "fingerprint": "C-08|1765960848355|sb_mart_124|coord:sb_mart_116|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_mart_124",
+   "groupKey": "same:sb_mart_116",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: sb_mart_116, sb_mart_124",
+   "fingerprint": "C-08|1765960848355|sb_mart_124|same:sb_mart_116|"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_1",
+   "field": "COT_TEL_NO",
+   "value": "929-6120",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_1||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_10",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_10||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_100",
+   "field": "COT_TEL_NO",
+   "value": "953-4959",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_100||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_101",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_101||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_102",
+   "field": "COT_TEL_NO",
+   "value": "925-0767",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_102||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_103",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_103||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_104",
+   "field": "COT_TEL_NO",
+   "value": "308-2328",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_104||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_105",
+   "field": "COT_TEL_NO",
+   "value": "923-3652",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_105||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_106",
+   "field": "COT_TEL_NO",
+   "value": "741-0153",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_106||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_107",
+   "field": "COT_TEL_NO",
+   "value": "924-0430",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_107||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_108",
+   "field": "COT_TEL_NO",
+   "value": "765-9998",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_108||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_109",
+   "field": "COT_TEL_NO",
+   "value": "923-1030",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_109||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_11",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_11||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_110",
+   "field": "COT_TEL_NO",
+   "value": "924-2407",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_110||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_111",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_111||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_112",
+   "field": "COT_TEL_NO",
+   "value": "921-8545",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_112||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_113",
+   "field": "COT_TEL_NO",
+   "value": "3675-8549",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_113||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_114",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_114||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_116",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_116||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_118",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_118||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_119",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_119||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_12",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_12||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_124",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_124||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_126",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_126||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_13",
+   "field": "COT_TEL_NO",
+   "value": "747-4634",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_13||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_131",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_131||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_133",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_133||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_134",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_134||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_138",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_138||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_14",
+   "field": "COT_TEL_NO",
+   "value": "929-0622",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_14||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_144",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_144||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_148",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_148||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_149",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_149||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_15",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_15||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_153",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_153||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_16",
+   "field": "COT_TEL_NO",
+   "value": "953-2593",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_16||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_162",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_162||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_167",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_167||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_17",
+   "field": "COT_TEL_NO",
+   "value": "925-6411",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_17||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_172",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_172||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_174",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_174||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_177",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_177||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_18",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_18||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_181",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_181||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_183",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_183||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_184",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_184||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_185",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_185||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_189",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_189||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_19",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_19||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_190",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_190||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_192",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_192||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_2",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_2||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_20",
+   "field": "COT_TEL_NO",
+   "value": "747-8071",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_20||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_202",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_202||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_205",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_205||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_21",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_21||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_211",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_211||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_213",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_213||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_214",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_214||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_219",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_219||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_22",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_22||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_220",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_220||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_221",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_221||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_222",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_222||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_223",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_223||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_23",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_23||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_230",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_230||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_232",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_232||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_24",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_24||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_241",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_241||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_247",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_247||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_249",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_249||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_25",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_25||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_251",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_251||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_252",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_252||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_26",
+   "field": "COT_TEL_NO",
+   "value": "921-4321",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_26||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_261",
+   "field": "COT_TEL_NO",
+   "value": "9160558",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_261||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_263",
+   "field": "COT_TEL_NO",
+   "value": "9127807",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_263||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_264",
+   "field": "COT_TEL_NO",
+   "value": "9112376",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_264||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_265",
+   "field": "COT_TEL_NO",
+   "value": "912-4077",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_265||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_27",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_27||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_271",
+   "field": "COT_TEL_NO",
+   "value": "917-4000",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_271||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_273",
+   "field": "COT_TEL_NO",
+   "value": "912-8550",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_273||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_274",
+   "field": "COT_TEL_NO",
+   "value": "912-6704",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_274||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_277",
+   "field": "COT_TEL_NO",
+   "value": "919-0919",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_277||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_28",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_28||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_281",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_281||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "sb_mart_282",
+   "field": "COT_TEL_NO",
+   "value": "942-0066%28F%3A943-8200%29",
+   "suggestion": "942-0066(F:943-8200)",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_282||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_283",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_283||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_286",
+   "field": "COT_TEL_NO",
+   "value": "942-8545",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_286||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_288",
+   "field": "COT_TEL_NO",
+   "value": "909-3977",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_288||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_29",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_29||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_290",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_290||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_291",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_291||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_292",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_292||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_293",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_293||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_296",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_296||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_297",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_297||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_299",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_299||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_30",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_30||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_302",
+   "field": "COT_TEL_NO",
+   "value": "9842768",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_302||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_303",
+   "field": "COT_TEL_NO",
+   "value": "9834931",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_303||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_309",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_309||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_31",
+   "field": "COT_TEL_NO",
+   "value": "929-6720",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_31||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_316",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_316||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_32",
+   "field": "COT_TEL_NO",
+   "value": "922-2525",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_32||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_324",
+   "field": "COT_TEL_NO",
+   "value": "919-1446",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_324||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_326",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_326||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_329",
+   "field": "COT_TEL_NO",
+   "value": "9422477",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_329||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_33",
+   "field": "COT_TEL_NO",
+   "value": "922-8807",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_33||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_337",
+   "field": "COT_TEL_NO",
+   "value": "915-6684(사",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_337||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_34",
+   "field": "COT_TEL_NO",
+   "value": "927-1163",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_34||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_341",
+   "field": "COT_TEL_NO",
+   "value": "912-2612(010-3454-2612)",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_341||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_344",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_344||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_345",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_345||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_348",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_348||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_349",
+   "field": "COT_TEL_NO",
+   "value": "9138215",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_349||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_35",
+   "field": "COT_TEL_NO",
+   "value": "925-5122",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_35||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_350",
+   "field": "COT_TEL_NO",
+   "value": "9141443",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_350||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_351",
+   "field": "COT_TEL_NO",
+   "value": "913-0888",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_351||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_352",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_352||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_354",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_354||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_356",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_356||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_357",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_357||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_358",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_358||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_359",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_359||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_36",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_36||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_360",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_360||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_361",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_361||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_362",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_362||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_363",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_363||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_364",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_364||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_365",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_365||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_366",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_366||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_369",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_369||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_37",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_37||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_370",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_370||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_371",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_371||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_372",
+   "field": "COT_TEL_NO",
+   "value": "943-9488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_372||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_373",
+   "field": "COT_TEL_NO",
+   "value": "918-0915",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_373||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_374",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_374||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_375",
+   "field": "COT_TEL_NO",
+   "value": "9107072",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_375||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_377",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_377||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_379",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_379||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_38",
+   "field": "COT_TEL_NO",
+   "value": "922-2524",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_38||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_380",
+   "field": "COT_TEL_NO",
+   "value": "914-0460",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_380||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_381",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_381||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_383",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_383||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_384",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_384||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_385",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_385||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_386",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_386||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_39",
+   "field": "COT_TEL_NO",
+   "value": "921-1236",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_39||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_40",
+   "field": "COT_TEL_NO",
+   "value": "928-7716",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_40||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_41",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_41||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_42",
+   "field": "COT_TEL_NO",
+   "value": "3675-5796",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_42||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_43",
+   "field": "COT_TEL_NO",
+   "value": "929-3503",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_43||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_44",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_44||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_45",
+   "field": "COT_TEL_NO",
+   "value": "921-5689",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_45||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_46",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_46||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_47",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_47||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_48",
+   "field": "COT_TEL_NO",
+   "value": "923-5914",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_48||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_49",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_49||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_5",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_5||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_50",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_50||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_51",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_51||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_52",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_52||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_53",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_53||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_54",
+   "field": "COT_TEL_NO",
+   "value": "921-8053",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_54||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_55",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_55||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_56",
+   "field": "COT_TEL_NO",
+   "value": "3291-3333",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_56||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_57",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_57||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_58",
+   "field": "COT_TEL_NO",
+   "value": "923-9819",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_58||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_59",
+   "field": "COT_TEL_NO",
+   "value": "922-8683",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_59||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_6",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_6||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_60",
+   "field": "COT_TEL_NO",
+   "value": "921-1557",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_60||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_61",
+   "field": "COT_TEL_NO",
+   "value": "922-2924",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_61||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_62",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_62||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_63",
+   "field": "COT_TEL_NO",
+   "value": "926-0255",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_63||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_64",
+   "field": "COT_TEL_NO",
+   "value": "924-2225",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_64||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_65",
+   "field": "COT_TEL_NO",
+   "value": "929-0080",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_65||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_66",
+   "field": "COT_TEL_NO",
+   "value": "962-5931",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_66||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_67",
+   "field": "COT_TEL_NO",
+   "value": "925-9797",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_67||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_68",
+   "field": "COT_TEL_NO",
+   "value": "923-4335",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_68||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_69",
+   "field": "COT_TEL_NO",
+   "value": "923-2136",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_69||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_7",
+   "field": "COT_TEL_NO",
+   "value": "928-7074",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_7||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_70",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_70||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_71",
+   "field": "COT_TEL_NO",
+   "value": "922-1331",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_71||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_72",
+   "field": "COT_TEL_NO",
+   "value": "923-1717",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_72||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_73",
+   "field": "COT_TEL_NO",
+   "value": "925-4627",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_73||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_74",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_74||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_75",
+   "field": "COT_TEL_NO",
+   "value": "926-1851",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_75||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_76",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_76||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_77",
+   "field": "COT_TEL_NO",
+   "value": "928-0472",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_77||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_78",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_78||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_79",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_79||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_8",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_8||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_80",
+   "field": "COT_TEL_NO",
+   "value": "927-4203",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_80||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_81",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_81||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_82",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_82||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_83",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_83||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_84",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_84||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_85",
+   "field": "COT_TEL_NO",
+   "value": "921-3463",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_85||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_86",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_86||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_87",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_87||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_88",
+   "field": "COT_TEL_NO",
+   "value": "766-7112",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_88||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_89",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_89||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_9",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_9||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_90",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_90||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_91",
+   "field": "COT_TEL_NO",
+   "value": "747-2623",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_91||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_92",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_92||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_93",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_93||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_94",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_94||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_95",
+   "field": "COT_TEL_NO",
+   "value": "924-2417",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_95||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_96",
+   "field": "COT_TEL_NO",
+   "value": "928-6046",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_96||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_97",
+   "field": "COT_TEL_NO",
+   "value": "922-4949",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_97||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_mart_98",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_98||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "sb_mart_99",
+   "field": "COT_TEL_NO",
+   "value": "3672-0226",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1765960848355|sb_mart_99||COT_TEL_NO"
+  }
+ ]
+}

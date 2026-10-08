@@ -1,0 +1,1165 @@
+{
+ "themeId": "1716964706009",
+ "rulesetVersion": 1,
+ "contentHash": "0382a091d236cad0850cf3dc1135aa67212bfdcc16e28d39787d07b2a8b3ec76",
+ "findings": [
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "hg_0017",
+   "field": "COT_TEL_NO",
+   "value": "02-3431-8475%2C8476",
+   "suggestion": "02-3431-8475,8476",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0017||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0146",
+   "field": "COT_TEL_NO",
+   "value": "683",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0146||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0147",
+   "field": "COT_TEL_NO",
+   "value": "683",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0147||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0148",
+   "field": "COT_TEL_NO",
+   "value": "683",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0148||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0149",
+   "field": "COT_TEL_NO",
+   "value": "683",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0149||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0150",
+   "field": "COT_TEL_NO",
+   "value": "683",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0150||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0151",
+   "field": "COT_TEL_NO",
+   "value": "683",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0151||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0152",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0152||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0153",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0153||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0154",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0154||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0155",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0155||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0156",
+   "field": "COT_TEL_NO",
+   "value": "656",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0156||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0157",
+   "field": "COT_TEL_NO",
+   "value": "656",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0157||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0158",
+   "field": "COT_TEL_NO",
+   "value": "656",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0158||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0159",
+   "field": "COT_TEL_NO",
+   "value": "656",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0159||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0160",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0160||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0161",
+   "field": "COT_TEL_NO",
+   "value": "656",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0161||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0162",
+   "field": "COT_TEL_NO",
+   "value": "656",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0162||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0163",
+   "field": "COT_TEL_NO",
+   "value": "656",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0163||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0164",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0164||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0165",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0165||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0166",
+   "field": "COT_TEL_NO",
+   "value": "683",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0166||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0167",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0167||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0168",
+   "field": "COT_TEL_NO",
+   "value": "687",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0168||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0169",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0169||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0170",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0170||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0171",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0171||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0172",
+   "field": "COT_TEL_NO",
+   "value": "687",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0172||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0173",
+   "field": "COT_TEL_NO",
+   "value": "687",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0173||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0174",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0174||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0175",
+   "field": "COT_TEL_NO",
+   "value": "687",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0175||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0176",
+   "field": "COT_TEL_NO",
+   "value": "687",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0176||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0177",
+   "field": "COT_TEL_NO",
+   "value": "687",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0177||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0178",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0178||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0179",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0179||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0180",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0180||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0181",
+   "field": "COT_TEL_NO",
+   "value": "687",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0181||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0182",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0182||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0183",
+   "field": "COT_TEL_NO",
+   "value": "687",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0183||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0184",
+   "field": "COT_TEL_NO",
+   "value": "687",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0184||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0185",
+   "field": "COT_TEL_NO",
+   "value": "687",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0185||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0186",
+   "field": "COT_TEL_NO",
+   "value": "687",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0186||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0187",
+   "field": "COT_TEL_NO",
+   "value": "687",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0187||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0188",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0188||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0189",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0189||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0190",
+   "field": "COT_TEL_NO",
+   "value": "648",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0190||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0191",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0191||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0192",
+   "field": "COT_TEL_NO",
+   "value": "648",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0192||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0193",
+   "field": "COT_TEL_NO",
+   "value": "651",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0193||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0194",
+   "field": "COT_TEL_NO",
+   "value": "648",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0194||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0195",
+   "field": "COT_TEL_NO",
+   "value": "648",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0195||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0196",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0196||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0197",
+   "field": "COT_TEL_NO",
+   "value": "648",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0197||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0198",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0198||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0199",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0199||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0200",
+   "field": "COT_TEL_NO",
+   "value": "648",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0200||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0201",
+   "field": "COT_TEL_NO",
+   "value": "648",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0201||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0202",
+   "field": "COT_TEL_NO",
+   "value": "651",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0202||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0203",
+   "field": "COT_TEL_NO",
+   "value": "651",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0203||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0204",
+   "field": "COT_TEL_NO",
+   "value": "651",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0204||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0205",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0205||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0206",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0206||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0207",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0207||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0208",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0208||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0209",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0209||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0210",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0210||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0211",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0211||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0212",
+   "field": "COT_TEL_NO",
+   "value": "696",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0212||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0213",
+   "field": "COT_TEL_NO",
+   "value": "696",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0213||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0214",
+   "field": "COT_TEL_NO",
+   "value": "696",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0214||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0215",
+   "field": "COT_TEL_NO",
+   "value": "696",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0215||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0216",
+   "field": "COT_TEL_NO",
+   "value": "696",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0216||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0217",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0217||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0219",
+   "field": "COT_TEL_NO",
+   "value": "696",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0219||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0220",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0220||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0221",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0221||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0222",
+   "field": "COT_TEL_NO",
+   "value": "696",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0222||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0223",
+   "field": "COT_TEL_NO",
+   "value": "648",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0223||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0224",
+   "field": "COT_TEL_NO",
+   "value": "648",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0224||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0225",
+   "field": "COT_TEL_NO",
+   "value": "648",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0225||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0226",
+   "field": "COT_TEL_NO",
+   "value": "648",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0226||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0227",
+   "field": "COT_TEL_NO",
+   "value": "648",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0227||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0228",
+   "field": "COT_TEL_NO",
+   "value": "648",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0228||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0229",
+   "field": "COT_TEL_NO",
+   "value": "648",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0229||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0230",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0230||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0231",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0231||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0232",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0232||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0233",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0233||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0234",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0234||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0235",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0235||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0236",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0236||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0237",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0237||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0238",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0238||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0239",
+   "field": "COT_TEL_NO",
+   "value": "656",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0239||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0240",
+   "field": "COT_TEL_NO",
+   "value": "656",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0240||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0241",
+   "field": "COT_TEL_NO",
+   "value": "656",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0241||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0242",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0242||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0243",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0243||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0244",
+   "field": "COT_TEL_NO",
+   "value": "656",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0244||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0245",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0245||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0246",
+   "field": "COT_TEL_NO",
+   "value": "656",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0246||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0247",
+   "field": "COT_TEL_NO",
+   "value": "656",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0247||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0248",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0248||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0249",
+   "field": "COT_TEL_NO",
+   "value": "651",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0249||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0250",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0250||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0251",
+   "field": "COT_TEL_NO",
+   "value": "651",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0251||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0252",
+   "field": "COT_TEL_NO",
+   "value": "651",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0252||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0253",
+   "field": "COT_TEL_NO",
+   "value": "651",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0253||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0254",
+   "field": "COT_TEL_NO",
+   "value": "651",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0254||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0255",
+   "field": "COT_TEL_NO",
+   "value": "651",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0255||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0256",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0256||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0257",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0257||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "hg_0258",
+   "field": "COT_TEL_NO",
+   "value": "659",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0258||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "hg_0300",
+   "field": "COT_TEL_NO",
+   "value": "%26nbsp%3B010-4423-9880",
+   "suggestion": "&nbsp;010-4423-9880",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0300||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "hg_0301",
+   "field": "COT_TEL_NO",
+   "value": "%26nbsp%3B010-4423-9880",
+   "suggestion": "&nbsp;010-4423-9880",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0301||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "hg_0302",
+   "field": "COT_TEL_NO",
+   "value": "%26nbsp%3B010-4423-9880",
+   "suggestion": "&nbsp;010-4423-9880",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0302||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "hg_0303",
+   "field": "COT_TEL_NO",
+   "value": "%26nbsp%3B010-4423-9880",
+   "suggestion": "&nbsp;010-4423-9880",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0303||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "hg_0304",
+   "field": "COT_TEL_NO",
+   "value": "%26nbsp%3B010-4423-9880",
+   "suggestion": "&nbsp;010-4423-9880",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0304||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "hg_0305",
+   "field": "COT_TEL_NO",
+   "value": "%26nbsp%3B010-4423-9880",
+   "suggestion": "&nbsp;010-4423-9880",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0305||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "hg_0306",
+   "field": "COT_TEL_NO",
+   "value": "%26nbsp%3B010-4423-9880",
+   "suggestion": "&nbsp;010-4423-9880",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0306||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "hg_0307",
+   "field": "COT_TEL_NO",
+   "value": "%26nbsp%3B010-4423-9880",
+   "suggestion": "&nbsp;010-4423-9880",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0307||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "hg_0308",
+   "field": "COT_TEL_NO",
+   "value": "%26nbsp%3B010-4423-9880",
+   "suggestion": "&nbsp;010-4423-9880",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0308||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "hg_0309",
+   "field": "COT_TEL_NO",
+   "value": "%26nbsp%3B010-4423-9880",
+   "suggestion": "&nbsp;010-4423-9880",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0309||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "hg_0310",
+   "field": "COT_TEL_NO",
+   "value": "%26nbsp%3B010-4423-9880",
+   "suggestion": "&nbsp;010-4423-9880",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0310||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "hg_0311",
+   "field": "COT_TEL_NO",
+   "value": "%26nbsp%3B010-4423-9880",
+   "suggestion": "&nbsp;010-4423-9880",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0311||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "hg_0340",
+   "field": "COT_TEL_NO",
+   "value": "%EC%A3%BC%EA%B0%84+02-747-5645+%2F+%EC%95%BC%EA%B0%84+1899",
+   "suggestion": "주간 02-747-5645 / 야간 1899",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0340||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "hg_0341",
+   "field": "COT_TEL_NO",
+   "value": "%EC%A3%BC%EA%B0%84+02-747-5645+%2F+%EC%95%BC%EA%B0%84+1899",
+   "suggestion": "주간 02-747-5645 / 야간 1899",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1716964706009|hg_0341||COT_TEL_NO"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "themeId": "1681179124353",
+ "rulesetVersion": 1,
+ "contentHash": "5403e0aea6d781bf59517c5cc71e3a2fe743331b04bef74125b72f52c5d6a08d",
+ "findings": [
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "walk_05",
+   "field": "COT_GU_NAME",
+   "value": "서초구",
+   "message": "구명(서초구)과 주소의 구(동작구)가 다릅니다.",
+   "fingerprint": "C-06|1681179124353|walk_05||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "leports_14",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1681179124353|leports_14||COT_GU_NAME"
+  }
+ ]
+}

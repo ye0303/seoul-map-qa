@@ -1,0 +1,239 @@
+{
+ "themeId": "100361",
+ "rulesetVersion": 1,
+ "contentHash": "75c4d77921365551a392423c135532032281979dffdc10d9f7c27b2c4b5adada",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100361_1771467444258",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100361|100361_1771467444258||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "child_0081",
+   "field": "COT_GU_NAME",
+   "suggestion": "용산구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100361|child_0081||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "005_jongno_1809-01",
+   "groupKey": "coord:005_jongno_1809-01",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구_1809-01",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 005_jongno_1809-01, 006_jongno_1809-02",
+   "fingerprint": "C-08|100361|005_jongno_1809-01|coord:005_jongno_1809-01|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "006_jongno_1809-02",
+   "groupKey": "coord:005_jongno_1809-01",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구_1809-02",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 005_jongno_1809-01, 006_jongno_1809-02",
+   "fingerprint": "C-08|100361|006_jongno_1809-02|coord:005_jongno_1809-01|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "027_yongsan_1808-07",
+   "groupKey": "coord:027_yongsan_1808-07",
+   "field": "COT_CONTS_NAME",
+   "value": "용산구_1808-07",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 027_yongsan_1808-07, 028_yongsan_1808-08",
+   "fingerprint": "C-08|100361|027_yongsan_1808-07|coord:027_yongsan_1808-07|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "028_yongsan_1808-08",
+   "groupKey": "coord:027_yongsan_1808-07",
+   "field": "COT_CONTS_NAME",
+   "value": "용산구_1808-08",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 027_yongsan_1808-07, 028_yongsan_1808-08",
+   "fingerprint": "C-08|100361|028_yongsan_1808-08|coord:027_yongsan_1808-07|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "033_yongsan_2009-13",
+   "groupKey": "coord:033_yongsan_2009-13",
+   "field": "COT_CONTS_NAME",
+   "value": "용산구_2009-13",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 033_yongsan_2009-13, 034_yongsan_2009-14",
+   "fingerprint": "C-08|100361|033_yongsan_2009-13|coord:033_yongsan_2009-13|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "034_yongsan_2009-14",
+   "groupKey": "coord:033_yongsan_2009-13",
+   "field": "COT_CONTS_NAME",
+   "value": "용산구_2009-14",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 033_yongsan_2009-13, 034_yongsan_2009-14",
+   "fingerprint": "C-08|100361|034_yongsan_2009-14|coord:033_yongsan_2009-13|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "090_sb_1909-001",
+   "groupKey": "coord:090_sb_1909-001",
+   "field": "COT_CONTS_NAME",
+   "value": "성북구_1909-001",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 090_sb_1909-001, 092_sb_1909-003",
+   "fingerprint": "C-08|100361|090_sb_1909-001|coord:090_sb_1909-001|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "092_sb_1909-003",
+   "groupKey": "coord:090_sb_1909-001",
+   "field": "COT_CONTS_NAME",
+   "value": "성북구_1909-003",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 090_sb_1909-001, 092_sb_1909-003",
+   "fingerprint": "C-08|100361|092_sb_1909-003|coord:090_sb_1909-001|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "105_gangbuk_1909-002",
+   "groupKey": "coord:105_gangbuk_1909-002",
+   "field": "COT_CONTS_NAME",
+   "value": "강북구_1909-002",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 105_gangbuk_1909-002, 106_gangbuk_1909-003",
+   "fingerprint": "C-08|100361|105_gangbuk_1909-002|coord:105_gangbuk_1909-002|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "106_gangbuk_1909-003",
+   "groupKey": "coord:105_gangbuk_1909-002",
+   "field": "COT_CONTS_NAME",
+   "value": "강북구_1909-003",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 105_gangbuk_1909-002, 106_gangbuk_1909-003",
+   "fingerprint": "C-08|100361|106_gangbuk_1909-003|coord:105_gangbuk_1909-002|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "119_dobong_1909-02",
+   "groupKey": "coord:119_dobong_1909-02",
+   "field": "COT_CONTS_NAME",
+   "value": "도봉구_1909-02",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 119_dobong_1909-02, 120_dobong_1909-03",
+   "fingerprint": "C-08|100361|119_dobong_1909-02|coord:119_dobong_1909-02|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "120_dobong_1909-03",
+   "groupKey": "coord:119_dobong_1909-02",
+   "field": "COT_CONTS_NAME",
+   "value": "도봉구_1909-03",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 119_dobong_1909-02, 120_dobong_1909-03",
+   "fingerprint": "C-08|100361|120_dobong_1909-03|coord:119_dobong_1909-02|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "209_guro_2009-12",
+   "groupKey": "coord:209_guro_2009-12",
+   "field": "COT_CONTS_NAME",
+   "value": "구로구_2009-12",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 209_guro_2009-12, 210_guro_2009-13",
+   "fingerprint": "C-08|100361|209_guro_2009-12|coord:209_guro_2009-12|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "210_guro_2009-13",
+   "groupKey": "coord:209_guro_2009-12",
+   "field": "COT_CONTS_NAME",
+   "value": "구로구_2009-13",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 209_guro_2009-12, 210_guro_2009-13",
+   "fingerprint": "C-08|100361|210_guro_2009-13|coord:209_guro_2009-12|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "287_gangdong_1809-01",
+   "groupKey": "coord:287_gangdong_1809-01",
+   "field": "COT_CONTS_NAME",
+   "value": "강동구_1809-01",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 287_gangdong_1809-01, 288_gangdong_1809-02",
+   "fingerprint": "C-08|100361|287_gangdong_1809-01|coord:287_gangdong_1809-01|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "288_gangdong_1809-02",
+   "groupKey": "coord:287_gangdong_1809-01",
+   "field": "COT_CONTS_NAME",
+   "value": "강동구_1809-02",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 287_gangdong_1809-01, 288_gangdong_1809-02",
+   "fingerprint": "C-08|100361|288_gangdong_1809-02|coord:287_gangdong_1809-01|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "Child_0040",
+   "field": "COT_TEL_NO",
+   "value": "2094-2385",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100361|Child_0040||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "Child_0041",
+   "field": "COT_TEL_NO",
+   "value": "901-6935",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100361|Child_0041||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "Child_0043",
+   "field": "COT_TEL_NO",
+   "value": "2127-4775",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100361|Child_0043||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "Child_0045",
+   "field": "COT_TEL_NO",
+   "value": "860-3084",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100361|Child_0045||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "Child_0047",
+   "field": "COT_TEL_NO",
+   "value": "2116-3966",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100361|Child_0047||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "Child_0048",
+   "field": "COT_TEL_NO",
+   "value": "2155-6873",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100361|Child_0048||COT_TEL_NO"
+  }
+ ]
+}

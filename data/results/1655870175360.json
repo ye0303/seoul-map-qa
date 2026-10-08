@@ -1,0 +1,36 @@
+{
+ "themeId": "1655870175360",
+ "rulesetVersion": 1,
+ "contentHash": "243f299ed25e241b28ed8e792b8f1bff48bbb18a30b6dd1afb6a1bf5ff97767f",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11620-2025-00062_3",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1655870175360|11620-2025-00062_3||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000325",
+   "groupKey": "coord:ID000325",
+   "field": "COT_CONTS_NAME",
+   "value": "하라공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000325, ID000334",
+   "fingerprint": "C-08|1655870175360|ID000325|coord:ID000325|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000334",
+   "groupKey": "coord:ID000325",
+   "field": "COT_CONTS_NAME",
+   "value": "해승공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000325, ID000334",
+   "fingerprint": "C-08|1655870175360|ID000334|coord:ID000325|COT_CONTS_NAME"
+  }
+ ]
+}

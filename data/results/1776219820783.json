@@ -1,0 +1,46 @@
+{
+ "themeId": "1776219820783",
+ "rulesetVersion": 1,
+ "contentHash": "0f9ed636e1b7ff9559e6c247447b5828d36824714d7ad233eb946afa9e6fc0db",
+ "findings": [
+  {
+   "ruleId": "C-05",
+   "contsId": "2026G_M28",
+   "field": "COT_GU_NAME",
+   "value": "성동구",
+   "severity": "error",
+   "suggestion": "광진구",
+   "message": "구명(성동구)이 좌표·주소의 구(광진구)와 다릅니다.",
+   "fingerprint": "C-05|1776219820783|2026G_M28||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "2026G_M29",
+   "field": "COT_GU_NAME",
+   "value": "성동구",
+   "severity": "error",
+   "suggestion": "광진구",
+   "message": "구명(성동구)이 좌표·주소의 구(광진구)와 다릅니다.",
+   "fingerprint": "C-05|1776219820783|2026G_M29||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "2026G_M30",
+   "field": "COT_GU_NAME",
+   "value": "성동구",
+   "severity": "error",
+   "suggestion": "광진구",
+   "message": "구명(성동구)이 좌표·주소의 구(광진구)와 다릅니다.",
+   "fingerprint": "C-05|1776219820783|2026G_M30||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2026G_INF131",
+   "field": "COT_GU_NAME",
+   "suggestion": "성동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1776219820783|2026G_INF131||COT_GU_NAME"
+  }
+ ]
+}

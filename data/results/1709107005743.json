@@ -1,0 +1,100 @@
+{
+ "themeId": "1709107005743",
+ "rulesetVersion": 1,
+ "contentHash": "3f97af4c48788bf42198ea991e48b7f291249aa5268aa3ebca1e8ccdddc85e9a",
+ "findings": [
+  {
+   "ruleId": "C-05",
+   "contsId": "S010000395",
+   "field": "COT_GU_NAME",
+   "value": "광진구",
+   "severity": "error",
+   "suggestion": "관악구",
+   "message": "구명(광진구)이 좌표·주소의 구(관악구)와 다릅니다.",
+   "fingerprint": "C-05|1709107005743|S010000395||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "S010000635",
+   "field": "COT_GU_NAME",
+   "value": "양천구",
+   "severity": "error",
+   "suggestion": "성북구",
+   "message": "구명(양천구)이 좌표·주소의 구(성북구)와 다릅니다.",
+   "fingerprint": "C-05|1709107005743|S010000635||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "S010000636",
+   "field": "COT_GU_NAME",
+   "value": "송파구",
+   "severity": "error",
+   "suggestion": "성동구",
+   "message": "구명(송파구)이 좌표·주소의 구(성동구)와 다릅니다.",
+   "fingerprint": "C-05|1709107005743|S010000636||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "S010000384",
+   "field": "COT_TEL_NO",
+   "value": "966-3782",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1709107005743|S010000384||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "S010000509",
+   "field": "COT_TEL_NO",
+   "value": "02-7999-500",
+   "message": "전화번호: 끝자리가 4자리가 아닙니다.",
+   "fingerprint": "C-10|1709107005743|S010000509||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "S010001563",
+   "field": "COT_TEL_NO",
+   "value": "02-5808-900",
+   "message": "전화번호: 끝자리가 4자리가 아닙니다.",
+   "fingerprint": "C-10|1709107005743|S010001563||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "S010002021",
+   "field": "COT_TEL_NO",
+   "value": "02-3800-777",
+   "message": "전화번호: 끝자리가 4자리가 아닙니다.",
+   "fingerprint": "C-10|1709107005743|S010002021||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "S010002153",
+   "field": "COT_TEL_NO",
+   "value": "02-6948-2280-2",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1709107005743|S010002153||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "S010002279",
+   "field": "COT_TEL_NO",
+   "value": "82-2-970-4777",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1709107005743|S010002279||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "S010002354",
+   "field": "COT_TEL_NO",
+   "value": "02-7999-400",
+   "message": "전화번호: 끝자리가 4자리가 아닙니다.",
+   "fingerprint": "C-10|1709107005743|S010002354||COT_TEL_NO"
+  }
+ ]
+}

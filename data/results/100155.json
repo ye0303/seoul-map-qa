@@ -1,0 +1,96 @@
+{
+ "themeId": "100155",
+ "rulesetVersion": 1,
+ "contentHash": "042388b4bf181f6a7eb44a82e0635efd9f63ec536b3c4daeed69cd0c25d65107",
+ "findings": [
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "df000215",
+   "groupKey": "coord:df000215",
+   "field": "COT_CONTS_NAME",
+   "value": "가로판매대",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: df000215, df000264",
+   "fingerprint": "C-08|100155|df000215|coord:df000215|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "df000259",
+   "groupKey": "coord:df000259",
+   "field": "COT_CONTS_NAME",
+   "value": "버스정류소(영도시장)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: df000259, df000318",
+   "fingerprint": "C-08|100155|df000259|coord:df000259|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "df000264",
+   "groupKey": "coord:df000215",
+   "field": "COT_CONTS_NAME",
+   "value": "가로판매대",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: df000215, df000264",
+   "fingerprint": "C-08|100155|df000264|coord:df000215|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "df000281",
+   "groupKey": "coord:df000281",
+   "field": "COT_CONTS_NAME",
+   "value": "버스정류소(성대시장)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: df000281, df000310",
+   "fingerprint": "C-08|100155|df000281|coord:df000281|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "df000308",
+   "groupKey": "coord:df000308",
+   "field": "COT_CONTS_NAME",
+   "value": "가로판매대",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: df000308, df000320",
+   "fingerprint": "C-08|100155|df000308|coord:df000308|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "df000310",
+   "groupKey": "coord:df000281",
+   "field": "COT_CONTS_NAME",
+   "value": "버스정류소(성대시장)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: df000281, df000310",
+   "fingerprint": "C-08|100155|df000310|coord:df000281|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "df000318",
+   "groupKey": "coord:df000259",
+   "field": "COT_CONTS_NAME",
+   "value": "버스정류소(영도시장)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: df000259, df000318",
+   "fingerprint": "C-08|100155|df000318|coord:df000259|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "df000320",
+   "groupKey": "coord:df000308",
+   "field": "COT_CONTS_NAME",
+   "value": "가로판매대",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: df000308, df000320",
+   "fingerprint": "C-08|100155|df000320|coord:df000308|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "df000248",
+   "field": "COT_TEL_NO",
+   "value": "02-582-333",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|100155|df000248||COT_TEL_NO"
+  }
+ ]
+}

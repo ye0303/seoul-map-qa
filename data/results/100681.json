@@ -1,0 +1,1163 @@
+{
+ "themeId": "100681",
+ "rulesetVersion": 1,
+ "contentHash": "1e032c312ef3b7060281172eb26a75a44956783b50e623483ffc12f5dc9adeef",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1705982105246",
+   "field": "COT_GU_NAME",
+   "suggestion": "종로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1705982105246||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1705982412122",
+   "field": "COT_GU_NAME",
+   "suggestion": "종로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1705982412122||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1705983031895",
+   "field": "COT_GU_NAME",
+   "suggestion": "종로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1705983031895||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1705983394638",
+   "field": "COT_GU_NAME",
+   "suggestion": "종로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1705983394638||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1705987485878",
+   "field": "COT_GU_NAME",
+   "suggestion": "용산구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1705987485878||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1705987513686",
+   "field": "COT_GU_NAME",
+   "suggestion": "용산구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1705987513686||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1705990790015",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1705990790015||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1705991432606",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1705991432606||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1705992396034",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1705992396034||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1705992997762",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1705992997762||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1705993603476",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1705993603476||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1705994242893",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1705994242893||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1706001666244",
+   "field": "COT_GU_NAME",
+   "suggestion": "구로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1706001666244||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1720089630219",
+   "field": "COT_GU_NAME",
+   "suggestion": "동작구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1720089630219||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1720089789586",
+   "field": "COT_GU_NAME",
+   "suggestion": "동작구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1720089789586||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1720090244623",
+   "field": "COT_GU_NAME",
+   "suggestion": "동작구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1720090244623||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1740103310639",
+   "field": "COT_GU_NAME",
+   "suggestion": "구로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1740103310639||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1740118829125",
+   "field": "COT_GU_NAME",
+   "suggestion": "종로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1740118829125||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1789953585155",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1789953585155||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1789976448338",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1789976448338||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1789976811826",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1789976811826||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1789977672496",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1789977672496||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1789977973521",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1789977973521||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1789978233547",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1789978233547||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100681_1789978727657",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|100681_1789978727657||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1jisoooo",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|1jisoooo||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "ddm_040",
+   "field": "COT_GU_NAME",
+   "suggestion": "동대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|ddm_040||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "ddm_041",
+   "field": "COT_GU_NAME",
+   "suggestion": "동대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|ddm_041||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "dongjak_013",
+   "field": "COT_GU_NAME",
+   "suggestion": "동작구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|dongjak_013||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "dongjak_014",
+   "field": "COT_GU_NAME",
+   "suggestion": "동작구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|dongjak_014||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "dongjak_015",
+   "field": "COT_GU_NAME",
+   "suggestion": "동작구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|dongjak_015||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gangbuk_025",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|gangbuk_025||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gangbuk_026",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|gangbuk_026||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gangbuk_027",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|gangbuk_027||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gangbuk_028",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|gangbuk_028||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gangbuk_029",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|gangbuk_029||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "geumcheon_022",
+   "field": "COT_GU_NAME",
+   "suggestion": "금천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|geumcheon_022||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "geumcheon_023",
+   "field": "COT_GU_NAME",
+   "suggestion": "금천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|geumcheon_023||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "guro_033",
+   "field": "COT_GU_NAME",
+   "suggestion": "구로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|guro_033||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gwanak_032",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|gwanak_032||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gwanak_405",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|gwanak_405||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gwanak_514",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|gwanak_514||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gwanak_515",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|gwanak_515||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gwanak_516",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|gwanak_516||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gwanak_517",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|gwanak_517||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gwanak_518",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|gwanak_518||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gwanak_519",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|gwanak_519||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gwanak_520",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|gwanak_520||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gwanak_521",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|gwanak_521||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gwangjin",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|gwangjin||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gwangjin_031",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|gwangjin_031||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "고덕별관 1",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|고덕별관 1||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "고덕별관2",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|고덕별관2||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "북카페도서관다독다독강일점",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100681|북카페도서관다독다독강일점||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ddm_009",
+   "groupKey": "coord:ddm_009",
+   "field": "COT_CONTS_NAME",
+   "value": "동대문구청1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ddm_009, ddm_010",
+   "fingerprint": "C-08|100681|ddm_009|coord:ddm_009|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ddm_010",
+   "groupKey": "coord:ddm_009",
+   "field": "COT_CONTS_NAME",
+   "value": "동대문구청2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ddm_009, ddm_010",
+   "fingerprint": "C-08|100681|ddm_010|coord:ddm_009|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ep_006",
+   "groupKey": "coord:ep_006",
+   "field": "COT_CONTS_NAME",
+   "value": "녹번동주민센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ep_006, ep_007",
+   "fingerprint": "C-08|100681|ep_006|coord:ep_006|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ep_007",
+   "groupKey": "coord:ep_006",
+   "field": "COT_CONTS_NAME",
+   "value": "녹번동주민센터2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ep_006, ep_007",
+   "fingerprint": "C-08|100681|ep_007|coord:ep_006|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ep_009",
+   "groupKey": "coord:ep_009",
+   "field": "COT_CONTS_NAME",
+   "value": "불광1동주민센KIOSK",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ep_009, ep_010",
+   "fingerprint": "C-08|100681|ep_009|coord:ep_009|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ep_010",
+   "groupKey": "coord:ep_009",
+   "field": "COT_CONTS_NAME",
+   "value": "불광1동주민센터KIOSK2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ep_009, ep_010",
+   "fingerprint": "C-08|100681|ep_010|coord:ep_009|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangnam_002",
+   "groupKey": "coord:gangnam_002",
+   "field": "COT_CONTS_NAME",
+   "value": "강남구청1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: gangnam_002, gangnam_003, gangnam_004",
+   "fingerprint": "C-08|100681|gangnam_002|coord:gangnam_002|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangnam_003",
+   "groupKey": "coord:gangnam_002",
+   "field": "COT_CONTS_NAME",
+   "value": "강남구청2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: gangnam_002, gangnam_003, gangnam_004",
+   "fingerprint": "C-08|100681|gangnam_003|coord:gangnam_002|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangnam_004",
+   "groupKey": "coord:gangnam_002",
+   "field": "COT_CONTS_NAME",
+   "value": "강남구청3",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: gangnam_002, gangnam_003, gangnam_004",
+   "fingerprint": "C-08|100681|gangnam_004|coord:gangnam_002|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangnam_011",
+   "groupKey": "coord:gangnam_011",
+   "field": "COT_CONTS_NAME",
+   "value": "논현2동주민센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: gangnam_011, gangnam_012",
+   "fingerprint": "C-08|100681|gangnam_011|coord:gangnam_011|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangnam_012",
+   "groupKey": "coord:gangnam_011",
+   "field": "COT_CONTS_NAME",
+   "value": "논현2동주민센터1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: gangnam_011, gangnam_012",
+   "fingerprint": "C-08|100681|gangnam_012|coord:gangnam_011|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangnam_018",
+   "groupKey": "coord:gangnam_018",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성1동주민센터1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: gangnam_018, gangnam_019",
+   "fingerprint": "C-08|100681|gangnam_018|coord:gangnam_018|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangnam_019",
+   "groupKey": "coord:gangnam_018",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성1동주민센터2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: gangnam_018, gangnam_019",
+   "fingerprint": "C-08|100681|gangnam_019|coord:gangnam_018|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangnam_020",
+   "groupKey": "coord:gangnam_020",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성2동주민센터1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: gangnam_020, gangnam_021, gangnam_022",
+   "fingerprint": "C-08|100681|gangnam_020|coord:gangnam_020|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangnam_021",
+   "groupKey": "coord:gangnam_020",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성2동주민센터2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: gangnam_020, gangnam_021, gangnam_022",
+   "fingerprint": "C-08|100681|gangnam_021|coord:gangnam_020|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangnam_022",
+   "groupKey": "coord:gangnam_020",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성2동주민센터3",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: gangnam_020, gangnam_021, gangnam_022",
+   "fingerprint": "C-08|100681|gangnam_022|coord:gangnam_020|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangnam_027",
+   "groupKey": "coord:gangnam_027",
+   "field": "COT_CONTS_NAME",
+   "value": "세곡동주민센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: gangnam_027, gangnam_042",
+   "fingerprint": "C-08|100681|gangnam_027|coord:gangnam_027|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangnam_033",
+   "groupKey": "coord:gangnam_033",
+   "field": "COT_CONTS_NAME",
+   "value": "역삼1동주민센터1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: gangnam_033, gangnam_034, gangnam_035, gangnam_036",
+   "fingerprint": "C-08|100681|gangnam_033|coord:gangnam_033|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangnam_034",
+   "groupKey": "coord:gangnam_033",
+   "field": "COT_CONTS_NAME",
+   "value": "역삼1동주민센터2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: gangnam_033, gangnam_034, gangnam_035, gangnam_036",
+   "fingerprint": "C-08|100681|gangnam_034|coord:gangnam_033|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangnam_035",
+   "groupKey": "coord:gangnam_033",
+   "field": "COT_CONTS_NAME",
+   "value": "역삼1동주민센터3",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: gangnam_033, gangnam_034, gangnam_035, gangnam_036",
+   "fingerprint": "C-08|100681|gangnam_035|coord:gangnam_033|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangnam_036",
+   "groupKey": "coord:gangnam_033",
+   "field": "COT_CONTS_NAME",
+   "value": "역삼1동주민센터4",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: gangnam_033, gangnam_034, gangnam_035, gangnam_036",
+   "fingerprint": "C-08|100681|gangnam_036|coord:gangnam_033|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangnam_042",
+   "groupKey": "coord:gangnam_027",
+   "field": "COT_CONTS_NAME",
+   "value": "세곡동주민센터2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: gangnam_027, gangnam_042",
+   "fingerprint": "C-08|100681|gangnam_042|coord:gangnam_027|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangseo_021",
+   "groupKey": "coord:gangseo_021",
+   "field": "COT_CONTS_NAME",
+   "value": "김포공항 국내선 2층(서편)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: gangseo_021, gangseo_022",
+   "fingerprint": "C-08|100681|gangseo_021|coord:gangseo_021|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gangseo_022",
+   "groupKey": "coord:gangseo_021",
+   "field": "COT_CONTS_NAME",
+   "value": "김포공항 국내선 2층(동편)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: gangseo_021, gangseo_022",
+   "fingerprint": "C-08|100681|gangseo_022|coord:gangseo_021|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "guro_011",
+   "groupKey": "coord:guro_011",
+   "field": "COT_CONTS_NAME",
+   "value": "구로3동주민센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: guro_011, guro_012, guro_013",
+   "fingerprint": "C-08|100681|guro_011|coord:guro_011|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "guro_012",
+   "groupKey": "coord:guro_011",
+   "field": "COT_CONTS_NAME",
+   "value": "구로3동주민센터(안쪽)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: guro_011, guro_012, guro_013",
+   "fingerprint": "C-08|100681|guro_012|coord:guro_011|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "guro_013",
+   "groupKey": "coord:guro_011",
+   "field": "COT_CONTS_NAME",
+   "value": "구로3동주민센터2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: guro_011, guro_012, guro_013",
+   "fingerprint": "C-08|100681|guro_013|coord:guro_011|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jongno_008",
+   "groupKey": "coord:jongno_008",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구청 민원실1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jongno_008, jongno_009",
+   "fingerprint": "C-08|100681|jongno_008|coord:jongno_008|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jongno_009",
+   "groupKey": "coord:jongno_008",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구청 민원실3",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jongno_008, jongno_009",
+   "fingerprint": "C-08|100681|jongno_009|coord:jongno_008|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jongno_012",
+   "groupKey": "coord:jongno_012",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구청 부동산정보과1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jongno_012, jongno_013",
+   "fingerprint": "C-08|100681|jongno_012|coord:jongno_012|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jongno_013",
+   "groupKey": "coord:jongno_012",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구청 부동산정보과2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jongno_012, jongno_013",
+   "fingerprint": "C-08|100681|jongno_013|coord:jongno_012|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "junggu_016",
+   "groupKey": "coord:junggu_016",
+   "field": "COT_CONTS_NAME",
+   "value": "을지로동주민센터 1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: junggu_016, junggu_017",
+   "fingerprint": "C-08|100681|junggu_016|coord:junggu_016|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "junggu_017",
+   "groupKey": "coord:junggu_016",
+   "field": "COT_CONTS_NAME",
+   "value": "을지로동주민센터 2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: junggu_016, junggu_017",
+   "fingerprint": "C-08|100681|junggu_017|coord:junggu_016|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "mapo_005",
+   "groupKey": "coord:mapo_005",
+   "field": "COT_CONTS_NAME",
+   "value": "마포구청",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: mapo_005, mapo_006",
+   "fingerprint": "C-08|100681|mapo_005|coord:mapo_005|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "mapo_006",
+   "groupKey": "coord:mapo_005",
+   "field": "COT_CONTS_NAME",
+   "value": "마포구청2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: mapo_005, mapo_006",
+   "fingerprint": "C-08|100681|mapo_006|coord:mapo_005|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sd_008",
+   "groupKey": "coord:sd_008",
+   "field": "COT_CONTS_NAME",
+   "value": "성동구청민원실2KIOSK",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sd_008, sd_009",
+   "fingerprint": "C-08|100681|sd_008|coord:sd_008|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sd_009",
+   "groupKey": "coord:sd_008",
+   "field": "COT_CONTS_NAME",
+   "value": "성동구청민원실3KIOSK",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sd_008, sd_009",
+   "fingerprint": "C-08|100681|sd_009|coord:sd_008|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sdm_014",
+   "groupKey": "coord:sdm_014",
+   "field": "COT_CONTS_NAME",
+   "value": "연희동주민센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sdm_014, sdm_015",
+   "fingerprint": "C-08|100681|sdm_014|coord:sdm_014|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sdm_015",
+   "groupKey": "coord:sdm_014",
+   "field": "COT_CONTS_NAME",
+   "value": "연희동주민센터2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sdm_014, sdm_015",
+   "fingerprint": "C-08|100681|sdm_015|coord:sdm_014|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sdm_022",
+   "groupKey": "coord:sdm_022",
+   "field": "COT_CONTS_NAME",
+   "value": "홍제1동주민센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sdm_022, sdm_023",
+   "fingerprint": "C-08|100681|sdm_022|coord:sdm_022|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sdm_023",
+   "groupKey": "coord:sdm_022",
+   "field": "COT_CONTS_NAME",
+   "value": "홍제1동주민센터2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sdm_022, sdm_023",
+   "fingerprint": "C-08|100681|sdm_023|coord:sdm_022|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "seocho_001",
+   "groupKey": "coord:seocho_001",
+   "field": "COT_CONTS_NAME",
+   "value": "반포1동주민센터1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: seocho_001, seocho_002",
+   "fingerprint": "C-08|100681|seocho_001|coord:seocho_001|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "seocho_002",
+   "groupKey": "coord:seocho_001",
+   "field": "COT_CONTS_NAME",
+   "value": "반포1동주민센터2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: seocho_001, seocho_002",
+   "fingerprint": "C-08|100681|seocho_002|coord:seocho_001|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "seocho_013",
+   "groupKey": "coord:seocho_013",
+   "field": "COT_CONTS_NAME",
+   "value": "서울중앙지방법원1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: seocho_013, seocho_014",
+   "fingerprint": "C-08|100681|seocho_013|coord:seocho_013|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "seocho_014",
+   "groupKey": "coord:seocho_013",
+   "field": "COT_CONTS_NAME",
+   "value": "서울중앙지방법원2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: seocho_013, seocho_014",
+   "fingerprint": "C-08|100681|seocho_014|coord:seocho_013|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "seocho_021",
+   "groupKey": "coord:seocho_021",
+   "field": "COT_CONTS_NAME",
+   "value": "서초4동주민센터1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: seocho_021, seocho_022",
+   "fingerprint": "C-08|100681|seocho_021|coord:seocho_021|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "seocho_022",
+   "groupKey": "coord:seocho_021",
+   "field": "COT_CONTS_NAME",
+   "value": "서초4동주민센터2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: seocho_021, seocho_022",
+   "fingerprint": "C-08|100681|seocho_022|coord:seocho_021|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "seocho_024",
+   "groupKey": "coord:seocho_024",
+   "field": "COT_CONTS_NAME",
+   "value": "서초구청1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: seocho_024, seocho_025",
+   "fingerprint": "C-08|100681|seocho_024|coord:seocho_024|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "seocho_025",
+   "groupKey": "coord:seocho_024",
+   "field": "COT_CONTS_NAME",
+   "value": "서초구청2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: seocho_024, seocho_025",
+   "fingerprint": "C-08|100681|seocho_025|coord:seocho_024|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "songpa_010",
+   "groupKey": "coord:songpa_010",
+   "field": "COT_CONTS_NAME",
+   "value": "아산병원 서관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: songpa_010, songpa_011",
+   "fingerprint": "C-08|100681|songpa_010|coord:songpa_010|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "songpa_011",
+   "groupKey": "coord:songpa_010",
+   "field": "COT_CONTS_NAME",
+   "value": "아산병원 신관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: songpa_010, songpa_011",
+   "fingerprint": "C-08|100681|songpa_011|coord:songpa_010|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "yangcheon_002",
+   "groupKey": "coord:yangcheon_002",
+   "field": "COT_CONTS_NAME",
+   "value": "목1동주민센터1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: yangcheon_002, yangcheon_003",
+   "fingerprint": "C-08|100681|yangcheon_002|coord:yangcheon_002|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "yangcheon_003",
+   "groupKey": "coord:yangcheon_002",
+   "field": "COT_CONTS_NAME",
+   "value": "목1동주민센터2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: yangcheon_002, yangcheon_003",
+   "fingerprint": "C-08|100681|yangcheon_003|coord:yangcheon_002|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "yangcheon_004",
+   "groupKey": "coord:yangcheon_004",
+   "field": "COT_CONTS_NAME",
+   "value": "목2동주민센터1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: yangcheon_004, yangcheon_005",
+   "fingerprint": "C-08|100681|yangcheon_004|coord:yangcheon_004|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "yangcheon_005",
+   "groupKey": "coord:yangcheon_004",
+   "field": "COT_CONTS_NAME",
+   "value": "목2동주민센터2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: yangcheon_004, yangcheon_005",
+   "fingerprint": "C-08|100681|yangcheon_005|coord:yangcheon_004|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "yangcheon_028",
+   "groupKey": "coord:yangcheon_028",
+   "field": "COT_CONTS_NAME",
+   "value": "양천구청_민원실1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: yangcheon_028, yangcheon_029",
+   "fingerprint": "C-08|100681|yangcheon_028|coord:yangcheon_028|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "yangcheon_029",
+   "groupKey": "coord:yangcheon_028",
+   "field": "COT_CONTS_NAME",
+   "value": "양천구청_민원실2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: yangcheon_028, yangcheon_029",
+   "fingerprint": "C-08|100681|yangcheon_029|coord:yangcheon_028|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ydp_003",
+   "groupKey": "coord:ydp_003",
+   "field": "COT_CONTS_NAME",
+   "value": "당산2동주민센터1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ydp_003, ydp_004",
+   "fingerprint": "C-08|100681|ydp_003|coord:ydp_003|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ydp_004",
+   "groupKey": "coord:ydp_003",
+   "field": "COT_CONTS_NAME",
+   "value": "당산2동주민센터2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ydp_003, ydp_004",
+   "fingerprint": "C-08|100681|ydp_004|coord:ydp_003|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ydp_018",
+   "groupKey": "coord:ydp_018",
+   "field": "COT_CONTS_NAME",
+   "value": "여의도역1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ydp_018, ydp_019",
+   "fingerprint": "C-08|100681|ydp_018|coord:ydp_018|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ydp_019",
+   "groupKey": "coord:ydp_018",
+   "field": "COT_CONTS_NAME",
+   "value": "여의도역2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ydp_018, ydp_019",
+   "fingerprint": "C-08|100681|ydp_019|coord:ydp_018|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ydp_020",
+   "groupKey": "coord:ydp_020",
+   "field": "COT_CONTS_NAME",
+   "value": "여의동주민센터 2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ydp_020, ydp_021",
+   "fingerprint": "C-08|100681|ydp_020|coord:ydp_020|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ydp_021",
+   "groupKey": "coord:ydp_020",
+   "field": "COT_CONTS_NAME",
+   "value": "여의동주민센터1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ydp_020, ydp_021",
+   "fingerprint": "C-08|100681|ydp_021|coord:ydp_020|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ydp_029",
+   "groupKey": "coord:ydp_029",
+   "field": "COT_CONTS_NAME",
+   "value": "여의동현장민원실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ydp_029, ydp_032",
+   "fingerprint": "C-08|100681|ydp_029|coord:ydp_029|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ydp_032",
+   "groupKey": "coord:ydp_029",
+   "field": "COT_CONTS_NAME",
+   "value": "여의동현장민원실2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ydp_029, ydp_032",
+   "fingerprint": "C-08|100681|ydp_032|coord:ydp_029|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "yongsan_010",
+   "groupKey": "coord:yongsan_010",
+   "field": "COT_CONTS_NAME",
+   "value": "한강로동주민센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: yongsan_010, yongsan_014",
+   "fingerprint": "C-08|100681|yongsan_010|coord:yongsan_010|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "yongsan_014",
+   "groupKey": "coord:yongsan_010",
+   "field": "COT_CONTS_NAME",
+   "value": "한강로동주민센터2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: yongsan_010, yongsan_014",
+   "fingerprint": "C-08|100681|yongsan_014|coord:yongsan_010|COT_CONTS_NAME"
+  }
+ ]
+}

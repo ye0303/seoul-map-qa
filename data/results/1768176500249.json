@@ -1,0 +1,17 @@
+{
+ "themeId": "1768176500249",
+ "rulesetVersion": 1,
+ "contentHash": "6e49cbc20404bd9ca5b51aabc7c34216ef3d2d8914cc2c0a9c3390171703aa13",
+ "findings": [
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "sb_town_010",
+   "field": "COT_TEL_NO",
+   "value": "02-927-9983%7E4",
+   "suggestion": "02-927-9983~4",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1768176500249|sb_town_010||COT_TEL_NO"
+  }
+ ]
+}

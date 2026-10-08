@@ -1,0 +1,113 @@
+{
+ "themeId": "100173",
+ "rulesetVersion": 1,
+ "contentHash": "6d98cb5d105959f09e3926ea82f36012aab7bc631edd515c7df692dc80e6605a",
+ "findings": [
+  {
+   "ruleId": "C-04",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "outside",
+   "message": "서울 밖 장소가 1건 있습니다(주소도 서울 밖).",
+   "fingerprint": "C-04|100173||outside|"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "MANGU004",
+   "field": "COT_GU_NAME",
+   "suggestion": "중랑구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100173|MANGU004||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "MANGU005",
+   "field": "COT_GU_NAME",
+   "suggestion": "중랑구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100173|MANGU005||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "MANGU006",
+   "field": "COT_GU_NAME",
+   "suggestion": "중랑구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100173|MANGU006||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "MANGU008",
+   "field": "COT_GU_NAME",
+   "suggestion": "중랑구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100173|MANGU008||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "MANGU009",
+   "field": "COT_GU_NAME",
+   "suggestion": "중랑구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100173|MANGU009||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "MANGU010",
+   "field": "COT_GU_NAME",
+   "suggestion": "중랑구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100173|MANGU010||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "MANGU011",
+   "field": "COT_GU_NAME",
+   "suggestion": "중랑구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100173|MANGU011||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "MANGU012",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100173|MANGU012||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "MANGU016",
+   "field": "COT_GU_NAME",
+   "suggestion": "중랑구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100173|MANGU016||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "MANGU018",
+   "field": "COT_GU_NAME",
+   "suggestion": "중랑구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100173|MANGU018||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "name_075",
+   "field": "COT_TEL_NO",
+   "value": "http://db.history.go.kr/item/l",
+   "message": "전화번호: 링크(URL)가 들어 있습니다.",
+   "fingerprint": "C-10|100173|name_075||COT_TEL_NO"
+  }
+ ]
+}

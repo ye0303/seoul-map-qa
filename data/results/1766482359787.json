@@ -1,0 +1,35 @@
+{
+ "themeId": "1766482359787",
+ "rulesetVersion": 1,
+ "contentHash": "03229f21b24e4cd55549b230147387bdfdcd2632d268651db6826a29508984fd",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sb_work_031",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1766482359787|sb_work_031||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sb_work_032",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1766482359787|sb_work_032||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "sb_work_016",
+   "field": "COT_TEL_NO",
+   "value": "02-2241-3947%2C+3948",
+   "suggestion": "02-2241-3947, 3948",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1766482359787|sb_work_016||COT_TEL_NO"
+  }
+ ]
+}

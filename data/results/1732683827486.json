@@ -1,0 +1,27 @@
+{
+ "themeId": "1732683827486",
+ "rulesetVersion": 1,
+ "contentHash": "f27ae6dee5deccfae574709b5c16fd59863f89b4cf85a7e6c66d9c7f1ca43ad1",
+ "findings": [
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "bc_hanok_k_0002",
+   "field": "COT_TEL_NO",
+   "value": "02-766-7858%2B%2F%2B010",
+   "suggestion": "02-766-7858+/+010",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1732683827486|bc_hanok_k_0002||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "bc_hanok_k_0017",
+   "field": "COT_TEL_NO",
+   "value": "02-766-0256%7E7",
+   "suggestion": "02-766-0256~7",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1732683827486|bc_hanok_k_0017||COT_TEL_NO"
+  }
+ ]
+}

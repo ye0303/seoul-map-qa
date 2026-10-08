@@ -1,0 +1,5433 @@
+{
+ "themeId": "100683",
+ "rulesetVersion": 1,
+ "contentHash": "9e91bafb3d1172a58b55cfe8383bbf2bc8eabea38ea5c16547c82efe447d0e4b",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GANGBUK_18_7",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100683|GANGBUK_18_7||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GANGBUK_3_91",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100683|GANGBUK_3_91||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GANGBUK_3_92",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100683|GANGBUK_3_92||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_11",
+   "groupKey": "coord:GANGBUK_15_11",
+   "field": "COT_CONTS_NAME",
+   "value": "마디원큐한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_15_11, GANGBUK_15_13",
+   "fingerprint": "C-08|100683|GANGBUK_15_11|coord:GANGBUK_15_11|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_13",
+   "groupKey": "coord:GANGBUK_15_11",
+   "field": "COT_CONTS_NAME",
+   "value": "마디원큐의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_15_11, GANGBUK_15_13",
+   "fingerprint": "C-08|100683|GANGBUK_15_13|coord:GANGBUK_15_11|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_207",
+   "groupKey": "coord:GANGBUK_15_207",
+   "field": "COT_CONTS_NAME",
+   "value": "동서통합한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_15_207, GANGBUK_15_321",
+   "fingerprint": "C-08|100683|GANGBUK_15_207|coord:GANGBUK_15_207|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_321",
+   "groupKey": "coord:GANGBUK_15_207",
+   "field": "COT_CONTS_NAME",
+   "value": "동서통합의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_15_207, GANGBUK_15_321",
+   "fingerprint": "C-08|100683|GANGBUK_15_321|coord:GANGBUK_15_207|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_348",
+   "groupKey": "coord:GANGBUK_15_348",
+   "field": "COT_CONTS_NAME",
+   "value": "사회복지법인 상록재단금강산치과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_15_348, GANGBUK_15_357",
+   "fingerprint": "C-08|100683|GANGBUK_15_348|coord:GANGBUK_15_348|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_357",
+   "groupKey": "coord:GANGBUK_15_348",
+   "field": "COT_CONTS_NAME",
+   "value": "사회복지법인 상록재단 금강산의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_15_348, GANGBUK_15_357",
+   "fingerprint": "C-08|100683|GANGBUK_15_357|coord:GANGBUK_15_348|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_18_4",
+   "groupKey": "coord:GANGBUK_18_4",
+   "field": "COT_CONTS_NAME",
+   "value": "공중화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_18_4, GANGBUK_18_5, GANGBUK_18_6",
+   "fingerprint": "C-08|100683|GANGBUK_18_4|coord:GANGBUK_18_4|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_18_4",
+   "groupKey": "same:GANGBUK_18_4",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_18_4, GANGBUK_18_5, GANGBUK_18_6",
+   "fingerprint": "C-08|100683|GANGBUK_18_4|same:GANGBUK_18_4|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_18_5",
+   "groupKey": "coord:GANGBUK_18_4",
+   "field": "COT_CONTS_NAME",
+   "value": "공중화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_18_4, GANGBUK_18_5, GANGBUK_18_6",
+   "fingerprint": "C-08|100683|GANGBUK_18_5|coord:GANGBUK_18_4|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_18_5",
+   "groupKey": "same:GANGBUK_18_4",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_18_4, GANGBUK_18_5, GANGBUK_18_6",
+   "fingerprint": "C-08|100683|GANGBUK_18_5|same:GANGBUK_18_4|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_18_6",
+   "groupKey": "coord:GANGBUK_18_4",
+   "field": "COT_CONTS_NAME",
+   "value": "공중화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_18_4, GANGBUK_18_5, GANGBUK_18_6",
+   "fingerprint": "C-08|100683|GANGBUK_18_6|coord:GANGBUK_18_4|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_18_6",
+   "groupKey": "same:GANGBUK_18_4",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_18_4, GANGBUK_18_5, GANGBUK_18_6",
+   "fingerprint": "C-08|100683|GANGBUK_18_6|same:GANGBUK_18_4|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_21_77",
+   "groupKey": "coord:GANGBUK_21_77",
+   "field": "COT_CONTS_NAME",
+   "value": "삼양동 벽산라이브파크아파트 주차장(P6/111동)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: GANGBUK_21_77, GANGBUK_21_78, GANGBUK_21_79, GANGBUK_21_81, GANGBUK_21_82",
+   "fingerprint": "C-08|100683|GANGBUK_21_77|coord:GANGBUK_21_77|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_21_78",
+   "groupKey": "coord:GANGBUK_21_77",
+   "field": "COT_CONTS_NAME",
+   "value": "삼양동 벽산라이브파크아파트 주차장(P5: 109-110동)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: GANGBUK_21_77, GANGBUK_21_78, GANGBUK_21_79, GANGBUK_21_81, GANGBUK_21_82",
+   "fingerprint": "C-08|100683|GANGBUK_21_78|coord:GANGBUK_21_77|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_21_79",
+   "groupKey": "coord:GANGBUK_21_77",
+   "field": "COT_CONTS_NAME",
+   "value": "삼양동 벽산라이브파크아파트 주차장 P7(112-113동)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: GANGBUK_21_77, GANGBUK_21_78, GANGBUK_21_79, GANGBUK_21_81, GANGBUK_21_82",
+   "fingerprint": "C-08|100683|GANGBUK_21_79|coord:GANGBUK_21_77|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_21_81",
+   "groupKey": "coord:GANGBUK_21_77",
+   "field": "COT_CONTS_NAME",
+   "value": "삼양동 벽산라이브파크아파트 주차장  P9(115-116동)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: GANGBUK_21_77, GANGBUK_21_78, GANGBUK_21_79, GANGBUK_21_81, GANGBUK_21_82",
+   "fingerprint": "C-08|100683|GANGBUK_21_81|coord:GANGBUK_21_77|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_21_82",
+   "groupKey": "coord:GANGBUK_21_77",
+   "field": "COT_CONTS_NAME",
+   "value": "삼양동 벽산라이브파크아파트 주차장  P10(118-119)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: GANGBUK_21_77, GANGBUK_21_78, GANGBUK_21_79, GANGBUK_21_81, GANGBUK_21_82",
+   "fingerprint": "C-08|100683|GANGBUK_21_82|coord:GANGBUK_21_77|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_21_90",
+   "groupKey": "coord:GANGBUK_21_90",
+   "field": "COT_CONTS_NAME",
+   "value": "삼각산아이원아파트2-삼각산동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_21_90, GANGBUK_21_91",
+   "fingerprint": "C-08|100683|GANGBUK_21_90|coord:GANGBUK_21_90|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_21_91",
+   "groupKey": "coord:GANGBUK_21_90",
+   "field": "COT_CONTS_NAME",
+   "value": "삼각산아이원아파트4-삼각산동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_21_90, GANGBUK_21_91",
+   "fingerprint": "C-08|100683|GANGBUK_21_91|coord:GANGBUK_21_90|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_21_92",
+   "groupKey": "coord:GANGBUK_21_92",
+   "field": "COT_CONTS_NAME",
+   "value": "sk아파트2-삼각산동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: GANGBUK_21_92, GANGBUK_21_93, GANGBUK_21_94, GANGBUK_21_95, GANGBUK_21_96 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_21_92|coord:GANGBUK_21_92|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_21_93",
+   "groupKey": "coord:GANGBUK_21_92",
+   "field": "COT_CONTS_NAME",
+   "value": "sk아파트4-삼각산동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: GANGBUK_21_92, GANGBUK_21_93, GANGBUK_21_94, GANGBUK_21_95, GANGBUK_21_96 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_21_93|coord:GANGBUK_21_92|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_21_94",
+   "groupKey": "coord:GANGBUK_21_92",
+   "field": "COT_CONTS_NAME",
+   "value": "sk아파트5-삼각산동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: GANGBUK_21_92, GANGBUK_21_93, GANGBUK_21_94, GANGBUK_21_95, GANGBUK_21_96 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_21_94|coord:GANGBUK_21_92|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_21_95",
+   "groupKey": "coord:GANGBUK_21_92",
+   "field": "COT_CONTS_NAME",
+   "value": "sk아파트6-삼각산동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: GANGBUK_21_92, GANGBUK_21_93, GANGBUK_21_94, GANGBUK_21_95, GANGBUK_21_96 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_21_95|coord:GANGBUK_21_92|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_21_96",
+   "groupKey": "coord:GANGBUK_21_92",
+   "field": "COT_CONTS_NAME",
+   "value": "sk아파트8-삼각산동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: GANGBUK_21_92, GANGBUK_21_93, GANGBUK_21_94, GANGBUK_21_95, GANGBUK_21_96 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_21_96|coord:GANGBUK_21_92|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_21_97",
+   "groupKey": "coord:GANGBUK_21_92",
+   "field": "COT_CONTS_NAME",
+   "value": "sk아파트10-삼각산동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: GANGBUK_21_92, GANGBUK_21_93, GANGBUK_21_94, GANGBUK_21_95, GANGBUK_21_96 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_21_97|coord:GANGBUK_21_92|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_21_98",
+   "groupKey": "coord:GANGBUK_21_92",
+   "field": "COT_CONTS_NAME",
+   "value": "sk아파트11-삼각산동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: GANGBUK_21_92, GANGBUK_21_93, GANGBUK_21_94, GANGBUK_21_95, GANGBUK_21_96 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_21_98|coord:GANGBUK_21_92|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_1",
+   "groupKey": "coord:GANGBUK_24_1",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: GANGBUK_24_1, GANGBUK_24_134, GANGBUK_24_2, GANGBUK_24_3, GANGBUK_24_4",
+   "fingerprint": "C-08|100683|GANGBUK_24_1|coord:GANGBUK_24_1|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_1",
+   "groupKey": "same:GANGBUK_24_1",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_1, GANGBUK_24_2, GANGBUK_24_3, GANGBUK_24_4",
+   "fingerprint": "C-08|100683|GANGBUK_24_1|same:GANGBUK_24_1|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_100",
+   "groupKey": "coord:GANGBUK_24_100",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_100, GANGBUK_24_101, GANGBUK_24_99",
+   "fingerprint": "C-08|100683|GANGBUK_24_100|coord:GANGBUK_24_100|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_100",
+   "groupKey": "same:GANGBUK_24_100",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_100, GANGBUK_24_101, GANGBUK_24_99",
+   "fingerprint": "C-08|100683|GANGBUK_24_100|same:GANGBUK_24_100|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_101",
+   "groupKey": "coord:GANGBUK_24_100",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_100, GANGBUK_24_101, GANGBUK_24_99",
+   "fingerprint": "C-08|100683|GANGBUK_24_101|coord:GANGBUK_24_100|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_101",
+   "groupKey": "same:GANGBUK_24_100",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_100, GANGBUK_24_101, GANGBUK_24_99",
+   "fingerprint": "C-08|100683|GANGBUK_24_101|same:GANGBUK_24_100|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_103",
+   "groupKey": "coord:GANGBUK_24_103",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_103, GANGBUK_24_104, GANGBUK_24_304",
+   "fingerprint": "C-08|100683|GANGBUK_24_103|coord:GANGBUK_24_103|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_103",
+   "groupKey": "same:GANGBUK_24_103",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_103, GANGBUK_24_104",
+   "fingerprint": "C-08|100683|GANGBUK_24_103|same:GANGBUK_24_103|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_104",
+   "groupKey": "coord:GANGBUK_24_103",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_103, GANGBUK_24_104, GANGBUK_24_304",
+   "fingerprint": "C-08|100683|GANGBUK_24_104|coord:GANGBUK_24_103|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_104",
+   "groupKey": "same:GANGBUK_24_103",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_103, GANGBUK_24_104",
+   "fingerprint": "C-08|100683|GANGBUK_24_104|same:GANGBUK_24_103|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_109",
+   "groupKey": "coord:GANGBUK_24_109",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_109, GANGBUK_24_93",
+   "fingerprint": "C-08|100683|GANGBUK_24_109|coord:GANGBUK_24_109|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_111",
+   "groupKey": "coord:GANGBUK_24_111",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 6건 있습니다: GANGBUK_24_111, GANGBUK_24_112, GANGBUK_24_113, GANGBUK_24_114, GANGBUK_24_115 외 1건",
+   "fingerprint": "C-08|100683|GANGBUK_24_111|coord:GANGBUK_24_111|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_111",
+   "groupKey": "same:GANGBUK_24_111",
+   "message": "ID만 다르고 내용이 같은 행이 6건 있습니다: GANGBUK_24_111, GANGBUK_24_112, GANGBUK_24_113, GANGBUK_24_114, GANGBUK_24_115 외 1건",
+   "fingerprint": "C-08|100683|GANGBUK_24_111|same:GANGBUK_24_111|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_112",
+   "groupKey": "coord:GANGBUK_24_111",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 6건 있습니다: GANGBUK_24_111, GANGBUK_24_112, GANGBUK_24_113, GANGBUK_24_114, GANGBUK_24_115 외 1건",
+   "fingerprint": "C-08|100683|GANGBUK_24_112|coord:GANGBUK_24_111|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_112",
+   "groupKey": "same:GANGBUK_24_111",
+   "message": "ID만 다르고 내용이 같은 행이 6건 있습니다: GANGBUK_24_111, GANGBUK_24_112, GANGBUK_24_113, GANGBUK_24_114, GANGBUK_24_115 외 1건",
+   "fingerprint": "C-08|100683|GANGBUK_24_112|same:GANGBUK_24_111|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_113",
+   "groupKey": "coord:GANGBUK_24_111",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 6건 있습니다: GANGBUK_24_111, GANGBUK_24_112, GANGBUK_24_113, GANGBUK_24_114, GANGBUK_24_115 외 1건",
+   "fingerprint": "C-08|100683|GANGBUK_24_113|coord:GANGBUK_24_111|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_113",
+   "groupKey": "same:GANGBUK_24_111",
+   "message": "ID만 다르고 내용이 같은 행이 6건 있습니다: GANGBUK_24_111, GANGBUK_24_112, GANGBUK_24_113, GANGBUK_24_114, GANGBUK_24_115 외 1건",
+   "fingerprint": "C-08|100683|GANGBUK_24_113|same:GANGBUK_24_111|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_114",
+   "groupKey": "coord:GANGBUK_24_111",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 6건 있습니다: GANGBUK_24_111, GANGBUK_24_112, GANGBUK_24_113, GANGBUK_24_114, GANGBUK_24_115 외 1건",
+   "fingerprint": "C-08|100683|GANGBUK_24_114|coord:GANGBUK_24_111|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_114",
+   "groupKey": "same:GANGBUK_24_111",
+   "message": "ID만 다르고 내용이 같은 행이 6건 있습니다: GANGBUK_24_111, GANGBUK_24_112, GANGBUK_24_113, GANGBUK_24_114, GANGBUK_24_115 외 1건",
+   "fingerprint": "C-08|100683|GANGBUK_24_114|same:GANGBUK_24_111|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_115",
+   "groupKey": "coord:GANGBUK_24_111",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 6건 있습니다: GANGBUK_24_111, GANGBUK_24_112, GANGBUK_24_113, GANGBUK_24_114, GANGBUK_24_115 외 1건",
+   "fingerprint": "C-08|100683|GANGBUK_24_115|coord:GANGBUK_24_111|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_115",
+   "groupKey": "same:GANGBUK_24_111",
+   "message": "ID만 다르고 내용이 같은 행이 6건 있습니다: GANGBUK_24_111, GANGBUK_24_112, GANGBUK_24_113, GANGBUK_24_114, GANGBUK_24_115 외 1건",
+   "fingerprint": "C-08|100683|GANGBUK_24_115|same:GANGBUK_24_111|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_116",
+   "groupKey": "coord:GANGBUK_24_111",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 6건 있습니다: GANGBUK_24_111, GANGBUK_24_112, GANGBUK_24_113, GANGBUK_24_114, GANGBUK_24_115 외 1건",
+   "fingerprint": "C-08|100683|GANGBUK_24_116|coord:GANGBUK_24_111|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_116",
+   "groupKey": "same:GANGBUK_24_111",
+   "message": "ID만 다르고 내용이 같은 행이 6건 있습니다: GANGBUK_24_111, GANGBUK_24_112, GANGBUK_24_113, GANGBUK_24_114, GANGBUK_24_115 외 1건",
+   "fingerprint": "C-08|100683|GANGBUK_24_116|same:GANGBUK_24_111|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_119",
+   "groupKey": "coord:GANGBUK_24_119",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: GANGBUK_24_119, GANGBUK_24_120, GANGBUK_24_121, GANGBUK_24_122, GANGBUK_24_123",
+   "fingerprint": "C-08|100683|GANGBUK_24_119|coord:GANGBUK_24_119|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_119",
+   "groupKey": "same:GANGBUK_24_119",
+   "message": "ID만 다르고 내용이 같은 행이 5건 있습니다: GANGBUK_24_119, GANGBUK_24_120, GANGBUK_24_121, GANGBUK_24_122, GANGBUK_24_123",
+   "fingerprint": "C-08|100683|GANGBUK_24_119|same:GANGBUK_24_119|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_12",
+   "groupKey": "coord:GANGBUK_24_12",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_12, GANGBUK_24_79",
+   "fingerprint": "C-08|100683|GANGBUK_24_12|coord:GANGBUK_24_12|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_120",
+   "groupKey": "coord:GANGBUK_24_119",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: GANGBUK_24_119, GANGBUK_24_120, GANGBUK_24_121, GANGBUK_24_122, GANGBUK_24_123",
+   "fingerprint": "C-08|100683|GANGBUK_24_120|coord:GANGBUK_24_119|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_120",
+   "groupKey": "same:GANGBUK_24_119",
+   "message": "ID만 다르고 내용이 같은 행이 5건 있습니다: GANGBUK_24_119, GANGBUK_24_120, GANGBUK_24_121, GANGBUK_24_122, GANGBUK_24_123",
+   "fingerprint": "C-08|100683|GANGBUK_24_120|same:GANGBUK_24_119|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_121",
+   "groupKey": "coord:GANGBUK_24_119",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: GANGBUK_24_119, GANGBUK_24_120, GANGBUK_24_121, GANGBUK_24_122, GANGBUK_24_123",
+   "fingerprint": "C-08|100683|GANGBUK_24_121|coord:GANGBUK_24_119|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_121",
+   "groupKey": "same:GANGBUK_24_119",
+   "message": "ID만 다르고 내용이 같은 행이 5건 있습니다: GANGBUK_24_119, GANGBUK_24_120, GANGBUK_24_121, GANGBUK_24_122, GANGBUK_24_123",
+   "fingerprint": "C-08|100683|GANGBUK_24_121|same:GANGBUK_24_119|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_122",
+   "groupKey": "coord:GANGBUK_24_119",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: GANGBUK_24_119, GANGBUK_24_120, GANGBUK_24_121, GANGBUK_24_122, GANGBUK_24_123",
+   "fingerprint": "C-08|100683|GANGBUK_24_122|coord:GANGBUK_24_119|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_122",
+   "groupKey": "same:GANGBUK_24_119",
+   "message": "ID만 다르고 내용이 같은 행이 5건 있습니다: GANGBUK_24_119, GANGBUK_24_120, GANGBUK_24_121, GANGBUK_24_122, GANGBUK_24_123",
+   "fingerprint": "C-08|100683|GANGBUK_24_122|same:GANGBUK_24_119|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_123",
+   "groupKey": "coord:GANGBUK_24_119",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: GANGBUK_24_119, GANGBUK_24_120, GANGBUK_24_121, GANGBUK_24_122, GANGBUK_24_123",
+   "fingerprint": "C-08|100683|GANGBUK_24_123|coord:GANGBUK_24_119|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_123",
+   "groupKey": "same:GANGBUK_24_119",
+   "message": "ID만 다르고 내용이 같은 행이 5건 있습니다: GANGBUK_24_119, GANGBUK_24_120, GANGBUK_24_121, GANGBUK_24_122, GANGBUK_24_123",
+   "fingerprint": "C-08|100683|GANGBUK_24_123|same:GANGBUK_24_119|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_128",
+   "groupKey": "coord:GANGBUK_24_128",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_128, GANGBUK_24_129, GANGBUK_24_130",
+   "fingerprint": "C-08|100683|GANGBUK_24_128|coord:GANGBUK_24_128|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_128",
+   "groupKey": "same:GANGBUK_24_128",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_128, GANGBUK_24_129, GANGBUK_24_130",
+   "fingerprint": "C-08|100683|GANGBUK_24_128|same:GANGBUK_24_128|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_129",
+   "groupKey": "coord:GANGBUK_24_128",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_128, GANGBUK_24_129, GANGBUK_24_130",
+   "fingerprint": "C-08|100683|GANGBUK_24_129|coord:GANGBUK_24_128|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_129",
+   "groupKey": "same:GANGBUK_24_128",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_128, GANGBUK_24_129, GANGBUK_24_130",
+   "fingerprint": "C-08|100683|GANGBUK_24_129|same:GANGBUK_24_128|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_130",
+   "groupKey": "coord:GANGBUK_24_128",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_128, GANGBUK_24_129, GANGBUK_24_130",
+   "fingerprint": "C-08|100683|GANGBUK_24_130|coord:GANGBUK_24_128|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_130",
+   "groupKey": "same:GANGBUK_24_128",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_128, GANGBUK_24_129, GANGBUK_24_130",
+   "fingerprint": "C-08|100683|GANGBUK_24_130|same:GANGBUK_24_128|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_134",
+   "groupKey": "coord:GANGBUK_24_1",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: GANGBUK_24_1, GANGBUK_24_134, GANGBUK_24_2, GANGBUK_24_3, GANGBUK_24_4",
+   "fingerprint": "C-08|100683|GANGBUK_24_134|coord:GANGBUK_24_1|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_135",
+   "groupKey": "coord:GANGBUK_24_135",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_135, GANGBUK_24_173",
+   "fingerprint": "C-08|100683|GANGBUK_24_135|coord:GANGBUK_24_135|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_136",
+   "groupKey": "coord:GANGBUK_24_136",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_136, GANGBUK_24_137",
+   "fingerprint": "C-08|100683|GANGBUK_24_136|coord:GANGBUK_24_136|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_136",
+   "groupKey": "same:GANGBUK_24_136",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_136, GANGBUK_24_137",
+   "fingerprint": "C-08|100683|GANGBUK_24_136|same:GANGBUK_24_136|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_137",
+   "groupKey": "coord:GANGBUK_24_136",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_136, GANGBUK_24_137",
+   "fingerprint": "C-08|100683|GANGBUK_24_137|coord:GANGBUK_24_136|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_137",
+   "groupKey": "same:GANGBUK_24_136",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_136, GANGBUK_24_137",
+   "fingerprint": "C-08|100683|GANGBUK_24_137|same:GANGBUK_24_136|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_14",
+   "groupKey": "coord:GANGBUK_24_14",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_14, GANGBUK_24_15, GANGBUK_24_16, GANGBUK_24_17",
+   "fingerprint": "C-08|100683|GANGBUK_24_14|coord:GANGBUK_24_14|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_14",
+   "groupKey": "same:GANGBUK_24_14",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_14, GANGBUK_24_15",
+   "fingerprint": "C-08|100683|GANGBUK_24_14|same:GANGBUK_24_14|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_146",
+   "groupKey": "coord:GANGBUK_24_146",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_146, GANGBUK_24_83",
+   "fingerprint": "C-08|100683|GANGBUK_24_146|coord:GANGBUK_24_146|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_147",
+   "groupKey": "coord:GANGBUK_24_147",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_147, GANGBUK_24_159",
+   "fingerprint": "C-08|100683|GANGBUK_24_147|coord:GANGBUK_24_147|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_148",
+   "groupKey": "coord:GANGBUK_24_148",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_148, GANGBUK_24_158",
+   "fingerprint": "C-08|100683|GANGBUK_24_148|coord:GANGBUK_24_148|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_15",
+   "groupKey": "coord:GANGBUK_24_14",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_14, GANGBUK_24_15, GANGBUK_24_16, GANGBUK_24_17",
+   "fingerprint": "C-08|100683|GANGBUK_24_15|coord:GANGBUK_24_14|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_15",
+   "groupKey": "same:GANGBUK_24_14",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_14, GANGBUK_24_15",
+   "fingerprint": "C-08|100683|GANGBUK_24_15|same:GANGBUK_24_14|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_151",
+   "groupKey": "coord:GANGBUK_24_151",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_151, GANGBUK_24_152, GANGBUK_24_153, GANGBUK_24_154",
+   "fingerprint": "C-08|100683|GANGBUK_24_151|coord:GANGBUK_24_151|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_151",
+   "groupKey": "same:GANGBUK_24_151",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_151, GANGBUK_24_152, GANGBUK_24_153, GANGBUK_24_154",
+   "fingerprint": "C-08|100683|GANGBUK_24_151|same:GANGBUK_24_151|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_152",
+   "groupKey": "coord:GANGBUK_24_151",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_151, GANGBUK_24_152, GANGBUK_24_153, GANGBUK_24_154",
+   "fingerprint": "C-08|100683|GANGBUK_24_152|coord:GANGBUK_24_151|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_152",
+   "groupKey": "same:GANGBUK_24_151",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_151, GANGBUK_24_152, GANGBUK_24_153, GANGBUK_24_154",
+   "fingerprint": "C-08|100683|GANGBUK_24_152|same:GANGBUK_24_151|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_153",
+   "groupKey": "coord:GANGBUK_24_151",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_151, GANGBUK_24_152, GANGBUK_24_153, GANGBUK_24_154",
+   "fingerprint": "C-08|100683|GANGBUK_24_153|coord:GANGBUK_24_151|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_153",
+   "groupKey": "same:GANGBUK_24_151",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_151, GANGBUK_24_152, GANGBUK_24_153, GANGBUK_24_154",
+   "fingerprint": "C-08|100683|GANGBUK_24_153|same:GANGBUK_24_151|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_154",
+   "groupKey": "coord:GANGBUK_24_151",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_151, GANGBUK_24_152, GANGBUK_24_153, GANGBUK_24_154",
+   "fingerprint": "C-08|100683|GANGBUK_24_154|coord:GANGBUK_24_151|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_154",
+   "groupKey": "same:GANGBUK_24_151",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_151, GANGBUK_24_152, GANGBUK_24_153, GANGBUK_24_154",
+   "fingerprint": "C-08|100683|GANGBUK_24_154|same:GANGBUK_24_151|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_158",
+   "groupKey": "coord:GANGBUK_24_148",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_148, GANGBUK_24_158",
+   "fingerprint": "C-08|100683|GANGBUK_24_158|coord:GANGBUK_24_148|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_159",
+   "groupKey": "coord:GANGBUK_24_147",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_147, GANGBUK_24_159",
+   "fingerprint": "C-08|100683|GANGBUK_24_159|coord:GANGBUK_24_147|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_16",
+   "groupKey": "coord:GANGBUK_24_14",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_14, GANGBUK_24_15, GANGBUK_24_16, GANGBUK_24_17",
+   "fingerprint": "C-08|100683|GANGBUK_24_16|coord:GANGBUK_24_14|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_16",
+   "groupKey": "same:GANGBUK_24_16",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_16, GANGBUK_24_17",
+   "fingerprint": "C-08|100683|GANGBUK_24_16|same:GANGBUK_24_16|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_160",
+   "groupKey": "coord:GANGBUK_24_160",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_160, GANGBUK_24_161, GANGBUK_24_162",
+   "fingerprint": "C-08|100683|GANGBUK_24_160|coord:GANGBUK_24_160|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_160",
+   "groupKey": "same:GANGBUK_24_160",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_160, GANGBUK_24_161",
+   "fingerprint": "C-08|100683|GANGBUK_24_160|same:GANGBUK_24_160|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_161",
+   "groupKey": "coord:GANGBUK_24_160",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_160, GANGBUK_24_161, GANGBUK_24_162",
+   "fingerprint": "C-08|100683|GANGBUK_24_161|coord:GANGBUK_24_160|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_161",
+   "groupKey": "same:GANGBUK_24_160",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_160, GANGBUK_24_161",
+   "fingerprint": "C-08|100683|GANGBUK_24_161|same:GANGBUK_24_160|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_162",
+   "groupKey": "coord:GANGBUK_24_160",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_160, GANGBUK_24_161, GANGBUK_24_162",
+   "fingerprint": "C-08|100683|GANGBUK_24_162|coord:GANGBUK_24_160|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_164",
+   "groupKey": "coord:GANGBUK_24_164",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_164, GANGBUK_24_166, GANGBUK_24_167, GANGBUK_24_168",
+   "fingerprint": "C-08|100683|GANGBUK_24_164|coord:GANGBUK_24_164|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_166",
+   "groupKey": "coord:GANGBUK_24_164",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_164, GANGBUK_24_166, GANGBUK_24_167, GANGBUK_24_168",
+   "fingerprint": "C-08|100683|GANGBUK_24_166|coord:GANGBUK_24_164|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_166",
+   "groupKey": "same:GANGBUK_24_166",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_166, GANGBUK_24_167, GANGBUK_24_168",
+   "fingerprint": "C-08|100683|GANGBUK_24_166|same:GANGBUK_24_166|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_167",
+   "groupKey": "coord:GANGBUK_24_164",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_164, GANGBUK_24_166, GANGBUK_24_167, GANGBUK_24_168",
+   "fingerprint": "C-08|100683|GANGBUK_24_167|coord:GANGBUK_24_164|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_167",
+   "groupKey": "same:GANGBUK_24_166",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_166, GANGBUK_24_167, GANGBUK_24_168",
+   "fingerprint": "C-08|100683|GANGBUK_24_167|same:GANGBUK_24_166|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_168",
+   "groupKey": "coord:GANGBUK_24_164",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_164, GANGBUK_24_166, GANGBUK_24_167, GANGBUK_24_168",
+   "fingerprint": "C-08|100683|GANGBUK_24_168|coord:GANGBUK_24_164|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_168",
+   "groupKey": "same:GANGBUK_24_166",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_166, GANGBUK_24_167, GANGBUK_24_168",
+   "fingerprint": "C-08|100683|GANGBUK_24_168|same:GANGBUK_24_166|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_17",
+   "groupKey": "coord:GANGBUK_24_14",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_14, GANGBUK_24_15, GANGBUK_24_16, GANGBUK_24_17",
+   "fingerprint": "C-08|100683|GANGBUK_24_17|coord:GANGBUK_24_14|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_17",
+   "groupKey": "same:GANGBUK_24_16",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_16, GANGBUK_24_17",
+   "fingerprint": "C-08|100683|GANGBUK_24_17|same:GANGBUK_24_16|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_170",
+   "groupKey": "coord:GANGBUK_24_170",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_170, GANGBUK_24_171, GANGBUK_24_172",
+   "fingerprint": "C-08|100683|GANGBUK_24_170|coord:GANGBUK_24_170|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_170",
+   "groupKey": "same:GANGBUK_24_170",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_170, GANGBUK_24_171, GANGBUK_24_172",
+   "fingerprint": "C-08|100683|GANGBUK_24_170|same:GANGBUK_24_170|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_171",
+   "groupKey": "coord:GANGBUK_24_170",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_170, GANGBUK_24_171, GANGBUK_24_172",
+   "fingerprint": "C-08|100683|GANGBUK_24_171|coord:GANGBUK_24_170|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_171",
+   "groupKey": "same:GANGBUK_24_170",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_170, GANGBUK_24_171, GANGBUK_24_172",
+   "fingerprint": "C-08|100683|GANGBUK_24_171|same:GANGBUK_24_170|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_172",
+   "groupKey": "coord:GANGBUK_24_170",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_170, GANGBUK_24_171, GANGBUK_24_172",
+   "fingerprint": "C-08|100683|GANGBUK_24_172|coord:GANGBUK_24_170|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_172",
+   "groupKey": "same:GANGBUK_24_170",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_170, GANGBUK_24_171, GANGBUK_24_172",
+   "fingerprint": "C-08|100683|GANGBUK_24_172|same:GANGBUK_24_170|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_173",
+   "groupKey": "coord:GANGBUK_24_135",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_135, GANGBUK_24_173",
+   "fingerprint": "C-08|100683|GANGBUK_24_173|coord:GANGBUK_24_135|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_175",
+   "groupKey": "coord:GANGBUK_24_175",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_175, GANGBUK_24_176, GANGBUK_24_177, GANGBUK_24_178",
+   "fingerprint": "C-08|100683|GANGBUK_24_175|coord:GANGBUK_24_175|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_175",
+   "groupKey": "same:GANGBUK_24_175",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_175, GANGBUK_24_176, GANGBUK_24_177, GANGBUK_24_178",
+   "fingerprint": "C-08|100683|GANGBUK_24_175|same:GANGBUK_24_175|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_176",
+   "groupKey": "coord:GANGBUK_24_175",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_175, GANGBUK_24_176, GANGBUK_24_177, GANGBUK_24_178",
+   "fingerprint": "C-08|100683|GANGBUK_24_176|coord:GANGBUK_24_175|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_176",
+   "groupKey": "same:GANGBUK_24_175",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_175, GANGBUK_24_176, GANGBUK_24_177, GANGBUK_24_178",
+   "fingerprint": "C-08|100683|GANGBUK_24_176|same:GANGBUK_24_175|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_177",
+   "groupKey": "coord:GANGBUK_24_175",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_175, GANGBUK_24_176, GANGBUK_24_177, GANGBUK_24_178",
+   "fingerprint": "C-08|100683|GANGBUK_24_177|coord:GANGBUK_24_175|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_177",
+   "groupKey": "same:GANGBUK_24_175",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_175, GANGBUK_24_176, GANGBUK_24_177, GANGBUK_24_178",
+   "fingerprint": "C-08|100683|GANGBUK_24_177|same:GANGBUK_24_175|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_178",
+   "groupKey": "coord:GANGBUK_24_175",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_175, GANGBUK_24_176, GANGBUK_24_177, GANGBUK_24_178",
+   "fingerprint": "C-08|100683|GANGBUK_24_178|coord:GANGBUK_24_175|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_178",
+   "groupKey": "same:GANGBUK_24_175",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_175, GANGBUK_24_176, GANGBUK_24_177, GANGBUK_24_178",
+   "fingerprint": "C-08|100683|GANGBUK_24_178|same:GANGBUK_24_175|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_179",
+   "groupKey": "coord:GANGBUK_24_179",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 6건 있습니다: GANGBUK_24_179, GANGBUK_24_184, GANGBUK_24_185, GANGBUK_24_186, GANGBUK_24_187 외 1건",
+   "fingerprint": "C-08|100683|GANGBUK_24_179|coord:GANGBUK_24_179|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_180",
+   "groupKey": "coord:GANGBUK_24_180",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_180, GANGBUK_24_181",
+   "fingerprint": "C-08|100683|GANGBUK_24_180|coord:GANGBUK_24_180|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_180",
+   "groupKey": "same:GANGBUK_24_180",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_180, GANGBUK_24_181",
+   "fingerprint": "C-08|100683|GANGBUK_24_180|same:GANGBUK_24_180|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_181",
+   "groupKey": "coord:GANGBUK_24_180",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_180, GANGBUK_24_181",
+   "fingerprint": "C-08|100683|GANGBUK_24_181|coord:GANGBUK_24_180|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_181",
+   "groupKey": "same:GANGBUK_24_180",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_180, GANGBUK_24_181",
+   "fingerprint": "C-08|100683|GANGBUK_24_181|same:GANGBUK_24_180|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_184",
+   "groupKey": "coord:GANGBUK_24_179",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 6건 있습니다: GANGBUK_24_179, GANGBUK_24_184, GANGBUK_24_185, GANGBUK_24_186, GANGBUK_24_187 외 1건",
+   "fingerprint": "C-08|100683|GANGBUK_24_184|coord:GANGBUK_24_179|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_184",
+   "groupKey": "same:GANGBUK_24_184",
+   "message": "ID만 다르고 내용이 같은 행이 5건 있습니다: GANGBUK_24_184, GANGBUK_24_185, GANGBUK_24_186, GANGBUK_24_187, GANGBUK_24_188",
+   "fingerprint": "C-08|100683|GANGBUK_24_184|same:GANGBUK_24_184|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_185",
+   "groupKey": "coord:GANGBUK_24_179",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 6건 있습니다: GANGBUK_24_179, GANGBUK_24_184, GANGBUK_24_185, GANGBUK_24_186, GANGBUK_24_187 외 1건",
+   "fingerprint": "C-08|100683|GANGBUK_24_185|coord:GANGBUK_24_179|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_185",
+   "groupKey": "same:GANGBUK_24_184",
+   "message": "ID만 다르고 내용이 같은 행이 5건 있습니다: GANGBUK_24_184, GANGBUK_24_185, GANGBUK_24_186, GANGBUK_24_187, GANGBUK_24_188",
+   "fingerprint": "C-08|100683|GANGBUK_24_185|same:GANGBUK_24_184|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_186",
+   "groupKey": "coord:GANGBUK_24_179",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 6건 있습니다: GANGBUK_24_179, GANGBUK_24_184, GANGBUK_24_185, GANGBUK_24_186, GANGBUK_24_187 외 1건",
+   "fingerprint": "C-08|100683|GANGBUK_24_186|coord:GANGBUK_24_179|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_186",
+   "groupKey": "same:GANGBUK_24_184",
+   "message": "ID만 다르고 내용이 같은 행이 5건 있습니다: GANGBUK_24_184, GANGBUK_24_185, GANGBUK_24_186, GANGBUK_24_187, GANGBUK_24_188",
+   "fingerprint": "C-08|100683|GANGBUK_24_186|same:GANGBUK_24_184|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_187",
+   "groupKey": "coord:GANGBUK_24_179",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 6건 있습니다: GANGBUK_24_179, GANGBUK_24_184, GANGBUK_24_185, GANGBUK_24_186, GANGBUK_24_187 외 1건",
+   "fingerprint": "C-08|100683|GANGBUK_24_187|coord:GANGBUK_24_179|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_187",
+   "groupKey": "same:GANGBUK_24_184",
+   "message": "ID만 다르고 내용이 같은 행이 5건 있습니다: GANGBUK_24_184, GANGBUK_24_185, GANGBUK_24_186, GANGBUK_24_187, GANGBUK_24_188",
+   "fingerprint": "C-08|100683|GANGBUK_24_187|same:GANGBUK_24_184|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_188",
+   "groupKey": "coord:GANGBUK_24_179",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 6건 있습니다: GANGBUK_24_179, GANGBUK_24_184, GANGBUK_24_185, GANGBUK_24_186, GANGBUK_24_187 외 1건",
+   "fingerprint": "C-08|100683|GANGBUK_24_188|coord:GANGBUK_24_179|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_188",
+   "groupKey": "same:GANGBUK_24_184",
+   "message": "ID만 다르고 내용이 같은 행이 5건 있습니다: GANGBUK_24_184, GANGBUK_24_185, GANGBUK_24_186, GANGBUK_24_187, GANGBUK_24_188",
+   "fingerprint": "C-08|100683|GANGBUK_24_188|same:GANGBUK_24_184|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_191",
+   "groupKey": "coord:GANGBUK_24_191",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_191, GANGBUK_24_66",
+   "fingerprint": "C-08|100683|GANGBUK_24_191|coord:GANGBUK_24_191|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_192",
+   "groupKey": "coord:GANGBUK_24_192",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_192, GANGBUK_24_302",
+   "fingerprint": "C-08|100683|GANGBUK_24_192|coord:GANGBUK_24_192|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_196",
+   "groupKey": "coord:GANGBUK_24_196",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_196, GANGBUK_24_197",
+   "fingerprint": "C-08|100683|GANGBUK_24_196|coord:GANGBUK_24_196|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_196",
+   "groupKey": "same:GANGBUK_24_196",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_196, GANGBUK_24_197",
+   "fingerprint": "C-08|100683|GANGBUK_24_196|same:GANGBUK_24_196|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_197",
+   "groupKey": "coord:GANGBUK_24_196",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_196, GANGBUK_24_197",
+   "fingerprint": "C-08|100683|GANGBUK_24_197|coord:GANGBUK_24_196|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_197",
+   "groupKey": "same:GANGBUK_24_196",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_196, GANGBUK_24_197",
+   "fingerprint": "C-08|100683|GANGBUK_24_197|same:GANGBUK_24_196|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_198",
+   "groupKey": "coord:GANGBUK_24_198",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_198, GANGBUK_24_199, GANGBUK_24_200, GANGBUK_24_201",
+   "fingerprint": "C-08|100683|GANGBUK_24_198|coord:GANGBUK_24_198|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_199",
+   "groupKey": "coord:GANGBUK_24_198",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_198, GANGBUK_24_199, GANGBUK_24_200, GANGBUK_24_201",
+   "fingerprint": "C-08|100683|GANGBUK_24_199|coord:GANGBUK_24_198|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_199",
+   "groupKey": "same:GANGBUK_24_199",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_199, GANGBUK_24_200, GANGBUK_24_201",
+   "fingerprint": "C-08|100683|GANGBUK_24_199|same:GANGBUK_24_199|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_2",
+   "groupKey": "coord:GANGBUK_24_1",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: GANGBUK_24_1, GANGBUK_24_134, GANGBUK_24_2, GANGBUK_24_3, GANGBUK_24_4",
+   "fingerprint": "C-08|100683|GANGBUK_24_2|coord:GANGBUK_24_1|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_2",
+   "groupKey": "same:GANGBUK_24_1",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_1, GANGBUK_24_2, GANGBUK_24_3, GANGBUK_24_4",
+   "fingerprint": "C-08|100683|GANGBUK_24_2|same:GANGBUK_24_1|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_200",
+   "groupKey": "coord:GANGBUK_24_198",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_198, GANGBUK_24_199, GANGBUK_24_200, GANGBUK_24_201",
+   "fingerprint": "C-08|100683|GANGBUK_24_200|coord:GANGBUK_24_198|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_200",
+   "groupKey": "same:GANGBUK_24_199",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_199, GANGBUK_24_200, GANGBUK_24_201",
+   "fingerprint": "C-08|100683|GANGBUK_24_200|same:GANGBUK_24_199|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_201",
+   "groupKey": "coord:GANGBUK_24_198",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_198, GANGBUK_24_199, GANGBUK_24_200, GANGBUK_24_201",
+   "fingerprint": "C-08|100683|GANGBUK_24_201|coord:GANGBUK_24_198|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_201",
+   "groupKey": "same:GANGBUK_24_199",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_199, GANGBUK_24_200, GANGBUK_24_201",
+   "fingerprint": "C-08|100683|GANGBUK_24_201|same:GANGBUK_24_199|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_202",
+   "groupKey": "coord:GANGBUK_24_202",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_202, GANGBUK_24_221",
+   "fingerprint": "C-08|100683|GANGBUK_24_202|coord:GANGBUK_24_202|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_208",
+   "groupKey": "coord:GANGBUK_24_208",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_208, GANGBUK_24_209",
+   "fingerprint": "C-08|100683|GANGBUK_24_208|coord:GANGBUK_24_208|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_208",
+   "groupKey": "same:GANGBUK_24_208",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_208, GANGBUK_24_209",
+   "fingerprint": "C-08|100683|GANGBUK_24_208|same:GANGBUK_24_208|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_209",
+   "groupKey": "coord:GANGBUK_24_208",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_208, GANGBUK_24_209",
+   "fingerprint": "C-08|100683|GANGBUK_24_209|coord:GANGBUK_24_208|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_209",
+   "groupKey": "same:GANGBUK_24_208",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_208, GANGBUK_24_209",
+   "fingerprint": "C-08|100683|GANGBUK_24_209|same:GANGBUK_24_208|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_210",
+   "groupKey": "coord:GANGBUK_24_210",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_210, GANGBUK_24_396",
+   "fingerprint": "C-08|100683|GANGBUK_24_210|coord:GANGBUK_24_210|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_212",
+   "groupKey": "coord:GANGBUK_24_212",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_212, GANGBUK_24_213",
+   "fingerprint": "C-08|100683|GANGBUK_24_212|coord:GANGBUK_24_212|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_212",
+   "groupKey": "same:GANGBUK_24_212",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_212, GANGBUK_24_213",
+   "fingerprint": "C-08|100683|GANGBUK_24_212|same:GANGBUK_24_212|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_213",
+   "groupKey": "coord:GANGBUK_24_212",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_212, GANGBUK_24_213",
+   "fingerprint": "C-08|100683|GANGBUK_24_213|coord:GANGBUK_24_212|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_213",
+   "groupKey": "same:GANGBUK_24_212",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_212, GANGBUK_24_213",
+   "fingerprint": "C-08|100683|GANGBUK_24_213|same:GANGBUK_24_212|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_214",
+   "groupKey": "coord:GANGBUK_24_214",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_214, GANGBUK_24_215, GANGBUK_24_216",
+   "fingerprint": "C-08|100683|GANGBUK_24_214|coord:GANGBUK_24_214|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_214",
+   "groupKey": "same:GANGBUK_24_214",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_214, GANGBUK_24_215, GANGBUK_24_216",
+   "fingerprint": "C-08|100683|GANGBUK_24_214|same:GANGBUK_24_214|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_215",
+   "groupKey": "coord:GANGBUK_24_214",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_214, GANGBUK_24_215, GANGBUK_24_216",
+   "fingerprint": "C-08|100683|GANGBUK_24_215|coord:GANGBUK_24_214|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_215",
+   "groupKey": "same:GANGBUK_24_214",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_214, GANGBUK_24_215, GANGBUK_24_216",
+   "fingerprint": "C-08|100683|GANGBUK_24_215|same:GANGBUK_24_214|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_216",
+   "groupKey": "coord:GANGBUK_24_214",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_214, GANGBUK_24_215, GANGBUK_24_216",
+   "fingerprint": "C-08|100683|GANGBUK_24_216|coord:GANGBUK_24_214|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_216",
+   "groupKey": "same:GANGBUK_24_214",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_214, GANGBUK_24_215, GANGBUK_24_216",
+   "fingerprint": "C-08|100683|GANGBUK_24_216|same:GANGBUK_24_214|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_218",
+   "groupKey": "coord:GANGBUK_24_218",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_218, GANGBUK_24_219, GANGBUK_24_220",
+   "fingerprint": "C-08|100683|GANGBUK_24_218|coord:GANGBUK_24_218|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_218",
+   "groupKey": "same:GANGBUK_24_218",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_218, GANGBUK_24_219, GANGBUK_24_220",
+   "fingerprint": "C-08|100683|GANGBUK_24_218|same:GANGBUK_24_218|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_219",
+   "groupKey": "coord:GANGBUK_24_218",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_218, GANGBUK_24_219, GANGBUK_24_220",
+   "fingerprint": "C-08|100683|GANGBUK_24_219|coord:GANGBUK_24_218|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_219",
+   "groupKey": "same:GANGBUK_24_218",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_218, GANGBUK_24_219, GANGBUK_24_220",
+   "fingerprint": "C-08|100683|GANGBUK_24_219|same:GANGBUK_24_218|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_220",
+   "groupKey": "coord:GANGBUK_24_218",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_218, GANGBUK_24_219, GANGBUK_24_220",
+   "fingerprint": "C-08|100683|GANGBUK_24_220|coord:GANGBUK_24_218|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_220",
+   "groupKey": "same:GANGBUK_24_218",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_218, GANGBUK_24_219, GANGBUK_24_220",
+   "fingerprint": "C-08|100683|GANGBUK_24_220|same:GANGBUK_24_218|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_221",
+   "groupKey": "coord:GANGBUK_24_202",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_202, GANGBUK_24_221",
+   "fingerprint": "C-08|100683|GANGBUK_24_221|coord:GANGBUK_24_202|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_222",
+   "groupKey": "coord:GANGBUK_24_222",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_222, GANGBUK_24_223",
+   "fingerprint": "C-08|100683|GANGBUK_24_222|coord:GANGBUK_24_222|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_222",
+   "groupKey": "same:GANGBUK_24_222",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_222, GANGBUK_24_223",
+   "fingerprint": "C-08|100683|GANGBUK_24_222|same:GANGBUK_24_222|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_223",
+   "groupKey": "coord:GANGBUK_24_222",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_222, GANGBUK_24_223",
+   "fingerprint": "C-08|100683|GANGBUK_24_223|coord:GANGBUK_24_222|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_223",
+   "groupKey": "same:GANGBUK_24_222",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_222, GANGBUK_24_223",
+   "fingerprint": "C-08|100683|GANGBUK_24_223|same:GANGBUK_24_222|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_227",
+   "groupKey": "coord:GANGBUK_24_227",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_227, GANGBUK_24_264, GANGBUK_24_265",
+   "fingerprint": "C-08|100683|GANGBUK_24_227|coord:GANGBUK_24_227|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_228",
+   "groupKey": "coord:GANGBUK_24_228",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_228, GANGBUK_24_229",
+   "fingerprint": "C-08|100683|GANGBUK_24_228|coord:GANGBUK_24_228|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_228",
+   "groupKey": "same:GANGBUK_24_228",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_228, GANGBUK_24_229",
+   "fingerprint": "C-08|100683|GANGBUK_24_228|same:GANGBUK_24_228|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_229",
+   "groupKey": "coord:GANGBUK_24_228",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_228, GANGBUK_24_229",
+   "fingerprint": "C-08|100683|GANGBUK_24_229|coord:GANGBUK_24_228|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_229",
+   "groupKey": "same:GANGBUK_24_228",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_228, GANGBUK_24_229",
+   "fingerprint": "C-08|100683|GANGBUK_24_229|same:GANGBUK_24_228|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_232",
+   "groupKey": "coord:GANGBUK_24_232",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_232, GANGBUK_24_233",
+   "fingerprint": "C-08|100683|GANGBUK_24_232|coord:GANGBUK_24_232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_232",
+   "groupKey": "same:GANGBUK_24_232",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_232, GANGBUK_24_233",
+   "fingerprint": "C-08|100683|GANGBUK_24_232|same:GANGBUK_24_232|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_233",
+   "groupKey": "coord:GANGBUK_24_232",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_232, GANGBUK_24_233",
+   "fingerprint": "C-08|100683|GANGBUK_24_233|coord:GANGBUK_24_232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_233",
+   "groupKey": "same:GANGBUK_24_232",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_232, GANGBUK_24_233",
+   "fingerprint": "C-08|100683|GANGBUK_24_233|same:GANGBUK_24_232|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_235",
+   "groupKey": "coord:GANGBUK_24_235",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_235, GANGBUK_24_236, GANGBUK_24_237",
+   "fingerprint": "C-08|100683|GANGBUK_24_235|coord:GANGBUK_24_235|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_235",
+   "groupKey": "same:GANGBUK_24_235",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_235, GANGBUK_24_236, GANGBUK_24_237",
+   "fingerprint": "C-08|100683|GANGBUK_24_235|same:GANGBUK_24_235|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_236",
+   "groupKey": "coord:GANGBUK_24_235",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_235, GANGBUK_24_236, GANGBUK_24_237",
+   "fingerprint": "C-08|100683|GANGBUK_24_236|coord:GANGBUK_24_235|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_236",
+   "groupKey": "same:GANGBUK_24_235",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_235, GANGBUK_24_236, GANGBUK_24_237",
+   "fingerprint": "C-08|100683|GANGBUK_24_236|same:GANGBUK_24_235|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_237",
+   "groupKey": "coord:GANGBUK_24_235",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_235, GANGBUK_24_236, GANGBUK_24_237",
+   "fingerprint": "C-08|100683|GANGBUK_24_237|coord:GANGBUK_24_235|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_237",
+   "groupKey": "same:GANGBUK_24_235",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_235, GANGBUK_24_236, GANGBUK_24_237",
+   "fingerprint": "C-08|100683|GANGBUK_24_237|same:GANGBUK_24_235|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_248",
+   "groupKey": "coord:GANGBUK_24_248",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_248, GANGBUK_24_351, GANGBUK_24_72",
+   "fingerprint": "C-08|100683|GANGBUK_24_248|coord:GANGBUK_24_248|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_252",
+   "groupKey": "coord:GANGBUK_24_252",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_252, GANGBUK_24_254",
+   "fingerprint": "C-08|100683|GANGBUK_24_252|coord:GANGBUK_24_252|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_254",
+   "groupKey": "coord:GANGBUK_24_252",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_252, GANGBUK_24_254",
+   "fingerprint": "C-08|100683|GANGBUK_24_254|coord:GANGBUK_24_252|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_255",
+   "groupKey": "coord:GANGBUK_24_255",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_255, GANGBUK_24_256, GANGBUK_24_257, GANGBUK_24_258",
+   "fingerprint": "C-08|100683|GANGBUK_24_255|coord:GANGBUK_24_255|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_255",
+   "groupKey": "same:GANGBUK_24_255",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_255, GANGBUK_24_256, GANGBUK_24_257, GANGBUK_24_258",
+   "fingerprint": "C-08|100683|GANGBUK_24_255|same:GANGBUK_24_255|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_256",
+   "groupKey": "coord:GANGBUK_24_255",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_255, GANGBUK_24_256, GANGBUK_24_257, GANGBUK_24_258",
+   "fingerprint": "C-08|100683|GANGBUK_24_256|coord:GANGBUK_24_255|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_256",
+   "groupKey": "same:GANGBUK_24_255",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_255, GANGBUK_24_256, GANGBUK_24_257, GANGBUK_24_258",
+   "fingerprint": "C-08|100683|GANGBUK_24_256|same:GANGBUK_24_255|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_257",
+   "groupKey": "coord:GANGBUK_24_255",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_255, GANGBUK_24_256, GANGBUK_24_257, GANGBUK_24_258",
+   "fingerprint": "C-08|100683|GANGBUK_24_257|coord:GANGBUK_24_255|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_257",
+   "groupKey": "same:GANGBUK_24_255",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_255, GANGBUK_24_256, GANGBUK_24_257, GANGBUK_24_258",
+   "fingerprint": "C-08|100683|GANGBUK_24_257|same:GANGBUK_24_255|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_258",
+   "groupKey": "coord:GANGBUK_24_255",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_255, GANGBUK_24_256, GANGBUK_24_257, GANGBUK_24_258",
+   "fingerprint": "C-08|100683|GANGBUK_24_258|coord:GANGBUK_24_255|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_258",
+   "groupKey": "same:GANGBUK_24_255",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_255, GANGBUK_24_256, GANGBUK_24_257, GANGBUK_24_258",
+   "fingerprint": "C-08|100683|GANGBUK_24_258|same:GANGBUK_24_255|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_262",
+   "groupKey": "coord:GANGBUK_24_262",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_262, GANGBUK_24_263",
+   "fingerprint": "C-08|100683|GANGBUK_24_262|coord:GANGBUK_24_262|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_262",
+   "groupKey": "same:GANGBUK_24_262",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_262, GANGBUK_24_263",
+   "fingerprint": "C-08|100683|GANGBUK_24_262|same:GANGBUK_24_262|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_263",
+   "groupKey": "coord:GANGBUK_24_262",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_262, GANGBUK_24_263",
+   "fingerprint": "C-08|100683|GANGBUK_24_263|coord:GANGBUK_24_262|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_263",
+   "groupKey": "same:GANGBUK_24_262",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_262, GANGBUK_24_263",
+   "fingerprint": "C-08|100683|GANGBUK_24_263|same:GANGBUK_24_262|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_264",
+   "groupKey": "coord:GANGBUK_24_227",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_227, GANGBUK_24_264, GANGBUK_24_265",
+   "fingerprint": "C-08|100683|GANGBUK_24_264|coord:GANGBUK_24_227|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_264",
+   "groupKey": "same:GANGBUK_24_264",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_264, GANGBUK_24_265",
+   "fingerprint": "C-08|100683|GANGBUK_24_264|same:GANGBUK_24_264|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_265",
+   "groupKey": "coord:GANGBUK_24_227",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_227, GANGBUK_24_264, GANGBUK_24_265",
+   "fingerprint": "C-08|100683|GANGBUK_24_265|coord:GANGBUK_24_227|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_265",
+   "groupKey": "same:GANGBUK_24_264",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_264, GANGBUK_24_265",
+   "fingerprint": "C-08|100683|GANGBUK_24_265|same:GANGBUK_24_264|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_267",
+   "groupKey": "coord:GANGBUK_24_267",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_267, GANGBUK_24_283",
+   "fingerprint": "C-08|100683|GANGBUK_24_267|coord:GANGBUK_24_267|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_268",
+   "groupKey": "coord:GANGBUK_24_268",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_268, GANGBUK_24_269",
+   "fingerprint": "C-08|100683|GANGBUK_24_268|coord:GANGBUK_24_268|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_268",
+   "groupKey": "same:GANGBUK_24_268",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_268, GANGBUK_24_269",
+   "fingerprint": "C-08|100683|GANGBUK_24_268|same:GANGBUK_24_268|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_269",
+   "groupKey": "coord:GANGBUK_24_268",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_268, GANGBUK_24_269",
+   "fingerprint": "C-08|100683|GANGBUK_24_269|coord:GANGBUK_24_268|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_269",
+   "groupKey": "same:GANGBUK_24_268",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_268, GANGBUK_24_269",
+   "fingerprint": "C-08|100683|GANGBUK_24_269|same:GANGBUK_24_268|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_271",
+   "groupKey": "coord:GANGBUK_24_271",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_271, GANGBUK_24_272, GANGBUK_24_273",
+   "fingerprint": "C-08|100683|GANGBUK_24_271|coord:GANGBUK_24_271|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_271",
+   "groupKey": "same:GANGBUK_24_271",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_271, GANGBUK_24_272, GANGBUK_24_273",
+   "fingerprint": "C-08|100683|GANGBUK_24_271|same:GANGBUK_24_271|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_272",
+   "groupKey": "coord:GANGBUK_24_271",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_271, GANGBUK_24_272, GANGBUK_24_273",
+   "fingerprint": "C-08|100683|GANGBUK_24_272|coord:GANGBUK_24_271|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_272",
+   "groupKey": "same:GANGBUK_24_271",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_271, GANGBUK_24_272, GANGBUK_24_273",
+   "fingerprint": "C-08|100683|GANGBUK_24_272|same:GANGBUK_24_271|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_273",
+   "groupKey": "coord:GANGBUK_24_271",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_271, GANGBUK_24_272, GANGBUK_24_273",
+   "fingerprint": "C-08|100683|GANGBUK_24_273|coord:GANGBUK_24_271|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_273",
+   "groupKey": "same:GANGBUK_24_271",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_271, GANGBUK_24_272, GANGBUK_24_273",
+   "fingerprint": "C-08|100683|GANGBUK_24_273|same:GANGBUK_24_271|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_275",
+   "groupKey": "coord:GANGBUK_24_275",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_275, GANGBUK_24_276, GANGBUK_24_277, GANGBUK_24_278",
+   "fingerprint": "C-08|100683|GANGBUK_24_275|coord:GANGBUK_24_275|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_275",
+   "groupKey": "same:GANGBUK_24_275",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_275, GANGBUK_24_276, GANGBUK_24_277, GANGBUK_24_278",
+   "fingerprint": "C-08|100683|GANGBUK_24_275|same:GANGBUK_24_275|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_276",
+   "groupKey": "coord:GANGBUK_24_275",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_275, GANGBUK_24_276, GANGBUK_24_277, GANGBUK_24_278",
+   "fingerprint": "C-08|100683|GANGBUK_24_276|coord:GANGBUK_24_275|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_276",
+   "groupKey": "same:GANGBUK_24_275",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_275, GANGBUK_24_276, GANGBUK_24_277, GANGBUK_24_278",
+   "fingerprint": "C-08|100683|GANGBUK_24_276|same:GANGBUK_24_275|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_277",
+   "groupKey": "coord:GANGBUK_24_275",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_275, GANGBUK_24_276, GANGBUK_24_277, GANGBUK_24_278",
+   "fingerprint": "C-08|100683|GANGBUK_24_277|coord:GANGBUK_24_275|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_277",
+   "groupKey": "same:GANGBUK_24_275",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_275, GANGBUK_24_276, GANGBUK_24_277, GANGBUK_24_278",
+   "fingerprint": "C-08|100683|GANGBUK_24_277|same:GANGBUK_24_275|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_278",
+   "groupKey": "coord:GANGBUK_24_275",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_275, GANGBUK_24_276, GANGBUK_24_277, GANGBUK_24_278",
+   "fingerprint": "C-08|100683|GANGBUK_24_278|coord:GANGBUK_24_275|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_278",
+   "groupKey": "same:GANGBUK_24_275",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_275, GANGBUK_24_276, GANGBUK_24_277, GANGBUK_24_278",
+   "fingerprint": "C-08|100683|GANGBUK_24_278|same:GANGBUK_24_275|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_283",
+   "groupKey": "coord:GANGBUK_24_267",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_267, GANGBUK_24_283",
+   "fingerprint": "C-08|100683|GANGBUK_24_283|coord:GANGBUK_24_267|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_284",
+   "groupKey": "coord:GANGBUK_24_284",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_284, GANGBUK_24_285",
+   "fingerprint": "C-08|100683|GANGBUK_24_284|coord:GANGBUK_24_284|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_285",
+   "groupKey": "coord:GANGBUK_24_284",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_284, GANGBUK_24_285",
+   "fingerprint": "C-08|100683|GANGBUK_24_285|coord:GANGBUK_24_284|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_286",
+   "groupKey": "coord:GANGBUK_24_286",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_286, GANGBUK_24_287, GANGBUK_24_288, GANGBUK_24_289",
+   "fingerprint": "C-08|100683|GANGBUK_24_286|coord:GANGBUK_24_286|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_286",
+   "groupKey": "same:GANGBUK_24_286",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_286, GANGBUK_24_287, GANGBUK_24_288, GANGBUK_24_289",
+   "fingerprint": "C-08|100683|GANGBUK_24_286|same:GANGBUK_24_286|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_287",
+   "groupKey": "coord:GANGBUK_24_286",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_286, GANGBUK_24_287, GANGBUK_24_288, GANGBUK_24_289",
+   "fingerprint": "C-08|100683|GANGBUK_24_287|coord:GANGBUK_24_286|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_287",
+   "groupKey": "same:GANGBUK_24_286",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_286, GANGBUK_24_287, GANGBUK_24_288, GANGBUK_24_289",
+   "fingerprint": "C-08|100683|GANGBUK_24_287|same:GANGBUK_24_286|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_288",
+   "groupKey": "coord:GANGBUK_24_286",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_286, GANGBUK_24_287, GANGBUK_24_288, GANGBUK_24_289",
+   "fingerprint": "C-08|100683|GANGBUK_24_288|coord:GANGBUK_24_286|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_288",
+   "groupKey": "same:GANGBUK_24_286",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_286, GANGBUK_24_287, GANGBUK_24_288, GANGBUK_24_289",
+   "fingerprint": "C-08|100683|GANGBUK_24_288|same:GANGBUK_24_286|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_289",
+   "groupKey": "coord:GANGBUK_24_286",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_286, GANGBUK_24_287, GANGBUK_24_288, GANGBUK_24_289",
+   "fingerprint": "C-08|100683|GANGBUK_24_289|coord:GANGBUK_24_286|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_289",
+   "groupKey": "same:GANGBUK_24_286",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_286, GANGBUK_24_287, GANGBUK_24_288, GANGBUK_24_289",
+   "fingerprint": "C-08|100683|GANGBUK_24_289|same:GANGBUK_24_286|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_294",
+   "groupKey": "coord:GANGBUK_24_294",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_294, GANGBUK_24_295",
+   "fingerprint": "C-08|100683|GANGBUK_24_294|coord:GANGBUK_24_294|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_294",
+   "groupKey": "same:GANGBUK_24_294",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_294, GANGBUK_24_295",
+   "fingerprint": "C-08|100683|GANGBUK_24_294|same:GANGBUK_24_294|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_295",
+   "groupKey": "coord:GANGBUK_24_294",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_294, GANGBUK_24_295",
+   "fingerprint": "C-08|100683|GANGBUK_24_295|coord:GANGBUK_24_294|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_295",
+   "groupKey": "same:GANGBUK_24_294",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_294, GANGBUK_24_295",
+   "fingerprint": "C-08|100683|GANGBUK_24_295|same:GANGBUK_24_294|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_297",
+   "groupKey": "coord:GANGBUK_24_297",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_297, GANGBUK_24_298, GANGBUK_24_299",
+   "fingerprint": "C-08|100683|GANGBUK_24_297|coord:GANGBUK_24_297|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_297",
+   "groupKey": "same:GANGBUK_24_297",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_297, GANGBUK_24_298, GANGBUK_24_299",
+   "fingerprint": "C-08|100683|GANGBUK_24_297|same:GANGBUK_24_297|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_298",
+   "groupKey": "coord:GANGBUK_24_297",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_297, GANGBUK_24_298, GANGBUK_24_299",
+   "fingerprint": "C-08|100683|GANGBUK_24_298|coord:GANGBUK_24_297|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_298",
+   "groupKey": "same:GANGBUK_24_297",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_297, GANGBUK_24_298, GANGBUK_24_299",
+   "fingerprint": "C-08|100683|GANGBUK_24_298|same:GANGBUK_24_297|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_299",
+   "groupKey": "coord:GANGBUK_24_297",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_297, GANGBUK_24_298, GANGBUK_24_299",
+   "fingerprint": "C-08|100683|GANGBUK_24_299|coord:GANGBUK_24_297|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_299",
+   "groupKey": "same:GANGBUK_24_297",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_297, GANGBUK_24_298, GANGBUK_24_299",
+   "fingerprint": "C-08|100683|GANGBUK_24_299|same:GANGBUK_24_297|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_3",
+   "groupKey": "coord:GANGBUK_24_1",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: GANGBUK_24_1, GANGBUK_24_134, GANGBUK_24_2, GANGBUK_24_3, GANGBUK_24_4",
+   "fingerprint": "C-08|100683|GANGBUK_24_3|coord:GANGBUK_24_1|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_3",
+   "groupKey": "same:GANGBUK_24_1",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_1, GANGBUK_24_2, GANGBUK_24_3, GANGBUK_24_4",
+   "fingerprint": "C-08|100683|GANGBUK_24_3|same:GANGBUK_24_1|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_302",
+   "groupKey": "coord:GANGBUK_24_192",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_192, GANGBUK_24_302",
+   "fingerprint": "C-08|100683|GANGBUK_24_302|coord:GANGBUK_24_192|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_304",
+   "groupKey": "coord:GANGBUK_24_103",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_103, GANGBUK_24_104, GANGBUK_24_304",
+   "fingerprint": "C-08|100683|GANGBUK_24_304|coord:GANGBUK_24_103|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_305",
+   "groupKey": "coord:GANGBUK_24_305",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_305, GANGBUK_24_306",
+   "fingerprint": "C-08|100683|GANGBUK_24_305|coord:GANGBUK_24_305|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_305",
+   "groupKey": "same:GANGBUK_24_305",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_305, GANGBUK_24_306",
+   "fingerprint": "C-08|100683|GANGBUK_24_305|same:GANGBUK_24_305|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_306",
+   "groupKey": "coord:GANGBUK_24_305",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_305, GANGBUK_24_306",
+   "fingerprint": "C-08|100683|GANGBUK_24_306|coord:GANGBUK_24_305|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_306",
+   "groupKey": "same:GANGBUK_24_305",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_305, GANGBUK_24_306",
+   "fingerprint": "C-08|100683|GANGBUK_24_306|same:GANGBUK_24_305|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_308",
+   "groupKey": "coord:GANGBUK_24_308",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_308, GANGBUK_24_310, GANGBUK_24_311",
+   "fingerprint": "C-08|100683|GANGBUK_24_308|coord:GANGBUK_24_308|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_31",
+   "groupKey": "coord:GANGBUK_24_31",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_31, GANGBUK_24_32, GANGBUK_24_33",
+   "fingerprint": "C-08|100683|GANGBUK_24_31|coord:GANGBUK_24_31|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_31",
+   "groupKey": "same:GANGBUK_24_31",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_31, GANGBUK_24_32, GANGBUK_24_33",
+   "fingerprint": "C-08|100683|GANGBUK_24_31|same:GANGBUK_24_31|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_310",
+   "groupKey": "coord:GANGBUK_24_308",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_308, GANGBUK_24_310, GANGBUK_24_311",
+   "fingerprint": "C-08|100683|GANGBUK_24_310|coord:GANGBUK_24_308|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_310",
+   "groupKey": "same:GANGBUK_24_310",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_310, GANGBUK_24_311",
+   "fingerprint": "C-08|100683|GANGBUK_24_310|same:GANGBUK_24_310|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_311",
+   "groupKey": "coord:GANGBUK_24_308",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_308, GANGBUK_24_310, GANGBUK_24_311",
+   "fingerprint": "C-08|100683|GANGBUK_24_311|coord:GANGBUK_24_308|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_311",
+   "groupKey": "same:GANGBUK_24_310",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_310, GANGBUK_24_311",
+   "fingerprint": "C-08|100683|GANGBUK_24_311|same:GANGBUK_24_310|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_316",
+   "groupKey": "coord:GANGBUK_24_316",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_316, GANGBUK_24_317, GANGBUK_24_318, GANGBUK_24_319",
+   "fingerprint": "C-08|100683|GANGBUK_24_316|coord:GANGBUK_24_316|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_317",
+   "groupKey": "coord:GANGBUK_24_316",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_316, GANGBUK_24_317, GANGBUK_24_318, GANGBUK_24_319",
+   "fingerprint": "C-08|100683|GANGBUK_24_317|coord:GANGBUK_24_316|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_318",
+   "groupKey": "coord:GANGBUK_24_316",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_316, GANGBUK_24_317, GANGBUK_24_318, GANGBUK_24_319",
+   "fingerprint": "C-08|100683|GANGBUK_24_318|coord:GANGBUK_24_316|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_318",
+   "groupKey": "same:GANGBUK_24_318",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_318, GANGBUK_24_319",
+   "fingerprint": "C-08|100683|GANGBUK_24_318|same:GANGBUK_24_318|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_319",
+   "groupKey": "coord:GANGBUK_24_316",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_316, GANGBUK_24_317, GANGBUK_24_318, GANGBUK_24_319",
+   "fingerprint": "C-08|100683|GANGBUK_24_319|coord:GANGBUK_24_316|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_319",
+   "groupKey": "same:GANGBUK_24_318",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_318, GANGBUK_24_319",
+   "fingerprint": "C-08|100683|GANGBUK_24_319|same:GANGBUK_24_318|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_32",
+   "groupKey": "coord:GANGBUK_24_31",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_31, GANGBUK_24_32, GANGBUK_24_33",
+   "fingerprint": "C-08|100683|GANGBUK_24_32|coord:GANGBUK_24_31|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_32",
+   "groupKey": "same:GANGBUK_24_31",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_31, GANGBUK_24_32, GANGBUK_24_33",
+   "fingerprint": "C-08|100683|GANGBUK_24_32|same:GANGBUK_24_31|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_329",
+   "groupKey": "coord:GANGBUK_24_329",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_329|coord:GANGBUK_24_329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_329",
+   "groupKey": "same:GANGBUK_24_329",
+   "message": "ID만 다르고 내용이 같은 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_329|same:GANGBUK_24_329|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_33",
+   "groupKey": "coord:GANGBUK_24_31",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_31, GANGBUK_24_32, GANGBUK_24_33",
+   "fingerprint": "C-08|100683|GANGBUK_24_33|coord:GANGBUK_24_31|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_33",
+   "groupKey": "same:GANGBUK_24_31",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_31, GANGBUK_24_32, GANGBUK_24_33",
+   "fingerprint": "C-08|100683|GANGBUK_24_33|same:GANGBUK_24_31|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_330",
+   "groupKey": "coord:GANGBUK_24_329",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_330|coord:GANGBUK_24_329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_330",
+   "groupKey": "same:GANGBUK_24_329",
+   "message": "ID만 다르고 내용이 같은 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_330|same:GANGBUK_24_329|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_331",
+   "groupKey": "coord:GANGBUK_24_329",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_331|coord:GANGBUK_24_329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_331",
+   "groupKey": "same:GANGBUK_24_329",
+   "message": "ID만 다르고 내용이 같은 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_331|same:GANGBUK_24_329|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_332",
+   "groupKey": "coord:GANGBUK_24_329",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_332|coord:GANGBUK_24_329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_332",
+   "groupKey": "same:GANGBUK_24_329",
+   "message": "ID만 다르고 내용이 같은 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_332|same:GANGBUK_24_329|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_333",
+   "groupKey": "coord:GANGBUK_24_329",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_333|coord:GANGBUK_24_329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_333",
+   "groupKey": "same:GANGBUK_24_329",
+   "message": "ID만 다르고 내용이 같은 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_333|same:GANGBUK_24_329|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_334",
+   "groupKey": "coord:GANGBUK_24_329",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_334|coord:GANGBUK_24_329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_334",
+   "groupKey": "same:GANGBUK_24_329",
+   "message": "ID만 다르고 내용이 같은 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_334|same:GANGBUK_24_329|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_335",
+   "groupKey": "coord:GANGBUK_24_329",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_335|coord:GANGBUK_24_329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_335",
+   "groupKey": "same:GANGBUK_24_329",
+   "message": "ID만 다르고 내용이 같은 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_335|same:GANGBUK_24_329|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_336",
+   "groupKey": "coord:GANGBUK_24_329",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_336|coord:GANGBUK_24_329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_336",
+   "groupKey": "same:GANGBUK_24_329",
+   "message": "ID만 다르고 내용이 같은 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_336|same:GANGBUK_24_329|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_337",
+   "groupKey": "coord:GANGBUK_24_329",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_337|coord:GANGBUK_24_329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_337",
+   "groupKey": "same:GANGBUK_24_329",
+   "message": "ID만 다르고 내용이 같은 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_337|same:GANGBUK_24_329|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_338",
+   "groupKey": "coord:GANGBUK_24_329",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_338|coord:GANGBUK_24_329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_338",
+   "groupKey": "same:GANGBUK_24_329",
+   "message": "ID만 다르고 내용이 같은 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_338|same:GANGBUK_24_329|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_339",
+   "groupKey": "coord:GANGBUK_24_329",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_339|coord:GANGBUK_24_329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_339",
+   "groupKey": "same:GANGBUK_24_329",
+   "message": "ID만 다르고 내용이 같은 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_339|same:GANGBUK_24_329|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_34",
+   "groupKey": "coord:GANGBUK_24_34",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_34, GANGBUK_24_35",
+   "fingerprint": "C-08|100683|GANGBUK_24_34|coord:GANGBUK_24_34|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_34",
+   "groupKey": "same:GANGBUK_24_34",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_34, GANGBUK_24_35",
+   "fingerprint": "C-08|100683|GANGBUK_24_34|same:GANGBUK_24_34|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_340",
+   "groupKey": "coord:GANGBUK_24_329",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_340|coord:GANGBUK_24_329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_340",
+   "groupKey": "same:GANGBUK_24_329",
+   "message": "ID만 다르고 내용이 같은 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_340|same:GANGBUK_24_329|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_341",
+   "groupKey": "coord:GANGBUK_24_329",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_341|coord:GANGBUK_24_329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_341",
+   "groupKey": "same:GANGBUK_24_329",
+   "message": "ID만 다르고 내용이 같은 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_341|same:GANGBUK_24_329|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_342",
+   "groupKey": "coord:GANGBUK_24_329",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_342|coord:GANGBUK_24_329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_342",
+   "groupKey": "same:GANGBUK_24_329",
+   "message": "ID만 다르고 내용이 같은 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_342|same:GANGBUK_24_329|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_343",
+   "groupKey": "coord:GANGBUK_24_329",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_343|coord:GANGBUK_24_329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_343",
+   "groupKey": "same:GANGBUK_24_329",
+   "message": "ID만 다르고 내용이 같은 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_343|same:GANGBUK_24_329|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_344",
+   "groupKey": "coord:GANGBUK_24_329",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_344|coord:GANGBUK_24_329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_344",
+   "groupKey": "same:GANGBUK_24_329",
+   "message": "ID만 다르고 내용이 같은 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_344|same:GANGBUK_24_329|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_345",
+   "groupKey": "coord:GANGBUK_24_329",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_345|coord:GANGBUK_24_329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_345",
+   "groupKey": "same:GANGBUK_24_329",
+   "message": "ID만 다르고 내용이 같은 행이 17건 있습니다: GANGBUK_24_329, GANGBUK_24_330, GANGBUK_24_331, GANGBUK_24_332, GANGBUK_24_333 외 12건",
+   "fingerprint": "C-08|100683|GANGBUK_24_345|same:GANGBUK_24_329|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_348",
+   "groupKey": "coord:GANGBUK_24_348",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_348, GANGBUK_24_349",
+   "fingerprint": "C-08|100683|GANGBUK_24_348|coord:GANGBUK_24_348|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_348",
+   "groupKey": "same:GANGBUK_24_348",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_348, GANGBUK_24_349",
+   "fingerprint": "C-08|100683|GANGBUK_24_348|same:GANGBUK_24_348|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_349",
+   "groupKey": "coord:GANGBUK_24_348",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_348, GANGBUK_24_349",
+   "fingerprint": "C-08|100683|GANGBUK_24_349|coord:GANGBUK_24_348|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_349",
+   "groupKey": "same:GANGBUK_24_348",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_348, GANGBUK_24_349",
+   "fingerprint": "C-08|100683|GANGBUK_24_349|same:GANGBUK_24_348|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_35",
+   "groupKey": "coord:GANGBUK_24_34",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_34, GANGBUK_24_35",
+   "fingerprint": "C-08|100683|GANGBUK_24_35|coord:GANGBUK_24_34|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_35",
+   "groupKey": "same:GANGBUK_24_34",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_34, GANGBUK_24_35",
+   "fingerprint": "C-08|100683|GANGBUK_24_35|same:GANGBUK_24_34|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_351",
+   "groupKey": "coord:GANGBUK_24_248",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_248, GANGBUK_24_351, GANGBUK_24_72",
+   "fingerprint": "C-08|100683|GANGBUK_24_351|coord:GANGBUK_24_248|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_354",
+   "groupKey": "coord:GANGBUK_24_354",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_354, GANGBUK_24_68",
+   "fingerprint": "C-08|100683|GANGBUK_24_354|coord:GANGBUK_24_354|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_357",
+   "groupKey": "coord:GANGBUK_24_357",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_357, GANGBUK_24_358, GANGBUK_24_359",
+   "fingerprint": "C-08|100683|GANGBUK_24_357|coord:GANGBUK_24_357|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_357",
+   "groupKey": "same:GANGBUK_24_357",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_357, GANGBUK_24_358, GANGBUK_24_359",
+   "fingerprint": "C-08|100683|GANGBUK_24_357|same:GANGBUK_24_357|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_358",
+   "groupKey": "coord:GANGBUK_24_357",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_357, GANGBUK_24_358, GANGBUK_24_359",
+   "fingerprint": "C-08|100683|GANGBUK_24_358|coord:GANGBUK_24_357|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_358",
+   "groupKey": "same:GANGBUK_24_357",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_357, GANGBUK_24_358, GANGBUK_24_359",
+   "fingerprint": "C-08|100683|GANGBUK_24_358|same:GANGBUK_24_357|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_359",
+   "groupKey": "coord:GANGBUK_24_357",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_357, GANGBUK_24_358, GANGBUK_24_359",
+   "fingerprint": "C-08|100683|GANGBUK_24_359|coord:GANGBUK_24_357|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_359",
+   "groupKey": "same:GANGBUK_24_357",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_357, GANGBUK_24_358, GANGBUK_24_359",
+   "fingerprint": "C-08|100683|GANGBUK_24_359|same:GANGBUK_24_357|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_366",
+   "groupKey": "coord:GANGBUK_24_366",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: GANGBUK_24_366, GANGBUK_24_367, GANGBUK_24_368, GANGBUK_24_369, GANGBUK_24_370 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_24_366|coord:GANGBUK_24_366|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_366",
+   "groupKey": "same:GANGBUK_24_366",
+   "message": "ID만 다르고 내용이 같은 행이 7건 있습니다: GANGBUK_24_366, GANGBUK_24_367, GANGBUK_24_368, GANGBUK_24_369, GANGBUK_24_370 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_24_366|same:GANGBUK_24_366|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_367",
+   "groupKey": "coord:GANGBUK_24_366",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: GANGBUK_24_366, GANGBUK_24_367, GANGBUK_24_368, GANGBUK_24_369, GANGBUK_24_370 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_24_367|coord:GANGBUK_24_366|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_367",
+   "groupKey": "same:GANGBUK_24_366",
+   "message": "ID만 다르고 내용이 같은 행이 7건 있습니다: GANGBUK_24_366, GANGBUK_24_367, GANGBUK_24_368, GANGBUK_24_369, GANGBUK_24_370 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_24_367|same:GANGBUK_24_366|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_368",
+   "groupKey": "coord:GANGBUK_24_366",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: GANGBUK_24_366, GANGBUK_24_367, GANGBUK_24_368, GANGBUK_24_369, GANGBUK_24_370 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_24_368|coord:GANGBUK_24_366|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_368",
+   "groupKey": "same:GANGBUK_24_366",
+   "message": "ID만 다르고 내용이 같은 행이 7건 있습니다: GANGBUK_24_366, GANGBUK_24_367, GANGBUK_24_368, GANGBUK_24_369, GANGBUK_24_370 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_24_368|same:GANGBUK_24_366|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_369",
+   "groupKey": "coord:GANGBUK_24_366",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: GANGBUK_24_366, GANGBUK_24_367, GANGBUK_24_368, GANGBUK_24_369, GANGBUK_24_370 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_24_369|coord:GANGBUK_24_366|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_369",
+   "groupKey": "same:GANGBUK_24_366",
+   "message": "ID만 다르고 내용이 같은 행이 7건 있습니다: GANGBUK_24_366, GANGBUK_24_367, GANGBUK_24_368, GANGBUK_24_369, GANGBUK_24_370 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_24_369|same:GANGBUK_24_366|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_370",
+   "groupKey": "coord:GANGBUK_24_366",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: GANGBUK_24_366, GANGBUK_24_367, GANGBUK_24_368, GANGBUK_24_369, GANGBUK_24_370 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_24_370|coord:GANGBUK_24_366|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_370",
+   "groupKey": "same:GANGBUK_24_366",
+   "message": "ID만 다르고 내용이 같은 행이 7건 있습니다: GANGBUK_24_366, GANGBUK_24_367, GANGBUK_24_368, GANGBUK_24_369, GANGBUK_24_370 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_24_370|same:GANGBUK_24_366|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_371",
+   "groupKey": "coord:GANGBUK_24_366",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: GANGBUK_24_366, GANGBUK_24_367, GANGBUK_24_368, GANGBUK_24_369, GANGBUK_24_370 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_24_371|coord:GANGBUK_24_366|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_371",
+   "groupKey": "same:GANGBUK_24_366",
+   "message": "ID만 다르고 내용이 같은 행이 7건 있습니다: GANGBUK_24_366, GANGBUK_24_367, GANGBUK_24_368, GANGBUK_24_369, GANGBUK_24_370 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_24_371|same:GANGBUK_24_366|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_372",
+   "groupKey": "coord:GANGBUK_24_366",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: GANGBUK_24_366, GANGBUK_24_367, GANGBUK_24_368, GANGBUK_24_369, GANGBUK_24_370 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_24_372|coord:GANGBUK_24_366|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_372",
+   "groupKey": "same:GANGBUK_24_366",
+   "message": "ID만 다르고 내용이 같은 행이 7건 있습니다: GANGBUK_24_366, GANGBUK_24_367, GANGBUK_24_368, GANGBUK_24_369, GANGBUK_24_370 외 2건",
+   "fingerprint": "C-08|100683|GANGBUK_24_372|same:GANGBUK_24_366|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_377",
+   "groupKey": "coord:GANGBUK_24_377",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_377, GANGBUK_24_378, GANGBUK_24_379",
+   "fingerprint": "C-08|100683|GANGBUK_24_377|coord:GANGBUK_24_377|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_377",
+   "groupKey": "same:GANGBUK_24_377",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_377, GANGBUK_24_378, GANGBUK_24_379",
+   "fingerprint": "C-08|100683|GANGBUK_24_377|same:GANGBUK_24_377|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_378",
+   "groupKey": "coord:GANGBUK_24_377",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_377, GANGBUK_24_378, GANGBUK_24_379",
+   "fingerprint": "C-08|100683|GANGBUK_24_378|coord:GANGBUK_24_377|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_378",
+   "groupKey": "same:GANGBUK_24_377",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_377, GANGBUK_24_378, GANGBUK_24_379",
+   "fingerprint": "C-08|100683|GANGBUK_24_378|same:GANGBUK_24_377|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_379",
+   "groupKey": "coord:GANGBUK_24_377",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_377, GANGBUK_24_378, GANGBUK_24_379",
+   "fingerprint": "C-08|100683|GANGBUK_24_379|coord:GANGBUK_24_377|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_379",
+   "groupKey": "same:GANGBUK_24_377",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_377, GANGBUK_24_378, GANGBUK_24_379",
+   "fingerprint": "C-08|100683|GANGBUK_24_379|same:GANGBUK_24_377|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_38",
+   "groupKey": "coord:GANGBUK_24_38",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_38, GANGBUK_24_39",
+   "fingerprint": "C-08|100683|GANGBUK_24_38|coord:GANGBUK_24_38|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_381",
+   "groupKey": "coord:GANGBUK_24_381",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_381, GANGBUK_24_382",
+   "fingerprint": "C-08|100683|GANGBUK_24_381|coord:GANGBUK_24_381|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_381",
+   "groupKey": "same:GANGBUK_24_381",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_381, GANGBUK_24_382",
+   "fingerprint": "C-08|100683|GANGBUK_24_381|same:GANGBUK_24_381|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_382",
+   "groupKey": "coord:GANGBUK_24_381",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_381, GANGBUK_24_382",
+   "fingerprint": "C-08|100683|GANGBUK_24_382|coord:GANGBUK_24_381|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_382",
+   "groupKey": "same:GANGBUK_24_381",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_381, GANGBUK_24_382",
+   "fingerprint": "C-08|100683|GANGBUK_24_382|same:GANGBUK_24_381|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_386",
+   "groupKey": "coord:GANGBUK_24_386",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_386, GANGBUK_24_387",
+   "fingerprint": "C-08|100683|GANGBUK_24_386|coord:GANGBUK_24_386|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_386",
+   "groupKey": "same:GANGBUK_24_386",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_386, GANGBUK_24_387",
+   "fingerprint": "C-08|100683|GANGBUK_24_386|same:GANGBUK_24_386|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_387",
+   "groupKey": "coord:GANGBUK_24_386",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_386, GANGBUK_24_387",
+   "fingerprint": "C-08|100683|GANGBUK_24_387|coord:GANGBUK_24_386|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_387",
+   "groupKey": "same:GANGBUK_24_386",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_386, GANGBUK_24_387",
+   "fingerprint": "C-08|100683|GANGBUK_24_387|same:GANGBUK_24_386|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_39",
+   "groupKey": "coord:GANGBUK_24_38",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_38, GANGBUK_24_39",
+   "fingerprint": "C-08|100683|GANGBUK_24_39|coord:GANGBUK_24_38|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_393",
+   "groupKey": "coord:GANGBUK_24_393",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_393, GANGBUK_24_394, GANGBUK_24_395",
+   "fingerprint": "C-08|100683|GANGBUK_24_393|coord:GANGBUK_24_393|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_393",
+   "groupKey": "same:GANGBUK_24_393",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_393, GANGBUK_24_394",
+   "fingerprint": "C-08|100683|GANGBUK_24_393|same:GANGBUK_24_393|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_394",
+   "groupKey": "coord:GANGBUK_24_393",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_393, GANGBUK_24_394, GANGBUK_24_395",
+   "fingerprint": "C-08|100683|GANGBUK_24_394|coord:GANGBUK_24_393|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_394",
+   "groupKey": "same:GANGBUK_24_393",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_393, GANGBUK_24_394",
+   "fingerprint": "C-08|100683|GANGBUK_24_394|same:GANGBUK_24_393|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_395",
+   "groupKey": "coord:GANGBUK_24_393",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_393, GANGBUK_24_394, GANGBUK_24_395",
+   "fingerprint": "C-08|100683|GANGBUK_24_395|coord:GANGBUK_24_393|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_396",
+   "groupKey": "coord:GANGBUK_24_210",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_210, GANGBUK_24_396",
+   "fingerprint": "C-08|100683|GANGBUK_24_396|coord:GANGBUK_24_210|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_398",
+   "groupKey": "coord:GANGBUK_24_398",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_398, GANGBUK_24_399",
+   "fingerprint": "C-08|100683|GANGBUK_24_398|coord:GANGBUK_24_398|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_398",
+   "groupKey": "same:GANGBUK_24_398",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_398, GANGBUK_24_399",
+   "fingerprint": "C-08|100683|GANGBUK_24_398|same:GANGBUK_24_398|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_399",
+   "groupKey": "coord:GANGBUK_24_398",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_398, GANGBUK_24_399",
+   "fingerprint": "C-08|100683|GANGBUK_24_399|coord:GANGBUK_24_398|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_399",
+   "groupKey": "same:GANGBUK_24_398",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_398, GANGBUK_24_399",
+   "fingerprint": "C-08|100683|GANGBUK_24_399|same:GANGBUK_24_398|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_4",
+   "groupKey": "coord:GANGBUK_24_1",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: GANGBUK_24_1, GANGBUK_24_134, GANGBUK_24_2, GANGBUK_24_3, GANGBUK_24_4",
+   "fingerprint": "C-08|100683|GANGBUK_24_4|coord:GANGBUK_24_1|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_4",
+   "groupKey": "same:GANGBUK_24_1",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_1, GANGBUK_24_2, GANGBUK_24_3, GANGBUK_24_4",
+   "fingerprint": "C-08|100683|GANGBUK_24_4|same:GANGBUK_24_1|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_42",
+   "groupKey": "coord:GANGBUK_24_42",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 10건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 5건",
+   "fingerprint": "C-08|100683|GANGBUK_24_42|coord:GANGBUK_24_42|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_42",
+   "groupKey": "same:GANGBUK_24_42",
+   "message": "ID만 다르고 내용이 같은 행이 9건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 4건",
+   "fingerprint": "C-08|100683|GANGBUK_24_42|same:GANGBUK_24_42|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_43",
+   "groupKey": "coord:GANGBUK_24_42",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 10건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 5건",
+   "fingerprint": "C-08|100683|GANGBUK_24_43|coord:GANGBUK_24_42|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_43",
+   "groupKey": "same:GANGBUK_24_42",
+   "message": "ID만 다르고 내용이 같은 행이 9건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 4건",
+   "fingerprint": "C-08|100683|GANGBUK_24_43|same:GANGBUK_24_42|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_44",
+   "groupKey": "coord:GANGBUK_24_42",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 10건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 5건",
+   "fingerprint": "C-08|100683|GANGBUK_24_44|coord:GANGBUK_24_42|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_44",
+   "groupKey": "same:GANGBUK_24_42",
+   "message": "ID만 다르고 내용이 같은 행이 9건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 4건",
+   "fingerprint": "C-08|100683|GANGBUK_24_44|same:GANGBUK_24_42|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_45",
+   "groupKey": "coord:GANGBUK_24_42",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 10건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 5건",
+   "fingerprint": "C-08|100683|GANGBUK_24_45|coord:GANGBUK_24_42|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_45",
+   "groupKey": "same:GANGBUK_24_42",
+   "message": "ID만 다르고 내용이 같은 행이 9건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 4건",
+   "fingerprint": "C-08|100683|GANGBUK_24_45|same:GANGBUK_24_42|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_46",
+   "groupKey": "coord:GANGBUK_24_42",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 10건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 5건",
+   "fingerprint": "C-08|100683|GANGBUK_24_46|coord:GANGBUK_24_42|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_46",
+   "groupKey": "same:GANGBUK_24_42",
+   "message": "ID만 다르고 내용이 같은 행이 9건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 4건",
+   "fingerprint": "C-08|100683|GANGBUK_24_46|same:GANGBUK_24_42|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_47",
+   "groupKey": "coord:GANGBUK_24_42",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 10건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 5건",
+   "fingerprint": "C-08|100683|GANGBUK_24_47|coord:GANGBUK_24_42|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_47",
+   "groupKey": "same:GANGBUK_24_42",
+   "message": "ID만 다르고 내용이 같은 행이 9건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 4건",
+   "fingerprint": "C-08|100683|GANGBUK_24_47|same:GANGBUK_24_42|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_48",
+   "groupKey": "coord:GANGBUK_24_42",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 10건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 5건",
+   "fingerprint": "C-08|100683|GANGBUK_24_48|coord:GANGBUK_24_42|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_48",
+   "groupKey": "same:GANGBUK_24_42",
+   "message": "ID만 다르고 내용이 같은 행이 9건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 4건",
+   "fingerprint": "C-08|100683|GANGBUK_24_48|same:GANGBUK_24_42|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_49",
+   "groupKey": "coord:GANGBUK_24_42",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 10건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 5건",
+   "fingerprint": "C-08|100683|GANGBUK_24_49|coord:GANGBUK_24_42|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_49",
+   "groupKey": "same:GANGBUK_24_42",
+   "message": "ID만 다르고 내용이 같은 행이 9건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 4건",
+   "fingerprint": "C-08|100683|GANGBUK_24_49|same:GANGBUK_24_42|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_50",
+   "groupKey": "coord:GANGBUK_24_42",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 10건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 5건",
+   "fingerprint": "C-08|100683|GANGBUK_24_50|coord:GANGBUK_24_42|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_50",
+   "groupKey": "same:GANGBUK_24_42",
+   "message": "ID만 다르고 내용이 같은 행이 9건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 4건",
+   "fingerprint": "C-08|100683|GANGBUK_24_50|same:GANGBUK_24_42|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_51",
+   "groupKey": "coord:GANGBUK_24_42",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 10건 있습니다: GANGBUK_24_42, GANGBUK_24_43, GANGBUK_24_44, GANGBUK_24_45, GANGBUK_24_46 외 5건",
+   "fingerprint": "C-08|100683|GANGBUK_24_51|coord:GANGBUK_24_42|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_57",
+   "groupKey": "coord:GANGBUK_24_57",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_57, GANGBUK_24_58, GANGBUK_24_59",
+   "fingerprint": "C-08|100683|GANGBUK_24_57|coord:GANGBUK_24_57|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_58",
+   "groupKey": "coord:GANGBUK_24_57",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_57, GANGBUK_24_58, GANGBUK_24_59",
+   "fingerprint": "C-08|100683|GANGBUK_24_58|coord:GANGBUK_24_57|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_59",
+   "groupKey": "coord:GANGBUK_24_57",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_57, GANGBUK_24_58, GANGBUK_24_59",
+   "fingerprint": "C-08|100683|GANGBUK_24_59|coord:GANGBUK_24_57|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_62",
+   "groupKey": "coord:GANGBUK_24_62",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_62, GANGBUK_24_63, GANGBUK_24_64, GANGBUK_24_65",
+   "fingerprint": "C-08|100683|GANGBUK_24_62|coord:GANGBUK_24_62|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_62",
+   "groupKey": "same:GANGBUK_24_62",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_62, GANGBUK_24_63, GANGBUK_24_64, GANGBUK_24_65",
+   "fingerprint": "C-08|100683|GANGBUK_24_62|same:GANGBUK_24_62|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_63",
+   "groupKey": "coord:GANGBUK_24_62",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_62, GANGBUK_24_63, GANGBUK_24_64, GANGBUK_24_65",
+   "fingerprint": "C-08|100683|GANGBUK_24_63|coord:GANGBUK_24_62|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_63",
+   "groupKey": "same:GANGBUK_24_62",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_62, GANGBUK_24_63, GANGBUK_24_64, GANGBUK_24_65",
+   "fingerprint": "C-08|100683|GANGBUK_24_63|same:GANGBUK_24_62|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_64",
+   "groupKey": "coord:GANGBUK_24_62",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_62, GANGBUK_24_63, GANGBUK_24_64, GANGBUK_24_65",
+   "fingerprint": "C-08|100683|GANGBUK_24_64|coord:GANGBUK_24_62|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_64",
+   "groupKey": "same:GANGBUK_24_62",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_62, GANGBUK_24_63, GANGBUK_24_64, GANGBUK_24_65",
+   "fingerprint": "C-08|100683|GANGBUK_24_64|same:GANGBUK_24_62|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_65",
+   "groupKey": "coord:GANGBUK_24_62",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_62, GANGBUK_24_63, GANGBUK_24_64, GANGBUK_24_65",
+   "fingerprint": "C-08|100683|GANGBUK_24_65|coord:GANGBUK_24_62|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_65",
+   "groupKey": "same:GANGBUK_24_62",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: GANGBUK_24_62, GANGBUK_24_63, GANGBUK_24_64, GANGBUK_24_65",
+   "fingerprint": "C-08|100683|GANGBUK_24_65|same:GANGBUK_24_62|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_66",
+   "groupKey": "coord:GANGBUK_24_191",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_191, GANGBUK_24_66",
+   "fingerprint": "C-08|100683|GANGBUK_24_66|coord:GANGBUK_24_191|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_68",
+   "groupKey": "coord:GANGBUK_24_354",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_354, GANGBUK_24_68",
+   "fingerprint": "C-08|100683|GANGBUK_24_68|coord:GANGBUK_24_354|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_72",
+   "groupKey": "coord:GANGBUK_24_248",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_248, GANGBUK_24_351, GANGBUK_24_72",
+   "fingerprint": "C-08|100683|GANGBUK_24_72|coord:GANGBUK_24_248|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_75",
+   "groupKey": "coord:GANGBUK_24_75",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_75, GANGBUK_24_76",
+   "fingerprint": "C-08|100683|GANGBUK_24_75|coord:GANGBUK_24_75|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_75",
+   "groupKey": "same:GANGBUK_24_75",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_75, GANGBUK_24_76",
+   "fingerprint": "C-08|100683|GANGBUK_24_75|same:GANGBUK_24_75|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_76",
+   "groupKey": "coord:GANGBUK_24_75",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_75, GANGBUK_24_76",
+   "fingerprint": "C-08|100683|GANGBUK_24_76|coord:GANGBUK_24_75|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_76",
+   "groupKey": "same:GANGBUK_24_75",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_75, GANGBUK_24_76",
+   "fingerprint": "C-08|100683|GANGBUK_24_76|same:GANGBUK_24_75|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_77",
+   "groupKey": "coord:GANGBUK_24_77",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_77, GANGBUK_24_78",
+   "fingerprint": "C-08|100683|GANGBUK_24_77|coord:GANGBUK_24_77|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_78",
+   "groupKey": "coord:GANGBUK_24_77",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_77, GANGBUK_24_78",
+   "fingerprint": "C-08|100683|GANGBUK_24_78|coord:GANGBUK_24_77|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_79",
+   "groupKey": "coord:GANGBUK_24_12",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_12, GANGBUK_24_79",
+   "fingerprint": "C-08|100683|GANGBUK_24_79|coord:GANGBUK_24_12|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_83",
+   "groupKey": "coord:GANGBUK_24_146",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_146, GANGBUK_24_83",
+   "fingerprint": "C-08|100683|GANGBUK_24_83|coord:GANGBUK_24_146|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_84",
+   "groupKey": "coord:GANGBUK_24_84",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_84, GANGBUK_24_85",
+   "fingerprint": "C-08|100683|GANGBUK_24_84|coord:GANGBUK_24_84|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_84",
+   "groupKey": "same:GANGBUK_24_84",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_84, GANGBUK_24_85",
+   "fingerprint": "C-08|100683|GANGBUK_24_84|same:GANGBUK_24_84|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_85",
+   "groupKey": "coord:GANGBUK_24_84",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_84, GANGBUK_24_85",
+   "fingerprint": "C-08|100683|GANGBUK_24_85|coord:GANGBUK_24_84|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_85",
+   "groupKey": "same:GANGBUK_24_84",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_84, GANGBUK_24_85",
+   "fingerprint": "C-08|100683|GANGBUK_24_85|same:GANGBUK_24_84|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_89",
+   "groupKey": "coord:GANGBUK_24_89",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_89, GANGBUK_24_90",
+   "fingerprint": "C-08|100683|GANGBUK_24_89|coord:GANGBUK_24_89|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_89",
+   "groupKey": "same:GANGBUK_24_89",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_89, GANGBUK_24_90",
+   "fingerprint": "C-08|100683|GANGBUK_24_89|same:GANGBUK_24_89|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_90",
+   "groupKey": "coord:GANGBUK_24_89",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_89, GANGBUK_24_90",
+   "fingerprint": "C-08|100683|GANGBUK_24_90|coord:GANGBUK_24_89|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_90",
+   "groupKey": "same:GANGBUK_24_89",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_24_89, GANGBUK_24_90",
+   "fingerprint": "C-08|100683|GANGBUK_24_90|same:GANGBUK_24_89|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_93",
+   "groupKey": "coord:GANGBUK_24_109",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_24_109, GANGBUK_24_93",
+   "fingerprint": "C-08|100683|GANGBUK_24_93|coord:GANGBUK_24_109|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_94",
+   "groupKey": "coord:GANGBUK_24_94",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_94, GANGBUK_24_95, GANGBUK_24_96, GANGBUK_24_97",
+   "fingerprint": "C-08|100683|GANGBUK_24_94|coord:GANGBUK_24_94|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_94",
+   "groupKey": "same:GANGBUK_24_94",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_94, GANGBUK_24_95, GANGBUK_24_96",
+   "fingerprint": "C-08|100683|GANGBUK_24_94|same:GANGBUK_24_94|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_95",
+   "groupKey": "coord:GANGBUK_24_94",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_94, GANGBUK_24_95, GANGBUK_24_96, GANGBUK_24_97",
+   "fingerprint": "C-08|100683|GANGBUK_24_95|coord:GANGBUK_24_94|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_95",
+   "groupKey": "same:GANGBUK_24_94",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_94, GANGBUK_24_95, GANGBUK_24_96",
+   "fingerprint": "C-08|100683|GANGBUK_24_95|same:GANGBUK_24_94|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_96",
+   "groupKey": "coord:GANGBUK_24_94",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_94, GANGBUK_24_95, GANGBUK_24_96, GANGBUK_24_97",
+   "fingerprint": "C-08|100683|GANGBUK_24_96|coord:GANGBUK_24_94|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_96",
+   "groupKey": "same:GANGBUK_24_94",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_94, GANGBUK_24_95, GANGBUK_24_96",
+   "fingerprint": "C-08|100683|GANGBUK_24_96|same:GANGBUK_24_94|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_97",
+   "groupKey": "coord:GANGBUK_24_94",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: GANGBUK_24_94, GANGBUK_24_95, GANGBUK_24_96, GANGBUK_24_97",
+   "fingerprint": "C-08|100683|GANGBUK_24_97|coord:GANGBUK_24_94|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_99",
+   "groupKey": "coord:GANGBUK_24_100",
+   "field": "COT_CONTS_NAME",
+   "value": "자동심장충격기",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: GANGBUK_24_100, GANGBUK_24_101, GANGBUK_24_99",
+   "fingerprint": "C-08|100683|GANGBUK_24_99|coord:GANGBUK_24_100|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_24_99",
+   "groupKey": "same:GANGBUK_24_100",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: GANGBUK_24_100, GANGBUK_24_101, GANGBUK_24_99",
+   "fingerprint": "C-08|100683|GANGBUK_24_99|same:GANGBUK_24_100|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_580",
+   "groupKey": "coord:GANGBUK_25_580",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_25_580, GANGBUK_25_583",
+   "fingerprint": "C-08|100683|GANGBUK_25_580|coord:GANGBUK_25_580|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_580",
+   "groupKey": "same:GANGBUK_25_580",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_25_580, GANGBUK_25_583",
+   "fingerprint": "C-08|100683|GANGBUK_25_580|same:GANGBUK_25_580|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_583",
+   "groupKey": "coord:GANGBUK_25_580",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: GANGBUK_25_580, GANGBUK_25_583",
+   "fingerprint": "C-08|100683|GANGBUK_25_583|coord:GANGBUK_25_580|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_583",
+   "groupKey": "same:GANGBUK_25_580",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: GANGBUK_25_580, GANGBUK_25_583",
+   "fingerprint": "C-08|100683|GANGBUK_25_583|same:GANGBUK_25_580|"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_1",
+   "field": "COT_TEL_NO",
+   "value": "901-2132",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_1||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_10",
+   "field": "COT_TEL_NO",
+   "value": "901-2042",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_10||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_11",
+   "field": "COT_TEL_NO",
+   "value": "901-2232",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_11||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_12",
+   "field": "COT_TEL_NO",
+   "value": "901-59737~40(미아동복합청사) 901-2024~7(미아동주민센터)",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_12||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_13",
+   "field": "COT_TEL_NO",
+   "value": "901-2014",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_13||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_14",
+   "field": "COT_TEL_NO",
+   "value": "901-5937~40",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_14||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_15",
+   "field": "COT_TEL_NO",
+   "value": "901-6114(다산콜센터로 연결)",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_15||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_16",
+   "field": "COT_TEL_NO",
+   "value": "980-0655",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_16||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_17",
+   "field": "COT_TEL_NO",
+   "value": "981-4284",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_17||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_18",
+   "field": "COT_TEL_NO",
+   "value": "983-7395",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_18||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_19",
+   "field": "COT_TEL_NO",
+   "value": "995-0277",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_19||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_2",
+   "field": "COT_TEL_NO",
+   "value": "901-2123",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_2||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_20",
+   "field": "COT_TEL_NO",
+   "value": "981-1567",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_20||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_21",
+   "field": "COT_TEL_NO",
+   "value": "944-4102~7",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_21||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_22",
+   "field": "COT_TEL_NO",
+   "value": "944-4181,-4808",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_22||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_23",
+   "field": "COT_TEL_NO",
+   "value": "944-4171,-4807",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_23||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_24",
+   "field": "COT_TEL_NO",
+   "value": "944-4161,-4806",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_24||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_25",
+   "field": "COT_TEL_NO",
+   "value": "944-4151,-4805",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_25||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_26",
+   "field": "COT_TEL_NO",
+   "value": "944-4141,-4804",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_26||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_27",
+   "field": "COT_TEL_NO",
+   "value": "944-4131,-4803",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_27||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_28",
+   "field": "COT_TEL_NO",
+   "value": "944-4121,-4802",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_28||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_29",
+   "field": "COT_TEL_NO",
+   "value": "944-4111,-4113",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_29||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_3",
+   "field": "COT_TEL_NO",
+   "value": "901-2112",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_3||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_30",
+   "field": "COT_TEL_NO",
+   "value": "902-4400",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_30||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_31",
+   "field": "COT_TEL_NO",
+   "value": "945-1305~6",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_31||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_32",
+   "field": "COT_TEL_NO",
+   "value": "984-5811",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_32||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_33",
+   "field": "COT_TEL_NO",
+   "value": "986-3140",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_33||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_34",
+   "field": "COT_TEL_NO",
+   "value": "6715-6611~4",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_34||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_35",
+   "field": "COT_TEL_NO",
+   "value": "902-1390, 997-9811",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_35||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_36",
+   "field": "COT_TEL_NO",
+   "value": "901-2890",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_36||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_37",
+   "field": "COT_TEL_NO",
+   "value": "950-9880",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_37||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_38",
+   "field": "COT_TEL_NO",
+   "value": "3146-3200",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_38||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_39",
+   "field": "COT_TEL_NO",
+   "value": "984-5414",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_39||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_4",
+   "field": "COT_TEL_NO",
+   "value": "901-2104",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_4||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_40",
+   "field": "COT_TEL_NO",
+   "value": "945-8423",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_40||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_41",
+   "field": "COT_TEL_NO",
+   "value": "994-2007",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_41||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_42",
+   "field": "COT_TEL_NO",
+   "value": "982-0114",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_42||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_43",
+   "field": "COT_TEL_NO",
+   "value": "999-2005",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_43||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_44",
+   "field": "COT_TEL_NO",
+   "value": "992-2117",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_44||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_45",
+   "field": "COT_TEL_NO",
+   "value": "988-2197",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_45||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_46",
+   "field": "COT_TEL_NO",
+   "value": "984-0177",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_46||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_47",
+   "field": "COT_TEL_NO",
+   "value": "903-0031",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_47||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_48",
+   "field": "COT_TEL_NO",
+   "value": "981-0110",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_48||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_49",
+   "field": "COT_TEL_NO",
+   "value": "981-0532",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_49||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_5",
+   "field": "COT_TEL_NO",
+   "value": "901-2094",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_5||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_51",
+   "field": "COT_TEL_NO",
+   "value": "901-6209",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_51||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_52",
+   "field": "COT_TEL_NO",
+   "value": "901-6233",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_52||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_53",
+   "field": "COT_TEL_NO",
+   "value": "901-6222",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_53||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_54",
+   "field": "COT_TEL_NO",
+   "value": "901-6222",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_54||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_55",
+   "field": "COT_TEL_NO",
+   "value": "901-6222",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_55||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_56",
+   "field": "COT_TEL_NO",
+   "value": "901-6222",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_56||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_57",
+   "field": "COT_TEL_NO",
+   "value": "901-6222",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_57||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_58",
+   "field": "COT_TEL_NO",
+   "value": "901-6222",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_58||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_59",
+   "field": "COT_TEL_NO",
+   "value": "901-6222",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_59||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_6",
+   "field": "COT_TEL_NO",
+   "value": "901-2084",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_6||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_7",
+   "field": "COT_TEL_NO",
+   "value": "901-2072~8",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_7||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_8",
+   "field": "COT_TEL_NO",
+   "value": "901-2064",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_8||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_12_9",
+   "field": "COT_TEL_NO",
+   "value": "901-2052",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_12_9||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_13_1",
+   "field": "COT_TEL_NO",
+   "value": "901-0704",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_13_1||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_13_2",
+   "field": "COT_TEL_NO",
+   "value": "901-4803",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_13_2||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_13_3",
+   "field": "COT_TEL_NO",
+   "value": "901-7727",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_13_3||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_14_3",
+   "field": "COT_TEL_NO",
+   "value": "984-5811~3",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_14_3||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_14_5",
+   "field": "COT_TEL_NO",
+   "value": "984-6778",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_14_5||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_14_6",
+   "field": "COT_TEL_NO",
+   "value": "987-5077~8",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_14_6||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_175",
+   "field": "COT_TEL_NO",
+   "value": "981-2808",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_15_175||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_178",
+   "field": "COT_TEL_NO",
+   "value": "981-2442",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_15_178||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_179",
+   "field": "COT_TEL_NO",
+   "value": "983-2828",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_15_179||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_185",
+   "field": "COT_TEL_NO",
+   "value": "981-2876",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_15_185||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_186",
+   "field": "COT_TEL_NO",
+   "value": "987-2221",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_15_186||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_189",
+   "field": "COT_TEL_NO",
+   "value": "998-2888",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_15_189||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_190",
+   "field": "COT_TEL_NO",
+   "value": "986-2804",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_15_190||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_191",
+   "field": "COT_TEL_NO",
+   "value": "3392-5855",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_15_191||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_192",
+   "field": "COT_TEL_NO",
+   "value": "983-6830",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_15_192||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_194",
+   "field": "COT_TEL_NO",
+   "value": "999-2228, 999-0428",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_15_194||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_198",
+   "field": "COT_TEL_NO",
+   "value": "991-2275",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_15_198||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_207",
+   "field": "COT_TEL_NO",
+   "value": "907-0114",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_15_207||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_210",
+   "field": "COT_TEL_NO",
+   "value": "989-2875",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_15_210||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_214",
+   "field": "COT_TEL_NO",
+   "value": "982-0420",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_15_214||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_216",
+   "field": "COT_TEL_NO",
+   "value": "986-8575",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_15_216||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_219",
+   "field": "COT_TEL_NO",
+   "value": "989-7654",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_15_219||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_15_95",
+   "field": "COT_TEL_NO",
+   "value": "6952-3611",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_15_95||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_16_17",
+   "field": "COT_TEL_NO",
+   "value": "02-9863-583",
+   "message": "전화번호: 끝자리가 4자리가 아닙니다.",
+   "fingerprint": "C-10|100683|GANGBUK_16_17||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_16_3",
+   "field": "COT_TEL_NO",
+   "value": "020-6941-0812",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_16_3||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_1",
+   "field": "COT_TEL_NO",
+   "value": "985-7525",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_1||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_10",
+   "field": "COT_TEL_NO",
+   "value": "987-7959",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_10||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_11",
+   "field": "COT_TEL_NO",
+   "value": "982-8698",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_11||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_12",
+   "field": "COT_TEL_NO",
+   "value": "988-0251",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_12||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_13",
+   "field": "COT_TEL_NO",
+   "value": "993-8266",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_13||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_14",
+   "field": "COT_TEL_NO",
+   "value": "985-7598",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_14||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_15",
+   "field": "COT_TEL_NO",
+   "value": "999-9110",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_15||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_16",
+   "field": "COT_TEL_NO",
+   "value": "988-6543",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_16||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_17",
+   "field": "COT_TEL_NO",
+   "value": "990-7588",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_17||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_18",
+   "field": "COT_TEL_NO",
+   "value": "991-4304",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_18||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_19",
+   "field": "COT_TEL_NO",
+   "value": "980-2340",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_19||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_2",
+   "field": "COT_TEL_NO",
+   "value": "998-1785",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_2||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_20",
+   "field": "COT_TEL_NO",
+   "value": "983-7000",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_20||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_21",
+   "field": "COT_TEL_NO",
+   "value": "987-7588",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_21||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_22",
+   "field": "COT_TEL_NO",
+   "value": "984-7588",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_22||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_23",
+   "field": "COT_TEL_NO",
+   "value": "903-7582",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_23||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_24",
+   "field": "COT_TEL_NO",
+   "value": "941-7900",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_24||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_3",
+   "field": "COT_TEL_NO",
+   "value": "903-5525",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_3||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_4",
+   "field": "COT_TEL_NO",
+   "value": "983-8575",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_4||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_5",
+   "field": "COT_TEL_NO",
+   "value": "989-9552",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_5||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_6",
+   "field": "COT_TEL_NO",
+   "value": "988-7582",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_6||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_7",
+   "field": "COT_TEL_NO",
+   "value": "989-8275",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_7||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_8",
+   "field": "COT_TEL_NO",
+   "value": "996-1007",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_8||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_17_9",
+   "field": "COT_TEL_NO",
+   "value": "907-1565",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_17_9||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_1",
+   "field": "COT_TEL_NO",
+   "value": "982-0088",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_1||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_10",
+   "field": "COT_TEL_NO",
+   "value": "980-1163",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_10||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_11",
+   "field": "COT_TEL_NO",
+   "value": "902-1112",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_11||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_12",
+   "field": "COT_TEL_NO",
+   "value": "987-1484",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_12||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_13",
+   "field": "COT_TEL_NO",
+   "value": "902-3311",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_13||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_17",
+   "field": "COT_TEL_NO",
+   "value": "945-7999",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_17||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_19",
+   "field": "COT_TEL_NO",
+   "value": "902-9470",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_19||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_2",
+   "field": "COT_TEL_NO",
+   "value": "989-4040",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_2||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_20",
+   "field": "COT_TEL_NO",
+   "value": "989-9806",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_20||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_21",
+   "field": "COT_TEL_NO",
+   "value": "907-9496",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_21||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_22",
+   "field": "COT_TEL_NO",
+   "value": "907-5182",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_22||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_23",
+   "field": "COT_TEL_NO",
+   "value": "980-1448",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_23||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_24",
+   "field": "COT_TEL_NO",
+   "value": "908-3320",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_24||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_29",
+   "field": "COT_TEL_NO",
+   "value": "994-4458",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_29||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_3",
+   "field": "COT_TEL_NO",
+   "value": "3491-3100",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_3||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_30",
+   "field": "COT_TEL_NO",
+   "value": "982-8855",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_30||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_7",
+   "field": "COT_TEL_NO",
+   "value": "981-1441",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_7||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_8",
+   "field": "COT_TEL_NO",
+   "value": "988-4433",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_8||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_19_9",
+   "field": "COT_TEL_NO",
+   "value": "988-5565",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_19_9||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_1_1",
+   "field": "COT_TEL_NO",
+   "value": "999-9179",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_1_1||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_20_1",
+   "field": "COT_TEL_NO",
+   "value": "6946-0251",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_20_1||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_20_2",
+   "field": "COT_TEL_NO",
+   "value": "6946-0253",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_20_2||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_20_3",
+   "field": "COT_TEL_NO",
+   "value": "6946-0525",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_20_3||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_20_4",
+   "field": "COT_TEL_NO",
+   "value": "6946-0119",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_20_4||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_174",
+   "field": "COT_TEL_NO",
+   "value": "901-2134",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_25_174||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_176",
+   "field": "COT_TEL_NO",
+   "value": "901-2134",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_25_176||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_178",
+   "field": "COT_TEL_NO",
+   "value": "901-2134",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_25_178||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_179",
+   "field": "COT_TEL_NO",
+   "value": "901-2134",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_25_179||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_210",
+   "field": "COT_TEL_NO",
+   "value": "901-2105",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_25_210||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_211",
+   "field": "COT_TEL_NO",
+   "value": "901-2105",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_25_211||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_213",
+   "field": "COT_TEL_NO",
+   "value": "901-2105",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_25_213||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_215",
+   "field": "COT_TEL_NO",
+   "value": "901-2105",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_25_215||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_218",
+   "field": "COT_TEL_NO",
+   "value": "901-2105",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_25_218||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_219",
+   "field": "COT_TEL_NO",
+   "value": "901-2105",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_25_219||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_275",
+   "field": "COT_TEL_NO",
+   "value": "987-6854",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_25_275||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_316",
+   "field": "COT_TEL_NO",
+   "value": "901-2234",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_25_316||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_320",
+   "field": "COT_TEL_NO",
+   "value": "901-2234",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_25_320||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_321",
+   "field": "COT_TEL_NO",
+   "value": "901-2234",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_25_321||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_322",
+   "field": "COT_TEL_NO",
+   "value": "901-2234",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_25_322||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_325",
+   "field": "COT_TEL_NO",
+   "value": "901-2234",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_25_325||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_332",
+   "field": "COT_TEL_NO",
+   "value": "984-0064",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_25_332||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_25_333",
+   "field": "COT_TEL_NO",
+   "value": "987-3008",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_25_333||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_2_1",
+   "field": "COT_TEL_NO",
+   "value": "988-9456~7",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_2_1||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_2_2",
+   "field": "COT_TEL_NO",
+   "value": "986-9988",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_2_2||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_5_1",
+   "field": "COT_TEL_NO",
+   "value": "989-4214",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_5_1||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_6_1",
+   "field": "COT_TEL_NO",
+   "value": "987-2023",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_6_1||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_6_2",
+   "field": "COT_TEL_NO",
+   "value": "983-4321",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_6_2||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_6_3",
+   "field": "COT_TEL_NO",
+   "value": "987-5161",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_6_3||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_6_4",
+   "field": "COT_TEL_NO",
+   "value": "981-2022",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_6_4||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_7_1",
+   "field": "COT_TEL_NO",
+   "value": "901-6644",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_7_1||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_9_1",
+   "field": "COT_TEL_NO",
+   "value": "900-1987",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_9_1||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_9_4",
+   "field": "COT_TEL_NO",
+   "value": "6497-1318",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_9_4||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_9_5",
+   "field": "COT_TEL_NO",
+   "value": "994-3152",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_9_5||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "GANGBUK_9_6",
+   "field": "COT_TEL_NO",
+   "value": "986-2882",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100683|GANGBUK_9_6||COT_TEL_NO"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "themeId": "11103398",
+ "rulesetVersion": 1,
+ "contentHash": "71fe5aa1ff2fc6538a23105219eff41047e39f8b5eb2e7faaa1d96865f2a7627",
+ "findings": [
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "ID000118",
+   "field": "COT_TEL_NO",
+   "value": "02-21485-5013",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|11103398|ID000118||COT_TEL_NO"
+  }
+ ]
+}

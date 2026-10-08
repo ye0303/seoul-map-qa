@@ -1,0 +1,467 @@
+{
+ "themeId": "1669595282433",
+ "rulesetVersion": 1,
+ "contentHash": "ade32bf35da8341e5955b61096ae614597b3d7d0fd383af64d83030a5c9a5a18",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025102900148",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025102900148||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025110200088",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025110200088||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025110400178",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025110400178||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025110900041",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025110900041||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025111100142",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025111100142||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025111100221",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025111100221||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025111100224",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025111100224||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025111200048",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025111200048||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025111200050",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025111200050||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025111200051",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025111200051||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025111200056",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025111200056||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025111200060",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025111200060||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025111300184",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025111300184||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025111400156",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025111400156||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025111400184",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025111400184||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025111500050",
+   "field": "COT_GU_NAME",
+   "suggestion": "마포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025111500050||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025111800113",
+   "field": "COT_GU_NAME",
+   "suggestion": "마포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025111800113||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025111900045",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025111900045||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025112100156",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025112100156||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025112100158",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025112100158||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025112200018",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025112200018||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025112600098",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025112600098||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025112800084",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025112800084||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025112800088",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025112800088||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025120200007",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025120200007||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025120400009",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025120400009||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025120400011",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025120400011||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025120400015",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025120400015||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025120500150",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025120500150||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2025121200095",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|2025121200095||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "3AF44F1C05B6F753E063A6022162731A",
+   "field": "COT_GU_NAME",
+   "suggestion": "마포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|3AF44F1C05B6F753E063A6022162731A||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "영등포구_031",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1669595282433|영등포구_031||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "송파구_022",
+   "field": "COT_TEL_NO",
+   "value": "O",
+   "message": "전화번호: 번호가 없습니다.",
+   "fingerprint": "C-10|1669595282433|송파구_022||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "양천구_001",
+   "field": "COT_TEL_NO",
+   "value": "2696-8825",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1669595282433|양천구_001||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "양천구_002",
+   "field": "COT_TEL_NO",
+   "value": "2602-5515",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1669595282433|양천구_002||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "양천구_003",
+   "field": "COT_TEL_NO",
+   "value": "2608-0592",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1669595282433|양천구_003||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "양천구_004",
+   "field": "COT_TEL_NO",
+   "value": "2694-8302",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1669595282433|양천구_004||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "양천구_005",
+   "field": "COT_TEL_NO",
+   "value": "2649-0112",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1669595282433|양천구_005||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "양천구_006",
+   "field": "COT_TEL_NO",
+   "value": "2643-8006",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1669595282433|양천구_006||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "양천구_007",
+   "field": "COT_TEL_NO",
+   "value": "2699-6974",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1669595282433|양천구_007||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "양천구_008",
+   "field": "COT_TEL_NO",
+   "value": "2655-1233",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1669595282433|양천구_008||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "양천구_009",
+   "field": "COT_TEL_NO",
+   "value": "6014-2929",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1669595282433|양천구_009||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "양천구_026",
+   "field": "COT_TEL_NO",
+   "value": "2646-3101",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1669595282433|양천구_026||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "양천구_028",
+   "field": "COT_TEL_NO",
+   "value": "2602-0723",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1669595282433|양천구_028||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "양천구_029",
+   "field": "COT_TEL_NO",
+   "value": "2605-5057",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1669595282433|양천구_029||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "양천구_031",
+   "field": "COT_TEL_NO",
+   "value": "2643-9595",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1669595282433|양천구_031||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "양천구_032",
+   "field": "COT_TEL_NO",
+   "value": "2604-1999",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1669595282433|양천구_032||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "양천구_033",
+   "field": "COT_TEL_NO",
+   "value": "2691-1116",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1669595282433|양천구_033||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "양천구_034",
+   "field": "COT_TEL_NO",
+   "value": "2695-2074",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1669595282433|양천구_034||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "영등포구_027",
+   "field": "COT_TEL_NO",
+   "value": "841-7608",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1669595282433|영등포구_027||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-12",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "/smgis2/file/ucimgs/conts/1669595282433/4인.png",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1669595282433/4인.png",
+   "message": "654건 중 613건이 같은 대표 이미지를 씁니다.",
+   "fingerprint": "C-12|1669595282433||/smgis2/file/ucimgs/conts/1669595282433/4인.png|COT_IMG_MAIN_URL"
+  }
+ ]
+}

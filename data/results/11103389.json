@@ -1,0 +1,3531 @@
+{
+ "themeId": "11103389",
+ "rulesetVersion": 1,
+ "contentHash": "a84a6a877812bd1f3b0971f2a782889dfdc7d1459b845a7a56adad8d03b99511",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103389_1782883048366",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|11103389_1782883048366||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-109",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-109||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-115",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-115||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-116",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-116||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-117",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-117||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-124",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-124||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-125",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-125||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-134",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-134||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-148",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-148||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-149",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-149||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-150",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-150||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-152",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-152||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-153",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-153||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-154",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-154||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-155",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-155||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-156",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-156||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-157",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-157||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-158",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-158||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-159",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-159||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-160",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-160||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-161",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-161||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-162",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-162||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-163",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-163||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-39",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-39||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-42",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-42||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-77",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-77||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-78",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-78||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-85",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-85||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-87",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-87||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구-88",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103389|강동구-88||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-11",
+   "groupKey": "coord:강남구-11",
+   "field": "COT_CONTS_NAME",
+   "value": "까치공원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강남구-11, 강남구-138",
+   "fingerprint": "C-08|11103389|강남구-11|coord:강남구-11|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-119",
+   "groupKey": "coord:강남구-119",
+   "field": "COT_CONTS_NAME",
+   "value": "래미안대치하이스턴",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 강남구-119, 강남구-120, 강남구-121",
+   "fingerprint": "C-08|11103389|강남구-119|coord:강남구-119|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-120",
+   "groupKey": "coord:강남구-119",
+   "field": "COT_CONTS_NAME",
+   "value": "래미안대치하이스턴",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 강남구-119, 강남구-120, 강남구-121",
+   "fingerprint": "C-08|11103389|강남구-120|coord:강남구-119|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-121",
+   "groupKey": "coord:강남구-119",
+   "field": "COT_CONTS_NAME",
+   "value": "래미안대치하이스턴",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 강남구-119, 강남구-120, 강남구-121",
+   "fingerprint": "C-08|11103389|강남구-121|coord:강남구-119|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-138",
+   "groupKey": "coord:강남구-11",
+   "field": "COT_CONTS_NAME",
+   "value": "까치공원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강남구-11, 강남구-138",
+   "fingerprint": "C-08|11103389|강남구-138|coord:강남구-11|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-151",
+   "groupKey": "coord:강남구-151",
+   "field": "COT_CONTS_NAME",
+   "value": "역삼래미안",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강남구-151, 강남구-152",
+   "fingerprint": "C-08|11103389|강남구-151|coord:강남구-151|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-151",
+   "groupKey": "same:강남구-151",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 강남구-151, 강남구-152",
+   "fingerprint": "C-08|11103389|강남구-151|same:강남구-151|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-152",
+   "groupKey": "coord:강남구-151",
+   "field": "COT_CONTS_NAME",
+   "value": "역삼래미안",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강남구-151, 강남구-152",
+   "fingerprint": "C-08|11103389|강남구-152|coord:강남구-151|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-152",
+   "groupKey": "same:강남구-151",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 강남구-151, 강남구-152",
+   "fingerprint": "C-08|11103389|강남구-152|same:강남구-151|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-154",
+   "groupKey": "coord:강남구-154",
+   "field": "COT_CONTS_NAME",
+   "value": "역삼푸르지오",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강남구-154, 강남구-155",
+   "fingerprint": "C-08|11103389|강남구-154|coord:강남구-154|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-154",
+   "groupKey": "same:강남구-154",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 강남구-154, 강남구-155",
+   "fingerprint": "C-08|11103389|강남구-154|same:강남구-154|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-155",
+   "groupKey": "coord:강남구-154",
+   "field": "COT_CONTS_NAME",
+   "value": "역삼푸르지오",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강남구-154, 강남구-155",
+   "fingerprint": "C-08|11103389|강남구-155|coord:강남구-154|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-155",
+   "groupKey": "same:강남구-154",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 강남구-154, 강남구-155",
+   "fingerprint": "C-08|11103389|강남구-155|same:강남구-154|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-163",
+   "groupKey": "coord:강남구-163",
+   "field": "COT_CONTS_NAME",
+   "value": "개나리SK뷰",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 강남구-163, 강남구-164, 강남구-165",
+   "fingerprint": "C-08|11103389|강남구-163|coord:강남구-163|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-163",
+   "groupKey": "same:강남구-163",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 강남구-163, 강남구-164, 강남구-165",
+   "fingerprint": "C-08|11103389|강남구-163|same:강남구-163|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-164",
+   "groupKey": "coord:강남구-163",
+   "field": "COT_CONTS_NAME",
+   "value": "개나리SK뷰",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 강남구-163, 강남구-164, 강남구-165",
+   "fingerprint": "C-08|11103389|강남구-164|coord:강남구-163|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-164",
+   "groupKey": "same:강남구-163",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 강남구-163, 강남구-164, 강남구-165",
+   "fingerprint": "C-08|11103389|강남구-164|same:강남구-163|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-165",
+   "groupKey": "coord:강남구-163",
+   "field": "COT_CONTS_NAME",
+   "value": "개나리SK뷰",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 강남구-163, 강남구-164, 강남구-165",
+   "fingerprint": "C-08|11103389|강남구-165|coord:강남구-163|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-165",
+   "groupKey": "same:강남구-163",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 강남구-163, 강남구-164, 강남구-165",
+   "fingerprint": "C-08|11103389|강남구-165|same:강남구-163|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-215",
+   "groupKey": "coord:강남구-215",
+   "field": "COT_CONTS_NAME",
+   "value": "개포6단지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강남구-215, 강남구-216",
+   "fingerprint": "C-08|11103389|강남구-215|coord:강남구-215|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-216",
+   "groupKey": "coord:강남구-215",
+   "field": "COT_CONTS_NAME",
+   "value": "개포7단지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강남구-215, 강남구-216",
+   "fingerprint": "C-08|11103389|강남구-216|coord:강남구-215|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-235",
+   "groupKey": "coord:강남구-235",
+   "field": "COT_CONTS_NAME",
+   "value": "수서아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강남구-235, 강남구-255",
+   "fingerprint": "C-08|11103389|강남구-235|coord:강남구-235|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-255",
+   "groupKey": "coord:강남구-235",
+   "field": "COT_CONTS_NAME",
+   "value": "수서아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강남구-235, 강남구-255",
+   "fingerprint": "C-08|11103389|강남구-255|coord:강남구-235|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-260",
+   "groupKey": "coord:강남구-260",
+   "field": "COT_CONTS_NAME",
+   "value": "수서LH(주공)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강남구-260, 강남구-261",
+   "fingerprint": "C-08|11103389|강남구-260|coord:강남구-260|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-260",
+   "groupKey": "same:강남구-260",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 강남구-260, 강남구-261",
+   "fingerprint": "C-08|11103389|강남구-260|same:강남구-260|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-261",
+   "groupKey": "coord:강남구-260",
+   "field": "COT_CONTS_NAME",
+   "value": "수서LH(주공)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강남구-260, 강남구-261",
+   "fingerprint": "C-08|11103389|강남구-261|coord:강남구-260|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-261",
+   "groupKey": "same:강남구-260",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 강남구-260, 강남구-261",
+   "fingerprint": "C-08|11103389|강남구-261|same:강남구-260|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-264",
+   "groupKey": "coord:강남구-264",
+   "field": "COT_CONTS_NAME",
+   "value": "하니움아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 강남구-264, 강남구-265, 강남구-266",
+   "fingerprint": "C-08|11103389|강남구-264|coord:강남구-264|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-264",
+   "groupKey": "same:강남구-264",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 강남구-264, 강남구-265, 강남구-266",
+   "fingerprint": "C-08|11103389|강남구-264|same:강남구-264|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-265",
+   "groupKey": "coord:강남구-264",
+   "field": "COT_CONTS_NAME",
+   "value": "하니움아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 강남구-264, 강남구-265, 강남구-266",
+   "fingerprint": "C-08|11103389|강남구-265|coord:강남구-264|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-265",
+   "groupKey": "same:강남구-264",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 강남구-264, 강남구-265, 강남구-266",
+   "fingerprint": "C-08|11103389|강남구-265|same:강남구-264|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-266",
+   "groupKey": "coord:강남구-264",
+   "field": "COT_CONTS_NAME",
+   "value": "하니움아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 강남구-264, 강남구-265, 강남구-266",
+   "fingerprint": "C-08|11103389|강남구-266|coord:강남구-264|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-266",
+   "groupKey": "same:강남구-264",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 강남구-264, 강남구-265, 강남구-266",
+   "fingerprint": "C-08|11103389|강남구-266|same:강남구-264|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-285",
+   "groupKey": "coord:강남구-285",
+   "field": "COT_CONTS_NAME",
+   "value": "LH강남8단지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강남구-285, 강남구-286",
+   "fingerprint": "C-08|11103389|강남구-285|coord:강남구-285|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-285",
+   "groupKey": "same:강남구-285",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 강남구-285, 강남구-286",
+   "fingerprint": "C-08|11103389|강남구-285|same:강남구-285|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-286",
+   "groupKey": "coord:강남구-285",
+   "field": "COT_CONTS_NAME",
+   "value": "LH강남8단지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강남구-285, 강남구-286",
+   "fingerprint": "C-08|11103389|강남구-286|coord:강남구-285|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-286",
+   "groupKey": "same:강남구-285",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 강남구-285, 강남구-286",
+   "fingerprint": "C-08|11103389|강남구-286|same:강남구-285|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-97",
+   "groupKey": "coord:강남구-97",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성센트럴아이파크아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강남구-97, 강남구-98",
+   "fingerprint": "C-08|11103389|강남구-97|coord:강남구-97|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-97",
+   "groupKey": "same:강남구-97",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 강남구-97, 강남구-98",
+   "fingerprint": "C-08|11103389|강남구-97|same:강남구-97|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-98",
+   "groupKey": "coord:강남구-97",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성센트럴아이파크아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강남구-97, 강남구-98",
+   "fingerprint": "C-08|11103389|강남구-98|coord:강남구-97|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강남구-98",
+   "groupKey": "same:강남구-97",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 강남구-97, 강남구-98",
+   "fingerprint": "C-08|11103389|강남구-98|same:강남구-97|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강동구--134",
+   "groupKey": "coord:강동구--134",
+   "field": "COT_CONTS_NAME",
+   "value": "둔촌 프라자아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강동구--134, 강동구-134",
+   "fingerprint": "C-08|11103389|강동구--134|coord:강동구--134|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강동구-134",
+   "groupKey": "coord:강동구--134",
+   "field": "COT_CONTS_NAME",
+   "value": "둔촌 프라자아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강동구--134, 강동구-134",
+   "fingerprint": "C-08|11103389|강동구-134|coord:강동구--134|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강북구-117",
+   "groupKey": "coord:강북구-117",
+   "field": "COT_CONTS_NAME",
+   "value": "sk북한산시티아파트 133 동앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 강북구-117, 강북구-125, 강북구-126",
+   "fingerprint": "C-08|11103389|강북구-117|coord:강북구-117|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강북구-125",
+   "groupKey": "coord:강북구-117",
+   "field": "COT_CONTS_NAME",
+   "value": "sk북한산시티아파트 151 동앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 강북구-117, 강북구-125, 강북구-126",
+   "fingerprint": "C-08|11103389|강북구-125|coord:강북구-117|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강북구-126",
+   "groupKey": "coord:강북구-117",
+   "field": "COT_CONTS_NAME",
+   "value": "sk북한산시티아파트 153 동 측벽",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 강북구-117, 강북구-125, 강북구-126",
+   "fingerprint": "C-08|11103389|강북구-126|coord:강북구-117|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강북구-214",
+   "groupKey": "coord:강북구-214",
+   "field": "COT_CONTS_NAME",
+   "value": "주공3당지아파트 303동 의류수거함 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강북구-214, 강북구-215",
+   "fingerprint": "C-08|11103389|강북구-214|coord:강북구-214|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강북구-215",
+   "groupKey": "coord:강북구-214",
+   "field": "COT_CONTS_NAME",
+   "value": "주공3단지아파트 304동 의류수거함 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강북구-214, 강북구-215",
+   "fingerprint": "C-08|11103389|강북구-215|coord:강북구-214|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강서구-71",
+   "groupKey": "coord:강서구-71",
+   "field": "COT_CONTS_NAME",
+   "value": "등촌주공1단지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강서구-71, 강서구-72",
+   "fingerprint": "C-08|11103389|강서구-71|coord:강서구-71|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강서구-72",
+   "groupKey": "coord:강서구-71",
+   "field": "COT_CONTS_NAME",
+   "value": "등촌주공2단지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강서구-71, 강서구-72",
+   "fingerprint": "C-08|11103389|강서구-72|coord:강서구-71|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강서구-74",
+   "groupKey": "coord:강서구-74",
+   "field": "COT_CONTS_NAME",
+   "value": "등촌주공7단지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강서구-74, 강서구-75",
+   "fingerprint": "C-08|11103389|강서구-74|coord:강서구-74|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "강서구-75",
+   "groupKey": "coord:강서구-74",
+   "field": "COT_CONTS_NAME",
+   "value": "등촌주공8단지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 강서구-74, 강서구-75",
+   "fingerprint": "C-08|11103389|강서구-75|coord:강서구-74|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0001",
+   "groupKey": "coord:관악구_0001",
+   "field": "COT_CONTS_NAME",
+   "value": "보라매동주민센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 관악구_0001, 관악구_0003",
+   "fingerprint": "C-08|11103389|관악구_0001|coord:관악구_0001|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0001",
+   "groupKey": "same:관악구_0001",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 관악구_0001, 관악구_0003",
+   "fingerprint": "C-08|11103389|관악구_0001|same:관악구_0001|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0003",
+   "groupKey": "coord:관악구_0001",
+   "field": "COT_CONTS_NAME",
+   "value": "보라매동주민센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 관악구_0001, 관악구_0003",
+   "fingerprint": "C-08|11103389|관악구_0003|coord:관악구_0001|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0003",
+   "groupKey": "same:관악구_0001",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 관악구_0001, 관악구_0003",
+   "fingerprint": "C-08|11103389|관악구_0003|same:관악구_0001|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0070",
+   "groupKey": "coord:관악구_0070",
+   "field": "COT_CONTS_NAME",
+   "value": "인헌동주민센터 주차장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 관악구_0070, 관악구_0072",
+   "fingerprint": "C-08|11103389|관악구_0070|coord:관악구_0070|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0070",
+   "groupKey": "same:관악구_0070",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 관악구_0070, 관악구_0072",
+   "fingerprint": "C-08|11103389|관악구_0070|same:관악구_0070|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0072",
+   "groupKey": "coord:관악구_0070",
+   "field": "COT_CONTS_NAME",
+   "value": "인헌동주민센터 주차장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 관악구_0070, 관악구_0072",
+   "fingerprint": "C-08|11103389|관악구_0072|coord:관악구_0070|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0072",
+   "groupKey": "same:관악구_0070",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 관악구_0070, 관악구_0072",
+   "fingerprint": "C-08|11103389|관악구_0072|same:관악구_0070|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0084",
+   "groupKey": "coord:관악구_0084",
+   "field": "COT_CONTS_NAME",
+   "value": "보라매갑을아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 관악구_0084, 관악구_0086",
+   "fingerprint": "C-08|11103389|관악구_0084|coord:관악구_0084|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0084",
+   "groupKey": "same:관악구_0084",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 관악구_0084, 관악구_0086",
+   "fingerprint": "C-08|11103389|관악구_0084|same:관악구_0084|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0086",
+   "groupKey": "coord:관악구_0084",
+   "field": "COT_CONTS_NAME",
+   "value": "보라매갑을아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 관악구_0084, 관악구_0086",
+   "fingerprint": "C-08|11103389|관악구_0086|coord:관악구_0084|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0086",
+   "groupKey": "same:관악구_0084",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 관악구_0084, 관악구_0086",
+   "fingerprint": "C-08|11103389|관악구_0086|same:관악구_0084|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0107",
+   "groupKey": "coord:관악구_0107",
+   "field": "COT_CONTS_NAME",
+   "value": "신림푸르지오아파트 106동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 11건 있습니다: 관악구_0107, 관악구_0108, 관악구_0109, 관악구_0110, 관악구_0112 외 6건",
+   "fingerprint": "C-08|11103389|관악구_0107|coord:관악구_0107|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0108",
+   "groupKey": "coord:관악구_0107",
+   "field": "COT_CONTS_NAME",
+   "value": "신림푸르지오아파트 107동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 11건 있습니다: 관악구_0107, 관악구_0108, 관악구_0109, 관악구_0110, 관악구_0112 외 6건",
+   "fingerprint": "C-08|11103389|관악구_0108|coord:관악구_0107|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0109",
+   "groupKey": "coord:관악구_0107",
+   "field": "COT_CONTS_NAME",
+   "value": "신림푸르지오아파트 111동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 11건 있습니다: 관악구_0107, 관악구_0108, 관악구_0109, 관악구_0110, 관악구_0112 외 6건",
+   "fingerprint": "C-08|11103389|관악구_0109|coord:관악구_0107|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0110",
+   "groupKey": "coord:관악구_0107",
+   "field": "COT_CONTS_NAME",
+   "value": "신림푸르지오아파트 121동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 11건 있습니다: 관악구_0107, 관악구_0108, 관악구_0109, 관악구_0110, 관악구_0112 외 6건",
+   "fingerprint": "C-08|11103389|관악구_0110|coord:관악구_0107|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0112",
+   "groupKey": "coord:관악구_0107",
+   "field": "COT_CONTS_NAME",
+   "value": "신림푸르지오아파트 101동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 11건 있습니다: 관악구_0107, 관악구_0108, 관악구_0109, 관악구_0110, 관악구_0112 외 6건",
+   "fingerprint": "C-08|11103389|관악구_0112|coord:관악구_0107|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0113",
+   "groupKey": "coord:관악구_0107",
+   "field": "COT_CONTS_NAME",
+   "value": "신림푸르지오아파트 113동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 11건 있습니다: 관악구_0107, 관악구_0108, 관악구_0109, 관악구_0110, 관악구_0112 외 6건",
+   "fingerprint": "C-08|11103389|관악구_0113|coord:관악구_0107|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0115",
+   "groupKey": "coord:관악구_0107",
+   "field": "COT_CONTS_NAME",
+   "value": "신림푸르지오아파트 104동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 11건 있습니다: 관악구_0107, 관악구_0108, 관악구_0109, 관악구_0110, 관악구_0112 외 6건",
+   "fingerprint": "C-08|11103389|관악구_0115|coord:관악구_0107|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0116",
+   "groupKey": "coord:관악구_0107",
+   "field": "COT_CONTS_NAME",
+   "value": "신림푸르지오아파트 114동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 11건 있습니다: 관악구_0107, 관악구_0108, 관악구_0109, 관악구_0110, 관악구_0112 외 6건",
+   "fingerprint": "C-08|11103389|관악구_0116|coord:관악구_0107|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0117",
+   "groupKey": "coord:관악구_0107",
+   "field": "COT_CONTS_NAME",
+   "value": "신림푸르지오아파트 116동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 11건 있습니다: 관악구_0107, 관악구_0108, 관악구_0109, 관악구_0110, 관악구_0112 외 6건",
+   "fingerprint": "C-08|11103389|관악구_0117|coord:관악구_0107|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0118",
+   "groupKey": "coord:관악구_0107",
+   "field": "COT_CONTS_NAME",
+   "value": "신림푸르지오아파트 118동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 11건 있습니다: 관악구_0107, 관악구_0108, 관악구_0109, 관악구_0110, 관악구_0112 외 6건",
+   "fingerprint": "C-08|11103389|관악구_0118|coord:관악구_0107|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "관악구_0119",
+   "groupKey": "coord:관악구_0107",
+   "field": "COT_CONTS_NAME",
+   "value": "신림푸르지오아파트 119동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 11건 있습니다: 관악구_0107, 관악구_0108, 관악구_0109, 관악구_0110, 관악구_0112 외 6건",
+   "fingerprint": "C-08|11103389|관악구_0119|coord:관악구_0107|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "광진구-124",
+   "groupKey": "coord:광진구-124",
+   "field": "COT_CONTS_NAME",
+   "value": "자양우성1차",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 광진구-124, 광진구-125",
+   "fingerprint": "C-08|11103389|광진구-124|coord:광진구-124|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "광진구-124",
+   "groupKey": "same:광진구-124",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 광진구-124, 광진구-125",
+   "fingerprint": "C-08|11103389|광진구-124|same:광진구-124|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "광진구-125",
+   "groupKey": "coord:광진구-124",
+   "field": "COT_CONTS_NAME",
+   "value": "자양우성1차",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 광진구-124, 광진구-125",
+   "fingerprint": "C-08|11103389|광진구-125|coord:광진구-124|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "광진구-125",
+   "groupKey": "same:광진구-124",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 광진구-124, 광진구-125",
+   "fingerprint": "C-08|11103389|광진구-125|same:광진구-124|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "광진구-34",
+   "groupKey": "coord:광진구-34",
+   "field": "COT_CONTS_NAME",
+   "value": "연세리버빌",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 광진구-34, 광진구-4",
+   "fingerprint": "C-08|11103389|광진구-34|coord:광진구-34|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "광진구-34",
+   "groupKey": "same:광진구-34",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 광진구-34, 광진구-4",
+   "fingerprint": "C-08|11103389|광진구-34|same:광진구-34|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "광진구-4",
+   "groupKey": "coord:광진구-34",
+   "field": "COT_CONTS_NAME",
+   "value": "연세리버빌",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 광진구-34, 광진구-4",
+   "fingerprint": "C-08|11103389|광진구-4|coord:광진구-34|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "광진구-4",
+   "groupKey": "same:광진구-34",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 광진구-34, 광진구-4",
+   "fingerprint": "C-08|11103389|광진구-4|same:광진구-34|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-156",
+   "groupKey": "coord:금천구-156",
+   "field": "COT_CONTS_NAME",
+   "value": "벽산1단지아파트 101동 (의류수거함 옆)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 금천구-156, 금천구-159, 금천구-163",
+   "fingerprint": "C-08|11103389|금천구-156|coord:금천구-156|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-157",
+   "groupKey": "coord:금천구-157",
+   "field": "COT_CONTS_NAME",
+   "value": "벽산1단지아파트 106동(음식물쓰레기처리기 옆)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 금천구-157, 금천구-160, 금천구-161, 금천구-193",
+   "fingerprint": "C-08|11103389|금천구-157|coord:금천구-157|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-159",
+   "groupKey": "coord:금천구-156",
+   "field": "COT_CONTS_NAME",
+   "value": "벽산1단지아파트 109동(의류수거함 옆)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 금천구-156, 금천구-159, 금천구-163",
+   "fingerprint": "C-08|11103389|금천구-159|coord:금천구-156|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-160",
+   "groupKey": "coord:금천구-157",
+   "field": "COT_CONTS_NAME",
+   "value": "벽산1단지아파트 110동 입구(음식물쓰레기처리기 옆)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 금천구-157, 금천구-160, 금천구-161, 금천구-193",
+   "fingerprint": "C-08|11103389|금천구-160|coord:금천구-157|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-161",
+   "groupKey": "coord:금천구-157",
+   "field": "COT_CONTS_NAME",
+   "value": "벽산1단지아파트 111동 입구(음식물쓰레기처리기 옆)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 금천구-157, 금천구-160, 금천구-161, 금천구-193",
+   "fingerprint": "C-08|11103389|금천구-161|coord:금천구-157|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-163",
+   "groupKey": "coord:금천구-156",
+   "field": "COT_CONTS_NAME",
+   "value": "벽산1단지아파트 115동 앞(의류수거함 옆)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 금천구-156, 금천구-159, 금천구-163",
+   "fingerprint": "C-08|11103389|금천구-163|coord:금천구-156|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-178",
+   "groupKey": "coord:금천구-178",
+   "field": "COT_CONTS_NAME",
+   "value": "벽산5단지아파트 525동(경비실 옆)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 금천구-178, 금천구-194",
+   "fingerprint": "C-08|11103389|금천구-178|coord:금천구-178|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-185",
+   "groupKey": "coord:금천구-185",
+   "field": "COT_CONTS_NAME",
+   "value": "관악우방아파트 106동 1(경로당 옆)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 금천구-185, 금천구-186",
+   "fingerprint": "C-08|11103389|금천구-185|coord:금천구-185|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-186",
+   "groupKey": "coord:금천구-185",
+   "field": "COT_CONTS_NAME",
+   "value": "관악우방아파트 106동 2(경로당 옆)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 금천구-185, 금천구-186",
+   "fingerprint": "C-08|11103389|금천구-186|coord:금천구-185|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-19",
+   "groupKey": "coord:금천구-19",
+   "field": "COT_CONTS_NAME",
+   "value": "두산위브아파트 105동 앞편",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 금천구-19, 금천구-5",
+   "fingerprint": "C-08|11103389|금천구-19|coord:금천구-19|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-193",
+   "groupKey": "coord:금천구-157",
+   "field": "COT_CONTS_NAME",
+   "value": "벽산1단지아파트 116동 입구(음식물쓰레기처리기 뒤)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 금천구-157, 금천구-160, 금천구-161, 금천구-193",
+   "fingerprint": "C-08|11103389|금천구-193|coord:금천구-157|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-194",
+   "groupKey": "coord:금천구-178",
+   "field": "COT_CONTS_NAME",
+   "value": "벽산5단지아파트 524동(경비실 앞)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 금천구-178, 금천구-194",
+   "fingerprint": "C-08|11103389|금천구-194|coord:금천구-178|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-196",
+   "groupKey": "coord:금천구-196",
+   "field": "COT_CONTS_NAME",
+   "value": "현대빌라 정문",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 금천구-196, 금천구-197",
+   "fingerprint": "C-08|11103389|금천구-196|coord:금천구-196|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-197",
+   "groupKey": "coord:금천구-196",
+   "field": "COT_CONTS_NAME",
+   "value": "현대빌라 후문",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 금천구-196, 금천구-197",
+   "fingerprint": "C-08|11103389|금천구-197|coord:금천구-196|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-5",
+   "groupKey": "coord:금천구-19",
+   "field": "COT_CONTS_NAME",
+   "value": "두산위브아파트 105동 뒤편",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 금천구-19, 금천구-5",
+   "fingerprint": "C-08|11103389|금천구-5|coord:금천구-19|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-60",
+   "groupKey": "coord:금천구-60",
+   "field": "COT_CONTS_NAME",
+   "value": "독산주공 아파트 1401동 단지 내(앞)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 금천구-60, 금천구-61",
+   "fingerprint": "C-08|11103389|금천구-60|coord:금천구-60|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-61",
+   "groupKey": "coord:금천구-60",
+   "field": "COT_CONTS_NAME",
+   "value": "독산주공 아파트 1401동 단지 내(옆)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 금천구-60, 금천구-61",
+   "fingerprint": "C-08|11103389|금천구-61|coord:금천구-60|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-71",
+   "groupKey": "coord:금천구-71",
+   "field": "COT_CONTS_NAME",
+   "value": "이랜드해가든아파트 단지 내",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 금천구-71, 금천구-72",
+   "fingerprint": "C-08|11103389|금천구-71|coord:금천구-71|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-71",
+   "groupKey": "same:금천구-71",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 금천구-71, 금천구-72",
+   "fingerprint": "C-08|11103389|금천구-71|same:금천구-71|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-72",
+   "groupKey": "coord:금천구-71",
+   "field": "COT_CONTS_NAME",
+   "value": "이랜드해가든아파트 단지 내",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 금천구-71, 금천구-72",
+   "fingerprint": "C-08|11103389|금천구-72|coord:금천구-71|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-72",
+   "groupKey": "same:금천구-71",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 금천구-71, 금천구-72",
+   "fingerprint": "C-08|11103389|금천구-72|same:금천구-71|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-84",
+   "groupKey": "coord:금천구-84",
+   "field": "COT_CONTS_NAME",
+   "value": "금천 롯데캐슬 골드파크 2차 아파트 주차장 입구 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 금천구-84, 금천구-85",
+   "fingerprint": "C-08|11103389|금천구-84|coord:금천구-84|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "금천구-85",
+   "groupKey": "coord:금천구-84",
+   "field": "COT_CONTS_NAME",
+   "value": "금천 롯데캐슬 골드파크 2차 아파트 주차장 내부",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 금천구-84, 금천구-85",
+   "fingerprint": "C-08|11103389|금천구-85|coord:금천구-84|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "노원구-16",
+   "groupKey": "coord:노원구-16",
+   "field": "COT_CONTS_NAME",
+   "value": "노원프레미어스엠코 101동 재활용 수거장 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 노원구-16, 노원구-17",
+   "fingerprint": "C-08|11103389|노원구-16|coord:노원구-16|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "노원구-17",
+   "groupKey": "coord:노원구-16",
+   "field": "COT_CONTS_NAME",
+   "value": "노원프레이머스엠코 102동 재활용 수거장 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 노원구-16, 노원구-17",
+   "fingerprint": "C-08|11103389|노원구-17|coord:노원구-16|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "도봉구-175",
+   "groupKey": "coord:도봉구-175",
+   "field": "COT_CONTS_NAME",
+   "value": "창동현대2차아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 도봉구-175, 도봉구-176",
+   "fingerprint": "C-08|11103389|도봉구-175|coord:도봉구-175|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "도봉구-176",
+   "groupKey": "coord:도봉구-175",
+   "field": "COT_CONTS_NAME",
+   "value": "창동현대3차아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 도봉구-175, 도봉구-176",
+   "fingerprint": "C-08|11103389|도봉구-176|coord:도봉구-175|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "도봉구-36",
+   "groupKey": "coord:도봉구-36",
+   "field": "COT_CONTS_NAME",
+   "value": "창도초등학교",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 도봉구-36, 도봉구-41",
+   "fingerprint": "C-08|11103389|도봉구-36|coord:도봉구-36|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "도봉구-36",
+   "groupKey": "same:도봉구-36",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 도봉구-36, 도봉구-41",
+   "fingerprint": "C-08|11103389|도봉구-36|same:도봉구-36|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "도봉구-41",
+   "groupKey": "coord:도봉구-36",
+   "field": "COT_CONTS_NAME",
+   "value": "창도초등학교",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 도봉구-36, 도봉구-41",
+   "fingerprint": "C-08|11103389|도봉구-41|coord:도봉구-36|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "도봉구-41",
+   "groupKey": "same:도봉구-36",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 도봉구-36, 도봉구-41",
+   "fingerprint": "C-08|11103389|도봉구-41|same:도봉구-36|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동대문구_0011",
+   "groupKey": "coord:동대문구_0011",
+   "field": "COT_CONTS_NAME",
+   "value": "미주아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 동대문구_0011, 동대문구_0068",
+   "fingerprint": "C-08|11103389|동대문구_0011|coord:동대문구_0011|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동대문구_0011",
+   "groupKey": "same:동대문구_0011",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 동대문구_0011, 동대문구_0068",
+   "fingerprint": "C-08|11103389|동대문구_0011|same:동대문구_0011|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동대문구_0032",
+   "groupKey": "coord:동대문구_0032",
+   "field": "COT_CONTS_NAME",
+   "value": "답십리두산위브아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 동대문구_0032, 동대문구_0044",
+   "fingerprint": "C-08|11103389|동대문구_0032|coord:동대문구_0032|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동대문구_0032",
+   "groupKey": "same:동대문구_0032",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 동대문구_0032, 동대문구_0044",
+   "fingerprint": "C-08|11103389|동대문구_0032|same:동대문구_0032|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동대문구_0044",
+   "groupKey": "coord:동대문구_0032",
+   "field": "COT_CONTS_NAME",
+   "value": "답십리두산위브아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 동대문구_0032, 동대문구_0044",
+   "fingerprint": "C-08|11103389|동대문구_0044|coord:동대문구_0032|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동대문구_0044",
+   "groupKey": "same:동대문구_0032",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 동대문구_0032, 동대문구_0044",
+   "fingerprint": "C-08|11103389|동대문구_0044|same:동대문구_0032|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동대문구_0068",
+   "groupKey": "coord:동대문구_0011",
+   "field": "COT_CONTS_NAME",
+   "value": "미주아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 동대문구_0011, 동대문구_0068",
+   "fingerprint": "C-08|11103389|동대문구_0068|coord:동대문구_0011|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동대문구_0068",
+   "groupKey": "same:동대문구_0011",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 동대문구_0011, 동대문구_0068",
+   "fingerprint": "C-08|11103389|동대문구_0068|same:동대문구_0011|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동대문구_0082",
+   "groupKey": "coord:동대문구_0082",
+   "field": "COT_CONTS_NAME",
+   "value": "주공아파트2단지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 동대문구_0082, 동대문구_0085",
+   "fingerprint": "C-08|11103389|동대문구_0082|coord:동대문구_0082|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동대문구_0085",
+   "groupKey": "coord:동대문구_0082",
+   "field": "COT_CONTS_NAME",
+   "value": "주공아파트1단지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 동대문구_0082, 동대문구_0085",
+   "fingerprint": "C-08|11103389|동대문구_0085|coord:동대문구_0082|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-108",
+   "groupKey": "coord:동작구-108",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성래미안1차(아) 101동 뒤",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 동작구-108, 동작구-109, 동작구-110, 동작구-112, 동작구-113",
+   "fingerprint": "C-08|11103389|동작구-108|coord:동작구-108|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-109",
+   "groupKey": "coord:동작구-108",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성래미안1차(아) 103동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 동작구-108, 동작구-109, 동작구-110, 동작구-112, 동작구-113",
+   "fingerprint": "C-08|11103389|동작구-109|coord:동작구-108|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-110",
+   "groupKey": "coord:동작구-108",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성래미안1차(아) 105동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 동작구-108, 동작구-109, 동작구-110, 동작구-112, 동작구-113",
+   "fingerprint": "C-08|11103389|동작구-110|coord:동작구-108|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-112",
+   "groupKey": "coord:동작구-108",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성래미안1차(아) 106동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 동작구-108, 동작구-109, 동작구-110, 동작구-112, 동작구-113",
+   "fingerprint": "C-08|11103389|동작구-112|coord:동작구-108|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-113",
+   "groupKey": "coord:동작구-108",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성래미안1차(아) 108동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 동작구-108, 동작구-109, 동작구-110, 동작구-112, 동작구-113",
+   "fingerprint": "C-08|11103389|동작구-113|coord:동작구-108|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-114",
+   "groupKey": "coord:동작구-114",
+   "field": "COT_CONTS_NAME",
+   "value": "상도더샵(아) 101동 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 동작구-114, 동작구-115, 동작구-116",
+   "fingerprint": "C-08|11103389|동작구-114|coord:동작구-114|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-115",
+   "groupKey": "coord:동작구-114",
+   "field": "COT_CONTS_NAME",
+   "value": "상도더샵(아) 105동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 동작구-114, 동작구-115, 동작구-116",
+   "fingerprint": "C-08|11103389|동작구-115|coord:동작구-114|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-116",
+   "groupKey": "coord:동작구-114",
+   "field": "COT_CONTS_NAME",
+   "value": "상도더샵(아) 109동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 동작구-114, 동작구-115, 동작구-116",
+   "fingerprint": "C-08|11103389|동작구-116|coord:동작구-114|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-123",
+   "groupKey": "coord:동작구-123",
+   "field": "COT_CONTS_NAME",
+   "value": "두산위브2차(아)202동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 동작구-123, 동작구-124, 동작구-125",
+   "fingerprint": "C-08|11103389|동작구-123|coord:동작구-123|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-124",
+   "groupKey": "coord:동작구-123",
+   "field": "COT_CONTS_NAME",
+   "value": "두산위브2차(아)204동 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 동작구-123, 동작구-124, 동작구-125",
+   "fingerprint": "C-08|11103389|동작구-124|coord:동작구-123|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-125",
+   "groupKey": "coord:동작구-123",
+   "field": "COT_CONTS_NAME",
+   "value": "두산위브2차(아)206동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 동작구-123, 동작구-124, 동작구-125",
+   "fingerprint": "C-08|11103389|동작구-125|coord:동작구-123|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-129",
+   "groupKey": "coord:동작구-129",
+   "field": "COT_CONTS_NAME",
+   "value": "상도두산위브1차(아) 102동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 동작구-129, 동작구-130",
+   "fingerprint": "C-08|11103389|동작구-129|coord:동작구-129|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-130",
+   "groupKey": "coord:동작구-129",
+   "field": "COT_CONTS_NAME",
+   "value": "상도두산위브1차(아) 104동 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 동작구-129, 동작구-130",
+   "fingerprint": "C-08|11103389|동작구-130|coord:동작구-129|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-230",
+   "groupKey": "coord:동작구-230",
+   "field": "COT_CONTS_NAME",
+   "value": "사당신동아(아)  401동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 동작구-230, 동작구-238",
+   "fingerprint": "C-08|11103389|동작구-230|coord:동작구-230|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-238",
+   "groupKey": "coord:동작구-230",
+   "field": "COT_CONTS_NAME",
+   "value": "사당신동아(아) 501동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 동작구-230, 동작구-238",
+   "fingerprint": "C-08|11103389|동작구-238|coord:동작구-230|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-24",
+   "groupKey": "coord:동작구-24",
+   "field": "COT_CONTS_NAME",
+   "value": "유원(아) 정문 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 동작구-24, 동작구-25",
+   "fingerprint": "C-08|11103389|동작구-24|coord:동작구-24|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-25",
+   "groupKey": "coord:동작구-24",
+   "field": "COT_CONTS_NAME",
+   "value": "유원(아) 후문 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 동작구-24, 동작구-25",
+   "fingerprint": "C-08|11103389|동작구-25|coord:동작구-24|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-26",
+   "groupKey": "coord:동작구-26",
+   "field": "COT_CONTS_NAME",
+   "value": "한신휴플러스(아) 101동앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 동작구-26, 동작구-27",
+   "fingerprint": "C-08|11103389|동작구-26|coord:동작구-26|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-27",
+   "groupKey": "coord:동작구-26",
+   "field": "COT_CONTS_NAME",
+   "value": "한신휴플러스(아) 105동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 동작구-26, 동작구-27",
+   "fingerprint": "C-08|11103389|동작구-27|coord:동작구-26|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-307",
+   "groupKey": "coord:동작구-307",
+   "field": "COT_CONTS_NAME",
+   "value": "사당자이(아)101동 앞 재활용장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 동작구-307, 동작구-308",
+   "fingerprint": "C-08|11103389|동작구-307|coord:동작구-307|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-308",
+   "groupKey": "coord:동작구-307",
+   "field": "COT_CONTS_NAME",
+   "value": "사당자이(아)102동 옆 재활용장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 동작구-307, 동작구-308",
+   "fingerprint": "C-08|11103389|동작구-308|coord:동작구-307|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-309",
+   "groupKey": "coord:동작구-309",
+   "field": "COT_CONTS_NAME",
+   "value": "사당자이(아)105동 옆 재활용장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 동작구-309, 동작구-310",
+   "fingerprint": "C-08|11103389|동작구-309|coord:동작구-309|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-310",
+   "groupKey": "coord:동작구-309",
+   "field": "COT_CONTS_NAME",
+   "value": "사당자이(아)108동 앞 재활용장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 동작구-309, 동작구-310",
+   "fingerprint": "C-08|11103389|동작구-310|coord:동작구-309|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-361",
+   "groupKey": "coord:동작구-361",
+   "field": "COT_CONTS_NAME",
+   "value": "대방주공1차(아) 101동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 동작구-361, 동작구-362, 동작구-363",
+   "fingerprint": "C-08|11103389|동작구-361|coord:동작구-361|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-362",
+   "groupKey": "coord:동작구-361",
+   "field": "COT_CONTS_NAME",
+   "value": "대방주공1차(아) 104동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 동작구-361, 동작구-362, 동작구-363",
+   "fingerprint": "C-08|11103389|동작구-362|coord:동작구-361|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "동작구-363",
+   "groupKey": "coord:동작구-361",
+   "field": "COT_CONTS_NAME",
+   "value": "대방주공1차(아) 105동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 동작구-361, 동작구-362, 동작구-363",
+   "fingerprint": "C-08|11103389|동작구-363|coord:동작구-361|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "마포구-12",
+   "groupKey": "coord:마포구-12",
+   "field": "COT_CONTS_NAME",
+   "value": "두영이지안@",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 마포구-12, 마포구-193",
+   "fingerprint": "C-08|11103389|마포구-12|coord:마포구-12|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "마포구-193",
+   "groupKey": "coord:마포구-12",
+   "field": "COT_CONTS_NAME",
+   "value": "두영이지안@",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 마포구-12, 마포구-193",
+   "fingerprint": "C-08|11103389|마포구-193|coord:마포구-12|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "서대문구-33",
+   "groupKey": "coord:서대문구-33",
+   "field": "COT_CONTS_NAME",
+   "value": "신촌푸르지오 1단지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 서대문구-33, 서대문구-34",
+   "fingerprint": "C-08|11103389|서대문구-33|coord:서대문구-33|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "서대문구-34",
+   "groupKey": "coord:서대문구-33",
+   "field": "COT_CONTS_NAME",
+   "value": "신촌푸르지오 2단지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 서대문구-33, 서대문구-34",
+   "fingerprint": "C-08|11103389|서대문구-34|coord:서대문구-33|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "서대문구-36",
+   "groupKey": "coord:서대문구-36",
+   "field": "COT_CONTS_NAME",
+   "value": "e편한세상신촌@ 1단지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 서대문구-36, 서대문구-37, 서대문구-38",
+   "fingerprint": "C-08|11103389|서대문구-36|coord:서대문구-36|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "서대문구-37",
+   "groupKey": "coord:서대문구-36",
+   "field": "COT_CONTS_NAME",
+   "value": "e편한세상신촌@ 2단지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 서대문구-36, 서대문구-37, 서대문구-38",
+   "fingerprint": "C-08|11103389|서대문구-37|coord:서대문구-36|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "서대문구-38",
+   "groupKey": "coord:서대문구-36",
+   "field": "COT_CONTS_NAME",
+   "value": "e편한세상신촌@ 3단지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 서대문구-36, 서대문구-37, 서대문구-38",
+   "fingerprint": "C-08|11103389|서대문구-38|coord:서대문구-36|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "서초구-170",
+   "groupKey": "coord:서초구-170",
+   "field": "COT_CONTS_NAME",
+   "value": "방배신삼호아파트 가동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 서초구-170, 서초구-171",
+   "fingerprint": "C-08|11103389|서초구-170|coord:서초구-170|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "서초구-171",
+   "groupKey": "coord:서초구-170",
+   "field": "COT_CONTS_NAME",
+   "value": "방배신삼호아파트 다동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 서초구-170, 서초구-171",
+   "fingerprint": "C-08|11103389|서초구-171|coord:서초구-170|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-10",
+   "groupKey": "coord:성동구-10",
+   "field": "COT_CONTS_NAME",
+   "value": "텐즈힐 1단지 아파트 101동 앞(재활용장 안)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 8건 있습니다: 성동구-10, 성동구-11, 성동구-12, 성동구-13, 성동구-15 외 3건",
+   "fingerprint": "C-08|11103389|성동구-10|coord:성동구-10|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-11",
+   "groupKey": "coord:성동구-10",
+   "field": "COT_CONTS_NAME",
+   "value": "텐즈힐 1단지 아파트 105동 앞(재활용장 안)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 8건 있습니다: 성동구-10, 성동구-11, 성동구-12, 성동구-13, 성동구-15 외 3건",
+   "fingerprint": "C-08|11103389|성동구-11|coord:성동구-10|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-118",
+   "groupKey": "coord:성동구-118",
+   "field": "COT_CONTS_NAME",
+   "value": "행당한진타운아파트 102동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 성동구-118, 성동구-119, 성동구-122, 성동구-123",
+   "fingerprint": "C-08|11103389|성동구-118|coord:성동구-118|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-119",
+   "groupKey": "coord:성동구-118",
+   "field": "COT_CONTS_NAME",
+   "value": "행당한진타운아파트 109동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 성동구-118, 성동구-119, 성동구-122, 성동구-123",
+   "fingerprint": "C-08|11103389|성동구-119|coord:성동구-118|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-12",
+   "groupKey": "coord:성동구-10",
+   "field": "COT_CONTS_NAME",
+   "value": "텐즈힐 1단지 아파트 106동 뒤(재활용장 안)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 8건 있습니다: 성동구-10, 성동구-11, 성동구-12, 성동구-13, 성동구-15 외 3건",
+   "fingerprint": "C-08|11103389|성동구-12|coord:성동구-10|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-122",
+   "groupKey": "coord:성동구-118",
+   "field": "COT_CONTS_NAME",
+   "value": "행당한진타운아파트 임대 101동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 성동구-118, 성동구-119, 성동구-122, 성동구-123",
+   "fingerprint": "C-08|11103389|성동구-122|coord:성동구-118|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-123",
+   "groupKey": "coord:성동구-118",
+   "field": "COT_CONTS_NAME",
+   "value": "행당한진타운아파트 임대 103동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 성동구-118, 성동구-119, 성동구-122, 성동구-123",
+   "fingerprint": "C-08|11103389|성동구-123|coord:성동구-118|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-13",
+   "groupKey": "coord:성동구-10",
+   "field": "COT_CONTS_NAME",
+   "value": "텐즈힐 1단지 아파트 108동 뒤(재활용장 안)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 8건 있습니다: 성동구-10, 성동구-11, 성동구-12, 성동구-13, 성동구-15 외 3건",
+   "fingerprint": "C-08|11103389|성동구-13|coord:성동구-10|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-15",
+   "groupKey": "coord:성동구-10",
+   "field": "COT_CONTS_NAME",
+   "value": "텐즈힐 1단지 아파트 111동 앞(재활용장 안)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 8건 있습니다: 성동구-10, 성동구-11, 성동구-12, 성동구-13, 성동구-15 외 3건",
+   "fingerprint": "C-08|11103389|성동구-15|coord:성동구-10|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-16",
+   "groupKey": "coord:성동구-10",
+   "field": "COT_CONTS_NAME",
+   "value": "텐즈힐 1단지 아파트 113동 앞(재활용장 안)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 8건 있습니다: 성동구-10, 성동구-11, 성동구-12, 성동구-13, 성동구-15 외 3건",
+   "fingerprint": "C-08|11103389|성동구-16|coord:성동구-10|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-17",
+   "groupKey": "coord:성동구-10",
+   "field": "COT_CONTS_NAME",
+   "value": "텐즈힐 1단지 아파트 117동 앞(재활용장 안)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 8건 있습니다: 성동구-10, 성동구-11, 성동구-12, 성동구-13, 성동구-15 외 3건",
+   "fingerprint": "C-08|11103389|성동구-17|coord:성동구-10|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-18",
+   "groupKey": "coord:성동구-10",
+   "field": "COT_CONTS_NAME",
+   "value": "텐즈힐 1단지 아파트 118동 앞(재활용장 안)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 8건 있습니다: 성동구-10, 성동구-11, 성동구-12, 성동구-13, 성동구-15 외 3건",
+   "fingerprint": "C-08|11103389|성동구-18|coord:성동구-10|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-206",
+   "groupKey": "coord:성동구-206",
+   "field": "COT_CONTS_NAME",
+   "value": "옥수동 삼성아파트 106동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 성동구-206, 성동구-207, 성동구-208, 성동구-209",
+   "fingerprint": "C-08|11103389|성동구-206|coord:성동구-206|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-207",
+   "groupKey": "coord:성동구-206",
+   "field": "COT_CONTS_NAME",
+   "value": "옥수동 삼성아파트 101동 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 성동구-206, 성동구-207, 성동구-208, 성동구-209",
+   "fingerprint": "C-08|11103389|성동구-207|coord:성동구-206|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-208",
+   "groupKey": "coord:성동구-206",
+   "field": "COT_CONTS_NAME",
+   "value": "옥수동 삼성아파트 101동 1초소 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 성동구-206, 성동구-207, 성동구-208, 성동구-209",
+   "fingerprint": "C-08|11103389|성동구-208|coord:성동구-206|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-209",
+   "groupKey": "coord:성동구-206",
+   "field": "COT_CONTS_NAME",
+   "value": "옥수동 삼성아파트 104동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 성동구-206, 성동구-207, 성동구-208, 성동구-209",
+   "fingerprint": "C-08|11103389|성동구-209|coord:성동구-206|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-262",
+   "groupKey": "coord:성동구-262",
+   "field": "COT_CONTS_NAME",
+   "value": "덕현해밀아파트 앞 분류배출장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 성동구-262, 성동구-263, 성동구-264",
+   "fingerprint": "C-08|11103389|성동구-262|coord:성동구-262|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-262",
+   "groupKey": "same:성동구-262",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 성동구-262, 성동구-263, 성동구-264",
+   "fingerprint": "C-08|11103389|성동구-262|same:성동구-262|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-263",
+   "groupKey": "coord:성동구-262",
+   "field": "COT_CONTS_NAME",
+   "value": "덕현해밀아파트 앞 분류배출장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 성동구-262, 성동구-263, 성동구-264",
+   "fingerprint": "C-08|11103389|성동구-263|coord:성동구-262|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-263",
+   "groupKey": "same:성동구-262",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 성동구-262, 성동구-263, 성동구-264",
+   "fingerprint": "C-08|11103389|성동구-263|same:성동구-262|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-264",
+   "groupKey": "coord:성동구-262",
+   "field": "COT_CONTS_NAME",
+   "value": "덕현해밀아파트 앞 분류배출장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 성동구-262, 성동구-263, 성동구-264",
+   "fingerprint": "C-08|11103389|성동구-264|coord:성동구-262|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-264",
+   "groupKey": "same:성동구-262",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 성동구-262, 성동구-263, 성동구-264",
+   "fingerprint": "C-08|11103389|성동구-264|same:성동구-262|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-36",
+   "groupKey": "coord:성동구-36",
+   "field": "COT_CONTS_NAME",
+   "value": "극동미라주102동 앞(재활용수거장)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성동구-36, 성동구-37",
+   "fingerprint": "C-08|11103389|성동구-36|coord:성동구-36|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-37",
+   "groupKey": "coord:성동구-36",
+   "field": "COT_CONTS_NAME",
+   "value": "극동미라주 임대동 앞(재활용수거장)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성동구-36, 성동구-37",
+   "fingerprint": "C-08|11103389|성동구-37|coord:성동구-36|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-89",
+   "groupKey": "coord:성동구-89",
+   "field": "COT_CONTS_NAME",
+   "value": "서울숲리버뷰자이아파트 106동 1, 2라인 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 성동구-89, 성동구-90, 성동구-91",
+   "fingerprint": "C-08|11103389|성동구-89|coord:성동구-89|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-90",
+   "groupKey": "coord:성동구-89",
+   "field": "COT_CONTS_NAME",
+   "value": "서울숲리버뷰자이아파트 106동 3, 4라인 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 성동구-89, 성동구-90, 성동구-91",
+   "fingerprint": "C-08|11103389|성동구-90|coord:성동구-89|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성동구-91",
+   "groupKey": "coord:성동구-89",
+   "field": "COT_CONTS_NAME",
+   "value": "서울숲리버뷰자이아파트 106동 5, 6라인 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 성동구-89, 성동구-90, 성동구-91",
+   "fingerprint": "C-08|11103389|성동구-91|coord:성동구-89|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-11",
+   "groupKey": "coord:성북구-11",
+   "field": "COT_CONTS_NAME",
+   "value": "송산아파트 101동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성북구-11, 성북구-305",
+   "fingerprint": "C-08|11103389|성북구-11|coord:성북구-11|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-11",
+   "groupKey": "same:성북구-11",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 성북구-11, 성북구-305",
+   "fingerprint": "C-08|11103389|성북구-11|same:성북구-11|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-12",
+   "groupKey": "coord:성북구-12",
+   "field": "COT_CONTS_NAME",
+   "value": "송산아파트 103동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성북구-12, 성북구-306",
+   "fingerprint": "C-08|11103389|성북구-12|coord:성북구-12|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-12",
+   "groupKey": "same:성북구-12",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 성북구-12, 성북구-306",
+   "fingerprint": "C-08|11103389|성북구-12|same:성북구-12|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-163",
+   "groupKey": "coord:성북구-163",
+   "field": "COT_CONTS_NAME",
+   "value": "1경비초소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 성북구-163, 성북구-164, 성북구-165",
+   "fingerprint": "C-08|11103389|성북구-163|coord:성북구-163|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-164",
+   "groupKey": "coord:성북구-163",
+   "field": "COT_CONTS_NAME",
+   "value": "2경비초소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 성북구-163, 성북구-164, 성북구-165",
+   "fingerprint": "C-08|11103389|성북구-164|coord:성북구-163|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-165",
+   "groupKey": "coord:성북구-163",
+   "field": "COT_CONTS_NAME",
+   "value": "3경비초소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 성북구-163, 성북구-164, 성북구-165",
+   "fingerprint": "C-08|11103389|성북구-165|coord:성북구-163|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-188",
+   "groupKey": "coord:성북구-188",
+   "field": "COT_CONTS_NAME",
+   "value": "909동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성북구-188, 성북구-192",
+   "fingerprint": "C-08|11103389|성북구-188|coord:성북구-188|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-188",
+   "groupKey": "same:성북구-188",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 성북구-188, 성북구-192",
+   "fingerprint": "C-08|11103389|성북구-188|same:성북구-188|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-192",
+   "groupKey": "coord:성북구-188",
+   "field": "COT_CONTS_NAME",
+   "value": "909동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성북구-188, 성북구-192",
+   "fingerprint": "C-08|11103389|성북구-192|coord:성북구-188|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-192",
+   "groupKey": "same:성북구-188",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 성북구-188, 성북구-192",
+   "fingerprint": "C-08|11103389|성북구-192|same:성북구-188|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-199",
+   "groupKey": "coord:성북구-199",
+   "field": "COT_CONTS_NAME",
+   "value": "분리수거 2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 8건 있습니다: 성북구-199, 성북구-200, 성북구-201, 성북구-202, 성북구-203 외 3건",
+   "fingerprint": "C-08|11103389|성북구-199|coord:성북구-199|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-200",
+   "groupKey": "coord:성북구-199",
+   "field": "COT_CONTS_NAME",
+   "value": "분리수거 3",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 8건 있습니다: 성북구-199, 성북구-200, 성북구-201, 성북구-202, 성북구-203 외 3건",
+   "fingerprint": "C-08|11103389|성북구-200|coord:성북구-199|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-201",
+   "groupKey": "coord:성북구-199",
+   "field": "COT_CONTS_NAME",
+   "value": "분리수거 5",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 8건 있습니다: 성북구-199, 성북구-200, 성북구-201, 성북구-202, 성북구-203 외 3건",
+   "fingerprint": "C-08|11103389|성북구-201|coord:성북구-199|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-202",
+   "groupKey": "coord:성북구-199",
+   "field": "COT_CONTS_NAME",
+   "value": "분리수거 6",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 8건 있습니다: 성북구-199, 성북구-200, 성북구-201, 성북구-202, 성북구-203 외 3건",
+   "fingerprint": "C-08|11103389|성북구-202|coord:성북구-199|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-203",
+   "groupKey": "coord:성북구-199",
+   "field": "COT_CONTS_NAME",
+   "value": "분리수거 9",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 8건 있습니다: 성북구-199, 성북구-200, 성북구-201, 성북구-202, 성북구-203 외 3건",
+   "fingerprint": "C-08|11103389|성북구-203|coord:성북구-199|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-204",
+   "groupKey": "coord:성북구-199",
+   "field": "COT_CONTS_NAME",
+   "value": "분리수거 11",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 8건 있습니다: 성북구-199, 성북구-200, 성북구-201, 성북구-202, 성북구-203 외 3건",
+   "fingerprint": "C-08|11103389|성북구-204|coord:성북구-199|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-205",
+   "groupKey": "coord:성북구-199",
+   "field": "COT_CONTS_NAME",
+   "value": "분리수거 13",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 8건 있습니다: 성북구-199, 성북구-200, 성북구-201, 성북구-202, 성북구-203 외 3건",
+   "fingerprint": "C-08|11103389|성북구-205|coord:성북구-199|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-206",
+   "groupKey": "coord:성북구-199",
+   "field": "COT_CONTS_NAME",
+   "value": "분리수거 14",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 8건 있습니다: 성북구-199, 성북구-200, 성북구-201, 성북구-202, 성북구-203 외 3건",
+   "fingerprint": "C-08|11103389|성북구-206|coord:성북구-199|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-243",
+   "groupKey": "coord:성북구-243",
+   "field": "COT_CONTS_NAME",
+   "value": "110동(1-2호) 앞 집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성북구-243, 성북구-245",
+   "fingerprint": "C-08|11103389|성북구-243|coord:성북구-243|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-245",
+   "groupKey": "coord:성북구-243",
+   "field": "COT_CONTS_NAME",
+   "value": "117동(1-2호) 집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성북구-243, 성북구-245",
+   "fingerprint": "C-08|11103389|성북구-245|coord:성북구-243|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-261",
+   "groupKey": "coord:성북구-261",
+   "field": "COT_CONTS_NAME",
+   "value": "101동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성북구-261, 성북구-294",
+   "fingerprint": "C-08|11103389|성북구-261|coord:성북구-261|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-264",
+   "groupKey": "coord:성북구-264",
+   "field": "COT_CONTS_NAME",
+   "value": "107동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성북구-264, 성북구-265",
+   "fingerprint": "C-08|11103389|성북구-264|coord:성북구-264|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-265",
+   "groupKey": "coord:성북구-264",
+   "field": "COT_CONTS_NAME",
+   "value": "107동 뒤",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성북구-264, 성북구-265",
+   "fingerprint": "C-08|11103389|성북구-265|coord:성북구-264|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-294",
+   "groupKey": "coord:성북구-261",
+   "field": "COT_CONTS_NAME",
+   "value": "101동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성북구-261, 성북구-294",
+   "fingerprint": "C-08|11103389|성북구-294|coord:성북구-261|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-305",
+   "groupKey": "coord:성북구-11",
+   "field": "COT_CONTS_NAME",
+   "value": "송산아파트 101동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성북구-11, 성북구-305",
+   "fingerprint": "C-08|11103389|성북구-305|coord:성북구-11|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-305",
+   "groupKey": "same:성북구-11",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 성북구-11, 성북구-305",
+   "fingerprint": "C-08|11103389|성북구-305|same:성북구-11|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-306",
+   "groupKey": "coord:성북구-12",
+   "field": "COT_CONTS_NAME",
+   "value": "송산아파트 103동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성북구-12, 성북구-306",
+   "fingerprint": "C-08|11103389|성북구-306|coord:성북구-12|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-306",
+   "groupKey": "same:성북구-12",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 성북구-12, 성북구-306",
+   "fingerprint": "C-08|11103389|성북구-306|same:성북구-12|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-37",
+   "groupKey": "coord:성북구-37",
+   "field": "COT_CONTS_NAME",
+   "value": "돈암삼성아파트 108동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 성북구-37, 성북구-38, 성북구-40, 성북구-41, 성북구-42",
+   "fingerprint": "C-08|11103389|성북구-37|coord:성북구-37|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-38",
+   "groupKey": "coord:성북구-37",
+   "field": "COT_CONTS_NAME",
+   "value": "돈암삼성아파트 107동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 성북구-37, 성북구-38, 성북구-40, 성북구-41, 성북구-42",
+   "fingerprint": "C-08|11103389|성북구-38|coord:성북구-37|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-40",
+   "groupKey": "coord:성북구-37",
+   "field": "COT_CONTS_NAME",
+   "value": "돈암삼성아파트 102동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 성북구-37, 성북구-38, 성북구-40, 성북구-41, 성북구-42",
+   "fingerprint": "C-08|11103389|성북구-40|coord:성북구-37|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-41",
+   "groupKey": "coord:성북구-37",
+   "field": "COT_CONTS_NAME",
+   "value": "돈암삼성아파트 101동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 성북구-37, 성북구-38, 성북구-40, 성북구-41, 성북구-42",
+   "fingerprint": "C-08|11103389|성북구-41|coord:성북구-37|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-42",
+   "groupKey": "coord:성북구-37",
+   "field": "COT_CONTS_NAME",
+   "value": "돈암삼성아파트 103동 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 성북구-37, 성북구-38, 성북구-40, 성북구-41, 성북구-42",
+   "fingerprint": "C-08|11103389|성북구-42|coord:성북구-37|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-43",
+   "groupKey": "coord:성북구-43",
+   "field": "COT_CONTS_NAME",
+   "value": "금호어울림아파트 105동 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 성북구-43, 성북구-44, 성북구-45, 성북구-46",
+   "fingerprint": "C-08|11103389|성북구-43|coord:성북구-43|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-44",
+   "groupKey": "coord:성북구-43",
+   "field": "COT_CONTS_NAME",
+   "value": "금호어울림아파트 104동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 성북구-43, 성북구-44, 성북구-45, 성북구-46",
+   "fingerprint": "C-08|11103389|성북구-44|coord:성북구-43|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-45",
+   "groupKey": "coord:성북구-43",
+   "field": "COT_CONTS_NAME",
+   "value": "금호어울림아파트 101동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 성북구-43, 성북구-44, 성북구-45, 성북구-46",
+   "fingerprint": "C-08|11103389|성북구-45|coord:성북구-43|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-46",
+   "groupKey": "coord:성북구-43",
+   "field": "COT_CONTS_NAME",
+   "value": "금호어울림아파트 102동 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 성북구-43, 성북구-44, 성북구-45, 성북구-46",
+   "fingerprint": "C-08|11103389|성북구-46|coord:성북구-43|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-66",
+   "groupKey": "coord:성북구-66",
+   "field": "COT_CONTS_NAME",
+   "value": "일신건영휴먼빌아파트 101동 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성북구-66, 성북구-67",
+   "fingerprint": "C-08|11103389|성북구-66|coord:성북구-66|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-67",
+   "groupKey": "coord:성북구-66",
+   "field": "COT_CONTS_NAME",
+   "value": "일신건영휴먼빌아파트 109동 뒤",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성북구-66, 성북구-67",
+   "fingerprint": "C-08|11103389|성북구-67|coord:성북구-66|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-81",
+   "groupKey": "coord:성북구-81",
+   "field": "COT_CONTS_NAME",
+   "value": "한신,한진아파트 213동 경비실 앞",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성북구-81, 성북구-82",
+   "fingerprint": "C-08|11103389|성북구-81|coord:성북구-81|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성북구-82",
+   "groupKey": "coord:성북구-81",
+   "field": "COT_CONTS_NAME",
+   "value": "한신,한진아파트 215동 경비실 뒤",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성북구-81, 성북구-82",
+   "fingerprint": "C-08|11103389|성북구-82|coord:성북구-81|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-171",
+   "groupKey": "coord:송파구-171",
+   "field": "COT_CONTS_NAME",
+   "value": "송파푸르지오 102동 위",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 송파구-171, 송파구-172, 송파구-173",
+   "fingerprint": "C-08|11103389|송파구-171|coord:송파구-171|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-172",
+   "groupKey": "coord:송파구-171",
+   "field": "COT_CONTS_NAME",
+   "value": "송파푸르지오 103동 뒤",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 송파구-171, 송파구-172, 송파구-173",
+   "fingerprint": "C-08|11103389|송파구-172|coord:송파구-171|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-173",
+   "groupKey": "coord:송파구-171",
+   "field": "COT_CONTS_NAME",
+   "value": "송파푸르지오 104동 뒤",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 송파구-171, 송파구-172, 송파구-173",
+   "fingerprint": "C-08|11103389|송파구-173|coord:송파구-171|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-201",
+   "groupKey": "coord:송파구-201",
+   "field": "COT_CONTS_NAME",
+   "value": "송파위례아이파크1차 101동 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 송파구-201, 송파구-204",
+   "fingerprint": "C-08|11103389|송파구-201|coord:송파구-201|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-204",
+   "groupKey": "coord:송파구-201",
+   "field": "COT_CONTS_NAME",
+   "value": "송파위례아이파크1차 105 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 송파구-201, 송파구-204",
+   "fingerprint": "C-08|11103389|송파구-204|coord:송파구-201|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-232",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움1집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-232|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-233",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움2집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-233|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-234",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움3집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-234|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-235",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움4집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-235|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-236",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움5집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-236|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-237",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움6집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-237|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-238",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움7집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-238|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-239",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움8집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-239|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-240",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움9집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-240|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-241",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움10집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-241|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-242",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움11집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-242|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-243",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움12집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-243|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-244",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움13집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-244|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-245",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움14집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-245|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-246",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움15집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-246|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-247",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움16집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-247|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-248",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움17집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-248|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-249",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움18집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-249|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-250",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움19집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-250|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-251",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움20집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-251|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-252",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움21집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-252|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-253",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움22집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-253|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-254",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움23집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-254|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-255",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움24집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-255|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-256",
+   "groupKey": "coord:송파구-232",
+   "field": "COT_CONTS_NAME",
+   "value": "3단지 트리지움25집하장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 25건 있습니다: 송파구-232, 송파구-233, 송파구-234, 송파구-235, 송파구-236 외 20건",
+   "fingerprint": "C-08|11103389|송파구-256|coord:송파구-232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-272",
+   "groupKey": "coord:송파구-272",
+   "field": "COT_CONTS_NAME",
+   "value": "장미2차아파트 관리사무소(23동 앞)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 송파구-272, 송파구-273",
+   "fingerprint": "C-08|11103389|송파구-272|coord:송파구-272|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-273",
+   "groupKey": "coord:송파구-272",
+   "field": "COT_CONTS_NAME",
+   "value": "장미3차아파트 관리사무소(1동앞)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 송파구-272, 송파구-273",
+   "fingerprint": "C-08|11103389|송파구-273|coord:송파구-272|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-314",
+   "groupKey": "coord:송파구-314",
+   "field": "COT_CONTS_NAME",
+   "value": "801동 1초소 경비실 앞 재활용품 처리장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 송파구-314, 송파구-316",
+   "fingerprint": "C-08|11103389|송파구-314|coord:송파구-314|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-316",
+   "groupKey": "coord:송파구-314",
+   "field": "COT_CONTS_NAME",
+   "value": "803동 2초소 경비실 옆 재활용품 처리장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 송파구-314, 송파구-316",
+   "fingerprint": "C-08|11103389|송파구-316|coord:송파구-314|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-53",
+   "groupKey": "coord:송파구-53",
+   "field": "COT_CONTS_NAME",
+   "value": "가락1차쌍용아파트 관리사무소(1초소)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 송파구-53, 송파구-54, 송파구-55, 송파구-56, 송파구-57",
+   "fingerprint": "C-08|11103389|송파구-53|coord:송파구-53|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-54",
+   "groupKey": "coord:송파구-53",
+   "field": "COT_CONTS_NAME",
+   "value": "가락1차쌍용아파트 관리사무소(2초소)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 송파구-53, 송파구-54, 송파구-55, 송파구-56, 송파구-57",
+   "fingerprint": "C-08|11103389|송파구-54|coord:송파구-53|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-55",
+   "groupKey": "coord:송파구-53",
+   "field": "COT_CONTS_NAME",
+   "value": "가락1차쌍용아파트 관리사무소(3초소)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 송파구-53, 송파구-54, 송파구-55, 송파구-56, 송파구-57",
+   "fingerprint": "C-08|11103389|송파구-55|coord:송파구-53|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-56",
+   "groupKey": "coord:송파구-53",
+   "field": "COT_CONTS_NAME",
+   "value": "가락1차쌍용아파트 관리사무소(4초소)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 송파구-53, 송파구-54, 송파구-55, 송파구-56, 송파구-57",
+   "fingerprint": "C-08|11103389|송파구-56|coord:송파구-53|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "송파구-57",
+   "groupKey": "coord:송파구-53",
+   "field": "COT_CONTS_NAME",
+   "value": "가락1차쌍용아파트 관리사무소(5초소)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 송파구-53, 송파구-54, 송파구-55, 송파구-56, 송파구-57",
+   "fingerprint": "C-08|11103389|송파구-57|coord:송파구-53|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-141",
+   "groupKey": "coord:양천구-141",
+   "field": "COT_CONTS_NAME",
+   "value": "목동6단지아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 양천구-141, 양천구-142",
+   "fingerprint": "C-08|11103389|양천구-141|coord:양천구-141|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-141",
+   "groupKey": "same:양천구-141",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 양천구-141, 양천구-142",
+   "fingerprint": "C-08|11103389|양천구-141|same:양천구-141|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-142",
+   "groupKey": "coord:양천구-141",
+   "field": "COT_CONTS_NAME",
+   "value": "목동6단지아파트",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 양천구-141, 양천구-142",
+   "fingerprint": "C-08|11103389|양천구-142|coord:양천구-141|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-142",
+   "groupKey": "same:양천구-141",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 양천구-141, 양천구-142",
+   "fingerprint": "C-08|11103389|양천구-142|same:양천구-141|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-197",
+   "groupKey": "coord:양천구-197",
+   "field": "COT_CONTS_NAME",
+   "value": "신정뉴타운 롯데캐슬아파트 101동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: 양천구-197, 양천구-198, 양천구-199, 양천구-200, 양천구-201 외 2건",
+   "fingerprint": "C-08|11103389|양천구-197|coord:양천구-197|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-198",
+   "groupKey": "coord:양천구-197",
+   "field": "COT_CONTS_NAME",
+   "value": "신정뉴타운 롯데캐슬아파트 105동 2-1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: 양천구-197, 양천구-198, 양천구-199, 양천구-200, 양천구-201 외 2건",
+   "fingerprint": "C-08|11103389|양천구-198|coord:양천구-197|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-199",
+   "groupKey": "coord:양천구-197",
+   "field": "COT_CONTS_NAME",
+   "value": "신정뉴타운 롯데캐슬아파트 105동 2-2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: 양천구-197, 양천구-198, 양천구-199, 양천구-200, 양천구-201 외 2건",
+   "fingerprint": "C-08|11103389|양천구-199|coord:양천구-197|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-200",
+   "groupKey": "coord:양천구-197",
+   "field": "COT_CONTS_NAME",
+   "value": "신정뉴타운 롯데캐슬아파트 106동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: 양천구-197, 양천구-198, 양천구-199, 양천구-200, 양천구-201 외 2건",
+   "fingerprint": "C-08|11103389|양천구-200|coord:양천구-197|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-201",
+   "groupKey": "coord:양천구-197",
+   "field": "COT_CONTS_NAME",
+   "value": "신정뉴타운 롯데캐슬아파트 107동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: 양천구-197, 양천구-198, 양천구-199, 양천구-200, 양천구-201 외 2건",
+   "fingerprint": "C-08|11103389|양천구-201|coord:양천구-197|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-202",
+   "groupKey": "coord:양천구-197",
+   "field": "COT_CONTS_NAME",
+   "value": "신정뉴타운 롯데캐슬아파트 108동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: 양천구-197, 양천구-198, 양천구-199, 양천구-200, 양천구-201 외 2건",
+   "fingerprint": "C-08|11103389|양천구-202|coord:양천구-197|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-203",
+   "groupKey": "coord:양천구-197",
+   "field": "COT_CONTS_NAME",
+   "value": "신정뉴타운 롯데캐슬아파트 109동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 7건 있습니다: 양천구-197, 양천구-198, 양천구-199, 양천구-200, 양천구-201 외 2건",
+   "fingerprint": "C-08|11103389|양천구-203|coord:양천구-197|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-41",
+   "groupKey": "coord:양천구-41",
+   "field": "COT_CONTS_NAME",
+   "value": "트라펠리스 웨스턴에비뉴 1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 양천구-41, 양천구-42",
+   "fingerprint": "C-08|11103389|양천구-41|coord:양천구-41|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-417",
+   "groupKey": "coord:양천구-417",
+   "field": "COT_CONTS_NAME",
+   "value": "목동아파트 13단지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 양천구-417, 양천구-418",
+   "fingerprint": "C-08|11103389|양천구-417|coord:양천구-417|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-417",
+   "groupKey": "same:양천구-417",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 양천구-417, 양천구-418",
+   "fingerprint": "C-08|11103389|양천구-417|same:양천구-417|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-418",
+   "groupKey": "coord:양천구-417",
+   "field": "COT_CONTS_NAME",
+   "value": "목동아파트 13단지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 양천구-417, 양천구-418",
+   "fingerprint": "C-08|11103389|양천구-418|coord:양천구-417|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-418",
+   "groupKey": "same:양천구-417",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 양천구-417, 양천구-418",
+   "fingerprint": "C-08|11103389|양천구-418|same:양천구-417|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-42",
+   "groupKey": "coord:양천구-41",
+   "field": "COT_CONTS_NAME",
+   "value": "트라펠리스 웨스턴에비뉴 2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 양천구-41, 양천구-42",
+   "fingerprint": "C-08|11103389|양천구-42|coord:양천구-41|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-43",
+   "groupKey": "coord:양천구-43",
+   "field": "COT_CONTS_NAME",
+   "value": "트라팰리스  이스턴에비뉴 1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 양천구-43, 양천구-44",
+   "fingerprint": "C-08|11103389|양천구-43|coord:양천구-43|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-44",
+   "groupKey": "coord:양천구-43",
+   "field": "COT_CONTS_NAME",
+   "value": "트라팰리스  이스턴에비뉴 2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 양천구-43, 양천구-44",
+   "fingerprint": "C-08|11103389|양천구-44|coord:양천구-43|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-441",
+   "groupKey": "coord:양천구-441",
+   "field": "COT_CONTS_NAME",
+   "value": "이스타빌3차 주상복합 지하주차장 1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 양천구-441, 양천구-442",
+   "fingerprint": "C-08|11103389|양천구-441|coord:양천구-441|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-442",
+   "groupKey": "coord:양천구-441",
+   "field": "COT_CONTS_NAME",
+   "value": "이스타빌3차 주상복합 지하주차장 2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 양천구-441, 양천구-442",
+   "fingerprint": "C-08|11103389|양천구-442|coord:양천구-441|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-455",
+   "groupKey": "coord:양천구-455",
+   "field": "COT_CONTS_NAME",
+   "value": "양천아파트 관리사무소 1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 양천구-455, 양천구-456, 양천구-457",
+   "fingerprint": "C-08|11103389|양천구-455|coord:양천구-455|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-456",
+   "groupKey": "coord:양천구-455",
+   "field": "COT_CONTS_NAME",
+   "value": "양천아파트 관리사무소 2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 양천구-455, 양천구-456, 양천구-457",
+   "fingerprint": "C-08|11103389|양천구-456|coord:양천구-455|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "양천구-457",
+   "groupKey": "coord:양천구-455",
+   "field": "COT_CONTS_NAME",
+   "value": "양천아파트 관리사무소 3",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 양천구-455, 양천구-456, 양천구-457",
+   "fingerprint": "C-08|11103389|양천구-457|coord:양천구-455|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-112",
+   "groupKey": "coord:은평구-112",
+   "field": "COT_CONTS_NAME",
+   "value": "P3 담벼락",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 은평구-112, 은평구-113",
+   "fingerprint": "C-08|11103389|은평구-112|coord:은평구-112|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-113",
+   "groupKey": "coord:은평구-112",
+   "field": "COT_CONTS_NAME",
+   "value": "P5 담벼락",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 은평구-112, 은평구-113",
+   "fingerprint": "C-08|11103389|은평구-113|coord:은평구-112|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-140",
+   "groupKey": "coord:은평구-140",
+   "field": "COT_CONTS_NAME",
+   "value": "관리사무실 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 은평구-140, 은평구-164, 은평구-191",
+   "fingerprint": "C-08|11103389|은평구-140|coord:은평구-140|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-142",
+   "groupKey": "coord:은평구-142",
+   "field": "COT_CONTS_NAME",
+   "value": "재활용 수거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 은평구-142, 은평구-168, 은평구-242, 은평구-8",
+   "fingerprint": "C-08|11103389|은평구-142|coord:은평구-142|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-162",
+   "groupKey": "coord:은평구-162",
+   "field": "COT_CONTS_NAME",
+   "value": "경비실 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 은평구-162, 은평구-249",
+   "fingerprint": "C-08|11103389|은평구-162|coord:은평구-162|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-164",
+   "groupKey": "coord:은평구-140",
+   "field": "COT_CONTS_NAME",
+   "value": "관리사무실 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 은평구-140, 은평구-164, 은평구-191",
+   "fingerprint": "C-08|11103389|은평구-164|coord:은평구-140|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-165",
+   "groupKey": "coord:은평구-165",
+   "field": "COT_CONTS_NAME",
+   "value": "102동 재활용 수거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 은평구-165, 은평구-233, 은평구-367",
+   "fingerprint": "C-08|11103389|은평구-165|coord:은평구-165|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-166",
+   "groupKey": "coord:은평구-166",
+   "field": "COT_CONTS_NAME",
+   "value": "105동 재활용 수거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 은평구-166, 은평구-193, 은평구-194",
+   "fingerprint": "C-08|11103389|은평구-166|coord:은평구-166|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-168",
+   "groupKey": "coord:은평구-142",
+   "field": "COT_CONTS_NAME",
+   "value": "재활용 수거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 은평구-142, 은평구-168, 은평구-242, 은평구-8",
+   "fingerprint": "C-08|11103389|은평구-168|coord:은평구-142|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-191",
+   "groupKey": "coord:은평구-140",
+   "field": "COT_CONTS_NAME",
+   "value": "관리사무실 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 은평구-140, 은평구-164, 은평구-191",
+   "fingerprint": "C-08|11103389|은평구-191|coord:은평구-140|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-193",
+   "groupKey": "coord:은평구-166",
+   "field": "COT_CONTS_NAME",
+   "value": "105동 재활용 수거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 은평구-166, 은평구-193, 은평구-194",
+   "fingerprint": "C-08|11103389|은평구-193|coord:은평구-166|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-194",
+   "groupKey": "coord:은평구-166",
+   "field": "COT_CONTS_NAME",
+   "value": "105동 재활용 수거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 은평구-166, 은평구-193, 은평구-194",
+   "fingerprint": "C-08|11103389|은평구-194|coord:은평구-166|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-233",
+   "groupKey": "coord:은평구-165",
+   "field": "COT_CONTS_NAME",
+   "value": "102동 재활용 수거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 은평구-165, 은평구-233, 은평구-367",
+   "fingerprint": "C-08|11103389|은평구-233|coord:은평구-165|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-242",
+   "groupKey": "coord:은평구-142",
+   "field": "COT_CONTS_NAME",
+   "value": "재활용 수거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 은평구-142, 은평구-168, 은평구-242, 은평구-8",
+   "fingerprint": "C-08|11103389|은평구-242|coord:은평구-142|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-246",
+   "groupKey": "coord:은평구-246",
+   "field": "COT_CONTS_NAME",
+   "value": "지하주차장 입구",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 은평구-246, 은평구-369, 은평구-370, 은평구-371",
+   "fingerprint": "C-08|11103389|은평구-246|coord:은평구-246|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-248",
+   "groupKey": "coord:은평구-248",
+   "field": "COT_CONTS_NAME",
+   "value": "주차장 입구",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 은평구-248, 은평구-368",
+   "fingerprint": "C-08|11103389|은평구-248|coord:은평구-248|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-249",
+   "groupKey": "coord:은평구-162",
+   "field": "COT_CONTS_NAME",
+   "value": "경비실 옆",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 은평구-162, 은평구-249",
+   "fingerprint": "C-08|11103389|은평구-249|coord:은평구-162|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-339",
+   "groupKey": "coord:은평구-339",
+   "field": "COT_CONTS_NAME",
+   "value": "234동 재활용 수거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 은평구-339, 은평구-343",
+   "fingerprint": "C-08|11103389|은평구-339|coord:은평구-339|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-339",
+   "groupKey": "same:은평구-339",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 은평구-339, 은평구-343",
+   "fingerprint": "C-08|11103389|은평구-339|same:은평구-339|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-343",
+   "groupKey": "coord:은평구-339",
+   "field": "COT_CONTS_NAME",
+   "value": "234동 재활용 수거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 은평구-339, 은평구-343",
+   "fingerprint": "C-08|11103389|은평구-343|coord:은평구-339|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-343",
+   "groupKey": "same:은평구-339",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 은평구-339, 은평구-343",
+   "fingerprint": "C-08|11103389|은평구-343|same:은평구-339|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-367",
+   "groupKey": "coord:은평구-165",
+   "field": "COT_CONTS_NAME",
+   "value": "102동 재활용 수거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 은평구-165, 은평구-233, 은평구-367",
+   "fingerprint": "C-08|11103389|은평구-367|coord:은평구-165|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-368",
+   "groupKey": "coord:은평구-248",
+   "field": "COT_CONTS_NAME",
+   "value": "주차장 입구",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 은평구-248, 은평구-368",
+   "fingerprint": "C-08|11103389|은평구-368|coord:은평구-248|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-369",
+   "groupKey": "coord:은평구-246",
+   "field": "COT_CONTS_NAME",
+   "value": "지하주차장 입구",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 은평구-246, 은평구-369, 은평구-370, 은평구-371",
+   "fingerprint": "C-08|11103389|은평구-369|coord:은평구-246|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-370",
+   "groupKey": "coord:은평구-246",
+   "field": "COT_CONTS_NAME",
+   "value": "지하주차장 입구",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 은평구-246, 은평구-369, 은평구-370, 은평구-371",
+   "fingerprint": "C-08|11103389|은평구-370|coord:은평구-246|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-371",
+   "groupKey": "coord:은평구-246",
+   "field": "COT_CONTS_NAME",
+   "value": "지하주차장 입구",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 은평구-246, 은평구-369, 은평구-370, 은평구-371",
+   "fingerprint": "C-08|11103389|은평구-371|coord:은평구-246|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은평구-8",
+   "groupKey": "coord:은평구-142",
+   "field": "COT_CONTS_NAME",
+   "value": "재활용 수거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 은평구-142, 은평구-168, 은평구-242, 은평구-8",
+   "fingerprint": "C-08|11103389|은평구-8|coord:은평구-142|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "종로구-0021",
+   "groupKey": "coord:종로구-0021",
+   "field": "COT_CONTS_NAME",
+   "value": "완성빌라 1차",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 종로구-0021, 종로구-0022",
+   "fingerprint": "C-08|11103389|종로구-0021|coord:종로구-0021|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "종로구-0022",
+   "groupKey": "coord:종로구-0021",
+   "field": "COT_CONTS_NAME",
+   "value": "완성빌라 2차",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 종로구-0021, 종로구-0022",
+   "fingerprint": "C-08|11103389|종로구-0022|coord:종로구-0021|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "중구-126",
+   "groupKey": "coord:중구-126",
+   "field": "COT_CONTS_NAME",
+   "value": "아크로타워 B2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 중구-126, 중구-127",
+   "fingerprint": "C-08|11103389|중구-126|coord:중구-126|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "중구-127",
+   "groupKey": "coord:중구-126",
+   "field": "COT_CONTS_NAME",
+   "value": "아크로타워 B3",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 중구-126, 중구-127",
+   "fingerprint": "C-08|11103389|중구-127|coord:중구-126|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "중구-37",
+   "groupKey": "coord:중구-37",
+   "field": "COT_CONTS_NAME",
+   "value": "(세운힐스테이트 아파트 1단지) 지하2층 재활용품 수거장(주거자용)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 중구-37, 중구-38, 중구-39",
+   "fingerprint": "C-08|11103389|중구-37|coord:중구-37|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "중구-37",
+   "groupKey": "same:중구-37",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 중구-37, 중구-38",
+   "fingerprint": "C-08|11103389|중구-37|same:중구-37|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "중구-38",
+   "groupKey": "coord:중구-37",
+   "field": "COT_CONTS_NAME",
+   "value": "(세운힐스테이트 아파트 1단지) 지하2층 재활용품 수거장(주거자용)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 중구-37, 중구-38, 중구-39",
+   "fingerprint": "C-08|11103389|중구-38|coord:중구-37|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "중구-38",
+   "groupKey": "same:중구-37",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 중구-37, 중구-38",
+   "fingerprint": "C-08|11103389|중구-38|same:중구-37|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "중구-39",
+   "groupKey": "coord:중구-37",
+   "field": "COT_CONTS_NAME",
+   "value": "(세운힐스테이트 아파트 1단지) 지하2층 재활용품 수거장(비주거자용)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 중구-37, 중구-38, 중구-39",
+   "fingerprint": "C-08|11103389|중구-39|coord:중구-37|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "중구-40",
+   "groupKey": "coord:중구-40",
+   "field": "COT_CONTS_NAME",
+   "value": "(세운힐스테이트 아파트 2단지)지하2층 재활용품 수거장(주거자용)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 중구-40, 중구-41, 중구-42, 중구-43",
+   "fingerprint": "C-08|11103389|중구-40|coord:중구-40|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "중구-40",
+   "groupKey": "same:중구-40",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 중구-40, 중구-41",
+   "fingerprint": "C-08|11103389|중구-40|same:중구-40|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "중구-41",
+   "groupKey": "coord:중구-40",
+   "field": "COT_CONTS_NAME",
+   "value": "(세운힐스테이트 아파트 2단지)지하2층 재활용품 수거장(주거자용)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 중구-40, 중구-41, 중구-42, 중구-43",
+   "fingerprint": "C-08|11103389|중구-41|coord:중구-40|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "중구-41",
+   "groupKey": "same:중구-40",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 중구-40, 중구-41",
+   "fingerprint": "C-08|11103389|중구-41|same:중구-40|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "중구-42",
+   "groupKey": "coord:중구-40",
+   "field": "COT_CONTS_NAME",
+   "value": "(세운힐스테이트 아파트 2단지)지하2층 재활용품 수거장(비주거자용)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 중구-40, 중구-41, 중구-42, 중구-43",
+   "fingerprint": "C-08|11103389|중구-42|coord:중구-40|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "중구-43",
+   "groupKey": "coord:중구-40",
+   "field": "COT_CONTS_NAME",
+   "value": "(세운힐스테이트 아파트 2단지)지하2층 재활용품 수거장(비주거자용)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 중구-40, 중구-41, 중구-42, 중구-43",
+   "fingerprint": "C-08|11103389|중구-43|coord:중구-40|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "은평구-183",
+   "groupKey": "near:은평구-183",
+   "field": "COT_CONTS_NAME",
+   "value": "주차장 입구",
+   "message": "30m 안에 이름이 같은 행이 3건 있습니다: 은평구-183, 은평구-248, 은평구-368",
+   "fingerprint": "C-09|11103389|은평구-183|near:은평구-183|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "은평구-248",
+   "groupKey": "near:은평구-183",
+   "field": "COT_CONTS_NAME",
+   "value": "주차장 입구",
+   "message": "30m 안에 이름이 같은 행이 3건 있습니다: 은평구-183, 은평구-248, 은평구-368",
+   "fingerprint": "C-09|11103389|은평구-248|near:은평구-183|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "은평구-368",
+   "groupKey": "near:은평구-183",
+   "field": "COT_CONTS_NAME",
+   "value": "주차장 입구",
+   "message": "30m 안에 이름이 같은 행이 3건 있습니다: 은평구-183, 은평구-248, 은평구-368",
+   "fingerprint": "C-09|11103389|은평구-368|near:은평구-183|COT_CONTS_NAME"
+  }
+ ]
+}

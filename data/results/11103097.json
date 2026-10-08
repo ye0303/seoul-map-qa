@@ -1,0 +1,1481 @@
+{
+ "themeId": "11103097",
+ "rulesetVersion": 1,
+ "contentHash": "493c78f3146b11d57dcbd7ccbffdeee61cd7829ee01557870a6bb14b0ad8dffd",
+ "findings": [
+  {
+   "ruleId": "C-03",
+   "severity": "error",
+   "contsId": "SP220601",
+   "field": "COT_COORD_X",
+   "value": "경도 146.303395187, 위도 36.677228037",
+   "message": "좌표가 국내 범위(경도 124~132, 위도 33~39)를 벗어났습니다.",
+   "fingerprint": "C-03|11103097|SP220601||COT_COORD_X"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "GB210601",
+   "field": "COT_GU_NAME",
+   "value": "중구",
+   "severity": "error",
+   "suggestion": "강북구",
+   "message": "구명(중구)이 좌표·주소의 구(강북구)와 다릅니다.",
+   "fingerprint": "C-05|11103097|GB210601||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "BP231101",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|BP231101||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "BP241201",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|BP241201||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "BP260501",
+   "field": "COT_GU_NAME",
+   "suggestion": "마포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|BP260501||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "DB200213",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|DB200213||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "DB200217",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|DB200217||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "DB240601",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|DB240601||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "DB251101",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|DB251101||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "DJ240302",
+   "field": "COT_GU_NAME",
+   "suggestion": "동작구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|DJ240302||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "DJ241205",
+   "field": "COT_GU_NAME",
+   "suggestion": "동작구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|DJ241205||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "DJ250201",
+   "field": "COT_GU_NAME",
+   "suggestion": "동작구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|DJ250201||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "DJ250202",
+   "field": "COT_GU_NAME",
+   "suggestion": "동작구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|DJ250202||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "DJ260501",
+   "field": "COT_GU_NAME",
+   "suggestion": "동작구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|DJ260501||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "DM200107",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|DM200107||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "DM210305",
+   "field": "COT_GU_NAME",
+   "suggestion": "동대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|DM210305||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "DM241201",
+   "field": "COT_GU_NAME",
+   "suggestion": "동대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|DM241201||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "EP200156",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|EP200156||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "EP200168",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|EP200168||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "EP200183",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|EP200183||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "EP210505",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|EP210505||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "EP211001",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|EP211001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "EP220902",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|EP220902||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GA200122",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GA200122||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GA230701",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GA230701||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GA230702",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GA230702||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GB191127",
+   "field": "COT_GU_NAME",
+   "suggestion": "구로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GB191127||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GB200103",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GB200103||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GB210301",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GB210301||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GB210306",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GB210306||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GB220401",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GB220401||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GB230501",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GB230501||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GB231201",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GB231201||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GD191101",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GD191101||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GD200902",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GD200902||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GD211001",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GD211001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GD250501",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GD250501||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GD250602",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GD250602||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GJ200124",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GJ200124||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GJ210303",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GJ210303||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GN191006",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GN191006||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GN191202",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GN191202||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GN230401",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GN230401||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GN240801",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GN240801||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GR200129",
+   "field": "COT_GU_NAME",
+   "suggestion": "구로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GR200129||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GR200136",
+   "field": "COT_GU_NAME",
+   "suggestion": "구로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GR200136||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GR200137",
+   "field": "COT_GU_NAME",
+   "suggestion": "구로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GR200137||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GR200141",
+   "field": "COT_GU_NAME",
+   "suggestion": "구로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GR200141||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GR210305",
+   "field": "COT_GU_NAME",
+   "suggestion": "구로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GR210305||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GR221001",
+   "field": "COT_GU_NAME",
+   "suggestion": "구로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GR221001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GR260201",
+   "field": "COT_GU_NAME",
+   "suggestion": "구로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GR260201||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GS200104",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GS200104||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GS210703",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GS210703||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GS220105",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GS220105||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GS231101",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GS231101||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GS250101",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GS250101||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "GS250201",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|GS250201||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "JG241201",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|JG241201||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "JN191103",
+   "field": "COT_GU_NAME",
+   "suggestion": "종로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|JN191103||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "JR200146",
+   "field": "COT_GU_NAME",
+   "suggestion": "중랑구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|JR200146||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "KC200103",
+   "field": "COT_GU_NAME",
+   "suggestion": "금천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|KC200103||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "KC210301",
+   "field": "COT_GU_NAME",
+   "suggestion": "금천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|KC210301||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "KC210303",
+   "field": "COT_GU_NAME",
+   "suggestion": "금천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|KC210303||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "KC210304",
+   "field": "COT_GU_NAME",
+   "suggestion": "금천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|KC210304||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "NW191115",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|NW191115||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "NW231101",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|NW231101||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SB200101",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SB200101||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SB200143",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SB200143||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SB210304",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SB210304||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SB210306",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SB210306||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SB231101",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SB231101||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SB241201",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SB241201||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SB250301",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SB250301||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SC200107",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SC200107||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SC200113",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SC200113||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SC260901",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SC260901||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SD210302",
+   "field": "COT_GU_NAME",
+   "suggestion": "성동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SD210302||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SD210303",
+   "field": "COT_GU_NAME",
+   "suggestion": "성동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SD210303||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SM230601",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SM230601||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SM231101",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SM231101||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SM240602",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SM240602||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SP200103",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SP200103||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SP200112",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SP200112||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SP200402",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SP200402||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SP210302",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SP210302||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SP210306",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SP210306||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SP220101",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SP220101||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SP231101",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SP231101||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SP241201",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|SP241201||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "YC200113",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|YC200113||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "YC200115",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|YC200115||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "YC210302",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|YC210302||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "YC210901",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|YC210901||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "YC241201",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|YC241201||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "YC251001",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|YC251001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "YF200128",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|YF200128||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "YF221101",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|YF221101||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "YS240402",
+   "field": "COT_GU_NAME",
+   "suggestion": "용산구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103097|YS240402||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB210401",
+   "groupKey": "coord:DB210401",
+   "field": "COT_CONTS_NAME",
+   "value": "시립창동청소년센터 청소년방과후아카데미(초등)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB210401, DB210402",
+   "fingerprint": "C-08|11103097|DB210401|coord:DB210401|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DB210402",
+   "groupKey": "coord:DB210401",
+   "field": "COT_CONTS_NAME",
+   "value": "시립창동청소년센터 청소년방과후아카데미(중등)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DB210401, DB210402",
+   "fingerprint": "C-08|11103097|DB210402|coord:DB210401|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DJ210307",
+   "groupKey": "coord:DJ210307",
+   "field": "COT_CONTS_NAME",
+   "value": "흑석지역아동센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DJ210307, DJ210308",
+   "fingerprint": "C-08|11103097|DJ210307|coord:DJ210307|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "DJ210308",
+   "groupKey": "coord:DJ210307",
+   "field": "COT_CONTS_NAME",
+   "value": "흑석희망지역아동센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: DJ210307, DJ210308",
+   "fingerprint": "C-08|11103097|DJ210308|coord:DJ210307|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "EP200150",
+   "groupKey": "near:EP200150",
+   "field": "COT_CONTS_NAME",
+   "value": "보물섬지역아동센터",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: EP200150, EP211001",
+   "fingerprint": "C-09|11103097|EP200150|near:EP200150|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "EP211001",
+   "groupKey": "near:EP200150",
+   "field": "COT_CONTS_NAME",
+   "value": "보물섬지역아동센터",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: EP200150, EP211001",
+   "fingerprint": "C-09|11103097|EP211001|near:EP200150|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "DJ200204",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|DJ200204||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "DJ200205",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|DJ200205||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "DJ200224",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|DJ200224||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "DJ210312",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|DJ210312||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "DJ220102",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|DJ220102||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "DJ220103",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|DJ220103||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "EP200170",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|EP200170||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "GA200122",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|GA200122||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "GA200124",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|GA200124||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "GA200126",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|GA200126||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "GA200145",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|GA200145||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "GB200129",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|GB200129||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "GB210304",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|GB210304||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "GD200103",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|GD200103||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "GJ200123",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|GJ200123||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "GN191006",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|GN191006||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "GR200132",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|GR200132||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "GR200136",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|GR200136||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "GR210308",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|GR210308||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "GS220101",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|GS220101||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "JN200120",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|JN200120||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "JN200121",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|JN200121||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "JN220301",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|JN220301||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "JR200126",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|JR200126||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "JR200136",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|JR200136||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "KC200104",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|KC200104||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "KC200112",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|KC200112||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "KC200118",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|KC200118||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "KC210307",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|KC210307||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "KC210602",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|KC210602||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "MP200106",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|MP200106||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "MP200110",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|MP200110||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "MP200115",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|MP200115||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "NW200101",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|NW200101||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "NW200185",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|NW200185||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "NW200188",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|NW200188||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "NW200190",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|NW200190||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "NW210303",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|NW210303||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "SB200109",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|SB200109||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "SB200113",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|SB200113||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "SB200117",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|SB200117||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "SB200129",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|SB200129||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "SB200133",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|SB200133||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "SB200141",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|SB200141||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "SB210308",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|SB210308||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "SB210901",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|SB210901||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "SC210301",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|SC210301||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "SD220102",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|SD220102||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "SM200108",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|SM200108||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "SM200118",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|SM200118||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "SP210301",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|SP210301||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "SP210303",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|SP210303||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "YC200147",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|YC200147||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "YC200151",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|YC200151||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "YF200117",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|YF200117||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "YF200130",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|YF200130||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "YS200114",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|YS200114||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "YS200117",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|YS200117||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "YS200120",
+   "field": "COT_TEL_NO",
+   "value": "En-cry-pted",
+   "message": "전화번호: 암호화된 값이 그대로 들어 있습니다.",
+   "fingerprint": "C-10|11103097|YS200120||COT_TEL_NO"
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "themeId": "1772667456032",
+ "rulesetVersion": 1,
+ "contentHash": "e756f753c9f16093d919c53a68ecf02a61080748383b96638656adae45f97661",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gc_toji_166",
+   "field": "COT_GU_NAME",
+   "suggestion": "금천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1772667456032|gc_toji_166||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gc_toji_24",
+   "field": "COT_GU_NAME",
+   "suggestion": "금천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1772667456032|gc_toji_24||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gc_toji_96",
+   "field": "COT_GU_NAME",
+   "suggestion": "금천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1772667456032|gc_toji_96||COT_GU_NAME"
+  }
+ ]
+}

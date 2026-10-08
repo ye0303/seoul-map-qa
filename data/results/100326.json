@@ -1,0 +1,65 @@
+{
+ "themeId": "100326",
+ "rulesetVersion": 1,
+ "contentHash": "e0151a56841756c9c7472810d28609f1103c95c206a11d08ca2bf8c2a53a8197",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "dm00060",
+   "field": "COT_GU_NAME",
+   "suggestion": "동작구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100326|dm00060||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dm00060",
+   "groupKey": "coord:dm00060",
+   "field": "COT_CONTS_NAME",
+   "value": "대방어린이도서관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dm00060, dm00061",
+   "fingerprint": "C-08|100326|dm00060|coord:dm00060|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dm00061",
+   "groupKey": "coord:dm00060",
+   "field": "COT_CONTS_NAME",
+   "value": "대방어린이도서관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dm00060, dm00061",
+   "fingerprint": "C-08|100326|dm00061|coord:dm00060|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dm00064",
+   "groupKey": "coord:dm00064",
+   "field": "COT_CONTS_NAME",
+   "value": "다올작은도서관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dm00064, dm00104",
+   "fingerprint": "C-08|100326|dm00064|coord:dm00064|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "dm00104",
+   "groupKey": "coord:dm00064",
+   "field": "COT_CONTS_NAME",
+   "value": "다울작은도서관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: dm00064, dm00104",
+   "fingerprint": "C-08|100326|dm00104|coord:dm00064|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "dm00091",
+   "field": "COT_TEL_NO",
+   "value": "597-6630",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100326|dm00091||COT_TEL_NO"
+  }
+ ]
+}

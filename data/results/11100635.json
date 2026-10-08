@@ -1,0 +1,484 @@
+{
+ "themeId": "11100635",
+ "rulesetVersion": 1,
+ "contentHash": "7cd7c7dd634a6b391ff6f8b9489f941de0c0f3896c9769a9e3ff5f580be959de",
+ "findings": [
+  {
+   "ruleId": "C-04",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "outside",
+   "message": "서울 밖 장소가 2건 있습니다(주소도 서울 밖).",
+   "fingerprint": "C-04|11100635||outside|"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "0",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100635|0||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "33715",
+   "field": "COT_GU_NAME",
+   "suggestion": "용산구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100635|33715||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "33729",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100635|33729||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "33962",
+   "field": "COT_GU_NAME",
+   "suggestion": "종로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100635|33962||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "34287",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100635|34287||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "34533",
+   "field": "COT_GU_NAME",
+   "suggestion": "용산구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100635|34533||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "34619",
+   "field": "COT_GU_NAME",
+   "suggestion": "마포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100635|34619||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "34949",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100635|34949||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "37772",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100635|37772||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "39004",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100635|39004||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "41403",
+   "field": "COT_GU_NAME",
+   "suggestion": "종로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100635|41403||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "42044",
+   "field": "COT_GU_NAME",
+   "suggestion": "마포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100635|42044||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "42156",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100635|42156||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "42337",
+   "field": "COT_GU_NAME",
+   "suggestion": "용산구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100635|42337||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "42380",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100635|42380||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "42938",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100635|42938||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "42940",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100635|42940||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "33507",
+   "groupKey": "coord:33507",
+   "field": "COT_CONTS_NAME",
+   "value": "허준박물관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 33507, 40066",
+   "fingerprint": "C-08|11100635|33507|coord:33507|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "34013",
+   "groupKey": "coord:34013",
+   "field": "COT_CONTS_NAME",
+   "value": "서울스카이",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 34013, 39794",
+   "fingerprint": "C-08|11100635|34013|coord:34013|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "34720",
+   "groupKey": "coord:34720",
+   "field": "COT_CONTS_NAME",
+   "value": "사비나미술관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 34720, 38997",
+   "fingerprint": "C-08|11100635|34720|coord:34720|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "34806",
+   "groupKey": "coord:34806",
+   "field": "COT_CONTS_NAME",
+   "value": "예술의전당 서예박물관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 34806, 40058",
+   "fingerprint": "C-08|11100635|34806|coord:34806|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "34992",
+   "groupKey": "coord:34992",
+   "field": "COT_CONTS_NAME",
+   "value": "둘리뮤지엄",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 34992, 39792",
+   "fingerprint": "C-08|11100635|34992|coord:34992|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "35230",
+   "groupKey": "coord:35230",
+   "field": "COT_CONTS_NAME",
+   "value": "예술의전당 음악당",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 35230, 40064",
+   "fingerprint": "C-08|11100635|35230|coord:35230|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "35243",
+   "groupKey": "coord:35243",
+   "field": "COT_CONTS_NAME",
+   "value": "마루공원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 35243, 39804",
+   "fingerprint": "C-08|11100635|35243|coord:35243|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "35246",
+   "groupKey": "coord:35246",
+   "field": "COT_CONTS_NAME",
+   "value": "명동예술극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 35246, 39802",
+   "fingerprint": "C-08|11100635|35246|coord:35246|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "35253",
+   "groupKey": "coord:35253",
+   "field": "COT_CONTS_NAME",
+   "value": "관악산공원 야외식물원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 35253, 39800",
+   "fingerprint": "C-08|11100635|35253|coord:35253|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "35390",
+   "groupKey": "coord:35390",
+   "field": "COT_CONTS_NAME",
+   "value": "길동생태공원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 35390, 39801",
+   "fingerprint": "C-08|11100635|35390|coord:35390|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "35397",
+   "groupKey": "coord:35397",
+   "field": "COT_CONTS_NAME",
+   "value": "세종문화회관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 35397, 40057",
+   "fingerprint": "C-08|11100635|35397|coord:35397|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "35501",
+   "groupKey": "coord:35501",
+   "field": "COT_CONTS_NAME",
+   "value": "농업박물관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 35501, 39803",
+   "fingerprint": "C-08|11100635|35501|coord:35501|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "35511",
+   "groupKey": "coord:35511",
+   "field": "COT_CONTS_NAME",
+   "value": "서울시립북서울미술관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 35511, 40054",
+   "fingerprint": "C-08|11100635|35511|coord:35511|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "36197",
+   "groupKey": "coord:36197",
+   "field": "COT_CONTS_NAME",
+   "value": "National Museum of Modern and Contemporary Art Seoul",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 36197, 39572",
+   "fingerprint": "C-08|11100635|36197|coord:36197|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "38997",
+   "groupKey": "coord:34720",
+   "field": "COT_CONTS_NAME",
+   "value": "사비나미술관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 34720, 38997",
+   "fingerprint": "C-08|11100635|38997|coord:34720|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "39572",
+   "groupKey": "coord:36197",
+   "field": "COT_CONTS_NAME",
+   "value": "National Museum of Modern and Contemporary Art Seoul",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 36197, 39572",
+   "fingerprint": "C-08|11100635|39572|coord:36197|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "39792",
+   "groupKey": "coord:34992",
+   "field": "COT_CONTS_NAME",
+   "value": "둘리뮤지엄",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 34992, 39792",
+   "fingerprint": "C-08|11100635|39792|coord:34992|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "39794",
+   "groupKey": "coord:34013",
+   "field": "COT_CONTS_NAME",
+   "value": "서울스카이",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 34013, 39794",
+   "fingerprint": "C-08|11100635|39794|coord:34013|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "39800",
+   "groupKey": "coord:35253",
+   "field": "COT_CONTS_NAME",
+   "value": "관악산공원 야외식물원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 35253, 39800",
+   "fingerprint": "C-08|11100635|39800|coord:35253|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "39801",
+   "groupKey": "coord:35390",
+   "field": "COT_CONTS_NAME",
+   "value": "길동생태공원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 35390, 39801",
+   "fingerprint": "C-08|11100635|39801|coord:35390|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "39802",
+   "groupKey": "coord:35246",
+   "field": "COT_CONTS_NAME",
+   "value": "명동예술극장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 35246, 39802",
+   "fingerprint": "C-08|11100635|39802|coord:35246|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "39803",
+   "groupKey": "coord:35501",
+   "field": "COT_CONTS_NAME",
+   "value": "농업박물관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 35501, 39803",
+   "fingerprint": "C-08|11100635|39803|coord:35501|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "39804",
+   "groupKey": "coord:35243",
+   "field": "COT_CONTS_NAME",
+   "value": "마루공원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 35243, 39804",
+   "fingerprint": "C-08|11100635|39804|coord:35243|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "40054",
+   "groupKey": "coord:35511",
+   "field": "COT_CONTS_NAME",
+   "value": "서울시립 북서울미술관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 35511, 40054",
+   "fingerprint": "C-08|11100635|40054|coord:35511|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "40057",
+   "groupKey": "coord:35397",
+   "field": "COT_CONTS_NAME",
+   "value": "세종문화회관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 35397, 40057",
+   "fingerprint": "C-08|11100635|40057|coord:35397|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "40058",
+   "groupKey": "coord:34806",
+   "field": "COT_CONTS_NAME",
+   "value": "예술의전당 서예박물관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 34806, 40058",
+   "fingerprint": "C-08|11100635|40058|coord:34806|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "40064",
+   "groupKey": "coord:35230",
+   "field": "COT_CONTS_NAME",
+   "value": "예술의전당 음악당",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 35230, 40064",
+   "fingerprint": "C-08|11100635|40064|coord:35230|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "40066",
+   "groupKey": "coord:33507",
+   "field": "COT_CONTS_NAME",
+   "value": "허준박물관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 33507, 40066",
+   "fingerprint": "C-08|11100635|40066|coord:33507|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "34477",
+   "groupKey": "near:34477",
+   "field": "COT_CONTS_NAME",
+   "value": "화랑대 철도공원",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 34477, 40067",
+   "fingerprint": "C-09|11100635|34477|near:34477|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "40067",
+   "groupKey": "near:34477",
+   "field": "COT_CONTS_NAME",
+   "value": "화랑대 철도공원",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 34477, 40067",
+   "fingerprint": "C-09|11100635|40067|near:34477|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "33793",
+   "field": "COT_TEL_NO",
+   "value": "-40",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|11100635|33793||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "38946",
+   "field": "COT_TEL_NO",
+   "value": "�02-395-0100",
+   "message": "전화번호: 글자가 깨져 있습니다.",
+   "fingerprint": "C-10|11100635|38946||COT_TEL_NO"
+  }
+ ]
+}

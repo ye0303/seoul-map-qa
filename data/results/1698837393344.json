@@ -1,0 +1,25 @@
+{
+ "themeId": "1698837393344",
+ "rulesetVersion": 1,
+ "contentHash": "ce975cb67aa00cb5e4b178276b4d264c076328c41cec87a7feb03073ad2350c5",
+ "findings": [
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "ID000001",
+   "field": "COT_TEL_NO",
+   "value": "2690-7311",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1698837393344|ID000001||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "ID000032",
+   "field": "COT_TEL_NO",
+   "value": "2636-3992",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1698837393344|ID000032||COT_TEL_NO"
+  }
+ ]
+}

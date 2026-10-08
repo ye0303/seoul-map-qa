@@ -1,0 +1,66 @@
+{
+ "themeId": "1785905781674",
+ "rulesetVersion": 1,
+ "contentHash": "480b040508de95dcbd48aa2c0ffec09cf6f24d8c4e739512675ba358ee861a0d",
+ "findings": [
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "26_C_006",
+   "field": "COT_GU_NAME",
+   "value": "용산구",
+   "message": "구명(용산구)과 주소의 구(중구)가 다릅니다.",
+   "fingerprint": "C-06|1785905781674|26_C_006||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "26_A_050",
+   "groupKey": "coord:26_A_050",
+   "field": "COT_CONTS_NAME",
+   "value": "반포대교 달빛무지개 분수",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 26_A_050, 26_A_066",
+   "fingerprint": "C-08|1785905781674|26_A_050|coord:26_A_050|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "26_A_066",
+   "groupKey": "coord:26_A_050",
+   "field": "COT_CONTS_NAME",
+   "value": "반포 달빛무지개분수",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 26_A_050, 26_A_066",
+   "fingerprint": "C-08|1785905781674|26_A_066|coord:26_A_050|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "26_A_016",
+   "field": "COT_TEL_NO",
+   "value": "02%26ndash%3B2124%26ndash%3B8800",
+   "suggestion": "02&ndash;2124&ndash;8800",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1785905781674|26_A_016||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "26_A_066",
+   "field": "COT_TEL_NO",
+   "value": "02-3780-0579%28%ED%98%84%EC%9E%A5%EC%82%AC%EB%AC%B4%EC%8B%A4%29",
+   "suggestion": "02-3780-0579(현장사무실)",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1785905781674|26_A_066||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "26_B_061",
+   "field": "COT_TEL_NO",
+   "value": "02-744-8066%280036%29",
+   "suggestion": "02-744-8066(0036)",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1785905781674|26_B_061||COT_TEL_NO"
+  }
+ ]
+}

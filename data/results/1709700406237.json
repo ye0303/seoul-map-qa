@@ -1,0 +1,16 @@
+{
+ "themeId": "1709700406237",
+ "rulesetVersion": 1,
+ "contentHash": "11826e9c25e6a733384aec4cfbc66f0c2711cf761561e50052264b29440cd139",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "mostly-empty",
+   "field": "COT_GU_NAME",
+   "message": "구명이 1983건 중 1983건 비어 있습니다.",
+   "fingerprint": "C-07|1709700406237||mostly-empty|COT_GU_NAME"
+  }
+ ]
+}

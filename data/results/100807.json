@@ -1,0 +1,36 @@
+{
+ "themeId": "100807",
+ "rulesetVersion": 1,
+ "contentHash": "28c353d56270da69e49ce33c2d3372d56c0f53d68c4047127cbf15df91e14ae4",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "서20-6",
+   "field": "COT_GU_NAME",
+   "suggestion": "동작구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100807|서20-6||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "서 22-16",
+   "groupKey": "coord:서 22-16",
+   "field": "COT_CONTS_NAME",
+   "value": "서 22-16_느티나무",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 서 22-16, 서 22-17",
+   "fingerprint": "C-08|100807|서 22-16|coord:서 22-16|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "서 22-17",
+   "groupKey": "coord:서 22-16",
+   "field": "COT_CONTS_NAME",
+   "value": "서 22-17_느티나무",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 서 22-16, 서 22-17",
+   "fingerprint": "C-08|100807|서 22-17|coord:서 22-16|COT_CONTS_NAME"
+  }
+ ]
+}

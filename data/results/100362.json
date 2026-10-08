@@ -1,0 +1,187 @@
+{
+ "themeId": "100362",
+ "rulesetVersion": 1,
+ "contentHash": "8bb16d520033d5ac8daaee5f9f38d94e7eac9dc35d6dcfdfb2c9aba11e6d497f",
+ "findings": [
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "100362_1719386904078",
+   "groupKey": "near:100362_1719386904078",
+   "field": "COT_CONTS_NAME",
+   "value": "경춘선 힐링쉼터",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 100362_1719386904078, gyeongchun18010",
+   "fingerprint": "C-09|100362|100362_1719386904078|near:100362_1719386904078|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gyeongchun18010",
+   "groupKey": "near:100362_1719386904078",
+   "field": "COT_CONTS_NAME",
+   "value": "경춘선 힐링쉼터",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 100362_1719386904078, gyeongchun18010",
+   "fingerprint": "C-09|100362|gyeongchun18010|near:100362_1719386904078|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "bo00001",
+   "field": "COT_TEL_NO",
+   "value": "02-2181-1113%7E4",
+   "suggestion": "02-2181-1113~4",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100362|bo00001||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "in18001",
+   "field": "COT_TEL_NO",
+   "value": "02%29+364-4686",
+   "suggestion": "02) 364-4686",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100362|in18001||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "jung18019",
+   "field": "COT_TEL_NO",
+   "value": "02%29+432-2567",
+   "suggestion": "02) 432-2567",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100362|jung18019||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "nak00001",
+   "field": "COT_TEL_NO",
+   "value": "02-743-7985%7E6",
+   "suggestion": "02-743-7985~6",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100362|nak00001||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "nam11001",
+   "field": "COT_TEL_NO",
+   "value": "02%29+2268-4667",
+   "suggestion": "02) 2268-4667",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100362|nam11001||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "nam13001",
+   "field": "COT_TEL_NO",
+   "value": "02%29+2279-7721",
+   "suggestion": "02) 2279-7721",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100362|nam13001||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "nam14002",
+   "field": "COT_TEL_NO",
+   "value": "02%29+2264-4555",
+   "suggestion": "02) 2264-4555",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100362|nam14002||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "nam18059",
+   "field": "COT_TEL_NO",
+   "value": "02%29+798-3771",
+   "suggestion": "02) 798-3771",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100362|nam18059||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "se00001",
+   "field": "COT_TEL_NO",
+   "value": "02-460-2905%7E6",
+   "suggestion": "02-460-2905~6",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100362|se00001||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "wo05001",
+   "field": "COT_TEL_NO",
+   "value": "02%29+304-3213",
+   "suggestion": "02) 304-3213",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100362|wo05001||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "wo12001",
+   "field": "COT_TEL_NO",
+   "value": "02%29+3153-9874",
+   "suggestion": "02) 3153-9874",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100362|wo12001||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "wo18002",
+   "field": "COT_TEL_NO",
+   "value": "02%29+308-7441",
+   "suggestion": "02) 308-7441",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100362|wo18002||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "wo18026",
+   "field": "COT_TEL_NO",
+   "value": "02%29+304-3212",
+   "suggestion": "02) 304-3212",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100362|wo18026||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "wo18032",
+   "field": "COT_TEL_NO",
+   "value": "02%29+308-1081",
+   "suggestion": "02) 308-1081",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100362|wo18032||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "wo18035",
+   "field": "COT_TEL_NO",
+   "value": "02%29+300-3342",
+   "suggestion": "02) 300-3342",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100362|wo18035||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "ye00001",
+   "field": "COT_TEL_NO",
+   "value": "02-761-4078%7E9",
+   "suggestion": "02-761-4078~9",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100362|ye00001||COT_TEL_NO"
+  }
+ ]
+}

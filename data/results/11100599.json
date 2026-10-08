@@ -1,0 +1,107 @@
+{
+ "themeId": "11100599",
+ "rulesetVersion": 1,
+ "contentHash": "0685975d855d0a0217fffa77b866828214920b37f88777e247d4af266aeab944",
+ "findings": [
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000007",
+   "groupKey": "coord:ID000007",
+   "field": "COT_CONTS_NAME",
+   "value": "양천 보이는 소화기7",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000007, ID000008",
+   "fingerprint": "C-08|11100599|ID000007|coord:ID000007|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000008",
+   "groupKey": "coord:ID000007",
+   "field": "COT_CONTS_NAME",
+   "value": "양천 보이는 소화기8",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000007, ID000008",
+   "fingerprint": "C-08|11100599|ID000008|coord:ID000007|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000011",
+   "groupKey": "coord:ID000011",
+   "field": "COT_CONTS_NAME",
+   "value": "양천 보이는 소화기11",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000011, ID000012",
+   "fingerprint": "C-08|11100599|ID000011|coord:ID000011|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000012",
+   "groupKey": "coord:ID000011",
+   "field": "COT_CONTS_NAME",
+   "value": "양천 보이는 소화기12",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000011, ID000012",
+   "fingerprint": "C-08|11100599|ID000012|coord:ID000011|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000040",
+   "groupKey": "coord:ID000040",
+   "field": "COT_CONTS_NAME",
+   "value": "양천 보이는 소화기40",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000040, ID000041",
+   "fingerprint": "C-08|11100599|ID000040|coord:ID000040|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000041",
+   "groupKey": "coord:ID000040",
+   "field": "COT_CONTS_NAME",
+   "value": "양천 보이는 소화기41",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000040, ID000041",
+   "fingerprint": "C-08|11100599|ID000041|coord:ID000040|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000064",
+   "groupKey": "coord:ID000064",
+   "field": "COT_CONTS_NAME",
+   "value": "양천 보이는 소화기64",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000064, ID000065",
+   "fingerprint": "C-08|11100599|ID000064|coord:ID000064|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000065",
+   "groupKey": "coord:ID000064",
+   "field": "COT_CONTS_NAME",
+   "value": "양천 보이는 소화기65",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000064, ID000065",
+   "fingerprint": "C-08|11100599|ID000065|coord:ID000064|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000086",
+   "groupKey": "coord:ID000086",
+   "field": "COT_CONTS_NAME",
+   "value": "양천 보이는 소화기86",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000086, ID000087",
+   "fingerprint": "C-08|11100599|ID000086|coord:ID000086|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000087",
+   "groupKey": "coord:ID000086",
+   "field": "COT_CONTS_NAME",
+   "value": "양천 보이는 소화기87",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000086, ID000087",
+   "fingerprint": "C-08|11100599|ID000087|coord:ID000086|COT_CONTS_NAME"
+  }
+ ]
+}

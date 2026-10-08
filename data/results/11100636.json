@@ -1,0 +1,248 @@
+{
+ "themeId": "11100636",
+ "rulesetVersion": 1,
+ "contentHash": "003226306f578e39e166b4490e1ff2e1e6d4d09a3b7f6fc1036fd10562bbeb0d",
+ "findings": [
+  {
+   "ruleId": "C-04",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "outside",
+   "message": "서울 밖 장소가 2건 있습니다(주소도 서울 밖).",
+   "fingerprint": "C-04|11100636||outside|"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "33975",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100636|33975||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "33978",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100636|33978||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "33979",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100636|33979||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "37225",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100636|37225||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "37451",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100636|37451||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "37559",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100636|37559||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "41715",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100636|41715||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "42056",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100636|42056||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "42517",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100636|42517||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "42643",
+   "field": "COT_GU_NAME",
+   "suggestion": "종로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100636|42643||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "42644",
+   "field": "COT_GU_NAME",
+   "suggestion": "구로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100636|42644||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "42646",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100636|42646||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "42939",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11100636|42939||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "35787",
+   "groupKey": "coord:35787",
+   "field": "COT_CONTS_NAME",
+   "value": "Shilla Stay in Seodaemun",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 35787, 37855",
+   "fingerprint": "C-08|11100636|35787|coord:35787|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "37855",
+   "groupKey": "coord:35787",
+   "field": "COT_CONTS_NAME",
+   "value": "Shilla Stay Seodaemun",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 35787, 37855",
+   "fingerprint": "C-08|11100636|37855|coord:35787|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "39193",
+   "groupKey": "coord:39193",
+   "field": "COT_CONTS_NAME",
+   "value": "트레블로지 동대문",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 39193, 42046",
+   "fingerprint": "C-08|11100636|39193|coord:39193|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "39239",
+   "groupKey": "coord:39239",
+   "field": "COT_CONTS_NAME",
+   "value": "합정서서갈비 합정점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 39239, 40994",
+   "fingerprint": "C-08|11100636|39239|coord:39239|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "39451",
+   "groupKey": "coord:39451",
+   "field": "COT_CONTS_NAME",
+   "value": "마장골뱅이&노가리",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 39451, 41182",
+   "fingerprint": "C-08|11100636|39451|coord:39451|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "40994",
+   "groupKey": "coord:39239",
+   "field": "COT_CONTS_NAME",
+   "value": "합정 서서갈비 합정점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 39239, 40994",
+   "fingerprint": "C-08|11100636|40994|coord:39239|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "41182",
+   "groupKey": "coord:39451",
+   "field": "COT_CONTS_NAME",
+   "value": "마장 골뱅이&노가리",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 39451, 41182",
+   "fingerprint": "C-08|11100636|41182|coord:39451|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "42046",
+   "groupKey": "coord:39193",
+   "field": "COT_CONTS_NAME",
+   "value": "트레블로지 동대문",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 39193, 42046",
+   "fingerprint": "C-08|11100636|42046|coord:39193|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "42646",
+   "groupKey": "coord:42646",
+   "field": "COT_CONTS_NAME",
+   "value": "꼼데푸생",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 42646, 42647",
+   "fingerprint": "C-08|11100636|42646|coord:42646|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "42647",
+   "groupKey": "coord:42646",
+   "field": "COT_CONTS_NAME",
+   "value": "꼼데푸생",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 42646, 42647",
+   "fingerprint": "C-08|11100636|42647|coord:42646|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "34067",
+   "field": "COT_TEL_NO",
+   "value": "-8414",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|11100636|34067||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "39347",
+   "field": "COT_TEL_NO",
+   "value": "02-3667-74432",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|11100636|39347||COT_TEL_NO"
+  }
+ ]
+}

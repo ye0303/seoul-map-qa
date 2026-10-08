@@ -1,0 +1,4826 @@
+[
+ {
+  "id": "100021",
+  "name": "서울 자치기관",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 756,
+  "contentHash": "14c8914a3effb3436c14388574e0cb57c99dcac66cf227e6de5de4a415a80bea",
+  "counts": {
+   "error": 3,
+   "suspect": 0,
+   "info": 7
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 스마트서울맵",
+   "codes": [
+    "1",
+    "",
+    "스마트서울맵"
+   ]
+  }
+ },
+ {
+  "id": "100032",
+  "name": "서울 미래유산",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 403,
+  "contentHash": "2cdd5d1c8edca247abdc8e11fc467b5c362a3f856a3f2a4126ef017aabbcc869",
+  "counts": {
+   "error": 1,
+   "suspect": 3,
+   "info": 2
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 문화본부 문화정책과",
+   "codes": [
+    "1",
+    "",
+    "문화본부 문화정책과"
+   ]
+  }
+ },
+ {
+  "id": "100106",
+  "name": "공중화장실",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 4496,
+  "contentHash": "ea81a950326af4c7c1f74f5997b045b924e8ea8001afe2f30fb7710d6a6a47f7",
+  "counts": {
+   "error": 8,
+   "suspect": 220,
+   "info": 71
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 시민건강국 감염병관리과",
+   "codes": [
+    "1",
+    "",
+    "시민건강국 감염병관리과"
+   ]
+  }
+ },
+ {
+  "id": "100120",
+  "name": "안양천모임터",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 72,
+  "contentHash": "8ccc006ad01ac0edf8a0a59998207d0bd57d7ece7d35b9c9dcf49e9c6e809df5",
+  "counts": {
+   "error": 0,
+   "suspect": 72,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "양천구 부동산정보과",
+   "codes": [
+    "2",
+    "양천구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "100134",
+  "name": "동작야간휴일",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 231,
+  "contentHash": "a37ef9f7baa4d9f1deaf286411b95fe01cf57d1348703a61d638a53477d9db12",
+  "counts": {
+   "error": 0,
+   "suspect": 48,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "동작구 부동산정보과",
+   "codes": [
+    "2",
+    "동작구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "100135",
+  "name": "동작안전드림",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1491,
+  "contentHash": "d2be09e5cbd3aaf94f070da07b7e50c1f71282dd45a8ddd076789ce5017c4a98",
+  "counts": {
+   "error": 0,
+   "suspect": 119,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "동작구 부동산정보과",
+   "codes": [
+    "2",
+    "동작구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "100141",
+  "name": "동작머하니?",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 80,
+  "contentHash": "d007a4e063e6b6fd9f0f03d4f38959c5002e37136dbdd7d23dc526c8750a1078",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "동작구 부동산정보과",
+   "codes": [
+    "2",
+    "동작구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "100155",
+  "name": "동작장터",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 348,
+  "contentHash": "042388b4bf181f6a7eb44a82e0635efd9f63ec536b3c4daeed69cd0c25d65107",
+  "counts": {
+   "error": 0,
+   "suspect": 9,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "동작구 부동산정보과",
+   "codes": [
+    "2",
+    "동작구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "100173",
+  "name": "3·1운동 생활 속 현장",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 326,
+  "contentHash": "6d98cb5d105959f09e3926ea82f36012aab7bc631edd515c7df692dc80e6605a",
+  "counts": {
+   "error": 1,
+   "suspect": 0,
+   "info": 11
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 스마트서울맵",
+   "codes": [
+    "1",
+    "",
+    "스마트서울맵"
+   ]
+  }
+ },
+ {
+  "id": "100180",
+  "name": "안심택배",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 221,
+  "contentHash": "d3896e3465dd9086c16c98d15f01048b4653abab0116c4bbf096dd2da970b700",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 6
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 복지실 1인가구지원과",
+   "codes": [
+    "1",
+    "",
+    "복지실 1인가구지원과"
+   ]
+  }
+ },
+ {
+  "id": "100200",
+  "name": "서울로 떠나는 캠핑",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 17,
+  "contentHash": "a8e3172026962a6dafb39715808da3f7e7f3d497452209489f3c173fea4f13a9",
+  "counts": {
+   "error": 2,
+   "suspect": 2,
+   "info": 8
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 스마트서울맵",
+   "codes": [
+    "1",
+    "",
+    "스마트서울맵"
+   ]
+  }
+ },
+ {
+  "id": "100236",
+  "name": "서울시 공공미술작품",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 4977,
+  "contentHash": "81635509381c10a72608d266b96bbb4ac1a8fc2f924935d056a8a4d417930055",
+  "counts": {
+   "error": 0,
+   "suspect": 145,
+   "info": 2
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 디자인정책관 디자인산업담당관",
+   "codes": [
+    "1",
+    "",
+    "디자인정책관 디자인산업담당관"
+   ]
+  }
+ },
+ {
+  "id": "100273",
+  "name": "사진속서울",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 196,
+  "contentHash": "78af726157be25c80e36a304b377954c56955f6f09c9cd9d90da3f816df14e40",
+  "counts": {
+   "error": 0,
+   "suspect": 15,
+   "info": 2
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 문화본부 문화유산보존과",
+   "codes": [
+    "1",
+    "",
+    "문화본부 문화유산보존과"
+   ]
+  }
+ },
+ {
+  "id": "100275",
+  "name": "역사문화표석",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 348,
+  "contentHash": "dcfc7ec1693046637346eac180734296611a67c39c63dfdabe7489c8eee59b3a",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 문화본부 문화유산보존과",
+   "codes": [
+    "1",
+    "",
+    "문화본부 문화유산보존과"
+   ]
+  }
+ },
+ {
+  "id": "100304",
+  "name": "서울자락길",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 11,
+  "contentHash": "98a553024f31c6f46c5318fca75fe0bd39ff8d2cbf5f9fd84b56150e779e8a4a",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 정원도시국 자연생태과",
+   "codes": [
+    "1",
+    "",
+    "정원도시국 자연생태과"
+   ]
+  }
+ },
+ {
+  "id": "100324",
+  "name": "어린이집",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 4062,
+  "contentHash": "3f6f70697d2699bcdaa12f911ee14c75f7fa20ef43759147191ebbe2c00ef4ab",
+  "counts": {
+   "error": 1,
+   "suspect": 40,
+   "info": 148
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 여성가족실 영유아담당관",
+   "codes": [
+    "1",
+    "",
+    "여성가족실 영유아담당관"
+   ]
+  }
+ },
+ {
+  "id": "100325",
+  "name": "창의놀이터",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 91,
+  "contentHash": "785be8dc717ae808966f3af10105d96639573ca227eee3b1ad54d9b5aa6451bb",
+  "counts": {
+   "error": 0,
+   "suspect": 49,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 정원도시국 정원도시정책과",
+   "codes": [
+    "1",
+    "",
+    "정원도시국 정원도시정책과"
+   ]
+  }
+ },
+ {
+  "id": "100326",
+  "name": "동작문화예술",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 106,
+  "contentHash": "e0151a56841756c9c7472810d28609f1103c95c206a11d08ca2bf8c2a53a8197",
+  "counts": {
+   "error": 0,
+   "suspect": 5,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "동작구 부동산정보과",
+   "codes": [
+    "2",
+    "동작구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "100361",
+  "name": "서울, 유아숲 체험시설",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 372,
+  "contentHash": "75c4d77921365551a392423c135532032281979dffdc10d9f7c27b2c4b5adada",
+  "counts": {
+   "error": 0,
+   "suspect": 22,
+   "info": 2
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 정원도시국 자연생태과",
+   "codes": [
+    "1",
+    "",
+    "정원도시국 자연생태과"
+   ]
+  }
+ },
+ {
+  "id": "100362",
+  "name": "서울의 공원",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 699,
+  "contentHash": "8bb16d520033d5ac8daaee5f9f38d94e7eac9dc35d6dcfdfb2c9aba11e6d497f",
+  "counts": {
+   "error": 16,
+   "suspect": 2,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 정원도시국 정원도시정책과",
+   "codes": [
+    "1",
+    "",
+    "정원도시국 정원도시정책과"
+   ]
+  }
+ },
+ {
+  "id": "100371",
+  "name": "서울 골목길",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 30,
+  "contentHash": "9a85b06ea9f7ba7ccc103c3529c531dcae6789034276ce6551662b740ebbbe15",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 관광체육국 관광산업과",
+   "codes": [
+    "1",
+    "",
+    "관광체육국 관광산업과"
+   ]
+  }
+ },
+ {
+  "id": "100407",
+  "name": "동작특성화부동산",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 36,
+  "contentHash": "63dec6572126cc730c704149f2b82c4bc965a828f15906f32653a2a77d2db86a",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "부동산정보과",
+   "codes": [
+    "2",
+    "",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "100465",
+  "name": "도시재생활성화지역",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 53,
+  "contentHash": "def3858d202e80d564f7a6ad4afcbc60b6ec1fe0afcc7fb9901d1e870423994a",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 균형발전본부 균형발전정책과",
+   "codes": [
+    "1",
+    "",
+    "균형발전본부 균형발전정책과"
+   ]
+  }
+ },
+ {
+  "id": "100523",
+  "name": "관악측량기준점",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1600,
+  "contentHash": "9a7f6434323cb1baa75e21cb822fadc1dede01a8d59391cad67d6cbb17f2799c",
+  "counts": {
+   "error": 0,
+   "suspect": 552,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "관악구 부동산정보과",
+   "codes": [
+    "2",
+    "관악구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "100524",
+  "name": "양천둘레길",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 163,
+  "contentHash": "f8667c4f5f303f27384d38ddb12fc6e869522557c87fedde8689525bdee7fed8",
+  "counts": {
+   "error": 0,
+   "suspect": 1,
+   "info": 6
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "양천구 부동산정보과",
+   "codes": [
+    "2",
+    "양천구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "100525",
+  "name": "양천나눔·공유정보",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 313,
+  "contentHash": "cce511a52d49574fddd120cc3fc7def034864d5362f3cd97fb1b7e9947622d11",
+  "counts": {
+   "error": 0,
+   "suspect": 44,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "양천구 부동산정보과",
+   "codes": [
+    "2",
+    "양천구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "100575",
+  "name": "오래가게",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 150,
+  "contentHash": "15bec95f9cf7d9aef9e7c794465d0c9270e726ab34beb9e4e05412549c6243ab",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 관광체육국 관광산업과",
+   "codes": [
+    "1",
+    "",
+    "관광체육국 관광산업과"
+   ]
+  }
+ },
+ {
+  "id": "100578",
+  "name": "우리동네약수터",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 221,
+  "contentHash": "5ed39eff279987d2023f170457330622f72de698189634a78c1cb1259ea8d573",
+  "counts": {
+   "error": 2,
+   "suspect": 14,
+   "info": 5
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 보건환경연구원 물환경연구부",
+   "codes": [
+    "1",
+    "",
+    "보건환경연구원 물환경연구부"
+   ]
+  }
+ },
+ {
+  "id": "100681",
+  "name": "무인민원발급기",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 709,
+  "contentHash": "1e032c312ef3b7060281172eb26a75a44956783b50e623483ffc12f5dc9adeef",
+  "counts": {
+   "error": 0,
+   "suspect": 67,
+   "info": 54
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 홍보기획관 민원담당관",
+   "codes": [
+    "1",
+    "",
+    "홍보기획관 민원담당관"
+   ]
+  }
+ },
+ {
+  "id": "100683",
+  "name": "강북구 안전·안심 GIS 안내 서비스",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 2099,
+  "contentHash": "9e91bafb3d1172a58b55cfe8383bbf2bc8eabea38ea5c16547c82efe447d0e4b",
+  "counts": {
+   "error": 0,
+   "suspect": 592,
+   "info": 3
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "강북구 부동산정보과",
+   "codes": [
+    "2",
+    "강북구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "100706",
+  "name": "서울관광안내소",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 31,
+  "contentHash": "9047eca02e16ac6ea66cecb298da4e0b8658a0e609f28778e17df8d68e098095",
+  "counts": {
+   "error": 15,
+   "suspect": 0,
+   "info": 5
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 스마트서울맵",
+   "codes": [
+    "1",
+    "",
+    "스마트서울맵"
+   ]
+  }
+ },
+ {
+  "id": "100715",
+  "name": "서울테마산책길",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 150,
+  "contentHash": "9b086cdc870a2d663d1133bead8244664dc1b8f18ac61376ebc4bce3633d0a07",
+  "counts": {
+   "error": 1,
+   "suspect": 4,
+   "info": 4
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 정원도시국 자연생태과",
+   "codes": [
+    "1",
+    "",
+    "정원도시국 자연생태과"
+   ]
+  }
+ },
+ {
+  "id": "100732",
+  "name": "관악구 기후변화자원지도",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1274,
+  "contentHash": "de748991b6447fd6c9d728ce55d7d00f03ff01cf721515a12f52fee0ae4058e9",
+  "counts": {
+   "error": 1,
+   "suspect": 171,
+   "info": 11
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "관악구 녹색환경과",
+   "codes": [
+    "2",
+    "관악구",
+    "녹색환경과"
+   ]
+  }
+ },
+ {
+  "id": "100769",
+  "name": "가족과 더불어 관악",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 750,
+  "contentHash": "1206057b7ec088233464bd39cb9cc77f94a714ee71f18a3c93ce4fff0b992ae9",
+  "counts": {
+   "error": 0,
+   "suspect": 37,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "관악구 부동산정보과",
+   "codes": [
+    "2",
+    "관악구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "100771",
+  "name": "서울시 자원회수시설",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 8,
+  "contentHash": "2109b588b4e2f4a2d97d92976115af722ae87eb93299b7dd806bfe8c19a1ce2f",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 기후환경본부 자원회수시설과",
+   "codes": [
+    "1",
+    "",
+    "기후환경본부 자원회수시설과"
+   ]
+  }
+ },
+ {
+  "id": "100807",
+  "name": "보호수",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 202,
+  "contentHash": "28c353d56270da69e49ce33c2d3372d56c0f53d68c4047127cbf15df91e14ae4",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 정원도시국 조경과",
+   "codes": [
+    "1",
+    "",
+    "정원도시국 조경과"
+   ]
+  }
+ },
+ {
+  "id": "100891",
+  "name": "천주교 서울 순례길",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 35,
+  "contentHash": "bda29a765dbaf4617ae31aa8893eb286331040b808f7d086b48bce63d2663cfd",
+  "counts": {
+   "error": 1,
+   "suspect": 1,
+   "info": 7
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 스마트서울맵",
+   "codes": [
+    "1",
+    "",
+    "스마트서울맵"
+   ]
+  }
+ },
+ {
+  "id": "100996",
+  "name": "관악구 청년 중개보수 감면 사무소",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 314,
+  "contentHash": "b6d1caccec32757ef01b1b131e47d93e7c172726561604cf8fbb331a44c164ae",
+  "counts": {
+   "error": 0,
+   "suspect": 12,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "관악구 부동산정보과",
+   "codes": [
+    "2",
+    "관악구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "11100550",
+  "name": "3·1운동 시간여행",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 62,
+  "contentHash": "c1eec422544eb82e10ae09dc14b27180787cc58c9290197899c614abb8a0e248",
+  "counts": {
+   "error": 0,
+   "suspect": 1,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 스마트서울맵",
+   "codes": [
+    "1",
+    "",
+    "스마트서울맵"
+   ]
+  }
+ },
+ {
+  "id": "11100599",
+  "name": "양천 보이는 소화기",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 475,
+  "contentHash": "0685975d855d0a0217fffa77b866828214920b37f88777e247d4af266aeab944",
+  "counts": {
+   "error": 0,
+   "suspect": 10,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "양천구 부동산정보과",
+   "codes": [
+    "2",
+    "양천구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "11100630",
+  "name": "서울시 마을변호사",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 425,
+  "contentHash": "52c9d3f05f13e918e8625f29bf113ba272ca064a6ad327a71a8c098723779648",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 기획조정실 법률지원담당관",
+   "codes": [
+    "1",
+    "",
+    "기획조정실 법률지원담당관"
+   ]
+  }
+ },
+ {
+  "id": "11100635",
+  "name": "다누림 관광지",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 358,
+  "contentHash": "7cd7c7dd634a6b391ff6f8b9489f941de0c0f3896c9769a9e3ff5f580be959de",
+  "counts": {
+   "error": 1,
+   "suspect": 31,
+   "info": 18
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울관광재단",
+   "codes": [
+    "0",
+    "",
+    "서울관광재단"
+   ]
+  }
+ },
+ {
+  "id": "11100636",
+  "name": "다누림 편의시설",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 821,
+  "contentHash": "003226306f578e39e166b4490e1ff2e1e6d4d09a3b7f6fc1036fd10562bbeb0d",
+  "counts": {
+   "error": 0,
+   "suspect": 12,
+   "info": 14
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울관광재단",
+   "codes": [
+    "0",
+    "",
+    "서울관광재단"
+   ]
+  }
+ },
+ {
+  "id": "11100670",
+  "name": "동작공영주차장",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 55,
+  "contentHash": "1fd32f3d7937383c7dc1bda1193684d477e6b1ce11486c87532ce86e8661edf2",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "동작구 스마트정보과",
+   "codes": [
+    "2",
+    "동작구",
+    "스마트정보과"
+   ]
+  }
+ },
+ {
+  "id": "11100957",
+  "name": "서울 경찰",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 267,
+  "contentHash": "c7482184ec9c44bdfeac4ee0c82c3ec012be4fb546c7be372f0c0e286d8669c6",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 스마트서울맵",
+   "codes": [
+    "1",
+    "",
+    "스마트서울맵"
+   ]
+  }
+ },
+ {
+  "id": "11101096",
+  "name": "서울로7017",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 34,
+  "contentHash": "41ba0463fa06d1f6499a43766df6c648214c55a21452331c6d3a6ea459358ca6",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 정원도시국 정원도시정책과",
+   "codes": [
+    "1",
+    "",
+    "정원도시국 정원도시정책과"
+   ]
+  }
+ },
+ {
+  "id": "11101181",
+  "name": "차 없는 거리",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 144,
+  "contentHash": "5186315476ab43c818c2cca4cdbcaf43796f94063df4b27a7a989f65f159dd2e",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 59
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 교통실 보행자전거과",
+   "codes": [
+    "1",
+    "",
+    "교통실 보행자전거과"
+   ]
+  }
+ },
+ {
+  "id": "11101183",
+  "name": "금천구 스마트 측량기준점 정보 제공서비스",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1129,
+  "contentHash": "eef78763f38a92a0e69ab02796abaa264a79fd2f84c50e50fdde34a1c34001ed",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 8
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "금천구 부동산정보과",
+   "codes": [
+    "2",
+    "금천구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "11101225",
+  "name": "마포구­ 측량기준점",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 2217,
+  "contentHash": "70142ca2611a804aa5a7325438fd6c52402697656d8f48e0a63886b0c3b5a000",
+  "counts": {
+   "error": 0,
+   "suspect": 3,
+   "info": 1051
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "마포구 부동산정보과",
+   "codes": [
+    "2",
+    "마포구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "11101254",
+  "name": "이동약자 보호구역",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 5841,
+  "contentHash": "c93a49109422bde581e812f95e8d39953b3675dfae5d29ab463f4bc658d17c99",
+  "counts": {
+   "error": 0,
+   "suspect": 40,
+   "info": 2220
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 교통실 보행자전거과",
+   "codes": [
+    "1",
+    "",
+    "교통실 보행자전거과"
+   ]
+  }
+ },
+ {
+  "id": "11101339",
+  "name": "녹색교통지역",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 45,
+  "contentHash": "71c411dd8d8b310cf4be3530705808095624d7644c6f3873e0a70d85ba4063ad",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 교통실 교통정책과",
+   "codes": [
+    "1",
+    "",
+    "교통실 교통정책과"
+   ]
+  }
+ },
+ {
+  "id": "11101836",
+  "name": "생물다양성 현황",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 24,
+  "contentHash": "f8672061bde3f1670a66a00ac7f627bc47b4ef34ed2b1087bf270e1ff09dd332",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 정원도시국 자연생태과",
+   "codes": [
+    "1",
+    "",
+    "정원도시국 자연생태과"
+   ]
+  }
+ },
+ {
+  "id": "11101844",
+  "name": "폐기물 관련 환경기초시설(공공)",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 29,
+  "contentHash": "25dd6cfd66832eb5058ef20284069264a31e20c60baa765b942260e5d3bf8fe5",
+  "counts": {
+   "error": 1,
+   "suspect": 0,
+   "info": 3
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 기후환경본부 자원회수시설과",
+   "codes": [
+    "1",
+    "",
+    "기후환경본부 자원회수시설과"
+   ]
+  }
+ },
+ {
+  "id": "11101848",
+  "name": "양천 어린이보호구역",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 162,
+  "contentHash": "355485c8c7cc200ee57559899d4a1846da41c5da813908bd5f01c722bb095514",
+  "counts": {
+   "error": 0,
+   "suspect": 27,
+   "info": 16
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "양천구 부동산정보과",
+   "codes": [
+    "2",
+    "양천구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "11101850",
+  "name": "서울 명예도로",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 87,
+  "contentHash": "39d4a1ae62fb96ba2e2402b56c2ca6cf3d4c37e809cd9923a4238bd4905f192b",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "관악구 부동산정보과",
+   "codes": [
+    "2",
+    "관악구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "11102035",
+  "name": "구로 행복길",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 356,
+  "contentHash": "8af159c2e4fbeb965e024fd2b3bf1485b9e55bf977a76d19b202b6b3ca43bb5e",
+  "counts": {
+   "error": 0,
+   "suspect": 19,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "구로구 부동산정보과",
+   "codes": [
+    "2",
+    "구로구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "11102271",
+  "name": "이동약자 접근성 정보지도",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 762,
+  "contentHash": "f41d3d41fbf0376e726caf031ab3555e6659d7a67b9e1251d7d72dc1a5f40a09",
+  "counts": {
+   "error": 0,
+   "suspect": 1,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "유니버설디자인센터",
+   "codes": [
+    "0",
+    "",
+    "유니버설디자인센터"
+   ]
+  }
+ },
+ {
+  "id": "11102288",
+  "name": "시민체감 스마트폴(S-Pole)",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1080,
+  "contentHash": "37588a507d15f2b5aa6fe7535348a20d8abe508d5fb9efd44afe15b0f5832e0e",
+  "counts": {
+   "error": 0,
+   "suspect": 69,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 디지털도시국 디지털정책과",
+   "codes": [
+    "1",
+    "",
+    "디지털도시국 디지털정책과"
+   ]
+  }
+ },
+ {
+  "id": "11102774",
+  "name": "용산구 측량기준점",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1288,
+  "contentHash": "650f24049688aafce89edd449a92575b84f7b3f30bfe29255617881ff3018eb2",
+  "counts": {
+   "error": 0,
+   "suspect": 4,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "용산구 부동산정보과",
+   "codes": [
+    "2",
+    "용산구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "11102775",
+  "name": "용산구 글로벌 공인중개사 사무소",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 44,
+  "contentHash": "a316f7d30d546823f3687b031d5e1eadc85c7fa979237eef74fbd3038b3d8ee2",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "용산구 부동산정보과",
+   "codes": [
+    "2",
+    "용산구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "11102776",
+  "name": "용산구 모범 공인중개사사무소",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 20,
+  "contentHash": "dd5a9b1843f34769a63e2d6d0ac50e2305f99d66ddd55d85a6c8292a10ad9ae1",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "용산구 부동산정보과",
+   "codes": [
+    "2",
+    "용산구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "11102794",
+  "name": "[착한소비]위세이브(WE SAVE) 가게",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 4228,
+  "contentHash": "c92e4e009d326382e8d183d1d971c7e94bcc26bfcd0c91aaaa1d67c73357953b",
+  "counts": {
+   "error": 0,
+   "suspect": 19,
+   "info": 3242
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "세이브더칠드런",
+   "codes": [
+    "0",
+    "",
+    "세이브더칠드런"
+   ]
+  }
+ },
+ {
+  "id": "11102795",
+  "name": "[착한소비]선한영향력 가게",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 3571,
+  "contentHash": "1e2ffcbb6e7db422dcc74d6fc739152a490cf3cdd0cbd3e3340e81252c77abee",
+  "counts": {
+   "error": 0,
+   "suspect": 83,
+   "info": 2866
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "선한영향력가게",
+   "codes": [
+    "0",
+    "",
+    "선한영향력가게"
+   ]
+  }
+ },
+ {
+  "id": "11102801",
+  "name": "이동약자 산책로 지도",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 2084,
+  "contentHash": "180f6793307619c105eb7a40676f8f12f60e39400b1514a0039461ff4d365873",
+  "counts": {
+   "error": 0,
+   "suspect": 22,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 스마트서울맵",
+   "codes": [
+    "1",
+    "",
+    "스마트서울맵"
+   ]
+  }
+ },
+ {
+  "id": "11102809",
+  "name": "용산구 마을공인중개사",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 23,
+  "contentHash": "2210c84a2cab3c7aabf53a552af4d67b5092550f8cb9217420992daf9bded1ee",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "용산구 부동산정보과",
+   "codes": [
+    "2",
+    "용산구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "11102818",
+  "name": "서울로 트레킹 길",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 53,
+  "contentHash": "d054edf7b0b7dcaa4c2a842c844e5a11df997cb1093942b497c18c891afb1ccf",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 정원도시국 정원도시정책과",
+   "codes": [
+    "1",
+    "",
+    "정원도시국 정원도시정책과"
+   ]
+  }
+ },
+ {
+  "id": "11102828",
+  "name": "서울공공와이파이",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 15786,
+  "contentHash": "b0157a30ec16ef458ace1df46b5edc354e8d84599aacac1a95b906503ed08333",
+  "counts": {
+   "error": 193,
+   "suspect": 2930,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 디지털도시국 정보통신과",
+   "codes": [
+    "1",
+    "",
+    "디지털도시국 정보통신과"
+   ]
+  }
+ },
+ {
+  "id": "11102860",
+  "name": "공공심야약국",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 40,
+  "contentHash": "7f8f35083bda52ac797c699c25b078b9356e4c8082d8e7a10de31a273ad075db",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 시민건강국 보건의료정책과",
+   "codes": [
+    "1",
+    "",
+    "시민건강국 보건의료정책과"
+   ]
+  }
+ },
+ {
+  "id": "11103097",
+  "name": "우리동네키움포털지도(돌봄시설)",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 555,
+  "contentHash": "493c78f3146b11d57dcbd7ccbffdeee61cd7829ee01557870a6bb14b0ad8dffd",
+  "counts": {
+   "error": 61,
+   "suspect": 6,
+   "info": 96
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 여성가족실 아이돌봄담당관",
+   "codes": [
+    "1",
+    "",
+    "여성가족실 아이돌봄담당관"
+   ]
+  }
+ },
+ {
+  "id": "11103098",
+  "name": "우리동네키움포털지도(기타시설)",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 34531,
+  "contentHash": "b484dfedfba11e7d3a095d701171382fb9ee4f4cd551bf663a8c5c0b11248d88",
+  "counts": {
+   "error": 90,
+   "suspect": 5754,
+   "info": 53
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 여성가족실 아이돌봄담당관",
+   "codes": [
+    "1",
+    "",
+    "여성가족실 아이돌봄담당관"
+   ]
+  }
+ },
+ {
+  "id": "11103377",
+  "name": "서울지역 청소년시설",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 173,
+  "contentHash": "8ed52bc0467c581bd90a273ad8bf99f6adc806d6593fbc00c708b3723dfed74f",
+  "counts": {
+   "error": 6,
+   "suspect": 0,
+   "info": 9
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울특별시립청소년활동진흥센터",
+   "codes": [
+    "0",
+    "",
+    "서울특별시립청소년활동진흥센터"
+   ]
+  }
+ },
+ {
+  "id": "11103379",
+  "name": "보이는 소화기",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 19579,
+  "contentHash": "900f8e68eee95e83f1d3fc54c10280ec5d869d6e0270363aaf0da1011e97509d",
+  "counts": {
+   "error": 0,
+   "suspect": 432,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울종합방재센터 안전지원과",
+   "codes": [
+    "0",
+    "",
+    "서울종합방재센터 안전지원과"
+   ]
+  }
+ },
+ {
+  "id": "11103386",
+  "name": "영등포구 측량기준점",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1879,
+  "contentHash": "039f2b1755d3fa83244ac41eb7c38b325310bd0bd51588577d22d356fd4d95e7",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 11
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "영등포구 부동산정보과",
+   "codes": [
+    "2",
+    "영등포구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "11103389",
+  "name": "폐건전지 폐형광등 분리수거함",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 6169,
+  "contentHash": "a84a6a877812bd1f3b0971f2a782889dfdc7d1459b845a7a56adad8d03b99511",
+  "counts": {
+   "error": 0,
+   "suspect": 336,
+   "info": 30
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 기후환경본부 자원순환과",
+   "codes": [
+    "1",
+    "",
+    "기후환경본부 자원순환과"
+   ]
+  }
+ },
+ {
+  "id": "11103392",
+  "name": "[동행]전동보장구 급속충전기",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 724,
+  "contentHash": "e0c8b84ce3c824bc2841dd13b7e1f3019f5b4ad9dbe05fcbd4102e09860bee8b",
+  "counts": {
+   "error": 0,
+   "suspect": 23,
+   "info": 3
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 복지실 장애인복지과",
+   "codes": [
+    "1",
+    "",
+    "복지실 장애인복지과"
+   ]
+  }
+ },
+ {
+  "id": "11103395",
+  "name": "[착한소비]제로웨이스트상점",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 310,
+  "contentHash": "0d5262f6fc0757c7306d18530987b231a9bfa2b44bfeff03f934672f82c405c1",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 35
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 기후환경본부 자원순환과",
+   "codes": [
+    "1",
+    "",
+    "기후환경본부 자원순환과"
+   ]
+  }
+ },
+ {
+  "id": "11103398",
+  "name": "전동보장구 휴대용 충전기 대여점",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 139,
+  "contentHash": "71fe5aa1ff2fc6538a23105219eff41047e39f8b5eb2e7faaa1d96865f2a7627",
+  "counts": {
+   "error": 0,
+   "suspect": 1,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 관광체육국 관광정책과",
+   "codes": [
+    "1",
+    "",
+    "관광체육국 관광정책과"
+   ]
+  }
+ },
+ {
+  "id": "11103406",
+  "name": "서울의 박물관-미술관",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 177,
+  "contentHash": "75b7a751a91a72be6087cbfbf0376acbd1836f794151e6cbb1a2f8a2a57a3dff",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 스마트서울맵",
+   "codes": [
+    "1",
+    "",
+    "스마트서울맵"
+   ]
+  }
+ },
+ {
+  "id": "11103407",
+  "name": "아동안전지킴이집",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1082,
+  "contentHash": "3b478c514b5514fc5ce384656195b82ea59ee357ef4a4c96644f1f044faa5c1f",
+  "counts": {
+   "error": 0,
+   "suspect": 21,
+   "info": 4
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울경찰청 청소년보호과",
+   "codes": [
+    "0",
+    "",
+    "서울경찰청 청소년보호과"
+   ]
+  }
+ },
+ {
+  "id": "11103409",
+  "name": "구로구 측량기준점",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 2230,
+  "contentHash": "b2e764d891f1dde20f0f4ceb14272f3f2b9911332ddf31db7d07b12b6df45a2e",
+  "counts": {
+   "error": 0,
+   "suspect": 3,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "구로구 부동산정보과",
+   "codes": [
+    "2",
+    "구로구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "11103411",
+  "name": "영등포 주제따라걷기",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 23,
+  "contentHash": "0c44e21882a4aac936ffc089243199c56f1499b51f933def32e18ddf968d8657",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "영등포구 보건소 감염병관리과",
+   "codes": [
+    "2",
+    "영등포구",
+    "보건소 감염병관리과"
+   ]
+  }
+ },
+ {
+  "id": "11103419",
+  "name": "(친환경)자전거 편의시설",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 3378,
+  "contentHash": "b1a4596f3cb23bb7640bede4ec5027cdcfc445cb9f76f1d670f8e4d819e70eee",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 69
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 교통실 보행자전거과",
+   "codes": [
+    "1",
+    "",
+    "교통실 보행자전거과"
+   ]
+  }
+ },
+ {
+  "id": "11103441",
+  "name": "노원구 반값 중개보수 참여업소",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 82,
+  "contentHash": "3cf4fc45a65954bb784139c40f9621cfb0c7b6e622618037171d99dbfddc7006",
+  "counts": {
+   "error": 0,
+   "suspect": 18,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "노원구 부동산정보과",
+   "codes": [
+    "2",
+    "노원구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1648776043679",
+  "name": "영등포구 교통·안전",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1251,
+  "contentHash": "0a30e1e74e6be827ef40beb9acca81b50efa263f3a92550907e3a99a676698a6",
+  "counts": {
+   "error": 0,
+   "suspect": 24,
+   "info": 18
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "영등포구 홍보미디어과",
+   "codes": [
+    "2",
+    "영등포구",
+    "홍보미디어과"
+   ]
+  }
+ },
+ {
+  "id": "1649132420936",
+  "name": "폐의약품 전용수거함 위치",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 842,
+  "contentHash": "aeebf72ced4564a441c6fb5258cc38248acc4d94f3e6421418f93ad94d9b4492",
+  "counts": {
+   "error": 0,
+   "suspect": 248,
+   "info": 4
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 기후환경본부 자원순환과",
+   "codes": [
+    "1",
+    "",
+    "기후환경본부 자원순환과"
+   ]
+  }
+ },
+ {
+  "id": "1655870175360",
+  "name": "관악구 별빛나눔터 중개사무소",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 126,
+  "contentHash": "243f299ed25e241b28ed8e792b8f1bff48bbb18a30b6dd1afb6a1bf5ff97767f",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "관악구 부동산정보과",
+   "codes": [
+    "2",
+    "관악구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1657588761062",
+  "name": "(친환경)자전거 도로",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1536,
+  "contentHash": "1fae48d929159b0f841df8bdf8abfb0627f144b7d9b4cab2e3dcf5bd303d3ea7",
+  "counts": {
+   "error": 0,
+   "suspect": 11,
+   "info": 23
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 교통실 보행자전거과",
+   "codes": [
+    "1",
+    "",
+    "교통실 보행자전거과"
+   ]
+  }
+ },
+ {
+  "id": "1662350421992",
+  "name": "서울시보조기기센터",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 4,
+  "contentHash": "83f8bb8da8c20b1ebd27eee2e951ff25ea786578dbeaec3b6f0f166ef441ad33",
+  "counts": {
+   "error": 0,
+   "suspect": 1,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 복지실 장애인복지과",
+   "codes": [
+    "1",
+    "",
+    "복지실 장애인복지과"
+   ]
+  }
+ },
+ {
+  "id": "1663564614080",
+  "name": "구로구 안양천명소 주요시설물",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 156,
+  "contentHash": "0abdbf43f576fad241bc80d85330fbd52beb99ed42c0018eac8a70d515e1a362",
+  "counts": {
+   "error": 0,
+   "suspect": 4,
+   "info": 3
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "구로구 부동산정보과",
+   "codes": [
+    "2",
+    "구로구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1668482721443",
+  "name": "[동행]한 곳에 담은 청년공간",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 216,
+  "contentHash": "162db6eee17f7d6a59b9b3553d848f3cdff70a37cced0c4ea18b62b5b9c6d87d",
+  "counts": {
+   "error": 0,
+   "suspect": 21,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시",
+   "codes": [
+    "1",
+    "성북구",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1669595282433",
+  "name": "(편한외출) 서울키즈 오케이존",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 654,
+  "contentHash": "ade32bf35da8341e5955b61096ae614597b3d7d0fd383af64d83030a5c9a5a18",
+  "counts": {
+   "error": 0,
+   "suspect": 18,
+   "info": 33
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 여성가족실 저출생담당관",
+   "codes": [
+    "1",
+    "",
+    "여성가족실 저출생담당관"
+   ]
+  }
+ },
+ {
+  "id": "1670291660555",
+  "name": "마음건강검진 정신의료기관",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 225,
+  "contentHash": "781f938697a64da3bfa3bdae29a140c1eae272e48c1f9f35db5210b15b042c6e",
+  "counts": {
+   "error": 0,
+   "suspect": 218,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 시민건강국 정신건강과",
+   "codes": [
+    "1",
+    "",
+    "시민건강국 정신건강과"
+   ]
+  }
+ },
+ {
+  "id": "1670896356968",
+  "name": "항일독립문화유산",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 25,
+  "contentHash": "930ee4f3be1448bd163596f1c01b1e5896e8e725af66fbe95e42d97fec84f7e9",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 문화본부 문화유산보존과",
+   "codes": [
+    "1",
+    "",
+    "문화본부 문화유산보존과"
+   ]
+  }
+ },
+ {
+  "id": "1674779649856",
+  "name": "사람중심 출입구 (하천, 공원)",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 7161,
+  "contentHash": "6b0bec52ea18f3630a1a224d2abf6b065cdaadf5e00545dc76e79dcd6c3632df",
+  "counts": {
+   "error": 0,
+   "suspect": 880,
+   "info": 2
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 스마트서울맵",
+   "codes": [
+    "1",
+    "",
+    "스마트서울맵"
+   ]
+  }
+ },
+ {
+  "id": "1678264865591",
+  "name": "[매력서울] 서울관광특구",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 8,
+  "contentHash": "bab8d6dcafa6bf4d3f8b2b49f83477fa7b18f65a4fd8d19c3144b161bb17726d",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1678773622993",
+  "name": "365열린어린이집",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 11,
+  "contentHash": "36053b2193a95746d3fc7b798896c00baa3f333cc8fa3dfe36a1cf2efb934a6f",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 여성가족실 아이돌봄담당관",
+   "codes": [
+    "1",
+    "",
+    "여성가족실 아이돌봄담당관"
+   ]
+  }
+ },
+ {
+  "id": "1679901034775",
+  "name": "서울형 키즈카페",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 143,
+  "contentHash": "38d8f052f76b949660296419bec81bb84fe2405c1ca94b67801bdfdec6914411",
+  "counts": {
+   "error": 0,
+   "suspect": 5,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 여성가족실 아이돌봄담당관",
+   "codes": [
+    "1",
+    "",
+    "여성가족실 아이돌봄담당관"
+   ]
+  }
+ },
+ {
+  "id": "1681179124353",
+  "name": "기발한 별지도(운동명소)",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 45,
+  "contentHash": "5403e0aea6d781bf59517c5cc71e3a2fe743331b04bef74125b72f52c5d6a08d",
+  "counts": {
+   "error": 0,
+   "suspect": 1,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 스마트서울맵",
+   "codes": [
+    "1",
+    "",
+    "스마트서울맵"
+   ]
+  }
+ },
+ {
+  "id": "1683529313353",
+  "name": "주말어린이집",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 10,
+  "contentHash": "c4fd3bf109299a271e65da65f88ecc8dafb8ef52a15becd89ec1acc5475efdd1",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 여성가족실 아이돌봄담당관",
+   "codes": [
+    "1",
+    "",
+    "여성가족실 아이돌봄담당관"
+   ]
+  }
+ },
+ {
+  "id": "1684396695589",
+  "name": "기발한 별지도 (키즈편)",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 43,
+  "contentHash": "2908dd139ac8828368663fd9adb1c6642d978b7edd1c59bd0ea8f44b39f2bcc8",
+  "counts": {
+   "error": 1,
+   "suspect": 1,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 스마트서울맵",
+   "codes": [
+    "1",
+    "",
+    "스마트서울맵"
+   ]
+  }
+ },
+ {
+  "id": "1687829210070",
+  "name": "[착한소비]초록우산 나눔가게",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 40,
+  "contentHash": "4fc15f7a067c5969cf2297a97f32eebb13577e04dc227c1b25fb6fb99633d276",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "초록우산어린이재단",
+   "codes": [
+    "0",
+    "",
+    "초록우산어린이재단"
+   ]
+  }
+ },
+ {
+  "id": "1687995661094",
+  "name": "[착한소비] 더함께새희망 희망가게",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1451,
+  "contentHash": "ff20efe616d98f3e4fb3b6e704ad5f5e11039e6dcd69bbe2cadbe9aa4438f3a7",
+  "counts": {
+   "error": 4,
+   "suspect": 7,
+   "info": 1261
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "사단법인 더함께새희망 기획사업부",
+   "codes": [
+    "0",
+    "",
+    "사단법인 더함께새희망 기획사업부"
+   ]
+  }
+ },
+ {
+  "id": "1692774403603",
+  "name": "서대문구 안전산책로",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 444,
+  "contentHash": "9e5b30c99617ab2716214d99636cab021f743a3e05389b8dd8e55b64a7a2510e",
+  "counts": {
+   "error": 20,
+   "suspect": 12,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서대문구 부동산정보과",
+   "codes": [
+    "2",
+    "서대문구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1692864788731",
+  "name": "서울시 공공예식장(더 아름다운 결혼식)",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 60,
+  "contentHash": "5c41d4d5ce9e677a72dbccfb1c301ac6703c23f804a34652cdecee7854b6b8ec",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 가족담당관",
+   "codes": [
+    "1",
+    "",
+    "가족담당관"
+   ]
+  }
+ },
+ {
+  "id": "1693303773827",
+  "name": "우리동네 디지털안내소",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 81,
+  "contentHash": "f6fb3b2ada11b89362b0fd8662f4570a3a4e6bd66cf578cb2660adf7abaea3d8",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 디지털도시국 디지털정책과",
+   "codes": [
+    "1",
+    "",
+    "디지털도시국 디지털정책과"
+   ]
+  }
+ },
+ {
+  "id": "1693306385342",
+  "name": "[착한소비] 강동형 나눔가게",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 110,
+  "contentHash": "99682a396762bd4012ddb661c08fa4f4733fda26caacc6a4cae520967dc6c79b",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 2
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "강동구 복지정책과",
+   "codes": [
+    "2",
+    "강동구",
+    "복지정책과"
+   ]
+  }
+ },
+ {
+  "id": "1693879047939",
+  "name": "서울형키즈카페머니 사용처",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 62,
+  "contentHash": "69a78a190fb97144cd1ac6dc3afb1939dc7adf5f0a6a3f2f87026787ebb2ae75",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 2
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 여성가족실 아이돌봄담당관",
+   "codes": [
+    "1",
+    "",
+    "여성가족실 아이돌봄담당관"
+   ]
+  }
+ },
+ {
+  "id": "1693984068965",
+  "name": "[동행]휠체어도 가는 화장실 지도",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 2547,
+  "contentHash": "54bdd6bae664dee8117bb65b404b4362fd88bad3eb1ecfa38f8b8cc8d694fa7e",
+  "counts": {
+   "error": 5,
+   "suspect": 49,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 장애인자립지원과",
+   "codes": [
+    "1",
+    "",
+    "장애인자립지원과"
+   ]
+  }
+ },
+ {
+  "id": "1693986134109",
+  "name": "[착한소비] 개인 컵 할인 카페",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 255,
+  "contentHash": "7ee0ad4ab246a11144cf3b794c834b76ec09b80b73ba5efa77b8d4f70d3d5c12",
+  "counts": {
+   "error": 0,
+   "suspect": 5,
+   "info": 3
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 기후환경본부 자원순환과",
+   "codes": [
+    "1",
+    "",
+    "기후환경본부 자원순환과"
+   ]
+  }
+ },
+ {
+  "id": "1694517815685",
+  "name": "보행약자 안전 이동경로",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 30722,
+  "contentHash": "6d7c781d9fb9f4d10725f13630b633a28dcb9a3544cc6d21204271b04fafa57e",
+  "counts": {
+   "error": 0,
+   "suspect": 1259,
+   "info": 4
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 도시공간본부 토지관리과",
+   "codes": [
+    "1",
+    "",
+    "도시공간본부 토지관리과"
+   ]
+  }
+ },
+ {
+  "id": "1694592629746",
+  "name": "일차의료 만성질환관리 사업 참여의원",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1183,
+  "contentHash": "ff88455023b1d6ce4fac0bff960f204671c7b5d191e35e43e47d38a7487e319b",
+  "counts": {
+   "error": 0,
+   "suspect": 51,
+   "info": 82
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "국민건강보험공단 서울강원지역본부 건강지원센터",
+   "codes": [
+    "0",
+    "",
+    "국민건강보험공단 서울강원지역본부 건강지원센터"
+   ]
+  }
+ },
+ {
+  "id": "1698837393344",
+  "name": "구로구 반려동물 동행",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 166,
+  "contentHash": "ce975cb67aa00cb5e4b178276b4d264c076328c41cec87a7feb03073ad2350c5",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "구로구 부동산정보과",
+   "codes": [
+    "2",
+    "구로구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1702013591419",
+  "name": "강북구 착한음식점",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 334,
+  "contentHash": "babf77e05e3c65d022c3f7f73e6f667e98e6f7d28cab51d61d422f0af21ce869",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 13
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "강북구 보건소 보건위생과",
+   "codes": [
+    "2",
+    "강북구",
+    "보건소 보건위생과"
+   ]
+  }
+ },
+ {
+  "id": "1708328729039",
+  "name": "서울시 우리아이 안심 의료기관",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 42,
+  "contentHash": "40b6451236986e570d84bcbfb2d74a80eb898f35d8ec2174684a846bdba69832",
+  "counts": {
+   "error": 0,
+   "suspect": 4,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 시민건강국 보건의료정책과",
+   "codes": [
+    "1",
+    "",
+    "시민건강국 보건의료정책과"
+   ]
+  }
+ },
+ {
+  "id": "1708329847347",
+  "name": "나라사랑 역사의 길",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 132,
+  "contentHash": "e84db2cc4ef393a4f9262e5b1eef8baf68e5f44afdcb1c40fd35d947bc174f49",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 23
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 문화본부 문화유산보존과",
+   "codes": [
+    "1",
+    "",
+    "문화본부 문화유산보존과"
+   ]
+  }
+ },
+ {
+  "id": "1708908447057",
+  "name": "광진구 장애인 편의시설 지도",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 960,
+  "contentHash": "483422dcc70c4b65b292b13d780265545dfb73bc5e7845e5c81c41d457f0d1df",
+  "counts": {
+   "error": 0,
+   "suspect": 26,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "광진구 스마트정보담당관",
+   "codes": [
+    "2",
+    "광진구",
+    "스마트정보담당관"
+   ]
+  }
+ },
+ {
+  "id": "1709085904880",
+  "name": "구로, 공원 함께 가요!",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 104,
+  "contentHash": "11d14d352353d0f80717055f1f34abc371521709079c7f75b12ac89bf69589c3",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "구로구 부동산정보과",
+   "codes": [
+    "2",
+    "구로구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1709107005743",
+  "name": "(통학구역)서울, 학교정보통",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1323,
+  "contentHash": "3f97af4c48788bf42198ea991e48b7f291249aa5268aa3ebca1e8ccdddc85e9a",
+  "counts": {
+   "error": 3,
+   "suspect": 7,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 스마트서울맵",
+   "codes": [
+    "1",
+    "",
+    "스마트서울맵"
+   ]
+  }
+ },
+ {
+  "id": "1709700406237",
+  "name": "동작구 사유지도로",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1983,
+  "contentHash": "11826e9c25e6a733384aec4cfbc66f0c2711cf761561e50052264b29440cd139",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "동작구 부동산정보과",
+   "codes": [
+    "2",
+    "동작구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1709800360723",
+  "name": "서울둘레길 2.0",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 790,
+  "contentHash": "56f57cb43390d4ca0d8bb8a48c793f9dc9b7e20e1a3954c38206869fbec0eaca",
+  "counts": {
+   "error": 1,
+   "suspect": 1,
+   "info": 56
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 정원도시국 자연생태과",
+   "codes": [
+    "1",
+    "",
+    "정원도시국 자연생태과"
+   ]
+  }
+ },
+ {
+  "id": "1710219405228",
+  "name": "(편한외출) 서울엄마아빠VIP존",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 43,
+  "contentHash": "bcd59e602c058bcf029d6098f6317a8cd9cc690fddd56c90c11b18157f3c87a1",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 여성가족실 저출생담당관",
+   "codes": [
+    "1",
+    "",
+    "여성가족실 저출생담당관"
+   ]
+  }
+ },
+ {
+  "id": "1711945607291",
+  "name": "유치원",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 750,
+  "contentHash": "a6cf5f817ebd11c61efc91d2b4fe4769b178cbe1453117498b1edc0907c5747d",
+  "counts": {
+   "error": 0,
+   "suspect": 5,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 여성가족실 영유아담당관",
+   "codes": [
+    "1",
+    "",
+    "여성가족실 영유아담당관"
+   ]
+  }
+ },
+ {
+  "id": "1714614097459",
+  "name": "창업지원시설",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 62,
+  "contentHash": "ba549b0f30b9b1110e5767d7aa235809221c56f7df4d7ecf437aaa0459a2ac4b",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 경제실 창업정책과",
+   "codes": [
+    "1",
+    "",
+    "경제실 창업정책과"
+   ]
+  }
+ },
+ {
+  "id": "1716964706009",
+  "name": "(매력서울)한강공원 즐기기",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 279,
+  "contentHash": "0382a091d236cad0850cf3dc1135aa67212bfdcc16e28d39787d07b2a8b3ec76",
+  "counts": {
+   "error": 15,
+   "suspect": 112,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 스마트서울맵",
+   "codes": [
+    "1",
+    "",
+    "스마트서울맵"
+   ]
+  }
+ },
+ {
+  "id": "1717465753363",
+  "name": "남산자락숲길",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 111,
+  "contentHash": "f62239e392e9f77113ec1cf0d7bbe73d1775d7bd4e107c41c69e4d0e8a44f7ee",
+  "counts": {
+   "error": 0,
+   "suspect": 3,
+   "info": 25
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "중구 부동산정보과",
+   "codes": [
+    "2",
+    "중구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1722228181633",
+  "name": "심리상담바우처 서비스제공기관",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 546,
+  "contentHash": "a680432a096dc825c3f2ced39c6d6b73e15ae932e73eca77f6340d5942eae217",
+  "counts": {
+   "error": 59,
+   "suspect": 65,
+   "info": 126
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 시민건강국 정신건강과",
+   "codes": [
+    "1",
+    "",
+    "시민건강국 정신건강과"
+   ]
+  }
+ },
+ {
+  "id": "1722925855283",
+  "name": "마포구 맞춤형 안심‧효도 중개사무소",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 25,
+  "contentHash": "23cdec03bf49ad0e4ff50916c0bd4ee63ea034d15a6476d3b902b0ac7e11fa5a",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "마포구 부동산정보과",
+   "codes": [
+    "2",
+    "마포구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1723621865268",
+  "name": "아파트 입주예정물량",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 101,
+  "contentHash": "e8776ce81c2a945b6324602439c6c1fe217aeefdb8e65e66f01116607a319258",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 부동산 정책개발센터",
+   "codes": [
+    "1",
+    "",
+    "부동산 정책개발센터"
+   ]
+  }
+ },
+ {
+  "id": "1723624111751",
+  "name": "매력가든‧동행가든",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 549,
+  "contentHash": "9436ec507e168a16a0a8c2fdc525aba6c4b1803e29f0d321356c5b92bdf148d8",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 371
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 정원도시정책과",
+   "codes": [
+    "1",
+    "",
+    "정원도시정책과"
+   ]
+  }
+ },
+ {
+  "id": "1725252918740",
+  "name": "소울스팟(Soul Spot)",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 40,
+  "contentHash": "6a43e41373828af592ee2db51c011804d1609b3c88438ee92eb3e86ddf8e2681",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 관광체육국 관광산업과",
+   "codes": [
+    "1",
+    "",
+    "관광체육국 관광산업과"
+   ]
+  }
+ },
+ {
+  "id": "1730093718917",
+  "name": "살람서울 레스토랑",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 192,
+  "contentHash": "cf6faf6a8a7a157ce261d488c01f6f1117fc2d4077308901deccc5f9fd82211f",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 관광산업과",
+   "codes": [
+    "1",
+    "",
+    "관광산업과"
+   ]
+  }
+ },
+ {
+  "id": "1730359504536",
+  "name": "재활용 정거장",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 505,
+  "contentHash": "a8b9d2b17a0381b8b89e743e1202437e5593c10c75b9d4667ef47ec7b7d5c011",
+  "counts": {
+   "error": 0,
+   "suspect": 371,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 자원순환과",
+   "codes": [
+    "1",
+    "",
+    "자원순환과"
+   ]
+  }
+ },
+ {
+  "id": "1731391576076",
+  "name": "글로벌 부동산중개소",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 275,
+  "contentHash": "1b99ebe504c45fe364bad42d5bd61fffae4d5c208548a05f3e06da57a0ff2285",
+  "counts": {
+   "error": 0,
+   "suspect": 13,
+   "info": 3
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 공간정보과",
+   "codes": [
+    "1",
+    "",
+    "공간정보과"
+   ]
+  }
+ },
+ {
+  "id": "1732335864484",
+  "name": "서울형 치유의 숲길 조성",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 16,
+  "contentHash": "20cb9c7adb6cb2fef64eb3891eeaa185b911ed0eef13158ebb81d69832aa6f3c",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 2
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 자연생태과",
+   "codes": [
+    "1",
+    "",
+    "자연생태과"
+   ]
+  }
+ },
+ {
+  "id": "1732683827486",
+  "name": "한옥체험(Tip. 주의사항)",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 27,
+  "contentHash": "f27ae6dee5deccfae574709b5c16fd59863f89b4cf85a7e6c66d9c7f1ca43ad1",
+  "counts": {
+   "error": 2,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 스마트서울맵",
+   "codes": [
+    "1",
+    "",
+    "스마트서울맵"
+   ]
+  }
+ },
+ {
+  "id": "1734310992312",
+  "name": "킥보드 없는 거리",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 5,
+  "contentHash": "ac223625de697469838d524e8e7e93ce0ff1384f2bafae8b3cf28bf57f4750ba",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 보행자전거과",
+   "codes": [
+    "1",
+    "",
+    "보행자전거과"
+   ]
+  }
+ },
+ {
+  "id": "1734937216464",
+  "name": "[매력서울]채식음식점",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 300,
+  "contentHash": "2057aff145f875b1a78a94736da078734983b55976abaf4ad85111f905ac9a0d",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 시민건강국 식품정책과",
+   "codes": [
+    "1",
+    "",
+    "시민건강국 식품정책과"
+   ]
+  }
+ },
+ {
+  "id": "1737457422638",
+  "name": "[시민]서울대 배리어프리맵",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 604,
+  "contentHash": "597723e2722e13aed7b1c73bc83ddb969b631c76c9aaa2b8b089cec5c6df1063",
+  "counts": {
+   "error": 0,
+   "suspect": 27,
+   "info": 466
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울대 글로벌사회공헌단",
+   "codes": [
+    "0",
+    "",
+    "서울대 글로벌사회공헌단"
+   ]
+  }
+ },
+ {
+  "id": "1737510112181",
+  "name": "금천구 사유지도로",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1095,
+  "contentHash": "6d22c962b65e5908c52cd8c313256c1ac97d4522caf32e0885e686c6e01fc53e",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "금천구 부동산정보과",
+   "codes": [
+    "2",
+    "금천구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1739327366277",
+  "name": "구로구 복지지도",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1740442117405",
+  "name": "광진구 맞춤형 공인중개사(MBTI)",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 198,
+  "contentHash": "3ba7a3d9317c1cc48aaf1657c29f2c756f284dbf79e807e5f84f50caaa5fb6ba",
+  "counts": {
+   "error": 0,
+   "suspect": 4,
+   "info": 2
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "광진구 부동산정보과",
+   "codes": [
+    "2",
+    "광진구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1741228380725",
+  "name": "서울 야경명소",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 51,
+  "contentHash": "33ceacdb1478478cddc4d4693ac474e23f6c3e132a1638ac188e2a1e517a6807",
+  "counts": {
+   "error": 15,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 문화본부 문화정책과",
+   "codes": [
+    "1",
+    "",
+    "문화본부 문화정책과"
+   ]
+  }
+ },
+ {
+  "id": "1741305884013",
+  "name": "강북감성길(놀러와 우리동네)",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 338,
+  "contentHash": "1870467336d723bb624aab449b4e95854d75d5c3412358d614057eaa30c9ad27",
+  "counts": {
+   "error": 0,
+   "suspect": 20,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "강북구 부동산정보과",
+   "codes": [
+    "2",
+    "강북구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1741579295688",
+  "name": "용산구 토지거래허가 정보",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 33,
+  "contentHash": "3d922273e3b73ef26d7ff8784431cf35ee188a76d9f59e576ada9ec3b7bfab04",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "용산구 부동산정보과",
+   "codes": [
+    "2",
+    "용산구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1743137980198",
+  "name": "서울마음편의점",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 19,
+  "contentHash": "7ddcabeecd99a72698d8229825f66ef65676e7b3ad67aa194415dbfeffb23d7b",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 9
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 고독대응과",
+   "codes": [
+    "1",
+    "",
+    "고독대응과"
+   ]
+  }
+ },
+ {
+  "id": "1743988478253",
+  "name": "(매력서울)한강역사탐방",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 108,
+  "contentHash": "aa04e4d9b58b9554c9c43f3d2df0116f899090805c69aa7ce3472e7d71d0f391",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "한강사업본부",
+   "codes": [
+    "3",
+    "한강사업본부",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1745739499913",
+  "name": "지냥이의 도심 속 여행",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1746579792590",
+  "name": "야간휴일 진료 의료기관",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 159,
+  "contentHash": "6b0f963dd0d7ffdf7e2beb72e7e384bb2007f5f80507c1f6d889ac1069af544c",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 60
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 보건의료정책과",
+   "codes": [
+    "1",
+    "",
+    "보건의료정책과"
+   ]
+  }
+ },
+ {
+  "id": "1746772142028",
+  "name": "서울시 문화시설",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 2813,
+  "contentHash": "eb0f356a93414339d73988bf79dc9fae0231a6fae001543e6b66dab14464f0fc",
+  "counts": {
+   "error": 0,
+   "suspect": 89,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "문화시설과",
+   "codes": [
+    "0",
+    "",
+    "문화시설과"
+   ]
+  }
+ },
+ {
+  "id": "1750055177549",
+  "name": "[중구] 개별공시지가의 기준, 표준지 한눈에 보기",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1648,
+  "contentHash": "898d46a44ec80f4aee71a6c632b9c2152dd2235a354e33ae80986e43d298c6ca",
+  "counts": {
+   "error": 0,
+   "suspect": 13,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "중구 토지관리과",
+   "codes": [
+    "2",
+    "중구",
+    "토지관리과"
+   ]
+  }
+ },
+ {
+  "id": "1750212969170",
+  "name": "은평구 이동약자 편의시설 스마트지도",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 630,
+  "contentHash": "866444c72d0c0e9d4302e039187f81db7f80e8aad180bda7f718663b99f08fa5",
+  "counts": {
+   "error": 7,
+   "suspect": 90,
+   "info": 6
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "은평구 공간혁신국 부동산정보과",
+   "codes": [
+    "2",
+    "은평구",
+    "공간혁신국 부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1751261708211",
+  "name": "서울시 6.25전쟁 상흔지",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 50,
+  "contentHash": "c927c81543c6c576f76aa032a74a09c6ea589a10d364e78f8f62083f74be19b5",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 민방위담당관",
+   "codes": [
+    "1",
+    "",
+    "민방위담당관"
+   ]
+  }
+ },
+ {
+  "id": "1753665577202",
+  "name": "(매력서울)서울아트위크",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 174,
+  "contentHash": "b3d05c3e144f74571fef63ad2316311cfa2bfa2ee98054121fedeee1fdb560a7",
+  "counts": {
+   "error": 4,
+   "suspect": 26,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 박물관과",
+   "codes": [
+    "1",
+    "",
+    "박물관과"
+   ]
+  }
+ },
+ {
+  "id": "1754441293623",
+  "name": "무더위에도 안전한 중구",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 111,
+  "contentHash": "821e8cead947325186ac3e0b8d6254553af067ffc711d6a31788f718e0d1f4d0",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "중구 부동산정보과",
+   "codes": [
+    "2",
+    "중구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1755739898113",
+  "name": "용산구 재활용 의류수거함 정보",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 590,
+  "contentHash": "286d05ea234937004e4e5d8f0725b02fc0654eb30c03fca319826a3ba79a1b94",
+  "counts": {
+   "error": 0,
+   "suspect": 22,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "용산구 건설관리과",
+   "codes": [
+    "2",
+    "용산구",
+    "건설관리과"
+   ]
+  }
+ },
+ {
+  "id": "1756084369775",
+  "name": "서대문구 사유지도로",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1655,
+  "contentHash": "ee59f498538650888295e614b004834ee4da73e15e340ebd75a0c01d5e6f8dc2",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서대문구 부동산정보과",
+   "codes": [
+    "2",
+    "서대문구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1756118598433",
+  "name": "서울 조경상",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 24,
+  "contentHash": "78eca5db719262c54625a411b2f1868d030f178c2638b9510de5c3f0c2bb4e9a",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 4
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 정원도시정책과",
+   "codes": [
+    "1",
+    "",
+    "정원도시정책과"
+   ]
+  }
+ },
+ {
+  "id": "1756444618373",
+  "name": "중구 공공시설 셔틀버스",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 135,
+  "contentHash": "1f5e6052a86598feaa9ed8a0a2d26c70417d986f9dd18bb0280f5fd01ff95ca6",
+  "counts": {
+   "error": 0,
+   "suspect": 6,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "중구 부동산",
+   "codes": [
+    "2",
+    "중구",
+    "부동산"
+   ]
+  }
+ },
+ {
+  "id": "1760688198910",
+  "name": "장애동행치과",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 69,
+  "contentHash": "6b1af1a6a53b8b34c3b46c48612025eff5381649ab3c27f831b198a0e8929e59",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "건강관리과",
+   "codes": [
+    "",
+    "",
+    "건강관리과"
+   ]
+  }
+ },
+ {
+  "id": "1761532337622",
+  "name": "시립강서거점형키움센터+서울형키즈카페 시립화곡점",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1762824122657",
+  "name": "개인형이동장치(PM) 주차구역",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 473,
+  "contentHash": "a7050c1f7b8bf9f3a90ccaa70c89399eb6f9d73b41e75a6677e314d44b8aaa7f",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 48
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 보행자전거과",
+   "codes": [
+    "1",
+    "",
+    "보행자전거과"
+   ]
+  }
+ },
+ {
+  "id": "1763349682090",
+  "name": "한국예술인복지재단 예술인 심리상담 지정기관",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1763432238191",
+  "name": "[중구]행복육아",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 2673,
+  "contentHash": "b4b9a5537de0a43027b9cbf2ff68712430ba8c298e8beef15713ef2c0e22eb68",
+  "counts": {
+   "error": 0,
+   "suspect": 110,
+   "info": 6
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "중구 부동산정보과",
+   "codes": [
+    "2",
+    "중구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1763443245243",
+  "name": "한파에도 안전한 중구",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 347,
+  "contentHash": "4cec29d4ec4586febbc429f028ddd6784e26e4374ad064ba99b8131d5e8907e5",
+  "counts": {
+   "error": 0,
+   "suspect": 397,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "중구 부동산정보과",
+   "codes": [
+    "2",
+    "중구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1764000132510",
+  "name": "빛공해_다크스카이서울(국민대학교)",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1764042920024",
+  "name": "GPS 러닝 드로잉",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1765517885857",
+  "name": "도시활력사업",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 17,
+  "contentHash": "d0a3dc3ad618977afb9bb9fe99c5acc99878bf91ffc5bc96ba486da8ed8678dd",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 도시활력담당관",
+   "codes": [
+    "1",
+    "",
+    "도시활력담당관"
+   ]
+  }
+ },
+ {
+  "id": "1765960271640",
+  "name": "[성북] 도심공원 즐기기",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 108,
+  "contentHash": "722e1edb8a08232bdf531308c4c0d789bb3444d20a1b2e40c3d5ced11ffcda33",
+  "counts": {
+   "error": 0,
+   "suspect": 3,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1765960848355",
+  "name": "[성북] 규격(특수)봉투 판매소",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 387,
+  "contentHash": "76eb46794ba650782aeb32ffa6344704c2aca3fa364acf5bd11f6aca1319e707",
+  "counts": {
+   "error": 1,
+   "suspect": 84,
+   "info": 136
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1766012105688",
+  "name": "[성북] 어르신·장애인 복지시설",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 114,
+  "contentHash": "954770391f262fa6dc35f8ca9d0cb7d035813bc9a97217efec31303dc9d10110",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 7
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1766014097088",
+  "name": "[성북] 성북의 문화유산",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 172,
+  "contentHash": "f0d843a7606f26b999788cc0a9d67301eb1fb44216a46e591ccefe7fc6acaf4b",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 4
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1766482359787",
+  "name": "[성북] 청년지원(임대주택, 일자리) 공간",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 32,
+  "contentHash": "03229f21b24e4cd55549b230147387bdfdcd2632d268651db6826a29508984fd",
+  "counts": {
+   "error": 1,
+   "suspect": 0,
+   "info": 2
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1766483936373",
+  "name": "[성북] 아동청소년 돌봄지원",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 58,
+  "contentHash": "36a937f4eeab9c1aa0f9d93c880f1c4a444a81cb7a09cdf6a862f571626fe5ac",
+  "counts": {
+   "error": 4,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1766484335441",
+  "name": "[성북] 공영(공동)주차장",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 68,
+  "contentHash": "1ef721e73e64ed06036eceb23cb6294ce22584bf56c69e201cfcac06c2624e1d",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 2
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1767832270311",
+  "name": "상계2동 민간기동제설반",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1767833186988",
+  "name": "2026 달라지는 서울생활",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 35,
+  "contentHash": "dfd88d6e283e300b972926395208baeb67bdb998ffdb30b3079b75674cabd782",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 공간정보과",
+   "codes": [
+    "1",
+    "",
+    "공간정보과"
+   ]
+  }
+ },
+ {
+  "id": "1767936953641",
+  "name": "[성북] 공정무역제품 판매소 및 센터 현황",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 43,
+  "contentHash": "7b64c232a722bceace9e4816bb9294f0492c1f44a77b665ac8bf704ecd6895b9",
+  "counts": {
+   "error": 4,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1767945239250",
+  "name": "[성북] 대형점포·전통시장 현황",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 20,
+  "contentHash": "2d1e46cd4e1eb0a0b03664ace25544b55d6dc06f5c382394f4b4d77d6b4276bd",
+  "counts": {
+   "error": 8,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1768175626496",
+  "name": "[성북] CCTV 현황",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 362,
+  "contentHash": "e702596cf0279fe5d0ec51c583c92477b5c62de7c278077b7213f22c3874c91b",
+  "counts": {
+   "error": 0,
+   "suspect": 6,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1768176500249",
+  "name": "[성북] 주민공동이용 및 지원시설",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 32,
+  "contentHash": "6e49cbc20404bd9ca5b51aabc7c34216ef3d2d8914cc2c0a9c3390171703aa13",
+  "counts": {
+   "error": 1,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1768177178828",
+  "name": "[성북] 서울자전거 따릉이",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 81,
+  "contentHash": "f5f8194af20fa9d4c942010757c392dd824b526f6feb5fb603adbee2df7e98f3",
+  "counts": {
+   "error": 0,
+   "suspect": 7,
+   "info": 3
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1768178357455",
+  "name": "[성북] 안전상비의약품·의료기기 판매업소",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 810,
+  "contentHash": "d190367109c41cfc8d322f2ae0ce0519940c4a622c5d75f63c992bc99975f9de",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 540
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1768179456125",
+  "name": "[성북] 산모신생아 건강관리 바우처 제공기관",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 10,
+  "contentHash": "c0afcd6e8084f73c6e6d6f433c4753999ccda1c95991ba15e6b7ff764acca62d",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1768459283258",
+  "name": "[더 건강한 서울 9988]통쾌한 한끼",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1481,
+  "contentHash": "97316c7de1f0e48f0cc9fc3cd59979f45a0921561b13777cbfa5dc1cadeeaf81",
+  "counts": {
+   "error": 0,
+   "suspect": 20,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 식품정책과",
+   "codes": [
+    "1",
+    "",
+    "식품정책과"
+   ]
+  }
+ },
+ {
+  "id": "1769674336292",
+  "name": "[성북] 몸튼튼 공공체육시설",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 22,
+  "contentHash": "714d2940427807e93b195e29fa3a62b835d404bbe052c9c1fc4b4eed2a3b0c84",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1769728567881",
+  "name": "[성북] 미세먼지 신호등",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 25,
+  "contentHash": "f4f3c4cbe43b8497dcf5d3a787014ec4b70c4cdff7f2a8f22bf759f770804cd8",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1769729676135",
+  "name": "[성북] 어르신 무료급식소",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 7,
+  "contentHash": "893043e88fd1bc6728db496f848bac34a6ad6de04b0bc6c49c47ee25794b32f4",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1769732171544",
+  "name": "[성북] 현수막 게시대",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 31,
+  "contentHash": "2d0d579e2985071bd3338aedcde24cb5b667f1c30fb54479ec503a61324b1b4c",
+  "counts": {
+   "error": 0,
+   "suspect": 10,
+   "info": 4
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1771817724537",
+  "name": "관악구 주택 전세(매매)가격 안내",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 6687,
+  "contentHash": "a7cf10350fdd8816c5f7cdc45b291f1fe575e8bb5ec9ece73b099734ac9c977a",
+  "counts": {
+   "error": 0,
+   "suspect": 6478,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "관악구 부동산정보과",
+   "codes": [
+    "2",
+    "관악구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1771835297598",
+  "name": "우리동네 펫위탁소",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 52,
+  "contentHash": "47c20ebe5021b8539d3807822c4d12fe6c3262a083d37b1ba13b2cbd38799223",
+  "counts": {
+   "error": 0,
+   "suspect": 9,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 동물보호과",
+   "codes": [
+    "1",
+    "",
+    "동물보호과"
+   ]
+  }
+ },
+ {
+  "id": "1772667456032",
+  "name": "금천구 토지거래허가구역 정보",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 229,
+  "contentHash": "e756f753c9f16093d919c53a68ecf02a61080748383b96638656adae45f97661",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 3
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "금천구 부동산정보과",
+   "codes": [
+    "2",
+    "금천구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1772715229168",
+  "name": "우리동네 동물병원",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 147,
+  "contentHash": "35c9c20af53c5061a16e14457ee9275b268a8017804d6345fe8815c5bb2af812",
+  "counts": {
+   "error": 0,
+   "suspect": 1,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 동물보호과",
+   "codes": [
+    "1",
+    "",
+    "동물보호과"
+   ]
+  }
+ },
+ {
+  "id": "1772770042022",
+  "name": "구로구 부동산 전자계약 우수 중개업소",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 20,
+  "contentHash": "aa24a46d11b86fcc0d65f768f5dc38c0b3e2fb97fd6b9c284d67eb7c2e0eadac",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "구로구 부동산정보과",
+   "codes": [
+    "2",
+    "구로구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1773115341137",
+  "name": "중구 부동산 복지",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 31,
+  "contentHash": "a37674629dfbfefcdcb049ddb63840461f645722784cbc321b4fd9d9284eb051",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "중구 부동산정보과",
+   "codes": [
+    "2",
+    "중구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1773872280944",
+  "name": "종로 보행자우선도로",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1774315849924",
+  "name": "관악구 도로열선 설치현황 위치도",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 46,
+  "contentHash": "9f3e3aa447799a34445aed5dd62b5d0495853ce7de10af43038550500ebe4630",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "관악구 스마트정보과",
+   "codes": [
+    "2",
+    "관악구",
+    "스마트정보과"
+   ]
+  }
+ },
+ {
+  "id": "1774316245112",
+  "name": "강동구 내 무장애지도",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1774915229517",
+  "name": "이동약자 주유 서비스 협력 주유소",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 146,
+  "contentHash": "6b984182d9ef0e76d8c0fd4cafef32583e02c6ffaffbdd1116a7b1d5edd9c8be",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "녹색에너지과",
+   "codes": [
+    "",
+    "",
+    "녹색에너지과"
+   ]
+  }
+ },
+ {
+  "id": "1774917534785",
+  "name": "투명페트병 회수 거점",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 575,
+  "contentHash": "3501b5577a4992aa99b7e5630066c7bcc4db8dfc629d98cd1351ffa5ab56338f",
+  "counts": {
+   "error": 0,
+   "suspect": 68,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "자원순환과",
+   "codes": [
+    "",
+    "",
+    "자원순환과"
+   ]
+  }
+ },
+ {
+  "id": "1776132214738",
+  "name": "서울축제지도",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 60,
+  "contentHash": "1bd3e1fd6cc6e85b3f5a96723d9613c277f08a73deaaabb00cd90438659674be",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 문화예술과",
+   "codes": [
+    "1",
+    "",
+    "문화예술과"
+   ]
+  }
+ },
+ {
+  "id": "1776219820783",
+  "name": "(매력서울)2026 서울국제정원박람회",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 220,
+  "contentHash": "0f9ed636e1b7ff9559e6c247447b5828d36824714d7ad233eb946afa9e6fc0db",
+  "counts": {
+   "error": 3,
+   "suspect": 0,
+   "info": 1
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 조경과",
+   "codes": [
+    "1",
+    "",
+    "조경과"
+   ]
+  }
+ },
+ {
+  "id": "1777251935025",
+  "name": "서울물빛나루",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 19,
+  "contentHash": "4c69a27a6018289c11e21795efc36b7adb7251aacbe69560d5e00c1dd99c307e",
+  "counts": {
+   "error": 0,
+   "suspect": 1,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 수변감성도시과",
+   "codes": [
+    "1",
+    "",
+    "수변감성도시과"
+   ]
+  }
+ },
+ {
+  "id": "1777281638371",
+  "name": "마약류 중독치료, 동행의원",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 40,
+  "contentHash": "93cb734ebebb175c0e366e254106667db4c776015d96f2ca38e513d6184033d2",
+  "counts": {
+   "error": 0,
+   "suspect": 1,
+   "info": 6
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 정신건강과",
+   "codes": [
+    "1",
+    "",
+    "정신건강과"
+   ]
+  }
+ },
+ {
+  "id": "1778662228830",
+  "name": "강동구 무장애지도",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1779929180653",
+  "name": "양천구 연결지도",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1780561966799",
+  "name": "성북강북지역기관",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1781142928918",
+  "name": "성북강북 마을 알기",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1781144921669",
+  "name": "[성북] 안심귀갓길 표준 노선도",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 24,
+  "contentHash": "e93bdb15a7fc591dc9587a20ed09b8742b9d9b1fcf84120861f230c137f7c0da",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 16
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1781162818457",
+  "name": "성북강북 마을 지도",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1781229092669",
+  "name": "성북강북_마을지도(임시)",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1782365106181",
+  "name": "중구건강지도",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 73,
+  "contentHash": "c7ec98308f89ecfe9a9e1b2debed1fc86cb5509d8eaa19dff7421708cbf6cafd",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "중구 의약과",
+   "codes": [
+    "2",
+    "중구",
+    "의약과"
+   ]
+  }
+ },
+ {
+  "id": "1783043499159",
+  "name": "[성북] 안심지킴이집, 안심쉼터",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 25,
+  "contentHash": "b46a605261460ee77ef5acdfb0b34172fb8115f39bce69724ccfd84152d680cb",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "성북구 기획예산과",
+   "codes": [
+    "2",
+    "성북구",
+    "기획예산과"
+   ]
+  }
+ },
+ {
+  "id": "1783574111923",
+  "name": "서울 관광지 지진 대피 안심 지도",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1783574195618",
+  "name": "서울 지진대피 안심지도",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1784874883442",
+  "name": "해누리온로드",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "id": "1785905781674",
+  "name": "(매력서울)서울 나이트 맵",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 173,
+  "contentHash": "480b040508de95dcbd48aa2c0ffec09cf6f24d8c4e739512675ba358ee861a0d",
+  "counts": {
+   "error": 3,
+   "suspect": 3,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 관광정책과",
+   "codes": [
+    "1",
+    "",
+    "관광정책과"
+   ]
+  }
+ },
+ {
+  "id": "1786321258890",
+  "name": "서울에디션25",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 50,
+  "contentHash": "086ab379590b586d3d874d8aeb0c6b3bd5c29e16eb99a620b5aa15eec4ae85f6",
+  "counts": {
+   "error": 4,
+   "suspect": 23,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "서울시 관광정책과",
+   "codes": [
+    "1",
+    "",
+    "관광정책과"
+   ]
+  }
+ },
+ {
+  "id": "1786599681422",
+  "name": "[강동] 기획부동산 피해주의 지역",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 4,
+  "contentHash": "1c2aeda66585e0d54604e44c67f7102f77871e6653aeb0619db3e38c3f615a58",
+  "counts": {
+   "error": 4,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "강동구 부동산정보과",
+   "codes": [
+    "2",
+    "강동구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1787015923392",
+  "name": "[광진]우리 동네 표준지",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 1091,
+  "contentHash": "a6af8eeae01a57471b23707ab10e2ca165835ff79df078de98061e69c27efabf",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "광진구 부동산정보과",
+   "codes": [
+    "2",
+    "광진구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1787554054535",
+  "name": "서울시 실외 흡연시설",
+  "type": "2",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": "서울시 건강관리과",
+   "codes": [
+    "1",
+    "",
+    "건강관리과"
+   ]
+  }
+ },
+ {
+  "id": "1788395972553",
+  "name": "노원 무더위 쉼터",
+  "type": "2",
+  "status": "ok",
+  "rowCount": 297,
+  "contentHash": "458c0769b84e17e039de381273e6dbfeecd265035180324c70df69269ffc100d",
+  "counts": {
+   "error": 0,
+   "suspect": 0,
+   "info": 0
+  },
+  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "department": {
+   "label": "노원구 부동산정보과",
+   "codes": [
+    "2",
+    "노원구",
+    "부동산정보과"
+   ]
+  }
+ },
+ {
+  "id": "1789437809684",
+  "name": "기록 지도",
+  "type": "5",
+  "status": "unavailable",
+  "statusReason": "인증키에 이 테마 권한이 없습니다",
+  "rowCount": null,
+  "contentHash": null,
+  "counts": null,
+  "lastSuccessAt": null,
+  "department": {
+   "label": null,
+   "codes": [
+    "",
+    "",
+    ""
+   ]
+  }
+ }
+]

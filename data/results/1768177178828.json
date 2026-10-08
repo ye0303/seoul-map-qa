@@ -1,0 +1,104 @@
+{
+ "themeId": "1768177178828",
+ "rulesetVersion": 1,
+ "contentHash": "f5f8194af20fa9d4c942010757c392dd824b526f6feb5fb603adbee2df7e98f3",
+ "findings": [
+  {
+   "ruleId": "C-05",
+   "contsId": "sb_bike_037",
+   "field": "COT_GU_NAME",
+   "value": "동대문구",
+   "severity": "suspect",
+   "suggestion": "성북구",
+   "message": "구명(동대문구)이 좌표·주소의 구(성북구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|1768177178828|sb_bike_037||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sb_bike_100",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1768177178828|sb_bike_100||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sb_bike_101",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1768177178828|sb_bike_101||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sb_bike_103",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1768177178828|sb_bike_103||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_bike_016",
+   "groupKey": "coord:sb_bike_016",
+   "field": "COT_CONTS_NAME",
+   "value": "1326. 상월곡역 1번출구",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_bike_016, sb_bike_017",
+   "fingerprint": "C-08|1768177178828|sb_bike_016|coord:sb_bike_016|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_bike_017",
+   "groupKey": "coord:sb_bike_016",
+   "field": "COT_CONTS_NAME",
+   "value": "1327. 상월곡역 3번출구",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_bike_016, sb_bike_017",
+   "fingerprint": "C-08|1768177178828|sb_bike_017|coord:sb_bike_016|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_bike_055",
+   "groupKey": "coord:sb_bike_055",
+   "field": "COT_CONTS_NAME",
+   "value": "1376 한국과학기술연구원 중문",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_bike_055, sb_bike_056",
+   "fingerprint": "C-08|1768177178828|sb_bike_055|coord:sb_bike_055|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_bike_056",
+   "groupKey": "coord:sb_bike_055",
+   "field": "COT_CONTS_NAME",
+   "value": "1377. 한국과학기술연구원 북문",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_bike_055, sb_bike_056",
+   "fingerprint": "C-08|1768177178828|sb_bike_056|coord:sb_bike_055|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_bike_079",
+   "groupKey": "coord:sb_bike_079",
+   "field": "COT_CONTS_NAME",
+   "value": "4419. 성북구 한예종 캠퍼스 본관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_bike_079, sb_bike_080",
+   "fingerprint": "C-08|1768177178828|sb_bike_079|coord:sb_bike_079|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_bike_080",
+   "groupKey": "coord:sb_bike_079",
+   "field": "COT_CONTS_NAME",
+   "value": "4420. 성북구 한예종 캠퍼스 별관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_bike_079, sb_bike_080",
+   "fingerprint": "C-08|1768177178828|sb_bike_080|coord:sb_bike_079|COT_CONTS_NAME"
+  }
+ ]
+}

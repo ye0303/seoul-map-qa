@@ -1,0 +1,1059 @@
+{
+ "themeId": "1763432238191",
+ "rulesetVersion": 1,
+ "contentHash": "b4b9a5537de0a43027b9cbf2ff68712430ba8c298e8beef15713ef2c0e22eb68",
+ "findings": [
+  {
+   "ruleId": "C-04",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "outside",
+   "message": "서울 밖 장소가 2006건 있습니다(주소도 서울 밖).",
+   "fingerprint": "C-04|1763432238191||outside|"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "mostly-empty",
+   "field": "COT_GU_NAME",
+   "message": "구명이 2673건 중 2592건 비어 있습니다.",
+   "fingerprint": "C-07|1763432238191||mostly-empty|COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "WESAVE_1051",
+   "groupKey": "coord:WESAVE_1051",
+   "field": "COT_CONTS_NAME",
+   "value": "셀트럴웰니스 의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: WESAVE_1051, WESAVE_2134",
+   "fingerprint": "C-08|1763432238191|WESAVE_1051|coord:WESAVE_1051|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "WESAVE_2134",
+   "groupKey": "coord:WESAVE_1051",
+   "field": "COT_CONTS_NAME",
+   "value": "센트럴웰니스 의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: WESAVE_1051, WESAVE_2134",
+   "fingerprint": "C-08|1763432238191|WESAVE_2134|coord:WESAVE_1051|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "WESAVE_2548",
+   "groupKey": "coord:WESAVE_2548",
+   "field": "COT_CONTS_NAME",
+   "value": "그 남자의 김밥",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: WESAVE_2548, WESAVE_2995",
+   "fingerprint": "C-08|1763432238191|WESAVE_2548|coord:WESAVE_2548|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "WESAVE_2801",
+   "groupKey": "coord:WESAVE_2801",
+   "field": "COT_CONTS_NAME",
+   "value": "주식회사 하로월드(파주점)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: WESAVE_2801, WESAVE_2802, WESAVE_2804",
+   "fingerprint": "C-08|1763432238191|WESAVE_2801|coord:WESAVE_2801|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "WESAVE_2802",
+   "groupKey": "coord:WESAVE_2801",
+   "field": "COT_CONTS_NAME",
+   "value": "주식회사 하로월드(강동점)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: WESAVE_2801, WESAVE_2802, WESAVE_2804",
+   "fingerprint": "C-08|1763432238191|WESAVE_2802|coord:WESAVE_2801|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "WESAVE_2804",
+   "groupKey": "coord:WESAVE_2801",
+   "field": "COT_CONTS_NAME",
+   "value": "주식회사 하로월드(대전점)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: WESAVE_2801, WESAVE_2802, WESAVE_2804",
+   "fingerprint": "C-08|1763432238191|WESAVE_2804|coord:WESAVE_2801|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "WESAVE_2995",
+   "groupKey": "coord:WESAVE_2548",
+   "field": "COT_CONTS_NAME",
+   "value": "그남자의김밥",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: WESAVE_2548, WESAVE_2995",
+   "fingerprint": "C-08|1763432238191|WESAVE_2995|coord:WESAVE_2548|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "WESAVE_3146",
+   "groupKey": "coord:WESAVE_3146",
+   "field": "COT_CONTS_NAME",
+   "value": "나은오늘법률사무소1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: WESAVE_3146, WESAVE_3147",
+   "fingerprint": "C-08|1763432238191|WESAVE_3146|coord:WESAVE_3146|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "WESAVE_3147",
+   "groupKey": "coord:WESAVE_3146",
+   "field": "COT_CONTS_NAME",
+   "value": "나은오늘법률사무소2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: WESAVE_3146, WESAVE_3147",
+   "fingerprint": "C-08|1763432238191|WESAVE_3147|coord:WESAVE_3146|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_1406",
+   "field": "COT_TEL_NO",
+   "value": "010 8680 0579",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_1406||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_1531",
+   "field": "COT_TEL_NO",
+   "value": "070-4224-192",
+   "message": "전화번호: 끝자리가 4자리가 아닙니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_1531||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2240",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2240||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2401",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2401||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2476",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2476||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2477",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2477||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2485",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2485||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2493",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2493||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2511",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2511||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2515",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2515||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2536",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2536||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2541",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2541||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2556",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2556||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2557",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2557||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2558",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2558||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2575",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2575||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2607",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2607||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2614",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2614||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2621",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2621||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2622",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2622||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2625",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2625||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2634",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2634||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2636",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2636||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2639",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2639||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2646",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2646||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2647",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2647||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2649",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2649||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2679",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2679||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2683",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2683||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2697",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2697||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2702",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2702||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2703",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2703||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2714",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2714||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2720",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2720||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2724",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2724||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2727",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2727||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2740",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2740||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2747",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2747||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2763",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2763||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2768",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2768||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2777",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2777||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2790",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2790||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2808",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2808||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2812",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2812||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2814",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2814||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2817",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2817||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2820",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2820||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2821",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2821||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2831",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2831||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2841",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2841||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2846",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2846||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2848",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2848||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2859",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2859||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2890",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2890||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2898",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2898||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2902",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2902||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2903",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2903||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2926",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2926||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2947",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2947||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2949",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2949||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2952",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2952||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2984",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2984||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_2986",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_2986||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3001",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3001||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3007",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3007||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3013",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3013||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3014",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3014||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3018",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3018||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3057",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3057||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3058",
+   "field": "COT_TEL_NO",
+   "value": "043882261",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3058||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3061",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3061||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3063",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3063||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3064",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3064||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3079",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3079||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3084",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3084||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3086",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3086||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3106",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3106||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3107",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3107||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3187",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3187||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3217",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3217||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3228",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3228||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3233",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3233||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3245",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3245||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3255",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3255||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3262",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3262||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3290",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3290||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3333",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3333||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3365",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3365||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3380",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3380||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3399",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3399||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3401",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3401||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3423",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3423||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3437",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3437||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3442",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3442||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3457",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3457||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3470",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3470||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3477",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3477||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3492",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3492||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3498",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3498||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "WESAVE_3502",
+   "field": "COT_TEL_NO",
+   "value": "0",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|WESAVE_3502||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "baby_007",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1763432238191|baby_007||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "baby_015",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1763432238191|baby_015||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "baby_016",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1763432238191|baby_016||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "baby_028",
+   "field": "COT_TEL_NO",
+   "value": "02-32234-7589",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1763432238191|baby_028||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "baby_059",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1763432238191|baby_059||COT_TEL_NO"
+  }
+ ]
+}

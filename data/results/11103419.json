@@ -1,0 +1,628 @@
+{
+ "themeId": "11103419",
+ "rulesetVersion": 1,
+ "contentHash": "b1a4596f3cb23bb7640bede4ec5027cdcfc445cb9f76f1d670f8e4d819e70eee",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1754888708969",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1754888708969||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1755520577738",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1755520577738||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762229990996",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762229990996||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762230138559",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762230138559||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762230610612",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762230610612||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762230900532",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762230900532||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762234690453",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762234690453||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762234955013",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762234955013||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762235765791",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762235765791||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762236103039",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762236103039||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762237828342",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762237828342||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762238027798",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762238027798||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762238355285",
+   "field": "COT_GU_NAME",
+   "suggestion": "동대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762238355285||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762239860202",
+   "field": "COT_GU_NAME",
+   "suggestion": "동대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762239860202||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762242562697",
+   "field": "COT_GU_NAME",
+   "suggestion": "동대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762242562697||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762308706135",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762308706135||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762309013079",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762309013079||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762309052799",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762309052799||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762309265903",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762309265903||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762309394935",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762309394935||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762309592848",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762309592848||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762309765031",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762309765031||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762316436516",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762316436516||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762316576301",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762316576301||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762388839914",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762388839914||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762388936937",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762388936937||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762389152553",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762389152553||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762389496977",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762389496977||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762390252113",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762390252113||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1762391121552",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1762391121552||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1763714293521",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1763714293521||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1769597411993",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1769597411993||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1782884017398",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1782884017398||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103419_1790840653002",
+   "field": "COT_GU_NAME",
+   "suggestion": "동대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|11103419_1790840653002||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강남구_거치대_301",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|강남구_거치대_301||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강남구_거치대_302",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|강남구_거치대_302||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강남구_거치대_303",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|강남구_거치대_303||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강남구_거치대_304",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|강남구_거치대_304||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구_거치대_252",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|강동구_거치대_252||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구_거치대_253",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|강동구_거치대_253||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구_공기주입기_052",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|강동구_공기주입기_052||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구_공기주입기_053",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|강동구_공기주입기_053||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구_공기주입기_054",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|강동구_공기주입기_054||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구_공기주입기_056",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|강동구_공기주입기_056||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "강동구_공기주입기_057",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|강동구_공기주입기_057||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "광진구_자전거주차타워",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|광진구_자전거주차타워||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "남부도로사업소 남측 2단자전거보관대",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|남부도로사업소 남측 2단자전거보관대||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "노원구_자전거주차장",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|노원구_자전거주차장||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "서대문구_자전거거치대_72",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|서대문구_자전거거치대_72||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "영등포구청역 2번출구 자전거보관대",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|영등포구청역 2번출구 자전거보관대||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "영등포구청역 3번출구 자전거보관대",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|영등포구청역 3번출구 자전거보관대||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "영등포구청역 7번출구 자전거보관대",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|영등포구청역 7번출구 자전거보관대||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "영등포역 2번출구 자전거보관대",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|영등포역 2번출구 자전거보관대||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "영등포역 4번출구 자전거보관대",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|영등포역 4번출구 자전거보관대||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "은평구_공기주입기_48",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|은평구_공기주입기_48||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "은평구_공기주입기_49",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|은평구_공기주입기_49||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "은평구_자전거 거치대_076",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|은평구_자전거 거치대_076||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "은평구_자전거 거치대_077",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|은평구_자전거 거치대_077||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "은평구_자전거 거치대_078",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|은평구_자전거 거치대_078||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "은평구_자전거 거치대_079",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|은평구_자전거 거치대_079||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "은평구_자전거 거치대_080",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|은평구_자전거 거치대_080||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "중구_공기주입기(중구청)",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|중구_공기주입기(중구청)||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "중구_공기주입기_동대문역사문화공원역 12번 출구",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|중구_공기주입기_동대문역사문화공원역 12번 출구||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "중구_공기주입기_시청역 11번출구",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|중구_공기주입기_시청역 11번출구||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "중구_자전거거치대",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|중구_자전거거치대||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "중구_자전거거치대(중구청 앞)",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|중구_자전거거치대(중구청 앞)||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "중구_자전거거치대_동대문역사문화공원역 12번 출구",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|중구_자전거거치대_동대문역사문화공원역 12번 출구||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "중랑구_자전거거치대_175",
+   "field": "COT_GU_NAME",
+   "suggestion": "중랑구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|중랑구_자전거거치대_175||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "중랑구_자전거거치대_176",
+   "field": "COT_GU_NAME",
+   "suggestion": "중랑구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103419|중랑구_자전거거치대_176||COT_GU_NAME"
+  }
+ ]
+}

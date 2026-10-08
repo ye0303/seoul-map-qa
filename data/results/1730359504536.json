@@ -1,0 +1,3356 @@
+{
+ "themeId": "1730359504536",
+ "rulesetVersion": 1,
+ "contentHash": "a8b9d2b17a0381b8b89e743e1202437e5593c10c75b9d4667ef47ec7b7d5c011",
+ "findings": [
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "21334245_0197",
+   "groupKey": "coord:21334245_0197",
+   "field": "COT_CONTS_NAME",
+   "value": "재활용정거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 21334245_0197, 21334245_0342",
+   "fingerprint": "C-08|1730359504536|21334245_0197|coord:21334245_0197|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "21334245_0203",
+   "groupKey": "coord:21334245_0203",
+   "field": "COT_CONTS_NAME",
+   "value": "재활용정거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 21334245_0203, 21334245_0357",
+   "fingerprint": "C-08|1730359504536|21334245_0203|coord:21334245_0203|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "21334245_0203",
+   "groupKey": "same:21334245_0203",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 21334245_0203, 21334245_0357",
+   "fingerprint": "C-08|1730359504536|21334245_0203|same:21334245_0203|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "21334245_0228",
+   "groupKey": "coord:21334245_0228",
+   "field": "COT_CONTS_NAME",
+   "value": "재활용정거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 21334245_0228, 21334245_0345",
+   "fingerprint": "C-08|1730359504536|21334245_0228|coord:21334245_0228|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "21334245_0248",
+   "groupKey": "coord:21334245_0248",
+   "field": "COT_CONTS_NAME",
+   "value": "재활용정거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 21334245_0248, 21334245_0346",
+   "fingerprint": "C-08|1730359504536|21334245_0248|coord:21334245_0248|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "21334245_0300",
+   "groupKey": "coord:21334245_0300",
+   "field": "COT_CONTS_NAME",
+   "value": "재활용정거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 21334245_0300, 21334245_0352",
+   "fingerprint": "C-08|1730359504536|21334245_0300|coord:21334245_0300|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "21334245_0309",
+   "groupKey": "coord:21334245_0309",
+   "field": "COT_CONTS_NAME",
+   "value": "재활용정거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 21334245_0309, 21334245_0353",
+   "fingerprint": "C-08|1730359504536|21334245_0309|coord:21334245_0309|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "21334245_0340",
+   "groupKey": "coord:21334245_0340",
+   "field": "COT_CONTS_NAME",
+   "value": "재활용정거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 21334245_0340, 21334245_0356",
+   "fingerprint": "C-08|1730359504536|21334245_0340|coord:21334245_0340|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "21334245_0340",
+   "groupKey": "same:21334245_0340",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 21334245_0340, 21334245_0356",
+   "fingerprint": "C-08|1730359504536|21334245_0340|same:21334245_0340|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "21334245_0342",
+   "groupKey": "coord:21334245_0197",
+   "field": "COT_CONTS_NAME",
+   "value": "재활용정거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 21334245_0197, 21334245_0342",
+   "fingerprint": "C-08|1730359504536|21334245_0342|coord:21334245_0197|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "21334245_0345",
+   "groupKey": "coord:21334245_0228",
+   "field": "COT_CONTS_NAME",
+   "value": "재활용정거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 21334245_0228, 21334245_0345",
+   "fingerprint": "C-08|1730359504536|21334245_0345|coord:21334245_0228|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "21334245_0346",
+   "groupKey": "coord:21334245_0248",
+   "field": "COT_CONTS_NAME",
+   "value": "재활용정거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 21334245_0248, 21334245_0346",
+   "fingerprint": "C-08|1730359504536|21334245_0346|coord:21334245_0248|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "21334245_0352",
+   "groupKey": "coord:21334245_0300",
+   "field": "COT_CONTS_NAME",
+   "value": "재활용정거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 21334245_0300, 21334245_0352",
+   "fingerprint": "C-08|1730359504536|21334245_0352|coord:21334245_0300|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "21334245_0353",
+   "groupKey": "coord:21334245_0309",
+   "field": "COT_CONTS_NAME",
+   "value": "재활용정거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 21334245_0309, 21334245_0353",
+   "fingerprint": "C-08|1730359504536|21334245_0353|coord:21334245_0309|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "21334245_0356",
+   "groupKey": "coord:21334245_0340",
+   "field": "COT_CONTS_NAME",
+   "value": "재활용정거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 21334245_0340, 21334245_0356",
+   "fingerprint": "C-08|1730359504536|21334245_0356|coord:21334245_0340|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "21334245_0356",
+   "groupKey": "same:21334245_0340",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 21334245_0340, 21334245_0356",
+   "fingerprint": "C-08|1730359504536|21334245_0356|same:21334245_0340|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "21334245_0357",
+   "groupKey": "coord:21334245_0203",
+   "field": "COT_CONTS_NAME",
+   "value": "재활용정거장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 21334245_0203, 21334245_0357",
+   "fingerprint": "C-08|1730359504536|21334245_0357|coord:21334245_0203|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "21334245_0357",
+   "groupKey": "same:21334245_0203",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 21334245_0203, 21334245_0357",
+   "fingerprint": "C-08|1730359504536|21334245_0357|same:21334245_0203|"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0116",
+   "field": "COT_TEL_NO",
+   "value": "2094-1948",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0116||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0117",
+   "field": "COT_TEL_NO",
+   "value": "2094-1948",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0117||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0118",
+   "field": "COT_TEL_NO",
+   "value": "2094-1948",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0118||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0119",
+   "field": "COT_TEL_NO",
+   "value": "2094-1948",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0119||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0120",
+   "field": "COT_TEL_NO",
+   "value": "2094-1948",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0120||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0121",
+   "field": "COT_TEL_NO",
+   "value": "2094-1948",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0121||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0122",
+   "field": "COT_TEL_NO",
+   "value": "2094-1948",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0122||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0123",
+   "field": "COT_TEL_NO",
+   "value": "2094-1948",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0123||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0124",
+   "field": "COT_TEL_NO",
+   "value": "2094-1948",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0124||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0125",
+   "field": "COT_TEL_NO",
+   "value": "2094-1948",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0125||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0126",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0126||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0127",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0127||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0128",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0128||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0129",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0129||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0130",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0130||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0131",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0131||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0132",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0132||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0133",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0133||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0134",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0134||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0135",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0135||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0136",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0136||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0137",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0137||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0138",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0138||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0139",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0139||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0140",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0140||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0141",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0141||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0142",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0142||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0143",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0143||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0144",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0144||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0145",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0145||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0146",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0146||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0147",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0147||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0148",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0148||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0149",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0149||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0150",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0150||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0151",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0151||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0152",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0152||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0153",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0153||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0154",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0154||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0155",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0155||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0156",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0156||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0157",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0157||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0158",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0158||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0159",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0159||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0160",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0160||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0161",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0161||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0162",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0162||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0163",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0163||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0164",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0164||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0165",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0165||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0166",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0166||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0167",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0167||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0168",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0168||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0169",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0169||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0170",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0170||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0171",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0171||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0172",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0172||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0173",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0173||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0174",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0174||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0175",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0175||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0176",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0176||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0177",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0177||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0178",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0178||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0179",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0179||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0180",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0180||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0181",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0181||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0182",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0182||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0183",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0183||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0184",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0184||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0185",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0185||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0186",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0186||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0187",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0187||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0188",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0188||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0189",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0189||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0190",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0190||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0191",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0191||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0192",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0192||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0193",
+   "field": "COT_TEL_NO",
+   "value": "2116-3812",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0193||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0194",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0194||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0195",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0195||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0196",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0196||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0197",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0197||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0198",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0198||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0199",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0199||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0200",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0200||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0201",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0201||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0202",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0202||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0203",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0203||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0204",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0204||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0205",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0205||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0206",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0206||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0207",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0207||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0208",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0208||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0209",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0209||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0210",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0210||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0211",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0211||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0212",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0212||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0213",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0213||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0214",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0214||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0215",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0215||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0216",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0216||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0217",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0217||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0218",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0218||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0219",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0219||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0220",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0220||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0221",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0221||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0222",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0222||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0223",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0223||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0224",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0224||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0225",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0225||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0226",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0226||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0227",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0227||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0228",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0228||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0229",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0229||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0230",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0230||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0231",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0231||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0232",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0232||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0233",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0233||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0234",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0234||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0235",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0235||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0236",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0236||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0237",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0237||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0238",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0238||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0239",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0239||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0240",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0240||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0241",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0241||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0242",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0242||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0243",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0243||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0244",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0244||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0245",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0245||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0246",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0246||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0247",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0247||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0248",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0248||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0249",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0249||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0250",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0250||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0251",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0251||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0252",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0252||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0253",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0253||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0254",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0254||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0255",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0255||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0256",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0256||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0257",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0257||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0258",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0258||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0259",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0259||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0260",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0260||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0261",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0261||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0262",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0262||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0263",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0263||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0264",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0264||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0265",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0265||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0266",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0266||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0267",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0267||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0268",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0268||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0269",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0269||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0270",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0270||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0271",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0271||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0272",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0272||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0273",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0273||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0274",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0274||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0275",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0275||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0276",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0276||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0277",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0277||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0278",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0278||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0279",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0279||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0280",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0280||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0281",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0281||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0282",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0282||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0283",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0283||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0284",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0284||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0285",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0285||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0286",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0286||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0287",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0287||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0288",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0288||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0289",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0289||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0290",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0290||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0291",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0291||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0292",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0292||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0293",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0293||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0294",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0294||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0295",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0295||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0296",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0296||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0297",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0297||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0298",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0298||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0299",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0299||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0300",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0300||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0301",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0301||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0302",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0302||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0303",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0303||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0304",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0304||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0305",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0305||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0306",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0306||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0307",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0307||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0308",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0308||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0309",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0309||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0310",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0310||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0311",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0311||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0312",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0312||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0313",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0313||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0314",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0314||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0315",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0315||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0316",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0316||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0317",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0317||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0318",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0318||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0319",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0319||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0320",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0320||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0321",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0321||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0322",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0322||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0323",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0323||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0324",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0324||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0325",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0325||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0326",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0326||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0327",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0327||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0328",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0328||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0329",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0329||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0330",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0330||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0331",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0331||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0332",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0332||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0333",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0333||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0334",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0334||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0335",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0335||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0336",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0336||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0337",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0337||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0338",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0338||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0339",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0339||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0340",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0340||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0341",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0341||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0342",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0342||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0343",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0343||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0344",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0344||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0345",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0345||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0346",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0346||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0347",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0347||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0348",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0348||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0349",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0349||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0350",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0350||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0351",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0351||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0352",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0352||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0353",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0353||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0354",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0354||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0355",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0355||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0356",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0356||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0357",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0357||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0358",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0358||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0359",
+   "field": "COT_TEL_NO",
+   "value": "351-7584",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0359||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0360",
+   "field": "COT_TEL_NO",
+   "value": "351-7582",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0360||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0361",
+   "field": "COT_TEL_NO",
+   "value": "351-7582",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0361||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0377",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0377||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0378",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0378||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0379",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0379||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0380",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0380||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0381",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0381||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0382",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0382||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0383",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0383||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0384",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0384||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0385",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0385||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0386",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0386||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0387",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0387||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0388",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0388||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0389",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0389||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0390",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0390||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0391",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0391||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0392",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0392||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0393",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0393||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0394",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0394||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0395",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0395||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0396",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0396||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0397",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0397||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0398",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0398||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0399",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0399||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0400",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0400||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0401",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0401||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0402",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0402||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0403",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0403||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0404",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0404||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0405",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0405||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0406",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0406||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0407",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0407||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0408",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0408||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0409",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0409||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0410",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0410||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0411",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0411||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0412",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0412||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0413",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0413||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0414",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0414||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0415",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0415||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0416",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0416||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0417",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0417||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0418",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0418||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0419",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0419||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0420",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0420||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0421",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0421||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0422",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0422||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0423",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0423||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0424",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0424||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0425",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0425||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0426",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0426||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0427",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0427||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0428",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0428||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0429",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0429||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0430",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0430||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0431",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0431||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0432",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0432||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0433",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0433||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0434",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0434||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0435",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0435||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0436",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0436||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0437",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0437||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0438",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0438||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0439",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0439||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0440",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0440||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0441",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0441||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0442",
+   "field": "COT_TEL_NO",
+   "value": "2670-3488",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0442||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0443",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0443||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0444",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0444||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0445",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0445||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0446",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0446||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0447",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0447||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0448",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0448||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0449",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0449||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0450",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0450||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0451",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0451||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0452",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0452||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0453",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0453||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0454",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0454||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0455",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0455||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0456",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0456||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0457",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0457||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0458",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0458||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0459",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0459||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0460",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0460||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0461",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0461||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0462",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0462||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0463",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0463||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0464",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0464||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0465",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0465||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0466",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0466||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0467",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0467||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0468",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0468||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0469",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0469||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0470",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0470||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0471",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0471||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0472",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0472||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0473",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0473||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0474",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0474||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0475",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0475||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0476",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0476||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0477",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0477||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0478",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0478||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0479",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0479||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0480",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0480||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0481",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0481||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0482",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0482||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "21334245_0483",
+   "field": "COT_TEL_NO",
+   "value": "2670-3497",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1730359504536|21334245_0483||COT_TEL_NO"
+  }
+ ]
+}

@@ -1,0 +1,268 @@
+{
+ "themeId": "1708908447057",
+ "rulesetVersion": 1,
+ "contentHash": "483422dcc70c4b65b292b13d780265545dfb73bc5e7845e5c81c41d457f0d1df",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "stop36",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1708908447057|stop36||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_102",
+   "groupKey": "coord:gj_parking_on_102",
+   "field": "COT_CONTS_NAME",
+   "value": "리치팰리스 주차장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: gj_parking_on_102, gj_parking_on_287",
+   "fingerprint": "C-08|1708908447057|gj_parking_on_102|coord:gj_parking_on_102|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_102",
+   "groupKey": "same:gj_parking_on_102",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: gj_parking_on_102, gj_parking_on_287",
+   "fingerprint": "C-08|1708908447057|gj_parking_on_102|same:gj_parking_on_102|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_287",
+   "groupKey": "coord:gj_parking_on_102",
+   "field": "COT_CONTS_NAME",
+   "value": "리치팰리스 주차장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: gj_parking_on_102, gj_parking_on_287",
+   "fingerprint": "C-08|1708908447057|gj_parking_on_287|coord:gj_parking_on_102|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_287",
+   "groupKey": "same:gj_parking_on_102",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: gj_parking_on_102, gj_parking_on_287",
+   "fingerprint": "C-08|1708908447057|gj_parking_on_287|same:gj_parking_on_102|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_401",
+   "groupKey": "coord:gj_parking_on_401",
+   "field": "COT_CONTS_NAME",
+   "value": "자양로30길 005-05 주차장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: gj_parking_on_401, gj_parking_on_405",
+   "fingerprint": "C-08|1708908447057|gj_parking_on_401|coord:gj_parking_on_401|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_401",
+   "groupKey": "same:gj_parking_on_401",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: gj_parking_on_401, gj_parking_on_405",
+   "fingerprint": "C-08|1708908447057|gj_parking_on_401|same:gj_parking_on_401|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_405",
+   "groupKey": "coord:gj_parking_on_401",
+   "field": "COT_CONTS_NAME",
+   "value": "자양로30길 005-05 주차장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: gj_parking_on_401, gj_parking_on_405",
+   "fingerprint": "C-08|1708908447057|gj_parking_on_405|coord:gj_parking_on_401|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_405",
+   "groupKey": "same:gj_parking_on_401",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: gj_parking_on_401, gj_parking_on_405",
+   "fingerprint": "C-08|1708908447057|gj_parking_on_405|same:gj_parking_on_401|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_526",
+   "groupKey": "coord:gj_parking_on_526",
+   "field": "COT_CONTS_NAME",
+   "value": "광진 동양파라곤 1단지 주차장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: gj_parking_on_526, gj_parking_on_532",
+   "fingerprint": "C-08|1708908447057|gj_parking_on_526|coord:gj_parking_on_526|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_532",
+   "groupKey": "coord:gj_parking_on_526",
+   "field": "COT_CONTS_NAME",
+   "value": "광진동양파라곤 1단지 주차장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: gj_parking_on_526, gj_parking_on_532",
+   "fingerprint": "C-08|1708908447057|gj_parking_on_532|coord:gj_parking_on_526|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_057",
+   "groupKey": "near:gj_parking_on_057",
+   "field": "COT_CONTS_NAME",
+   "value": "현대아파트 주차장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: gj_parking_on_057, gj_parking_on_062",
+   "fingerprint": "C-09|1708908447057|gj_parking_on_057|near:gj_parking_on_057|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_062",
+   "groupKey": "near:gj_parking_on_057",
+   "field": "COT_CONTS_NAME",
+   "value": "현대아파트 주차장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: gj_parking_on_057, gj_parking_on_062",
+   "fingerprint": "C-09|1708908447057|gj_parking_on_062|near:gj_parking_on_057|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_158",
+   "groupKey": "near:gj_parking_on_158",
+   "field": "COT_CONTS_NAME",
+   "value": "한양팰리스 주차장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: gj_parking_on_158, gj_parking_on_254",
+   "fingerprint": "C-09|1708908447057|gj_parking_on_158|near:gj_parking_on_158|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_190",
+   "groupKey": "near:gj_parking_on_190",
+   "field": "COT_CONTS_NAME",
+   "value": "해피하우스 주차장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: gj_parking_on_190, gj_parking_on_278",
+   "fingerprint": "C-09|1708908447057|gj_parking_on_190|near:gj_parking_on_190|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_254",
+   "groupKey": "near:gj_parking_on_158",
+   "field": "COT_CONTS_NAME",
+   "value": "한양팰리스 주차장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: gj_parking_on_158, gj_parking_on_254",
+   "fingerprint": "C-09|1708908447057|gj_parking_on_254|near:gj_parking_on_158|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_278",
+   "groupKey": "near:gj_parking_on_190",
+   "field": "COT_CONTS_NAME",
+   "value": "해피하우스 주차장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: gj_parking_on_190, gj_parking_on_278",
+   "fingerprint": "C-09|1708908447057|gj_parking_on_278|near:gj_parking_on_190|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_295",
+   "groupKey": "near:gj_parking_on_295",
+   "field": "COT_CONTS_NAME",
+   "value": "안틸리아 주차장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: gj_parking_on_295, gj_parking_on_341",
+   "fingerprint": "C-09|1708908447057|gj_parking_on_295|near:gj_parking_on_295|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_341",
+   "groupKey": "near:gj_parking_on_295",
+   "field": "COT_CONTS_NAME",
+   "value": "안틸리아 주차장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: gj_parking_on_295, gj_parking_on_341",
+   "fingerprint": "C-09|1708908447057|gj_parking_on_341|near:gj_parking_on_295|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_374",
+   "groupKey": "near:gj_parking_on_374",
+   "field": "COT_CONTS_NAME",
+   "value": "아차산인앤인W클래스 주차장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: gj_parking_on_374, gj_parking_on_376",
+   "fingerprint": "C-09|1708908447057|gj_parking_on_374|near:gj_parking_on_374|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_376",
+   "groupKey": "near:gj_parking_on_374",
+   "field": "COT_CONTS_NAME",
+   "value": "아차산인앤인W클래스 주차장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: gj_parking_on_374, gj_parking_on_376",
+   "fingerprint": "C-09|1708908447057|gj_parking_on_376|near:gj_parking_on_374|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_530",
+   "groupKey": "near:gj_parking_on_530",
+   "field": "COT_CONTS_NAME",
+   "value": "홍익봄마을아파트 주차장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: gj_parking_on_530, gj_parking_on_531",
+   "fingerprint": "C-09|1708908447057|gj_parking_on_530|near:gj_parking_on_530|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_531",
+   "groupKey": "near:gj_parking_on_530",
+   "field": "COT_CONTS_NAME",
+   "value": "홍익봄마을아파트 주차장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: gj_parking_on_530, gj_parking_on_531",
+   "fingerprint": "C-09|1708908447057|gj_parking_on_531|near:gj_parking_on_530|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_565",
+   "groupKey": "near:gj_parking_on_565",
+   "field": "COT_CONTS_NAME",
+   "value": "그레이스홈타운 주차장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: gj_parking_on_565, gj_parking_on_566",
+   "fingerprint": "C-09|1708908447057|gj_parking_on_565|near:gj_parking_on_565|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_566",
+   "groupKey": "near:gj_parking_on_565",
+   "field": "COT_CONTS_NAME",
+   "value": "그레이스홈타운 주차장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: gj_parking_on_565, gj_parking_on_566",
+   "fingerprint": "C-09|1708908447057|gj_parking_on_566|near:gj_parking_on_565|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_619",
+   "groupKey": "near:gj_parking_on_619",
+   "field": "COT_CONTS_NAME",
+   "value": "삼보글로벌아파트 주차장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: gj_parking_on_619, gj_parking_on_620",
+   "fingerprint": "C-09|1708908447057|gj_parking_on_619|near:gj_parking_on_619|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "gj_parking_on_620",
+   "groupKey": "near:gj_parking_on_619",
+   "field": "COT_CONTS_NAME",
+   "value": "삼보글로벌아파트 주차장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: gj_parking_on_619, gj_parking_on_620",
+   "fingerprint": "C-09|1708908447057|gj_parking_on_620|near:gj_parking_on_619|COT_CONTS_NAME"
+  }
+ ]
+}

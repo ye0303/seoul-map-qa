@@ -1,0 +1,3580 @@
+{
+ "themeId": "1763443245243",
+ "rulesetVersion": 1,
+ "contentHash": "4cec29d4ec4586febbc429f028ddd6784e26e4374ad064ba99b8131d5e8907e5",
+ "findings": [
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_074",
+   "groupKey": "coord:jg_cold3_074",
+   "field": "COT_CONTS_NAME",
+   "value": "참사랑의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_074, jg_cold3_165",
+   "fingerprint": "C-08|1763443245243|jg_cold3_074|coord:jg_cold3_074|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_074",
+   "groupKey": "same:jg_cold3_074",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_074, jg_cold3_165",
+   "fingerprint": "C-08|1763443245243|jg_cold3_074|same:jg_cold3_074|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_075",
+   "groupKey": "coord:jg_cold3_075",
+   "field": "COT_CONTS_NAME",
+   "value": "더끌림산부인과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_075, jg_cold3_166",
+   "fingerprint": "C-08|1763443245243|jg_cold3_075|coord:jg_cold3_075|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_075",
+   "groupKey": "same:jg_cold3_075",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_075, jg_cold3_166",
+   "fingerprint": "C-08|1763443245243|jg_cold3_075|same:jg_cold3_075|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_076",
+   "groupKey": "coord:jg_cold3_076",
+   "field": "COT_CONTS_NAME",
+   "value": "두리이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_076, jg_cold3_167",
+   "fingerprint": "C-08|1763443245243|jg_cold3_076|coord:jg_cold3_076|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_076",
+   "groupKey": "same:jg_cold3_076",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_076, jg_cold3_167",
+   "fingerprint": "C-08|1763443245243|jg_cold3_076|same:jg_cold3_076|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_077",
+   "groupKey": "coord:jg_cold3_077",
+   "field": "COT_CONTS_NAME",
+   "value": "명동성모가정의학과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_077, jg_cold3_168",
+   "fingerprint": "C-08|1763443245243|jg_cold3_077|coord:jg_cold3_077|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_077",
+   "groupKey": "same:jg_cold3_077",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_077, jg_cold3_168",
+   "fingerprint": "C-08|1763443245243|jg_cold3_077|same:jg_cold3_077|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_078",
+   "groupKey": "coord:jg_cold3_078",
+   "field": "COT_CONTS_NAME",
+   "value": "명동연세의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_078, jg_cold3_169",
+   "fingerprint": "C-08|1763443245243|jg_cold3_078|coord:jg_cold3_078|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_078",
+   "groupKey": "same:jg_cold3_078",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_078, jg_cold3_169",
+   "fingerprint": "C-08|1763443245243|jg_cold3_078|same:jg_cold3_078|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_079",
+   "groupKey": "coord:jg_cold3_079",
+   "field": "COT_CONTS_NAME",
+   "value": "명동웰니스내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_079, jg_cold3_170",
+   "fingerprint": "C-08|1763443245243|jg_cold3_079|coord:jg_cold3_079|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_079",
+   "groupKey": "same:jg_cold3_079",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_079, jg_cold3_170",
+   "fingerprint": "C-08|1763443245243|jg_cold3_079|same:jg_cold3_079|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_080",
+   "groupKey": "coord:jg_cold3_080",
+   "field": "COT_CONTS_NAME",
+   "value": "명동박내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_080, jg_cold3_171",
+   "fingerprint": "C-08|1763443245243|jg_cold3_080|coord:jg_cold3_080|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_080",
+   "groupKey": "same:jg_cold3_080",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_080, jg_cold3_171",
+   "fingerprint": "C-08|1763443245243|jg_cold3_080|same:jg_cold3_080|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_081",
+   "groupKey": "coord:jg_cold3_081",
+   "field": "COT_CONTS_NAME",
+   "value": "미래이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_081, jg_cold3_172",
+   "fingerprint": "C-08|1763443245243|jg_cold3_081|coord:jg_cold3_081|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_081",
+   "groupKey": "same:jg_cold3_081",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_081, jg_cold3_172",
+   "fingerprint": "C-08|1763443245243|jg_cold3_081|same:jg_cold3_081|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_082",
+   "groupKey": "coord:jg_cold3_082",
+   "field": "COT_CONTS_NAME",
+   "value": "민유선산부인과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_082, jg_cold3_173",
+   "fingerprint": "C-08|1763443245243|jg_cold3_082|coord:jg_cold3_082|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_082",
+   "groupKey": "same:jg_cold3_082",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_082, jg_cold3_173",
+   "fingerprint": "C-08|1763443245243|jg_cold3_082|same:jg_cold3_082|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_083",
+   "groupKey": "coord:jg_cold3_083",
+   "field": "COT_CONTS_NAME",
+   "value": "박환실비뇨기과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_083, jg_cold3_174",
+   "fingerprint": "C-08|1763443245243|jg_cold3_083|coord:jg_cold3_083|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_083",
+   "groupKey": "same:jg_cold3_083",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_083, jg_cold3_174",
+   "fingerprint": "C-08|1763443245243|jg_cold3_083|same:jg_cold3_083|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_084",
+   "groupKey": "coord:jg_cold3_084",
+   "field": "COT_CONTS_NAME",
+   "value": "서울중앙의료의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_084, jg_cold3_175",
+   "fingerprint": "C-08|1763443245243|jg_cold3_084|coord:jg_cold3_084|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_084",
+   "groupKey": "same:jg_cold3_084",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_084, jg_cold3_175",
+   "fingerprint": "C-08|1763443245243|jg_cold3_084|same:jg_cold3_084|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_085",
+   "groupKey": "coord:jg_cold3_085",
+   "field": "COT_CONTS_NAME",
+   "value": "연세웰이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_085, jg_cold3_176",
+   "fingerprint": "C-08|1763443245243|jg_cold3_085|coord:jg_cold3_085|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_085",
+   "groupKey": "same:jg_cold3_085",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_085, jg_cold3_176",
+   "fingerprint": "C-08|1763443245243|jg_cold3_085|same:jg_cold3_085|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_086",
+   "groupKey": "coord:jg_cold3_086",
+   "field": "COT_CONTS_NAME",
+   "value": "연세이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_086, jg_cold3_177",
+   "fingerprint": "C-08|1763443245243|jg_cold3_086|coord:jg_cold3_086|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_086",
+   "groupKey": "same:jg_cold3_086",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_086, jg_cold3_177",
+   "fingerprint": "C-08|1763443245243|jg_cold3_086|same:jg_cold3_086|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_087",
+   "groupKey": "coord:jg_cold3_087",
+   "field": "COT_CONTS_NAME",
+   "value": "우리본정형외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_087, jg_cold3_178",
+   "fingerprint": "C-08|1763443245243|jg_cold3_087|coord:jg_cold3_087|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_087",
+   "groupKey": "same:jg_cold3_087",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_087, jg_cold3_178",
+   "fingerprint": "C-08|1763443245243|jg_cold3_087|same:jg_cold3_087|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_088",
+   "groupKey": "coord:jg_cold3_088",
+   "field": "COT_CONTS_NAME",
+   "value": "윤윤보내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_088, jg_cold3_179",
+   "fingerprint": "C-08|1763443245243|jg_cold3_088|coord:jg_cold3_088|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_088",
+   "groupKey": "same:jg_cold3_088",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_088, jg_cold3_179",
+   "fingerprint": "C-08|1763443245243|jg_cold3_088|same:jg_cold3_088|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_089",
+   "groupKey": "coord:jg_cold3_089",
+   "field": "COT_CONTS_NAME",
+   "value": "이윤수조성완비뇨기과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_089, jg_cold3_180",
+   "fingerprint": "C-08|1763443245243|jg_cold3_089|coord:jg_cold3_089|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_089",
+   "groupKey": "same:jg_cold3_089",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_089, jg_cold3_180",
+   "fingerprint": "C-08|1763443245243|jg_cold3_089|same:jg_cold3_089|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_090",
+   "groupKey": "coord:jg_cold3_090",
+   "field": "COT_CONTS_NAME",
+   "value": "호기내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_090, jg_cold3_181",
+   "fingerprint": "C-08|1763443245243|jg_cold3_090|coord:jg_cold3_090|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_090",
+   "groupKey": "same:jg_cold3_090",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_090, jg_cold3_181",
+   "fingerprint": "C-08|1763443245243|jg_cold3_090|same:jg_cold3_090|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_091",
+   "groupKey": "coord:jg_cold3_091",
+   "field": "COT_CONTS_NAME",
+   "value": "서상렬내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_091, jg_cold3_182",
+   "fingerprint": "C-08|1763443245243|jg_cold3_091|coord:jg_cold3_091|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_091",
+   "groupKey": "same:jg_cold3_091",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_091, jg_cold3_182",
+   "fingerprint": "C-08|1763443245243|jg_cold3_091|same:jg_cold3_091|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_092",
+   "groupKey": "coord:jg_cold3_092",
+   "field": "COT_CONTS_NAME",
+   "value": "서울가정의학과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_092, jg_cold3_183",
+   "fingerprint": "C-08|1763443245243|jg_cold3_092|coord:jg_cold3_092|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_092",
+   "groupKey": "same:jg_cold3_092",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_092, jg_cold3_183",
+   "fingerprint": "C-08|1763443245243|jg_cold3_092|same:jg_cold3_092|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_093",
+   "groupKey": "coord:jg_cold3_093",
+   "field": "COT_CONTS_NAME",
+   "value": "서울삼성내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_093, jg_cold3_184",
+   "fingerprint": "C-08|1763443245243|jg_cold3_093|coord:jg_cold3_093|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_093",
+   "groupKey": "same:jg_cold3_093",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_093, jg_cold3_184",
+   "fingerprint": "C-08|1763443245243|jg_cold3_093|same:jg_cold3_093|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_094",
+   "groupKey": "coord:jg_cold3_094",
+   "field": "COT_CONTS_NAME",
+   "value": "시청역성모정형외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_094, jg_cold3_185",
+   "fingerprint": "C-08|1763443245243|jg_cold3_094|coord:jg_cold3_094|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_094",
+   "groupKey": "same:jg_cold3_094",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_094, jg_cold3_185",
+   "fingerprint": "C-08|1763443245243|jg_cold3_094|same:jg_cold3_094|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_095",
+   "groupKey": "coord:jg_cold3_095",
+   "field": "COT_CONTS_NAME",
+   "value": "연세원이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_095, jg_cold3_186",
+   "fingerprint": "C-08|1763443245243|jg_cold3_095|coord:jg_cold3_095|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_095",
+   "groupKey": "same:jg_cold3_095",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_095, jg_cold3_186",
+   "fingerprint": "C-08|1763443245243|jg_cold3_095|same:jg_cold3_095|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_096",
+   "groupKey": "coord:jg_cold3_096",
+   "field": "COT_CONTS_NAME",
+   "value": "임이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_096, jg_cold3_187",
+   "fingerprint": "C-08|1763443245243|jg_cold3_096|coord:jg_cold3_096|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_096",
+   "groupKey": "same:jg_cold3_096",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_096, jg_cold3_187",
+   "fingerprint": "C-08|1763443245243|jg_cold3_096|same:jg_cold3_096|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_097",
+   "groupKey": "coord:jg_cold3_097",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성맑은내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_097, jg_cold3_188",
+   "fingerprint": "C-08|1763443245243|jg_cold3_097|coord:jg_cold3_097|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_097",
+   "groupKey": "same:jg_cold3_097",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_097, jg_cold3_188",
+   "fingerprint": "C-08|1763443245243|jg_cold3_097|same:jg_cold3_097|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_098",
+   "groupKey": "coord:jg_cold3_098",
+   "field": "COT_CONTS_NAME",
+   "value": "서울베스트의료의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_098, jg_cold3_189",
+   "fingerprint": "C-08|1763443245243|jg_cold3_098|coord:jg_cold3_098|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_098",
+   "groupKey": "same:jg_cold3_098",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_098, jg_cold3_189",
+   "fingerprint": "C-08|1763443245243|jg_cold3_098|same:jg_cold3_098|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_099",
+   "groupKey": "coord:jg_cold3_099",
+   "field": "COT_CONTS_NAME",
+   "value": "신당튼튼의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_099, jg_cold3_190",
+   "fingerprint": "C-08|1763443245243|jg_cold3_099|coord:jg_cold3_099|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_099",
+   "groupKey": "same:jg_cold3_099",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_099, jg_cold3_190",
+   "fingerprint": "C-08|1763443245243|jg_cold3_099|same:jg_cold3_099|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_100",
+   "groupKey": "coord:jg_cold3_100",
+   "field": "COT_CONTS_NAME",
+   "value": "신동진이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_100, jg_cold3_191",
+   "fingerprint": "C-08|1763443245243|jg_cold3_100|coord:jg_cold3_100|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_100",
+   "groupKey": "same:jg_cold3_100",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_100, jg_cold3_191",
+   "fingerprint": "C-08|1763443245243|jg_cold3_100|same:jg_cold3_100|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_101",
+   "groupKey": "coord:jg_cold3_101",
+   "field": "COT_CONTS_NAME",
+   "value": "참바로병원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_101, jg_cold3_192",
+   "fingerprint": "C-08|1763443245243|jg_cold3_101|coord:jg_cold3_101|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_101",
+   "groupKey": "same:jg_cold3_101",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_101, jg_cold3_192",
+   "fingerprint": "C-08|1763443245243|jg_cold3_101|same:jg_cold3_101|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_102",
+   "groupKey": "coord:jg_cold3_102",
+   "field": "COT_CONTS_NAME",
+   "value": "365온(ON)가정의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_102, jg_cold3_193",
+   "fingerprint": "C-08|1763443245243|jg_cold3_102|coord:jg_cold3_102|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_102",
+   "groupKey": "same:jg_cold3_102",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_102, jg_cold3_193",
+   "fingerprint": "C-08|1763443245243|jg_cold3_102|same:jg_cold3_102|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_103",
+   "groupKey": "coord:jg_cold3_103",
+   "field": "COT_CONTS_NAME",
+   "value": "방신호내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_103, jg_cold3_194",
+   "fingerprint": "C-08|1763443245243|jg_cold3_103|coord:jg_cold3_103|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_103",
+   "groupKey": "same:jg_cold3_103",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_103, jg_cold3_194",
+   "fingerprint": "C-08|1763443245243|jg_cold3_103|same:jg_cold3_103|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_104",
+   "groupKey": "coord:jg_cold3_104",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성푸른의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_104, jg_cold3_195",
+   "fingerprint": "C-08|1763443245243|jg_cold3_104|coord:jg_cold3_104|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_104",
+   "groupKey": "same:jg_cold3_104",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_104, jg_cold3_195",
+   "fingerprint": "C-08|1763443245243|jg_cold3_104|same:jg_cold3_104|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_105",
+   "groupKey": "coord:jg_cold3_105",
+   "field": "COT_CONTS_NAME",
+   "value": "서울가정의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_105, jg_cold3_196",
+   "fingerprint": "C-08|1763443245243|jg_cold3_105|coord:jg_cold3_105|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_105",
+   "groupKey": "same:jg_cold3_105",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_105, jg_cold3_196",
+   "fingerprint": "C-08|1763443245243|jg_cold3_105|same:jg_cold3_105|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_106",
+   "groupKey": "coord:jg_cold3_106",
+   "field": "COT_CONTS_NAME",
+   "value": "서울휴재활의학과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_106, jg_cold3_197",
+   "fingerprint": "C-08|1763443245243|jg_cold3_106|coord:jg_cold3_106|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_106",
+   "groupKey": "same:jg_cold3_106",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_106, jg_cold3_197",
+   "fingerprint": "C-08|1763443245243|jg_cold3_106|same:jg_cold3_106|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_107",
+   "groupKey": "coord:jg_cold3_107",
+   "field": "COT_CONTS_NAME",
+   "value": "소망정형외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_107, jg_cold3_198",
+   "fingerprint": "C-08|1763443245243|jg_cold3_107|coord:jg_cold3_107|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_107",
+   "groupKey": "same:jg_cold3_107",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_107, jg_cold3_198",
+   "fingerprint": "C-08|1763443245243|jg_cold3_107|same:jg_cold3_107|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_108",
+   "groupKey": "coord:jg_cold3_108",
+   "field": "COT_CONTS_NAME",
+   "value": "연세이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_108, jg_cold3_199",
+   "fingerprint": "C-08|1763443245243|jg_cold3_108|coord:jg_cold3_108|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_108",
+   "groupKey": "same:jg_cold3_108",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_108, jg_cold3_199",
+   "fingerprint": "C-08|1763443245243|jg_cold3_108|same:jg_cold3_108|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_109",
+   "groupKey": "coord:jg_cold3_109",
+   "field": "COT_CONTS_NAME",
+   "value": "우리정형외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_109, jg_cold3_200",
+   "fingerprint": "C-08|1763443245243|jg_cold3_109|coord:jg_cold3_109|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_109",
+   "groupKey": "same:jg_cold3_109",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_109, jg_cold3_200",
+   "fingerprint": "C-08|1763443245243|jg_cold3_109|same:jg_cold3_109|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_110",
+   "groupKey": "coord:jg_cold3_110",
+   "field": "COT_CONTS_NAME",
+   "value": "일등이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_110, jg_cold3_201",
+   "fingerprint": "C-08|1763443245243|jg_cold3_110|coord:jg_cold3_110|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_110",
+   "groupKey": "same:jg_cold3_110",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_110, jg_cold3_201",
+   "fingerprint": "C-08|1763443245243|jg_cold3_110|same:jg_cold3_110|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_111",
+   "groupKey": "coord:jg_cold3_111",
+   "field": "COT_CONTS_NAME",
+   "value": "한을남하늘피부과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_111, jg_cold3_202",
+   "fingerprint": "C-08|1763443245243|jg_cold3_111|coord:jg_cold3_111|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_111",
+   "groupKey": "same:jg_cold3_111",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_111, jg_cold3_202",
+   "fingerprint": "C-08|1763443245243|jg_cold3_111|same:jg_cold3_111|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_112",
+   "groupKey": "coord:jg_cold3_112",
+   "field": "COT_CONTS_NAME",
+   "value": "김순화소아과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_112, jg_cold3_203",
+   "fingerprint": "C-08|1763443245243|jg_cold3_112|coord:jg_cold3_112|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_112",
+   "groupKey": "same:jg_cold3_112",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_112, jg_cold3_203",
+   "fingerprint": "C-08|1763443245243|jg_cold3_112|same:jg_cold3_112|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_113",
+   "groupKey": "coord:jg_cold3_113",
+   "field": "COT_CONTS_NAME",
+   "value": "동호의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_113, jg_cold3_204",
+   "fingerprint": "C-08|1763443245243|jg_cold3_113|coord:jg_cold3_113|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_113",
+   "groupKey": "same:jg_cold3_113",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_113, jg_cold3_204",
+   "fingerprint": "C-08|1763443245243|jg_cold3_113|same:jg_cold3_113|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_114",
+   "groupKey": "coord:jg_cold3_114",
+   "field": "COT_CONTS_NAME",
+   "value": "백설소아과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_114, jg_cold3_205",
+   "fingerprint": "C-08|1763443245243|jg_cold3_114|coord:jg_cold3_114|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_114",
+   "groupKey": "same:jg_cold3_114",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_114, jg_cold3_205",
+   "fingerprint": "C-08|1763443245243|jg_cold3_114|same:jg_cold3_114|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_115",
+   "groupKey": "coord:jg_cold3_115",
+   "field": "COT_CONTS_NAME",
+   "value": "서울송도병원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_115, jg_cold3_206",
+   "fingerprint": "C-08|1763443245243|jg_cold3_115|coord:jg_cold3_115|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_115",
+   "groupKey": "same:jg_cold3_115",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_115, jg_cold3_206",
+   "fingerprint": "C-08|1763443245243|jg_cold3_115|same:jg_cold3_115|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_116",
+   "groupKey": "coord:jg_cold3_116",
+   "field": "COT_CONTS_NAME",
+   "value": "성모내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_116, jg_cold3_207",
+   "fingerprint": "C-08|1763443245243|jg_cold3_116|coord:jg_cold3_116|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_116",
+   "groupKey": "same:jg_cold3_116",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_116, jg_cold3_207",
+   "fingerprint": "C-08|1763443245243|jg_cold3_116|same:jg_cold3_116|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_117",
+   "groupKey": "coord:jg_cold3_117",
+   "field": "COT_CONTS_NAME",
+   "value": "약수내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_117, jg_cold3_208",
+   "fingerprint": "C-08|1763443245243|jg_cold3_117|coord:jg_cold3_117|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_117",
+   "groupKey": "same:jg_cold3_117",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_117, jg_cold3_208",
+   "fingerprint": "C-08|1763443245243|jg_cold3_117|same:jg_cold3_117|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_118",
+   "groupKey": "coord:jg_cold3_118",
+   "field": "COT_CONTS_NAME",
+   "value": "약수바른정형외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_118, jg_cold3_209",
+   "fingerprint": "C-08|1763443245243|jg_cold3_118|coord:jg_cold3_118|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_118",
+   "groupKey": "same:jg_cold3_118",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_118, jg_cold3_209",
+   "fingerprint": "C-08|1763443245243|jg_cold3_118|same:jg_cold3_118|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_119",
+   "groupKey": "coord:jg_cold3_119",
+   "field": "COT_CONTS_NAME",
+   "value": "유태석내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_119, jg_cold3_210",
+   "fingerprint": "C-08|1763443245243|jg_cold3_119|coord:jg_cold3_119|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_119",
+   "groupKey": "same:jg_cold3_119",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_119, jg_cold3_210",
+   "fingerprint": "C-08|1763443245243|jg_cold3_119|same:jg_cold3_119|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_120",
+   "groupKey": "coord:jg_cold3_120",
+   "field": "COT_CONTS_NAME",
+   "value": "호랑이이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_120, jg_cold3_211",
+   "fingerprint": "C-08|1763443245243|jg_cold3_120|coord:jg_cold3_120|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_120",
+   "groupKey": "same:jg_cold3_120",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_120, jg_cold3_211",
+   "fingerprint": "C-08|1763443245243|jg_cold3_120|same:jg_cold3_120|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_121",
+   "groupKey": "coord:jg_cold3_121",
+   "field": "COT_CONTS_NAME",
+   "value": "녹십자아이메드강북의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_121, jg_cold3_212",
+   "fingerprint": "C-08|1763443245243|jg_cold3_121|coord:jg_cold3_121|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_121",
+   "groupKey": "same:jg_cold3_121",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_121, jg_cold3_212",
+   "fingerprint": "C-08|1763443245243|jg_cold3_121|same:jg_cold3_121|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_122",
+   "groupKey": "coord:jg_cold3_122",
+   "field": "COT_CONTS_NAME",
+   "value": "더맑은가정의학과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_122, jg_cold3_213",
+   "fingerprint": "C-08|1763443245243|jg_cold3_122|coord:jg_cold3_122|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_122",
+   "groupKey": "same:jg_cold3_122",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_122, jg_cold3_213",
+   "fingerprint": "C-08|1763443245243|jg_cold3_122|same:jg_cold3_122|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_123",
+   "groupKey": "coord:jg_cold3_123",
+   "field": "COT_CONTS_NAME",
+   "value": "메리힐이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_123, jg_cold3_214",
+   "fingerprint": "C-08|1763443245243|jg_cold3_123|coord:jg_cold3_123|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_123",
+   "groupKey": "same:jg_cold3_123",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_123, jg_cold3_214",
+   "fingerprint": "C-08|1763443245243|jg_cold3_123|same:jg_cold3_123|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_124",
+   "groupKey": "coord:jg_cold3_124",
+   "field": "COT_CONTS_NAME",
+   "value": "서울송내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_124, jg_cold3_215",
+   "fingerprint": "C-08|1763443245243|jg_cold3_124|coord:jg_cold3_124|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_124",
+   "groupKey": "same:jg_cold3_124",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_124, jg_cold3_215",
+   "fingerprint": "C-08|1763443245243|jg_cold3_124|same:jg_cold3_124|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_125",
+   "groupKey": "coord:jg_cold3_125",
+   "field": "COT_CONTS_NAME",
+   "value": "성모준이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_125, jg_cold3_216",
+   "fingerprint": "C-08|1763443245243|jg_cold3_125|coord:jg_cold3_125|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_125",
+   "groupKey": "same:jg_cold3_125",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_125, jg_cold3_216",
+   "fingerprint": "C-08|1763443245243|jg_cold3_125|same:jg_cold3_125|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_126",
+   "groupKey": "coord:jg_cold3_126",
+   "field": "COT_CONTS_NAME",
+   "value": "영락내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_126, jg_cold3_217",
+   "fingerprint": "C-08|1763443245243|jg_cold3_126|coord:jg_cold3_126|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_126",
+   "groupKey": "same:jg_cold3_126",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_126, jg_cold3_217",
+   "fingerprint": "C-08|1763443245243|jg_cold3_126|same:jg_cold3_126|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_127",
+   "groupKey": "coord:jg_cold3_127",
+   "field": "COT_CONTS_NAME",
+   "value": "을지로마디튼튼신경외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_127, jg_cold3_218",
+   "fingerprint": "C-08|1763443245243|jg_cold3_127|coord:jg_cold3_127|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_127",
+   "groupKey": "same:jg_cold3_127",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_127, jg_cold3_218",
+   "fingerprint": "C-08|1763443245243|jg_cold3_127|same:jg_cold3_127|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_128",
+   "groupKey": "coord:jg_cold3_128",
+   "field": "COT_CONTS_NAME",
+   "value": "을지로참내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_128, jg_cold3_219",
+   "fingerprint": "C-08|1763443245243|jg_cold3_128|coord:jg_cold3_128|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_128",
+   "groupKey": "same:jg_cold3_128",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_128, jg_cold3_219",
+   "fingerprint": "C-08|1763443245243|jg_cold3_128|same:jg_cold3_128|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_129",
+   "groupKey": "coord:jg_cold3_129",
+   "field": "COT_CONTS_NAME",
+   "value": "을지바른의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_129, jg_cold3_220",
+   "fingerprint": "C-08|1763443245243|jg_cold3_129|coord:jg_cold3_129|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_129",
+   "groupKey": "same:jg_cold3_129",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_129, jg_cold3_220",
+   "fingerprint": "C-08|1763443245243|jg_cold3_129|same:jg_cold3_129|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_130",
+   "groupKey": "coord:jg_cold3_130",
+   "field": "COT_CONTS_NAME",
+   "value": "중앙외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_130, jg_cold3_221",
+   "fingerprint": "C-08|1763443245243|jg_cold3_130|coord:jg_cold3_130|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_130",
+   "groupKey": "same:jg_cold3_130",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_130, jg_cold3_221",
+   "fingerprint": "C-08|1763443245243|jg_cold3_130|same:jg_cold3_130|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_131",
+   "groupKey": "coord:jg_cold3_131",
+   "field": "COT_CONTS_NAME",
+   "value": "프라임여성의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_131, jg_cold3_222",
+   "fingerprint": "C-08|1763443245243|jg_cold3_131|coord:jg_cold3_131|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_131",
+   "groupKey": "same:jg_cold3_131",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_131, jg_cold3_222",
+   "fingerprint": "C-08|1763443245243|jg_cold3_131|same:jg_cold3_131|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_132",
+   "groupKey": "coord:jg_cold3_132",
+   "field": "COT_CONTS_NAME",
+   "value": "한사랑의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_132, jg_cold3_223",
+   "fingerprint": "C-08|1763443245243|jg_cold3_132|coord:jg_cold3_132|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_132",
+   "groupKey": "same:jg_cold3_132",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_132, jg_cold3_223",
+   "fingerprint": "C-08|1763443245243|jg_cold3_132|same:jg_cold3_132|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_133",
+   "groupKey": "coord:jg_cold3_133",
+   "field": "COT_CONTS_NAME",
+   "value": "덕수재활의학과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_133, jg_cold3_224",
+   "fingerprint": "C-08|1763443245243|jg_cold3_133|coord:jg_cold3_133|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_133",
+   "groupKey": "same:jg_cold3_133",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_133, jg_cold3_224",
+   "fingerprint": "C-08|1763443245243|jg_cold3_133|same:jg_cold3_133|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_134",
+   "groupKey": "coord:jg_cold3_134",
+   "field": "COT_CONTS_NAME",
+   "value": "연세다온소아청소년과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_134, jg_cold3_225",
+   "fingerprint": "C-08|1763443245243|jg_cold3_134|coord:jg_cold3_134|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_134",
+   "groupKey": "same:jg_cold3_134",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_134, jg_cold3_225",
+   "fingerprint": "C-08|1763443245243|jg_cold3_134|same:jg_cold3_134|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_135",
+   "groupKey": "coord:jg_cold3_135",
+   "field": "COT_CONTS_NAME",
+   "value": "충정로수이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_135, jg_cold3_226",
+   "fingerprint": "C-08|1763443245243|jg_cold3_135|coord:jg_cold3_135|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_135",
+   "groupKey": "same:jg_cold3_135",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_135, jg_cold3_226",
+   "fingerprint": "C-08|1763443245243|jg_cold3_135|same:jg_cold3_135|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_136",
+   "groupKey": "coord:jg_cold3_136",
+   "field": "COT_CONTS_NAME",
+   "value": "충정로연세내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_136, jg_cold3_227",
+   "fingerprint": "C-08|1763443245243|jg_cold3_136|coord:jg_cold3_136|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_136",
+   "groupKey": "same:jg_cold3_136",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_136, jg_cold3_227",
+   "fingerprint": "C-08|1763443245243|jg_cold3_136|same:jg_cold3_136|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_137",
+   "groupKey": "coord:jg_cold3_137",
+   "field": "COT_CONTS_NAME",
+   "value": "한독의료재단부설서부중앙의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_137, jg_cold3_228",
+   "fingerprint": "C-08|1763443245243|jg_cold3_137|coord:jg_cold3_137|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_137",
+   "groupKey": "same:jg_cold3_137",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_137, jg_cold3_228",
+   "fingerprint": "C-08|1763443245243|jg_cold3_137|same:jg_cold3_137|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_138",
+   "groupKey": "coord:jg_cold3_138",
+   "field": "COT_CONTS_NAME",
+   "value": "킨더웰소아청소년과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_138, jg_cold3_229",
+   "fingerprint": "C-08|1763443245243|jg_cold3_138|coord:jg_cold3_138|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_138",
+   "groupKey": "same:jg_cold3_138",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_138, jg_cold3_229",
+   "fingerprint": "C-08|1763443245243|jg_cold3_138|same:jg_cold3_138|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_139",
+   "groupKey": "coord:jg_cold3_139",
+   "field": "COT_CONTS_NAME",
+   "value": "리더스의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_139, jg_cold3_230",
+   "fingerprint": "C-08|1763443245243|jg_cold3_139|coord:jg_cold3_139|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_139",
+   "groupKey": "same:jg_cold3_139",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_139, jg_cold3_230",
+   "fingerprint": "C-08|1763443245243|jg_cold3_139|same:jg_cold3_139|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_140",
+   "groupKey": "coord:jg_cold3_140",
+   "field": "COT_CONTS_NAME",
+   "value": "윤창옥내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_140, jg_cold3_231",
+   "fingerprint": "C-08|1763443245243|jg_cold3_140|coord:jg_cold3_140|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_140",
+   "groupKey": "same:jg_cold3_140",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_140, jg_cold3_231",
+   "fingerprint": "C-08|1763443245243|jg_cold3_140|same:jg_cold3_140|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_141",
+   "groupKey": "coord:jg_cold3_141",
+   "field": "COT_CONTS_NAME",
+   "value": "제이에이치제일의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_141, jg_cold3_232",
+   "fingerprint": "C-08|1763443245243|jg_cold3_141|coord:jg_cold3_141|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_141",
+   "groupKey": "same:jg_cold3_141",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_141, jg_cold3_232",
+   "fingerprint": "C-08|1763443245243|jg_cold3_141|same:jg_cold3_141|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_142",
+   "groupKey": "coord:jg_cold3_142",
+   "field": "COT_CONTS_NAME",
+   "value": "제일내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_142, jg_cold3_233",
+   "fingerprint": "C-08|1763443245243|jg_cold3_142|coord:jg_cold3_142|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_142",
+   "groupKey": "same:jg_cold3_142",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_142, jg_cold3_233",
+   "fingerprint": "C-08|1763443245243|jg_cold3_142|same:jg_cold3_142|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_143",
+   "groupKey": "coord:jg_cold3_143",
+   "field": "COT_CONTS_NAME",
+   "value": "모두탑365정형외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_143, jg_cold3_234",
+   "fingerprint": "C-08|1763443245243|jg_cold3_143|coord:jg_cold3_143|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_143",
+   "groupKey": "same:jg_cold3_143",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_143, jg_cold3_234",
+   "fingerprint": "C-08|1763443245243|jg_cold3_143|same:jg_cold3_143|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_144",
+   "groupKey": "coord:jg_cold3_144",
+   "field": "COT_CONTS_NAME",
+   "value": "서울성모의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_144, jg_cold3_235",
+   "fingerprint": "C-08|1763443245243|jg_cold3_144|coord:jg_cold3_144|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_144",
+   "groupKey": "same:jg_cold3_144",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_144, jg_cold3_235",
+   "fingerprint": "C-08|1763443245243|jg_cold3_144|same:jg_cold3_144|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_145",
+   "groupKey": "coord:jg_cold3_145",
+   "field": "COT_CONTS_NAME",
+   "value": "서울정통의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_145, jg_cold3_236",
+   "fingerprint": "C-08|1763443245243|jg_cold3_145|coord:jg_cold3_145|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_145",
+   "groupKey": "same:jg_cold3_145",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_145, jg_cold3_236",
+   "fingerprint": "C-08|1763443245243|jg_cold3_145|same:jg_cold3_145|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_146",
+   "groupKey": "coord:jg_cold3_146",
+   "field": "COT_CONTS_NAME",
+   "value": "신당센트럴이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_146, jg_cold3_237",
+   "fingerprint": "C-08|1763443245243|jg_cold3_146|coord:jg_cold3_146|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_146",
+   "groupKey": "same:jg_cold3_146",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_146, jg_cold3_237",
+   "fingerprint": "C-08|1763443245243|jg_cold3_146|same:jg_cold3_146|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_147",
+   "groupKey": "coord:jg_cold3_147",
+   "field": "COT_CONTS_NAME",
+   "value": "신당스카이정형외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_147, jg_cold3_238",
+   "fingerprint": "C-08|1763443245243|jg_cold3_147|coord:jg_cold3_147|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_147",
+   "groupKey": "same:jg_cold3_147",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_147, jg_cold3_238",
+   "fingerprint": "C-08|1763443245243|jg_cold3_147|same:jg_cold3_147|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_148",
+   "groupKey": "coord:jg_cold3_148",
+   "field": "COT_CONTS_NAME",
+   "value": "온여성의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_148, jg_cold3_239",
+   "fingerprint": "C-08|1763443245243|jg_cold3_148|coord:jg_cold3_148|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_148",
+   "groupKey": "same:jg_cold3_148",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_148, jg_cold3_239",
+   "fingerprint": "C-08|1763443245243|jg_cold3_148|same:jg_cold3_148|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_149",
+   "groupKey": "coord:jg_cold3_149",
+   "field": "COT_CONTS_NAME",
+   "value": "이가정의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_149, jg_cold3_240",
+   "fingerprint": "C-08|1763443245243|jg_cold3_149|coord:jg_cold3_149|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_149",
+   "groupKey": "same:jg_cold3_149",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_149, jg_cold3_240",
+   "fingerprint": "C-08|1763443245243|jg_cold3_149|same:jg_cold3_149|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_150",
+   "groupKey": "coord:jg_cold3_150",
+   "field": "COT_CONTS_NAME",
+   "value": "남대문명동정형외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_150, jg_cold3_241",
+   "fingerprint": "C-08|1763443245243|jg_cold3_150|coord:jg_cold3_150|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_150",
+   "groupKey": "same:jg_cold3_150",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_150, jg_cold3_241",
+   "fingerprint": "C-08|1763443245243|jg_cold3_150|same:jg_cold3_150|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_151",
+   "groupKey": "coord:jg_cold3_151",
+   "field": "COT_CONTS_NAME",
+   "value": "남대문외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_151, jg_cold3_242",
+   "fingerprint": "C-08|1763443245243|jg_cold3_151|coord:jg_cold3_151|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_151",
+   "groupKey": "same:jg_cold3_151",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_151, jg_cold3_242",
+   "fingerprint": "C-08|1763443245243|jg_cold3_151|same:jg_cold3_151|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_152",
+   "groupKey": "coord:jg_cold3_152",
+   "field": "COT_CONTS_NAME",
+   "value": "대신의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_152, jg_cold3_243",
+   "fingerprint": "C-08|1763443245243|jg_cold3_152|coord:jg_cold3_152|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_152",
+   "groupKey": "same:jg_cold3_152",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_152, jg_cold3_243",
+   "fingerprint": "C-08|1763443245243|jg_cold3_152|same:jg_cold3_152|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_153",
+   "groupKey": "coord:jg_cold3_153",
+   "field": "COT_CONTS_NAME",
+   "value": "명동미소유의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_153, jg_cold3_244",
+   "fingerprint": "C-08|1763443245243|jg_cold3_153|coord:jg_cold3_153|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_153",
+   "groupKey": "same:jg_cold3_153",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_153, jg_cold3_244",
+   "fingerprint": "C-08|1763443245243|jg_cold3_153|same:jg_cold3_153|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_154",
+   "groupKey": "coord:jg_cold3_154",
+   "field": "COT_CONTS_NAME",
+   "value": "미래의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_154, jg_cold3_245",
+   "fingerprint": "C-08|1763443245243|jg_cold3_154|coord:jg_cold3_154|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_154",
+   "groupKey": "same:jg_cold3_154",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_154, jg_cold3_245",
+   "fingerprint": "C-08|1763443245243|jg_cold3_154|same:jg_cold3_154|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_155",
+   "groupKey": "coord:jg_cold3_155",
+   "field": "COT_CONTS_NAME",
+   "value": "서울센트럴이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_155, jg_cold3_246",
+   "fingerprint": "C-08|1763443245243|jg_cold3_155|coord:jg_cold3_155|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_155",
+   "groupKey": "same:jg_cold3_155",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_155, jg_cold3_246",
+   "fingerprint": "C-08|1763443245243|jg_cold3_155|same:jg_cold3_155|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_156",
+   "groupKey": "coord:jg_cold3_156",
+   "field": "COT_CONTS_NAME",
+   "value": "소망의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_156, jg_cold3_247",
+   "fingerprint": "C-08|1763443245243|jg_cold3_156|coord:jg_cold3_156|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_156",
+   "groupKey": "same:jg_cold3_156",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_156, jg_cold3_247",
+   "fingerprint": "C-08|1763443245243|jg_cold3_156|same:jg_cold3_156|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_157",
+   "groupKey": "coord:jg_cold3_157",
+   "field": "COT_CONTS_NAME",
+   "value": "안내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_157, jg_cold3_248",
+   "fingerprint": "C-08|1763443245243|jg_cold3_157|coord:jg_cold3_157|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_157",
+   "groupKey": "same:jg_cold3_157",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_157, jg_cold3_248",
+   "fingerprint": "C-08|1763443245243|jg_cold3_157|same:jg_cold3_157|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_158",
+   "groupKey": "coord:jg_cold3_158",
+   "field": "COT_CONTS_NAME",
+   "value": "에스힐척척의원한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_158, jg_cold3_249",
+   "fingerprint": "C-08|1763443245243|jg_cold3_158|coord:jg_cold3_158|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_158",
+   "groupKey": "same:jg_cold3_158",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_158, jg_cold3_249",
+   "fingerprint": "C-08|1763443245243|jg_cold3_158|same:jg_cold3_158|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_159",
+   "groupKey": "coord:jg_cold3_159",
+   "field": "COT_CONTS_NAME",
+   "value": "연세맑은이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_159, jg_cold3_250",
+   "fingerprint": "C-08|1763443245243|jg_cold3_159|coord:jg_cold3_159|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_159",
+   "groupKey": "same:jg_cold3_159",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_159, jg_cold3_250",
+   "fingerprint": "C-08|1763443245243|jg_cold3_159|same:jg_cold3_159|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_160",
+   "groupKey": "coord:jg_cold3_160",
+   "field": "COT_CONTS_NAME",
+   "value": "연세퍼스티어내과신경과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_160, jg_cold3_251",
+   "fingerprint": "C-08|1763443245243|jg_cold3_160|coord:jg_cold3_160|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_160",
+   "groupKey": "same:jg_cold3_160",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_160, jg_cold3_251",
+   "fingerprint": "C-08|1763443245243|jg_cold3_160|same:jg_cold3_160|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_161",
+   "groupKey": "coord:jg_cold3_161",
+   "field": "COT_CONTS_NAME",
+   "value": "열린이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_161, jg_cold3_252",
+   "fingerprint": "C-08|1763443245243|jg_cold3_161|coord:jg_cold3_161|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_161",
+   "groupKey": "same:jg_cold3_161",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_161, jg_cold3_252",
+   "fingerprint": "C-08|1763443245243|jg_cold3_161|same:jg_cold3_161|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_162",
+   "groupKey": "coord:jg_cold3_162",
+   "field": "COT_CONTS_NAME",
+   "value": "이준걸통증의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_162, jg_cold3_253",
+   "fingerprint": "C-08|1763443245243|jg_cold3_162|coord:jg_cold3_162|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_162",
+   "groupKey": "same:jg_cold3_162",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_162, jg_cold3_253",
+   "fingerprint": "C-08|1763443245243|jg_cold3_162|same:jg_cold3_162|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_163",
+   "groupKey": "coord:jg_cold3_163",
+   "field": "COT_CONTS_NAME",
+   "value": "지앤아이휴내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_163, jg_cold3_254",
+   "fingerprint": "C-08|1763443245243|jg_cold3_163|coord:jg_cold3_163|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_163",
+   "groupKey": "same:jg_cold3_163",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_163, jg_cold3_254",
+   "fingerprint": "C-08|1763443245243|jg_cold3_163|same:jg_cold3_163|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_164",
+   "groupKey": "coord:jg_cold3_164",
+   "field": "COT_CONTS_NAME",
+   "value": "회현정내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_164, jg_cold3_255",
+   "fingerprint": "C-08|1763443245243|jg_cold3_164|coord:jg_cold3_164|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_164",
+   "groupKey": "same:jg_cold3_164",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_164, jg_cold3_255",
+   "fingerprint": "C-08|1763443245243|jg_cold3_164|same:jg_cold3_164|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_165",
+   "groupKey": "coord:jg_cold3_074",
+   "field": "COT_CONTS_NAME",
+   "value": "참사랑의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_074, jg_cold3_165",
+   "fingerprint": "C-08|1763443245243|jg_cold3_165|coord:jg_cold3_074|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_165",
+   "groupKey": "same:jg_cold3_074",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_074, jg_cold3_165",
+   "fingerprint": "C-08|1763443245243|jg_cold3_165|same:jg_cold3_074|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_166",
+   "groupKey": "coord:jg_cold3_075",
+   "field": "COT_CONTS_NAME",
+   "value": "더끌림산부인과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_075, jg_cold3_166",
+   "fingerprint": "C-08|1763443245243|jg_cold3_166|coord:jg_cold3_075|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_166",
+   "groupKey": "same:jg_cold3_075",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_075, jg_cold3_166",
+   "fingerprint": "C-08|1763443245243|jg_cold3_166|same:jg_cold3_075|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_167",
+   "groupKey": "coord:jg_cold3_076",
+   "field": "COT_CONTS_NAME",
+   "value": "두리이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_076, jg_cold3_167",
+   "fingerprint": "C-08|1763443245243|jg_cold3_167|coord:jg_cold3_076|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_167",
+   "groupKey": "same:jg_cold3_076",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_076, jg_cold3_167",
+   "fingerprint": "C-08|1763443245243|jg_cold3_167|same:jg_cold3_076|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_168",
+   "groupKey": "coord:jg_cold3_077",
+   "field": "COT_CONTS_NAME",
+   "value": "명동성모가정의학과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_077, jg_cold3_168",
+   "fingerprint": "C-08|1763443245243|jg_cold3_168|coord:jg_cold3_077|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_168",
+   "groupKey": "same:jg_cold3_077",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_077, jg_cold3_168",
+   "fingerprint": "C-08|1763443245243|jg_cold3_168|same:jg_cold3_077|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_169",
+   "groupKey": "coord:jg_cold3_078",
+   "field": "COT_CONTS_NAME",
+   "value": "명동연세의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_078, jg_cold3_169",
+   "fingerprint": "C-08|1763443245243|jg_cold3_169|coord:jg_cold3_078|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_169",
+   "groupKey": "same:jg_cold3_078",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_078, jg_cold3_169",
+   "fingerprint": "C-08|1763443245243|jg_cold3_169|same:jg_cold3_078|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_170",
+   "groupKey": "coord:jg_cold3_079",
+   "field": "COT_CONTS_NAME",
+   "value": "명동웰니스내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_079, jg_cold3_170",
+   "fingerprint": "C-08|1763443245243|jg_cold3_170|coord:jg_cold3_079|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_170",
+   "groupKey": "same:jg_cold3_079",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_079, jg_cold3_170",
+   "fingerprint": "C-08|1763443245243|jg_cold3_170|same:jg_cold3_079|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_171",
+   "groupKey": "coord:jg_cold3_080",
+   "field": "COT_CONTS_NAME",
+   "value": "명동박내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_080, jg_cold3_171",
+   "fingerprint": "C-08|1763443245243|jg_cold3_171|coord:jg_cold3_080|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_171",
+   "groupKey": "same:jg_cold3_080",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_080, jg_cold3_171",
+   "fingerprint": "C-08|1763443245243|jg_cold3_171|same:jg_cold3_080|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_172",
+   "groupKey": "coord:jg_cold3_081",
+   "field": "COT_CONTS_NAME",
+   "value": "미래이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_081, jg_cold3_172",
+   "fingerprint": "C-08|1763443245243|jg_cold3_172|coord:jg_cold3_081|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_172",
+   "groupKey": "same:jg_cold3_081",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_081, jg_cold3_172",
+   "fingerprint": "C-08|1763443245243|jg_cold3_172|same:jg_cold3_081|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_173",
+   "groupKey": "coord:jg_cold3_082",
+   "field": "COT_CONTS_NAME",
+   "value": "민유선산부인과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_082, jg_cold3_173",
+   "fingerprint": "C-08|1763443245243|jg_cold3_173|coord:jg_cold3_082|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_173",
+   "groupKey": "same:jg_cold3_082",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_082, jg_cold3_173",
+   "fingerprint": "C-08|1763443245243|jg_cold3_173|same:jg_cold3_082|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_174",
+   "groupKey": "coord:jg_cold3_083",
+   "field": "COT_CONTS_NAME",
+   "value": "박환실비뇨기과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_083, jg_cold3_174",
+   "fingerprint": "C-08|1763443245243|jg_cold3_174|coord:jg_cold3_083|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_174",
+   "groupKey": "same:jg_cold3_083",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_083, jg_cold3_174",
+   "fingerprint": "C-08|1763443245243|jg_cold3_174|same:jg_cold3_083|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_175",
+   "groupKey": "coord:jg_cold3_084",
+   "field": "COT_CONTS_NAME",
+   "value": "서울중앙의료의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_084, jg_cold3_175",
+   "fingerprint": "C-08|1763443245243|jg_cold3_175|coord:jg_cold3_084|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_175",
+   "groupKey": "same:jg_cold3_084",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_084, jg_cold3_175",
+   "fingerprint": "C-08|1763443245243|jg_cold3_175|same:jg_cold3_084|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_176",
+   "groupKey": "coord:jg_cold3_085",
+   "field": "COT_CONTS_NAME",
+   "value": "연세웰이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_085, jg_cold3_176",
+   "fingerprint": "C-08|1763443245243|jg_cold3_176|coord:jg_cold3_085|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_176",
+   "groupKey": "same:jg_cold3_085",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_085, jg_cold3_176",
+   "fingerprint": "C-08|1763443245243|jg_cold3_176|same:jg_cold3_085|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_177",
+   "groupKey": "coord:jg_cold3_086",
+   "field": "COT_CONTS_NAME",
+   "value": "연세이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_086, jg_cold3_177",
+   "fingerprint": "C-08|1763443245243|jg_cold3_177|coord:jg_cold3_086|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_177",
+   "groupKey": "same:jg_cold3_086",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_086, jg_cold3_177",
+   "fingerprint": "C-08|1763443245243|jg_cold3_177|same:jg_cold3_086|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_178",
+   "groupKey": "coord:jg_cold3_087",
+   "field": "COT_CONTS_NAME",
+   "value": "우리본정형외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_087, jg_cold3_178",
+   "fingerprint": "C-08|1763443245243|jg_cold3_178|coord:jg_cold3_087|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_178",
+   "groupKey": "same:jg_cold3_087",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_087, jg_cold3_178",
+   "fingerprint": "C-08|1763443245243|jg_cold3_178|same:jg_cold3_087|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_179",
+   "groupKey": "coord:jg_cold3_088",
+   "field": "COT_CONTS_NAME",
+   "value": "윤윤보내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_088, jg_cold3_179",
+   "fingerprint": "C-08|1763443245243|jg_cold3_179|coord:jg_cold3_088|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_179",
+   "groupKey": "same:jg_cold3_088",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_088, jg_cold3_179",
+   "fingerprint": "C-08|1763443245243|jg_cold3_179|same:jg_cold3_088|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_180",
+   "groupKey": "coord:jg_cold3_089",
+   "field": "COT_CONTS_NAME",
+   "value": "이윤수조성완비뇨기과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_089, jg_cold3_180",
+   "fingerprint": "C-08|1763443245243|jg_cold3_180|coord:jg_cold3_089|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_180",
+   "groupKey": "same:jg_cold3_089",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_089, jg_cold3_180",
+   "fingerprint": "C-08|1763443245243|jg_cold3_180|same:jg_cold3_089|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_181",
+   "groupKey": "coord:jg_cold3_090",
+   "field": "COT_CONTS_NAME",
+   "value": "호기내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_090, jg_cold3_181",
+   "fingerprint": "C-08|1763443245243|jg_cold3_181|coord:jg_cold3_090|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_181",
+   "groupKey": "same:jg_cold3_090",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_090, jg_cold3_181",
+   "fingerprint": "C-08|1763443245243|jg_cold3_181|same:jg_cold3_090|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_182",
+   "groupKey": "coord:jg_cold3_091",
+   "field": "COT_CONTS_NAME",
+   "value": "서상렬내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_091, jg_cold3_182",
+   "fingerprint": "C-08|1763443245243|jg_cold3_182|coord:jg_cold3_091|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_182",
+   "groupKey": "same:jg_cold3_091",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_091, jg_cold3_182",
+   "fingerprint": "C-08|1763443245243|jg_cold3_182|same:jg_cold3_091|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_183",
+   "groupKey": "coord:jg_cold3_092",
+   "field": "COT_CONTS_NAME",
+   "value": "서울가정의학과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_092, jg_cold3_183",
+   "fingerprint": "C-08|1763443245243|jg_cold3_183|coord:jg_cold3_092|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_183",
+   "groupKey": "same:jg_cold3_092",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_092, jg_cold3_183",
+   "fingerprint": "C-08|1763443245243|jg_cold3_183|same:jg_cold3_092|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_184",
+   "groupKey": "coord:jg_cold3_093",
+   "field": "COT_CONTS_NAME",
+   "value": "서울삼성내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_093, jg_cold3_184",
+   "fingerprint": "C-08|1763443245243|jg_cold3_184|coord:jg_cold3_093|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_184",
+   "groupKey": "same:jg_cold3_093",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_093, jg_cold3_184",
+   "fingerprint": "C-08|1763443245243|jg_cold3_184|same:jg_cold3_093|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_185",
+   "groupKey": "coord:jg_cold3_094",
+   "field": "COT_CONTS_NAME",
+   "value": "시청역성모정형외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_094, jg_cold3_185",
+   "fingerprint": "C-08|1763443245243|jg_cold3_185|coord:jg_cold3_094|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_185",
+   "groupKey": "same:jg_cold3_094",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_094, jg_cold3_185",
+   "fingerprint": "C-08|1763443245243|jg_cold3_185|same:jg_cold3_094|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_186",
+   "groupKey": "coord:jg_cold3_095",
+   "field": "COT_CONTS_NAME",
+   "value": "연세원이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_095, jg_cold3_186",
+   "fingerprint": "C-08|1763443245243|jg_cold3_186|coord:jg_cold3_095|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_186",
+   "groupKey": "same:jg_cold3_095",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_095, jg_cold3_186",
+   "fingerprint": "C-08|1763443245243|jg_cold3_186|same:jg_cold3_095|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_187",
+   "groupKey": "coord:jg_cold3_096",
+   "field": "COT_CONTS_NAME",
+   "value": "임이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_096, jg_cold3_187",
+   "fingerprint": "C-08|1763443245243|jg_cold3_187|coord:jg_cold3_096|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_187",
+   "groupKey": "same:jg_cold3_096",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_096, jg_cold3_187",
+   "fingerprint": "C-08|1763443245243|jg_cold3_187|same:jg_cold3_096|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_188",
+   "groupKey": "coord:jg_cold3_097",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성맑은내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_097, jg_cold3_188",
+   "fingerprint": "C-08|1763443245243|jg_cold3_188|coord:jg_cold3_097|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_188",
+   "groupKey": "same:jg_cold3_097",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_097, jg_cold3_188",
+   "fingerprint": "C-08|1763443245243|jg_cold3_188|same:jg_cold3_097|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_189",
+   "groupKey": "coord:jg_cold3_098",
+   "field": "COT_CONTS_NAME",
+   "value": "서울베스트의료의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_098, jg_cold3_189",
+   "fingerprint": "C-08|1763443245243|jg_cold3_189|coord:jg_cold3_098|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_189",
+   "groupKey": "same:jg_cold3_098",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_098, jg_cold3_189",
+   "fingerprint": "C-08|1763443245243|jg_cold3_189|same:jg_cold3_098|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_190",
+   "groupKey": "coord:jg_cold3_099",
+   "field": "COT_CONTS_NAME",
+   "value": "신당튼튼의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_099, jg_cold3_190",
+   "fingerprint": "C-08|1763443245243|jg_cold3_190|coord:jg_cold3_099|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_190",
+   "groupKey": "same:jg_cold3_099",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_099, jg_cold3_190",
+   "fingerprint": "C-08|1763443245243|jg_cold3_190|same:jg_cold3_099|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_191",
+   "groupKey": "coord:jg_cold3_100",
+   "field": "COT_CONTS_NAME",
+   "value": "신동진이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_100, jg_cold3_191",
+   "fingerprint": "C-08|1763443245243|jg_cold3_191|coord:jg_cold3_100|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_191",
+   "groupKey": "same:jg_cold3_100",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_100, jg_cold3_191",
+   "fingerprint": "C-08|1763443245243|jg_cold3_191|same:jg_cold3_100|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_192",
+   "groupKey": "coord:jg_cold3_101",
+   "field": "COT_CONTS_NAME",
+   "value": "참바로병원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_101, jg_cold3_192",
+   "fingerprint": "C-08|1763443245243|jg_cold3_192|coord:jg_cold3_101|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_192",
+   "groupKey": "same:jg_cold3_101",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_101, jg_cold3_192",
+   "fingerprint": "C-08|1763443245243|jg_cold3_192|same:jg_cold3_101|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_193",
+   "groupKey": "coord:jg_cold3_102",
+   "field": "COT_CONTS_NAME",
+   "value": "365온(ON)가정의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_102, jg_cold3_193",
+   "fingerprint": "C-08|1763443245243|jg_cold3_193|coord:jg_cold3_102|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_193",
+   "groupKey": "same:jg_cold3_102",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_102, jg_cold3_193",
+   "fingerprint": "C-08|1763443245243|jg_cold3_193|same:jg_cold3_102|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_194",
+   "groupKey": "coord:jg_cold3_103",
+   "field": "COT_CONTS_NAME",
+   "value": "방신호내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_103, jg_cold3_194",
+   "fingerprint": "C-08|1763443245243|jg_cold3_194|coord:jg_cold3_103|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_194",
+   "groupKey": "same:jg_cold3_103",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_103, jg_cold3_194",
+   "fingerprint": "C-08|1763443245243|jg_cold3_194|same:jg_cold3_103|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_195",
+   "groupKey": "coord:jg_cold3_104",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성푸른의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_104, jg_cold3_195",
+   "fingerprint": "C-08|1763443245243|jg_cold3_195|coord:jg_cold3_104|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_195",
+   "groupKey": "same:jg_cold3_104",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_104, jg_cold3_195",
+   "fingerprint": "C-08|1763443245243|jg_cold3_195|same:jg_cold3_104|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_196",
+   "groupKey": "coord:jg_cold3_105",
+   "field": "COT_CONTS_NAME",
+   "value": "서울가정의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_105, jg_cold3_196",
+   "fingerprint": "C-08|1763443245243|jg_cold3_196|coord:jg_cold3_105|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_196",
+   "groupKey": "same:jg_cold3_105",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_105, jg_cold3_196",
+   "fingerprint": "C-08|1763443245243|jg_cold3_196|same:jg_cold3_105|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_197",
+   "groupKey": "coord:jg_cold3_106",
+   "field": "COT_CONTS_NAME",
+   "value": "서울휴재활의학과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_106, jg_cold3_197",
+   "fingerprint": "C-08|1763443245243|jg_cold3_197|coord:jg_cold3_106|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_197",
+   "groupKey": "same:jg_cold3_106",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_106, jg_cold3_197",
+   "fingerprint": "C-08|1763443245243|jg_cold3_197|same:jg_cold3_106|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_198",
+   "groupKey": "coord:jg_cold3_107",
+   "field": "COT_CONTS_NAME",
+   "value": "소망정형외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_107, jg_cold3_198",
+   "fingerprint": "C-08|1763443245243|jg_cold3_198|coord:jg_cold3_107|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_198",
+   "groupKey": "same:jg_cold3_107",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_107, jg_cold3_198",
+   "fingerprint": "C-08|1763443245243|jg_cold3_198|same:jg_cold3_107|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_199",
+   "groupKey": "coord:jg_cold3_108",
+   "field": "COT_CONTS_NAME",
+   "value": "연세이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_108, jg_cold3_199",
+   "fingerprint": "C-08|1763443245243|jg_cold3_199|coord:jg_cold3_108|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_199",
+   "groupKey": "same:jg_cold3_108",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_108, jg_cold3_199",
+   "fingerprint": "C-08|1763443245243|jg_cold3_199|same:jg_cold3_108|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_200",
+   "groupKey": "coord:jg_cold3_109",
+   "field": "COT_CONTS_NAME",
+   "value": "우리정형외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_109, jg_cold3_200",
+   "fingerprint": "C-08|1763443245243|jg_cold3_200|coord:jg_cold3_109|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_200",
+   "groupKey": "same:jg_cold3_109",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_109, jg_cold3_200",
+   "fingerprint": "C-08|1763443245243|jg_cold3_200|same:jg_cold3_109|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_201",
+   "groupKey": "coord:jg_cold3_110",
+   "field": "COT_CONTS_NAME",
+   "value": "일등이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_110, jg_cold3_201",
+   "fingerprint": "C-08|1763443245243|jg_cold3_201|coord:jg_cold3_110|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_201",
+   "groupKey": "same:jg_cold3_110",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_110, jg_cold3_201",
+   "fingerprint": "C-08|1763443245243|jg_cold3_201|same:jg_cold3_110|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_202",
+   "groupKey": "coord:jg_cold3_111",
+   "field": "COT_CONTS_NAME",
+   "value": "한을남하늘피부과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_111, jg_cold3_202",
+   "fingerprint": "C-08|1763443245243|jg_cold3_202|coord:jg_cold3_111|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_202",
+   "groupKey": "same:jg_cold3_111",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_111, jg_cold3_202",
+   "fingerprint": "C-08|1763443245243|jg_cold3_202|same:jg_cold3_111|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_203",
+   "groupKey": "coord:jg_cold3_112",
+   "field": "COT_CONTS_NAME",
+   "value": "김순화소아과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_112, jg_cold3_203",
+   "fingerprint": "C-08|1763443245243|jg_cold3_203|coord:jg_cold3_112|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_203",
+   "groupKey": "same:jg_cold3_112",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_112, jg_cold3_203",
+   "fingerprint": "C-08|1763443245243|jg_cold3_203|same:jg_cold3_112|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_204",
+   "groupKey": "coord:jg_cold3_113",
+   "field": "COT_CONTS_NAME",
+   "value": "동호의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_113, jg_cold3_204",
+   "fingerprint": "C-08|1763443245243|jg_cold3_204|coord:jg_cold3_113|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_204",
+   "groupKey": "same:jg_cold3_113",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_113, jg_cold3_204",
+   "fingerprint": "C-08|1763443245243|jg_cold3_204|same:jg_cold3_113|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_205",
+   "groupKey": "coord:jg_cold3_114",
+   "field": "COT_CONTS_NAME",
+   "value": "백설소아과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_114, jg_cold3_205",
+   "fingerprint": "C-08|1763443245243|jg_cold3_205|coord:jg_cold3_114|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_205",
+   "groupKey": "same:jg_cold3_114",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_114, jg_cold3_205",
+   "fingerprint": "C-08|1763443245243|jg_cold3_205|same:jg_cold3_114|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_206",
+   "groupKey": "coord:jg_cold3_115",
+   "field": "COT_CONTS_NAME",
+   "value": "서울송도병원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_115, jg_cold3_206",
+   "fingerprint": "C-08|1763443245243|jg_cold3_206|coord:jg_cold3_115|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_206",
+   "groupKey": "same:jg_cold3_115",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_115, jg_cold3_206",
+   "fingerprint": "C-08|1763443245243|jg_cold3_206|same:jg_cold3_115|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_207",
+   "groupKey": "coord:jg_cold3_116",
+   "field": "COT_CONTS_NAME",
+   "value": "성모내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_116, jg_cold3_207",
+   "fingerprint": "C-08|1763443245243|jg_cold3_207|coord:jg_cold3_116|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_207",
+   "groupKey": "same:jg_cold3_116",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_116, jg_cold3_207",
+   "fingerprint": "C-08|1763443245243|jg_cold3_207|same:jg_cold3_116|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_208",
+   "groupKey": "coord:jg_cold3_117",
+   "field": "COT_CONTS_NAME",
+   "value": "약수내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_117, jg_cold3_208",
+   "fingerprint": "C-08|1763443245243|jg_cold3_208|coord:jg_cold3_117|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_208",
+   "groupKey": "same:jg_cold3_117",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_117, jg_cold3_208",
+   "fingerprint": "C-08|1763443245243|jg_cold3_208|same:jg_cold3_117|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_209",
+   "groupKey": "coord:jg_cold3_118",
+   "field": "COT_CONTS_NAME",
+   "value": "약수바른정형외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_118, jg_cold3_209",
+   "fingerprint": "C-08|1763443245243|jg_cold3_209|coord:jg_cold3_118|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_209",
+   "groupKey": "same:jg_cold3_118",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_118, jg_cold3_209",
+   "fingerprint": "C-08|1763443245243|jg_cold3_209|same:jg_cold3_118|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_210",
+   "groupKey": "coord:jg_cold3_119",
+   "field": "COT_CONTS_NAME",
+   "value": "유태석내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_119, jg_cold3_210",
+   "fingerprint": "C-08|1763443245243|jg_cold3_210|coord:jg_cold3_119|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_210",
+   "groupKey": "same:jg_cold3_119",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_119, jg_cold3_210",
+   "fingerprint": "C-08|1763443245243|jg_cold3_210|same:jg_cold3_119|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_211",
+   "groupKey": "coord:jg_cold3_120",
+   "field": "COT_CONTS_NAME",
+   "value": "호랑이이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_120, jg_cold3_211",
+   "fingerprint": "C-08|1763443245243|jg_cold3_211|coord:jg_cold3_120|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_211",
+   "groupKey": "same:jg_cold3_120",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_120, jg_cold3_211",
+   "fingerprint": "C-08|1763443245243|jg_cold3_211|same:jg_cold3_120|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_212",
+   "groupKey": "coord:jg_cold3_121",
+   "field": "COT_CONTS_NAME",
+   "value": "녹십자아이메드강북의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_121, jg_cold3_212",
+   "fingerprint": "C-08|1763443245243|jg_cold3_212|coord:jg_cold3_121|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_212",
+   "groupKey": "same:jg_cold3_121",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_121, jg_cold3_212",
+   "fingerprint": "C-08|1763443245243|jg_cold3_212|same:jg_cold3_121|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_213",
+   "groupKey": "coord:jg_cold3_122",
+   "field": "COT_CONTS_NAME",
+   "value": "더맑은가정의학과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_122, jg_cold3_213",
+   "fingerprint": "C-08|1763443245243|jg_cold3_213|coord:jg_cold3_122|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_213",
+   "groupKey": "same:jg_cold3_122",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_122, jg_cold3_213",
+   "fingerprint": "C-08|1763443245243|jg_cold3_213|same:jg_cold3_122|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_214",
+   "groupKey": "coord:jg_cold3_123",
+   "field": "COT_CONTS_NAME",
+   "value": "메리힐이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_123, jg_cold3_214",
+   "fingerprint": "C-08|1763443245243|jg_cold3_214|coord:jg_cold3_123|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_214",
+   "groupKey": "same:jg_cold3_123",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_123, jg_cold3_214",
+   "fingerprint": "C-08|1763443245243|jg_cold3_214|same:jg_cold3_123|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_215",
+   "groupKey": "coord:jg_cold3_124",
+   "field": "COT_CONTS_NAME",
+   "value": "서울송내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_124, jg_cold3_215",
+   "fingerprint": "C-08|1763443245243|jg_cold3_215|coord:jg_cold3_124|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_215",
+   "groupKey": "same:jg_cold3_124",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_124, jg_cold3_215",
+   "fingerprint": "C-08|1763443245243|jg_cold3_215|same:jg_cold3_124|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_216",
+   "groupKey": "coord:jg_cold3_125",
+   "field": "COT_CONTS_NAME",
+   "value": "성모준이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_125, jg_cold3_216",
+   "fingerprint": "C-08|1763443245243|jg_cold3_216|coord:jg_cold3_125|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_216",
+   "groupKey": "same:jg_cold3_125",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_125, jg_cold3_216",
+   "fingerprint": "C-08|1763443245243|jg_cold3_216|same:jg_cold3_125|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_217",
+   "groupKey": "coord:jg_cold3_126",
+   "field": "COT_CONTS_NAME",
+   "value": "영락내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_126, jg_cold3_217",
+   "fingerprint": "C-08|1763443245243|jg_cold3_217|coord:jg_cold3_126|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_217",
+   "groupKey": "same:jg_cold3_126",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_126, jg_cold3_217",
+   "fingerprint": "C-08|1763443245243|jg_cold3_217|same:jg_cold3_126|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_218",
+   "groupKey": "coord:jg_cold3_127",
+   "field": "COT_CONTS_NAME",
+   "value": "을지로마디튼튼신경외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_127, jg_cold3_218",
+   "fingerprint": "C-08|1763443245243|jg_cold3_218|coord:jg_cold3_127|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_218",
+   "groupKey": "same:jg_cold3_127",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_127, jg_cold3_218",
+   "fingerprint": "C-08|1763443245243|jg_cold3_218|same:jg_cold3_127|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_219",
+   "groupKey": "coord:jg_cold3_128",
+   "field": "COT_CONTS_NAME",
+   "value": "을지로참내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_128, jg_cold3_219",
+   "fingerprint": "C-08|1763443245243|jg_cold3_219|coord:jg_cold3_128|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_219",
+   "groupKey": "same:jg_cold3_128",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_128, jg_cold3_219",
+   "fingerprint": "C-08|1763443245243|jg_cold3_219|same:jg_cold3_128|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_220",
+   "groupKey": "coord:jg_cold3_129",
+   "field": "COT_CONTS_NAME",
+   "value": "을지바른의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_129, jg_cold3_220",
+   "fingerprint": "C-08|1763443245243|jg_cold3_220|coord:jg_cold3_129|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_220",
+   "groupKey": "same:jg_cold3_129",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_129, jg_cold3_220",
+   "fingerprint": "C-08|1763443245243|jg_cold3_220|same:jg_cold3_129|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_221",
+   "groupKey": "coord:jg_cold3_130",
+   "field": "COT_CONTS_NAME",
+   "value": "중앙외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_130, jg_cold3_221",
+   "fingerprint": "C-08|1763443245243|jg_cold3_221|coord:jg_cold3_130|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_221",
+   "groupKey": "same:jg_cold3_130",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_130, jg_cold3_221",
+   "fingerprint": "C-08|1763443245243|jg_cold3_221|same:jg_cold3_130|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_222",
+   "groupKey": "coord:jg_cold3_131",
+   "field": "COT_CONTS_NAME",
+   "value": "프라임여성의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_131, jg_cold3_222",
+   "fingerprint": "C-08|1763443245243|jg_cold3_222|coord:jg_cold3_131|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_222",
+   "groupKey": "same:jg_cold3_131",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_131, jg_cold3_222",
+   "fingerprint": "C-08|1763443245243|jg_cold3_222|same:jg_cold3_131|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_223",
+   "groupKey": "coord:jg_cold3_132",
+   "field": "COT_CONTS_NAME",
+   "value": "한사랑의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_132, jg_cold3_223",
+   "fingerprint": "C-08|1763443245243|jg_cold3_223|coord:jg_cold3_132|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_223",
+   "groupKey": "same:jg_cold3_132",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_132, jg_cold3_223",
+   "fingerprint": "C-08|1763443245243|jg_cold3_223|same:jg_cold3_132|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_224",
+   "groupKey": "coord:jg_cold3_133",
+   "field": "COT_CONTS_NAME",
+   "value": "덕수재활의학과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_133, jg_cold3_224",
+   "fingerprint": "C-08|1763443245243|jg_cold3_224|coord:jg_cold3_133|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_224",
+   "groupKey": "same:jg_cold3_133",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_133, jg_cold3_224",
+   "fingerprint": "C-08|1763443245243|jg_cold3_224|same:jg_cold3_133|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_225",
+   "groupKey": "coord:jg_cold3_134",
+   "field": "COT_CONTS_NAME",
+   "value": "연세다온소아청소년과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_134, jg_cold3_225",
+   "fingerprint": "C-08|1763443245243|jg_cold3_225|coord:jg_cold3_134|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_225",
+   "groupKey": "same:jg_cold3_134",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_134, jg_cold3_225",
+   "fingerprint": "C-08|1763443245243|jg_cold3_225|same:jg_cold3_134|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_226",
+   "groupKey": "coord:jg_cold3_135",
+   "field": "COT_CONTS_NAME",
+   "value": "충정로수이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_135, jg_cold3_226",
+   "fingerprint": "C-08|1763443245243|jg_cold3_226|coord:jg_cold3_135|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_226",
+   "groupKey": "same:jg_cold3_135",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_135, jg_cold3_226",
+   "fingerprint": "C-08|1763443245243|jg_cold3_226|same:jg_cold3_135|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_227",
+   "groupKey": "coord:jg_cold3_136",
+   "field": "COT_CONTS_NAME",
+   "value": "충정로연세내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_136, jg_cold3_227",
+   "fingerprint": "C-08|1763443245243|jg_cold3_227|coord:jg_cold3_136|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_227",
+   "groupKey": "same:jg_cold3_136",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_136, jg_cold3_227",
+   "fingerprint": "C-08|1763443245243|jg_cold3_227|same:jg_cold3_136|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_228",
+   "groupKey": "coord:jg_cold3_137",
+   "field": "COT_CONTS_NAME",
+   "value": "한독의료재단부설서부중앙의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_137, jg_cold3_228",
+   "fingerprint": "C-08|1763443245243|jg_cold3_228|coord:jg_cold3_137|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_228",
+   "groupKey": "same:jg_cold3_137",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_137, jg_cold3_228",
+   "fingerprint": "C-08|1763443245243|jg_cold3_228|same:jg_cold3_137|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_229",
+   "groupKey": "coord:jg_cold3_138",
+   "field": "COT_CONTS_NAME",
+   "value": "킨더웰소아청소년과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_138, jg_cold3_229",
+   "fingerprint": "C-08|1763443245243|jg_cold3_229|coord:jg_cold3_138|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_229",
+   "groupKey": "same:jg_cold3_138",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_138, jg_cold3_229",
+   "fingerprint": "C-08|1763443245243|jg_cold3_229|same:jg_cold3_138|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_230",
+   "groupKey": "coord:jg_cold3_139",
+   "field": "COT_CONTS_NAME",
+   "value": "리더스의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_139, jg_cold3_230",
+   "fingerprint": "C-08|1763443245243|jg_cold3_230|coord:jg_cold3_139|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_230",
+   "groupKey": "same:jg_cold3_139",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_139, jg_cold3_230",
+   "fingerprint": "C-08|1763443245243|jg_cold3_230|same:jg_cold3_139|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_231",
+   "groupKey": "coord:jg_cold3_140",
+   "field": "COT_CONTS_NAME",
+   "value": "윤창옥내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_140, jg_cold3_231",
+   "fingerprint": "C-08|1763443245243|jg_cold3_231|coord:jg_cold3_140|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_231",
+   "groupKey": "same:jg_cold3_140",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_140, jg_cold3_231",
+   "fingerprint": "C-08|1763443245243|jg_cold3_231|same:jg_cold3_140|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_232",
+   "groupKey": "coord:jg_cold3_141",
+   "field": "COT_CONTS_NAME",
+   "value": "제이에이치제일의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_141, jg_cold3_232",
+   "fingerprint": "C-08|1763443245243|jg_cold3_232|coord:jg_cold3_141|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_232",
+   "groupKey": "same:jg_cold3_141",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_141, jg_cold3_232",
+   "fingerprint": "C-08|1763443245243|jg_cold3_232|same:jg_cold3_141|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_233",
+   "groupKey": "coord:jg_cold3_142",
+   "field": "COT_CONTS_NAME",
+   "value": "제일내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_142, jg_cold3_233",
+   "fingerprint": "C-08|1763443245243|jg_cold3_233|coord:jg_cold3_142|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_233",
+   "groupKey": "same:jg_cold3_142",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_142, jg_cold3_233",
+   "fingerprint": "C-08|1763443245243|jg_cold3_233|same:jg_cold3_142|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_234",
+   "groupKey": "coord:jg_cold3_143",
+   "field": "COT_CONTS_NAME",
+   "value": "모두탑365정형외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_143, jg_cold3_234",
+   "fingerprint": "C-08|1763443245243|jg_cold3_234|coord:jg_cold3_143|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_234",
+   "groupKey": "same:jg_cold3_143",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_143, jg_cold3_234",
+   "fingerprint": "C-08|1763443245243|jg_cold3_234|same:jg_cold3_143|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_235",
+   "groupKey": "coord:jg_cold3_144",
+   "field": "COT_CONTS_NAME",
+   "value": "서울성모의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_144, jg_cold3_235",
+   "fingerprint": "C-08|1763443245243|jg_cold3_235|coord:jg_cold3_144|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_235",
+   "groupKey": "same:jg_cold3_144",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_144, jg_cold3_235",
+   "fingerprint": "C-08|1763443245243|jg_cold3_235|same:jg_cold3_144|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_236",
+   "groupKey": "coord:jg_cold3_145",
+   "field": "COT_CONTS_NAME",
+   "value": "서울정통의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_145, jg_cold3_236",
+   "fingerprint": "C-08|1763443245243|jg_cold3_236|coord:jg_cold3_145|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_236",
+   "groupKey": "same:jg_cold3_145",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_145, jg_cold3_236",
+   "fingerprint": "C-08|1763443245243|jg_cold3_236|same:jg_cold3_145|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_237",
+   "groupKey": "coord:jg_cold3_146",
+   "field": "COT_CONTS_NAME",
+   "value": "신당센트럴이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_146, jg_cold3_237",
+   "fingerprint": "C-08|1763443245243|jg_cold3_237|coord:jg_cold3_146|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_237",
+   "groupKey": "same:jg_cold3_146",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_146, jg_cold3_237",
+   "fingerprint": "C-08|1763443245243|jg_cold3_237|same:jg_cold3_146|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_238",
+   "groupKey": "coord:jg_cold3_147",
+   "field": "COT_CONTS_NAME",
+   "value": "신당스카이정형외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_147, jg_cold3_238",
+   "fingerprint": "C-08|1763443245243|jg_cold3_238|coord:jg_cold3_147|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_238",
+   "groupKey": "same:jg_cold3_147",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_147, jg_cold3_238",
+   "fingerprint": "C-08|1763443245243|jg_cold3_238|same:jg_cold3_147|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_239",
+   "groupKey": "coord:jg_cold3_148",
+   "field": "COT_CONTS_NAME",
+   "value": "온여성의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_148, jg_cold3_239",
+   "fingerprint": "C-08|1763443245243|jg_cold3_239|coord:jg_cold3_148|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_239",
+   "groupKey": "same:jg_cold3_148",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_148, jg_cold3_239",
+   "fingerprint": "C-08|1763443245243|jg_cold3_239|same:jg_cold3_148|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_240",
+   "groupKey": "coord:jg_cold3_149",
+   "field": "COT_CONTS_NAME",
+   "value": "이가정의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_149, jg_cold3_240",
+   "fingerprint": "C-08|1763443245243|jg_cold3_240|coord:jg_cold3_149|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_240",
+   "groupKey": "same:jg_cold3_149",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_149, jg_cold3_240",
+   "fingerprint": "C-08|1763443245243|jg_cold3_240|same:jg_cold3_149|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_241",
+   "groupKey": "coord:jg_cold3_150",
+   "field": "COT_CONTS_NAME",
+   "value": "남대문명동정형외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_150, jg_cold3_241",
+   "fingerprint": "C-08|1763443245243|jg_cold3_241|coord:jg_cold3_150|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_241",
+   "groupKey": "same:jg_cold3_150",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_150, jg_cold3_241",
+   "fingerprint": "C-08|1763443245243|jg_cold3_241|same:jg_cold3_150|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_242",
+   "groupKey": "coord:jg_cold3_151",
+   "field": "COT_CONTS_NAME",
+   "value": "남대문외과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_151, jg_cold3_242",
+   "fingerprint": "C-08|1763443245243|jg_cold3_242|coord:jg_cold3_151|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_242",
+   "groupKey": "same:jg_cold3_151",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_151, jg_cold3_242",
+   "fingerprint": "C-08|1763443245243|jg_cold3_242|same:jg_cold3_151|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_243",
+   "groupKey": "coord:jg_cold3_152",
+   "field": "COT_CONTS_NAME",
+   "value": "대신의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_152, jg_cold3_243",
+   "fingerprint": "C-08|1763443245243|jg_cold3_243|coord:jg_cold3_152|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_243",
+   "groupKey": "same:jg_cold3_152",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_152, jg_cold3_243",
+   "fingerprint": "C-08|1763443245243|jg_cold3_243|same:jg_cold3_152|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_244",
+   "groupKey": "coord:jg_cold3_153",
+   "field": "COT_CONTS_NAME",
+   "value": "명동미소유의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_153, jg_cold3_244",
+   "fingerprint": "C-08|1763443245243|jg_cold3_244|coord:jg_cold3_153|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_244",
+   "groupKey": "same:jg_cold3_153",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_153, jg_cold3_244",
+   "fingerprint": "C-08|1763443245243|jg_cold3_244|same:jg_cold3_153|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_245",
+   "groupKey": "coord:jg_cold3_154",
+   "field": "COT_CONTS_NAME",
+   "value": "미래의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_154, jg_cold3_245",
+   "fingerprint": "C-08|1763443245243|jg_cold3_245|coord:jg_cold3_154|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_245",
+   "groupKey": "same:jg_cold3_154",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_154, jg_cold3_245",
+   "fingerprint": "C-08|1763443245243|jg_cold3_245|same:jg_cold3_154|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_246",
+   "groupKey": "coord:jg_cold3_155",
+   "field": "COT_CONTS_NAME",
+   "value": "서울센트럴이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_155, jg_cold3_246",
+   "fingerprint": "C-08|1763443245243|jg_cold3_246|coord:jg_cold3_155|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_246",
+   "groupKey": "same:jg_cold3_155",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_155, jg_cold3_246",
+   "fingerprint": "C-08|1763443245243|jg_cold3_246|same:jg_cold3_155|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_247",
+   "groupKey": "coord:jg_cold3_156",
+   "field": "COT_CONTS_NAME",
+   "value": "소망의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_156, jg_cold3_247",
+   "fingerprint": "C-08|1763443245243|jg_cold3_247|coord:jg_cold3_156|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_247",
+   "groupKey": "same:jg_cold3_156",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_156, jg_cold3_247",
+   "fingerprint": "C-08|1763443245243|jg_cold3_247|same:jg_cold3_156|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_248",
+   "groupKey": "coord:jg_cold3_157",
+   "field": "COT_CONTS_NAME",
+   "value": "안내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_157, jg_cold3_248",
+   "fingerprint": "C-08|1763443245243|jg_cold3_248|coord:jg_cold3_157|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_248",
+   "groupKey": "same:jg_cold3_157",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_157, jg_cold3_248",
+   "fingerprint": "C-08|1763443245243|jg_cold3_248|same:jg_cold3_157|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_249",
+   "groupKey": "coord:jg_cold3_158",
+   "field": "COT_CONTS_NAME",
+   "value": "에스힐척척의원한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_158, jg_cold3_249",
+   "fingerprint": "C-08|1763443245243|jg_cold3_249|coord:jg_cold3_158|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_249",
+   "groupKey": "same:jg_cold3_158",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_158, jg_cold3_249",
+   "fingerprint": "C-08|1763443245243|jg_cold3_249|same:jg_cold3_158|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_250",
+   "groupKey": "coord:jg_cold3_159",
+   "field": "COT_CONTS_NAME",
+   "value": "연세맑은이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_159, jg_cold3_250",
+   "fingerprint": "C-08|1763443245243|jg_cold3_250|coord:jg_cold3_159|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_250",
+   "groupKey": "same:jg_cold3_159",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_159, jg_cold3_250",
+   "fingerprint": "C-08|1763443245243|jg_cold3_250|same:jg_cold3_159|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_251",
+   "groupKey": "coord:jg_cold3_160",
+   "field": "COT_CONTS_NAME",
+   "value": "연세퍼스티어내과신경과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_160, jg_cold3_251",
+   "fingerprint": "C-08|1763443245243|jg_cold3_251|coord:jg_cold3_160|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_251",
+   "groupKey": "same:jg_cold3_160",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_160, jg_cold3_251",
+   "fingerprint": "C-08|1763443245243|jg_cold3_251|same:jg_cold3_160|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_252",
+   "groupKey": "coord:jg_cold3_161",
+   "field": "COT_CONTS_NAME",
+   "value": "열린이비인후과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_161, jg_cold3_252",
+   "fingerprint": "C-08|1763443245243|jg_cold3_252|coord:jg_cold3_161|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_252",
+   "groupKey": "same:jg_cold3_161",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_161, jg_cold3_252",
+   "fingerprint": "C-08|1763443245243|jg_cold3_252|same:jg_cold3_161|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_253",
+   "groupKey": "coord:jg_cold3_162",
+   "field": "COT_CONTS_NAME",
+   "value": "이준걸통증의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_162, jg_cold3_253",
+   "fingerprint": "C-08|1763443245243|jg_cold3_253|coord:jg_cold3_162|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_253",
+   "groupKey": "same:jg_cold3_162",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_162, jg_cold3_253",
+   "fingerprint": "C-08|1763443245243|jg_cold3_253|same:jg_cold3_162|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_254",
+   "groupKey": "coord:jg_cold3_163",
+   "field": "COT_CONTS_NAME",
+   "value": "지앤아이휴내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_163, jg_cold3_254",
+   "fingerprint": "C-08|1763443245243|jg_cold3_254|coord:jg_cold3_163|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_254",
+   "groupKey": "same:jg_cold3_163",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_163, jg_cold3_254",
+   "fingerprint": "C-08|1763443245243|jg_cold3_254|same:jg_cold3_163|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_255",
+   "groupKey": "coord:jg_cold3_164",
+   "field": "COT_CONTS_NAME",
+   "value": "회현정내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_cold3_164, jg_cold3_255",
+   "fingerprint": "C-08|1763443245243|jg_cold3_255|coord:jg_cold3_164|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_cold3_255",
+   "groupKey": "same:jg_cold3_164",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: jg_cold3_164, jg_cold3_255",
+   "fingerprint": "C-08|1763443245243|jg_cold3_255|same:jg_cold3_164|"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_001",
+   "field": "COT_TEL_NO",
+   "value": "2277-4707",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_001||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_002",
+   "field": "COT_TEL_NO",
+   "value": "392-9075",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_002||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_003",
+   "field": "COT_TEL_NO",
+   "value": "313-7717",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_003||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_004",
+   "field": "COT_TEL_NO",
+   "value": "363-3788",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_004||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_005",
+   "field": "COT_TEL_NO",
+   "value": "365-1175",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_005||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_006",
+   "field": "COT_TEL_NO",
+   "value": "364-0003",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_006||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_007",
+   "field": "COT_TEL_NO",
+   "value": "2232-7757",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_007||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_008",
+   "field": "COT_TEL_NO",
+   "value": "555-7758",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_008||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_009",
+   "field": "COT_TEL_NO",
+   "value": "2272-3303",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_009||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_010",
+   "field": "COT_TEL_NO",
+   "value": "2277-2727",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_010||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_011",
+   "field": "COT_TEL_NO",
+   "value": "2268-2007",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_011||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_012",
+   "field": "COT_TEL_NO",
+   "value": "2233-7575",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_012||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_013",
+   "field": "COT_TEL_NO",
+   "value": "2294-7585",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_013||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_014",
+   "field": "COT_TEL_NO",
+   "value": "2252-0075",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_014||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_015",
+   "field": "COT_TEL_NO",
+   "value": "2231-7690",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_015||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_016",
+   "field": "COT_TEL_NO",
+   "value": "2232-2800",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_016||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_017",
+   "field": "COT_TEL_NO",
+   "value": "2233-7588",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_017||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_018",
+   "field": "COT_TEL_NO",
+   "value": "2231-5705",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_018||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_019",
+   "field": "COT_TEL_NO",
+   "value": "779-8176",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_019||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_020",
+   "field": "COT_TEL_NO",
+   "value": "779-2358",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_020||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_021",
+   "field": "COT_TEL_NO",
+   "value": "752-1232",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_021||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_022",
+   "field": "COT_TEL_NO",
+   "value": "776-0406",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_022||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_023",
+   "field": "COT_TEL_NO",
+   "value": "778-5801",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_023||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_024",
+   "field": "COT_TEL_NO",
+   "value": "319-3190",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_024||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_025",
+   "field": "COT_TEL_NO",
+   "value": "318-2075",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_025||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_026",
+   "field": "COT_TEL_NO",
+   "value": "777-6882",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_026||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_027",
+   "field": "COT_TEL_NO",
+   "value": "754-5100",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_027||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_028",
+   "field": "COT_TEL_NO",
+   "value": "753-0075",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_028||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_029",
+   "field": "COT_TEL_NO",
+   "value": "777-7555",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_029||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_030",
+   "field": "COT_TEL_NO",
+   "value": "319-5075",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_030||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_031",
+   "field": "COT_TEL_NO",
+   "value": "318-2428",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_031||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_032",
+   "field": "COT_TEL_NO",
+   "value": "2254-0075",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_032||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jg_cold3_033",
+   "field": "COT_TEL_NO",
+   "value": "778-8200",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1763443245243|jg_cold3_033||COT_TEL_NO"
+  }
+ ]
+}

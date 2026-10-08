@@ -1,0 +1,227 @@
+{
+ "themeId": "1755739898113",
+ "rulesetVersion": 1,
+ "contentHash": "286d05ea234937004e4e5d8f0725b02fc0654eb30c03fca319826a3ba79a1b94",
+ "findings": [
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "01-136",
+   "groupKey": "coord:01-136",
+   "field": "COT_CONTS_NAME",
+   "value": "한남동 01-136",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 01-136, 01-137, 01-138",
+   "fingerprint": "C-08|1755739898113|01-136|coord:01-136|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "01-137",
+   "groupKey": "coord:01-136",
+   "field": "COT_CONTS_NAME",
+   "value": "한남동 01-137",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 01-136, 01-137, 01-138",
+   "fingerprint": "C-08|1755739898113|01-137|coord:01-136|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "01-138",
+   "groupKey": "coord:01-136",
+   "field": "COT_CONTS_NAME",
+   "value": "한남동 01-138",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 01-136, 01-137, 01-138",
+   "fingerprint": "C-08|1755739898113|01-138|coord:01-136|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "01-210",
+   "groupKey": "coord:01-210",
+   "field": "COT_CONTS_NAME",
+   "value": "서빙고동 01-210",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 01-210, 01-216",
+   "fingerprint": "C-08|1755739898113|01-210|coord:01-210|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "01-216",
+   "groupKey": "coord:01-210",
+   "field": "COT_CONTS_NAME",
+   "value": "서빙고동 01-216",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 01-210, 01-216",
+   "fingerprint": "C-08|1755739898113|01-216|coord:01-210|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "01-264",
+   "groupKey": "coord:01-264",
+   "field": "COT_CONTS_NAME",
+   "value": "이촌제2동 01-264",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 01-264, 01-266",
+   "fingerprint": "C-08|1755739898113|01-264|coord:01-264|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "01-266",
+   "groupKey": "coord:01-264",
+   "field": "COT_CONTS_NAME",
+   "value": "이촌제2동 01-266",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 01-264, 01-266",
+   "fingerprint": "C-08|1755739898113|01-266|coord:01-264|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "01-268",
+   "groupKey": "coord:01-268",
+   "field": "COT_CONTS_NAME",
+   "value": "이촌제2동 01-268",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 01-268, 01-269, 01-270",
+   "fingerprint": "C-08|1755739898113|01-268|coord:01-268|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "01-269",
+   "groupKey": "coord:01-268",
+   "field": "COT_CONTS_NAME",
+   "value": "이촌제2동 01-269",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 01-268, 01-269, 01-270",
+   "fingerprint": "C-08|1755739898113|01-269|coord:01-268|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "01-270",
+   "groupKey": "coord:01-268",
+   "field": "COT_CONTS_NAME",
+   "value": "이촌제2동 01-270",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 01-268, 01-269, 01-270",
+   "fingerprint": "C-08|1755739898113|01-270|coord:01-268|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "01-271",
+   "groupKey": "coord:01-271",
+   "field": "COT_CONTS_NAME",
+   "value": "이촌제2동 01-271",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 01-271, 01-272, 01-273, 01-274",
+   "fingerprint": "C-08|1755739898113|01-271|coord:01-271|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "01-272",
+   "groupKey": "coord:01-271",
+   "field": "COT_CONTS_NAME",
+   "value": "이촌제2동 01-272",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 01-271, 01-272, 01-273, 01-274",
+   "fingerprint": "C-08|1755739898113|01-272|coord:01-271|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "01-273",
+   "groupKey": "coord:01-271",
+   "field": "COT_CONTS_NAME",
+   "value": "이촌제2동 01-273",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 01-271, 01-272, 01-273, 01-274",
+   "fingerprint": "C-08|1755739898113|01-273|coord:01-271|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "01-274",
+   "groupKey": "coord:01-271",
+   "field": "COT_CONTS_NAME",
+   "value": "이촌제2동 01-274",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 01-271, 01-272, 01-273, 01-274",
+   "fingerprint": "C-08|1755739898113|01-274|coord:01-271|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "01-74",
+   "groupKey": "coord:01-74",
+   "field": "COT_CONTS_NAME",
+   "value": "후암동 01-74",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 01-74, 01-75",
+   "fingerprint": "C-08|1755739898113|01-74|coord:01-74|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "01-75",
+   "groupKey": "coord:01-74",
+   "field": "COT_CONTS_NAME",
+   "value": "후암동 01-75",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 01-74, 01-75",
+   "fingerprint": "C-08|1755739898113|01-75|coord:01-74|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "02-178",
+   "groupKey": "coord:02-178",
+   "field": "COT_CONTS_NAME",
+   "value": "청파동 02-178",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 02-178, 02-179",
+   "fingerprint": "C-08|1755739898113|02-178|coord:02-178|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "02-179",
+   "groupKey": "coord:02-178",
+   "field": "COT_CONTS_NAME",
+   "value": "청파동 02-179",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 02-178, 02-179",
+   "fingerprint": "C-08|1755739898113|02-179|coord:02-178|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "02-26",
+   "groupKey": "coord:02-26",
+   "field": "COT_CONTS_NAME",
+   "value": "효창동 02-26",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 02-26, 02-27",
+   "fingerprint": "C-08|1755739898113|02-26|coord:02-26|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "02-27",
+   "groupKey": "coord:02-26",
+   "field": "COT_CONTS_NAME",
+   "value": "효창동 02-27",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 02-26, 02-27",
+   "fingerprint": "C-08|1755739898113|02-27|coord:02-26|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "02-286",
+   "groupKey": "coord:02-286",
+   "field": "COT_CONTS_NAME",
+   "value": "효창동 02-286",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 02-286, 02-288",
+   "fingerprint": "C-08|1755739898113|02-286|coord:02-286|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "02-288",
+   "groupKey": "coord:02-286",
+   "field": "COT_CONTS_NAME",
+   "value": "효창동 02-288",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 02-286, 02-288",
+   "fingerprint": "C-08|1755739898113|02-288|coord:02-286|COT_CONTS_NAME"
+  }
+ ]
+}

@@ -1,0 +1,1124 @@
+{
+ "themeId": "1694592629746",
+ "rulesetVersion": 1,
+ "contentHash": "ff88455023b1d6ce4fac0bff960f204671c7b5d191e35e43e47d38a7487e319b",
+ "findings": [
+  {
+   "ruleId": "C-04",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "outside",
+   "message": "서울 밖 장소가 81건 있습니다(주소도 서울 밖).",
+   "fingerprint": "C-04|1694592629746||outside|"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1271",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1271||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1274",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1274||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1278",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1278||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1281",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1281||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1282",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1282||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1284",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1284||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1285",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1285||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1288",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1288||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1292",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1292||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1293",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1293||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1296",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1296||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1299",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1299||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1300",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1300||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1301",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1301||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1302",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1302||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1303",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1303||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1306",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1306||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1307",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1307||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1309",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1309||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1310",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1310||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1312",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1312||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1313",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1313||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1314",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1314||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1317",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1317||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1319",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1319||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1320",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1320||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1321",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1321||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1324",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1324||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1326",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1326||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1328",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1328||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1330",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1330||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1331",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1331||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1333",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1333||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1335",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1335||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1338",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1338||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1339",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1339||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1340",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1340||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1341",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1341||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1342",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1342||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1345",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1345||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1346",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1346||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1351",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1351||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1357",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1357||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1359",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1359||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1364",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1364||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1407",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1407||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1409",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1409||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1410",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1410||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1411",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1411||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1560",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1560||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1561",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1561||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1562",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1562||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1563",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1563||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1564",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1564||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1565",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1565||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1567",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1567||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1568",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1568||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1569",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1569||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1570",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1570||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1571",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1571||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1572",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1572||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1573",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1573||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1574",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1574||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1575",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1575||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1576",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1576||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1577",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1577||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1578",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1578||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1579",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1579||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1580",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1580||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1581",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1581||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1582",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1582||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1583",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1583||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1584",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1584||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1585",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1585||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1586",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1586||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1587",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1587||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1588",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1588||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1589",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1589||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1590",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1590||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1615",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1615||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "nhis_1643",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1694592629746|nhis_1643||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_0428",
+   "groupKey": "coord:nhis_0428",
+   "field": "COT_CONTS_NAME",
+   "value": "연세탑내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_0428, nhis_1605",
+   "fingerprint": "C-08|1694592629746|nhis_0428|coord:nhis_0428|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_0428",
+   "groupKey": "same:nhis_0428",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_0428, nhis_1605",
+   "fingerprint": "C-08|1694592629746|nhis_0428|same:nhis_0428|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1388",
+   "groupKey": "coord:nhis_1388",
+   "field": "COT_CONTS_NAME",
+   "value": "유내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1388, nhis_1593",
+   "fingerprint": "C-08|1694592629746|nhis_1388|coord:nhis_1388|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1388",
+   "groupKey": "same:nhis_1388",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1388, nhis_1593",
+   "fingerprint": "C-08|1694592629746|nhis_1388|same:nhis_1388|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1423",
+   "groupKey": "coord:nhis_1423",
+   "field": "COT_CONTS_NAME",
+   "value": "세원소아청소년과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1423, nhis_1592",
+   "fingerprint": "C-08|1694592629746|nhis_1423|coord:nhis_1423|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1423",
+   "groupKey": "same:nhis_1423",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1423, nhis_1592",
+   "fingerprint": "C-08|1694592629746|nhis_1423|same:nhis_1423|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1469",
+   "groupKey": "coord:nhis_1469",
+   "field": "COT_CONTS_NAME",
+   "value": "재단법인 한국산업보건연구재단 서울디엠씨건강의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1469, nhis_1597",
+   "fingerprint": "C-08|1694592629746|nhis_1469|coord:nhis_1469|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1469",
+   "groupKey": "same:nhis_1469",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1469, nhis_1597",
+   "fingerprint": "C-08|1694592629746|nhis_1469|same:nhis_1469|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1484",
+   "groupKey": "coord:nhis_1484",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성참내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1484, nhis_1599",
+   "fingerprint": "C-08|1694592629746|nhis_1484|coord:nhis_1484|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1484",
+   "groupKey": "same:nhis_1484",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1484, nhis_1599",
+   "fingerprint": "C-08|1694592629746|nhis_1484|same:nhis_1484|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1501",
+   "groupKey": "coord:nhis_1501",
+   "field": "COT_CONTS_NAME",
+   "value": "고려수내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1501, nhis_1641",
+   "fingerprint": "C-08|1694592629746|nhis_1501|coord:nhis_1501|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1501",
+   "groupKey": "same:nhis_1501",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1501, nhis_1641",
+   "fingerprint": "C-08|1694592629746|nhis_1501|same:nhis_1501|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1515",
+   "groupKey": "coord:nhis_1515",
+   "field": "COT_CONTS_NAME",
+   "value": "연세위드내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1515, nhis_1604",
+   "fingerprint": "C-08|1694592629746|nhis_1515|coord:nhis_1515|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1515",
+   "groupKey": "same:nhis_1515",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1515, nhis_1604",
+   "fingerprint": "C-08|1694592629746|nhis_1515|same:nhis_1515|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1533",
+   "groupKey": "coord:nhis_1533",
+   "field": "COT_CONTS_NAME",
+   "value": "푸른편안내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1533, nhis_1609",
+   "fingerprint": "C-08|1694592629746|nhis_1533|coord:nhis_1533|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1533",
+   "groupKey": "same:nhis_1533",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1533, nhis_1609",
+   "fingerprint": "C-08|1694592629746|nhis_1533|same:nhis_1533|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1536",
+   "groupKey": "coord:nhis_1536",
+   "field": "COT_CONTS_NAME",
+   "value": "공릉든든내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1536, nhis_1610",
+   "fingerprint": "C-08|1694592629746|nhis_1536|coord:nhis_1536|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1536",
+   "groupKey": "same:nhis_1536",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1536, nhis_1610",
+   "fingerprint": "C-08|1694592629746|nhis_1536|same:nhis_1536|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1558",
+   "groupKey": "coord:nhis_1558",
+   "field": "COT_CONTS_NAME",
+   "value": "감사한내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1558, nhis_1611",
+   "fingerprint": "C-08|1694592629746|nhis_1558|coord:nhis_1558|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1558",
+   "groupKey": "same:nhis_1558",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1558, nhis_1611",
+   "fingerprint": "C-08|1694592629746|nhis_1558|same:nhis_1558|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1559",
+   "groupKey": "coord:nhis_1559",
+   "field": "COT_CONTS_NAME",
+   "value": "베스트장내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1559, nhis_1639",
+   "fingerprint": "C-08|1694592629746|nhis_1559|coord:nhis_1559|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1559",
+   "groupKey": "same:nhis_1559",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1559, nhis_1639",
+   "fingerprint": "C-08|1694592629746|nhis_1559|same:nhis_1559|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1562",
+   "groupKey": "coord:nhis_1562",
+   "field": "COT_CONTS_NAME",
+   "value": "송춘익내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1562, nhis_1615",
+   "fingerprint": "C-08|1694592629746|nhis_1562|coord:nhis_1562|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1562",
+   "groupKey": "same:nhis_1562",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1562, nhis_1615",
+   "fingerprint": "C-08|1694592629746|nhis_1562|same:nhis_1562|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1592",
+   "groupKey": "coord:nhis_1423",
+   "field": "COT_CONTS_NAME",
+   "value": "세원소아청소년과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1423, nhis_1592",
+   "fingerprint": "C-08|1694592629746|nhis_1592|coord:nhis_1423|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1592",
+   "groupKey": "same:nhis_1423",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1423, nhis_1592",
+   "fingerprint": "C-08|1694592629746|nhis_1592|same:nhis_1423|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1593",
+   "groupKey": "coord:nhis_1388",
+   "field": "COT_CONTS_NAME",
+   "value": "유내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1388, nhis_1593",
+   "fingerprint": "C-08|1694592629746|nhis_1593|coord:nhis_1388|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1593",
+   "groupKey": "same:nhis_1388",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1388, nhis_1593",
+   "fingerprint": "C-08|1694592629746|nhis_1593|same:nhis_1388|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1597",
+   "groupKey": "coord:nhis_1469",
+   "field": "COT_CONTS_NAME",
+   "value": "재단법인 한국산업보건연구재단 서울디엠씨건강의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1469, nhis_1597",
+   "fingerprint": "C-08|1694592629746|nhis_1597|coord:nhis_1469|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1597",
+   "groupKey": "same:nhis_1469",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1469, nhis_1597",
+   "fingerprint": "C-08|1694592629746|nhis_1597|same:nhis_1469|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1599",
+   "groupKey": "coord:nhis_1484",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성참내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1484, nhis_1599",
+   "fingerprint": "C-08|1694592629746|nhis_1599|coord:nhis_1484|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1599",
+   "groupKey": "same:nhis_1484",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1484, nhis_1599",
+   "fingerprint": "C-08|1694592629746|nhis_1599|same:nhis_1484|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1604",
+   "groupKey": "coord:nhis_1515",
+   "field": "COT_CONTS_NAME",
+   "value": "연세위드내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1515, nhis_1604",
+   "fingerprint": "C-08|1694592629746|nhis_1604|coord:nhis_1515|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1604",
+   "groupKey": "same:nhis_1515",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1515, nhis_1604",
+   "fingerprint": "C-08|1694592629746|nhis_1604|same:nhis_1515|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1605",
+   "groupKey": "coord:nhis_0428",
+   "field": "COT_CONTS_NAME",
+   "value": "연세탑내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_0428, nhis_1605",
+   "fingerprint": "C-08|1694592629746|nhis_1605|coord:nhis_0428|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1605",
+   "groupKey": "same:nhis_0428",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_0428, nhis_1605",
+   "fingerprint": "C-08|1694592629746|nhis_1605|same:nhis_0428|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1609",
+   "groupKey": "coord:nhis_1533",
+   "field": "COT_CONTS_NAME",
+   "value": "푸른편안내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1533, nhis_1609",
+   "fingerprint": "C-08|1694592629746|nhis_1609|coord:nhis_1533|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1609",
+   "groupKey": "same:nhis_1533",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1533, nhis_1609",
+   "fingerprint": "C-08|1694592629746|nhis_1609|same:nhis_1533|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1610",
+   "groupKey": "coord:nhis_1536",
+   "field": "COT_CONTS_NAME",
+   "value": "공릉든든내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1536, nhis_1610",
+   "fingerprint": "C-08|1694592629746|nhis_1610|coord:nhis_1536|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1610",
+   "groupKey": "same:nhis_1536",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1536, nhis_1610",
+   "fingerprint": "C-08|1694592629746|nhis_1610|same:nhis_1536|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1611",
+   "groupKey": "coord:nhis_1558",
+   "field": "COT_CONTS_NAME",
+   "value": "감사한내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1558, nhis_1611",
+   "fingerprint": "C-08|1694592629746|nhis_1611|coord:nhis_1558|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1611",
+   "groupKey": "same:nhis_1558",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1558, nhis_1611",
+   "fingerprint": "C-08|1694592629746|nhis_1611|same:nhis_1558|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1615",
+   "groupKey": "coord:nhis_1562",
+   "field": "COT_CONTS_NAME",
+   "value": "송춘익내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1562, nhis_1615",
+   "fingerprint": "C-08|1694592629746|nhis_1615|coord:nhis_1562|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1615",
+   "groupKey": "same:nhis_1562",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1562, nhis_1615",
+   "fingerprint": "C-08|1694592629746|nhis_1615|same:nhis_1562|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1639",
+   "groupKey": "coord:nhis_1559",
+   "field": "COT_CONTS_NAME",
+   "value": "베스트장내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1559, nhis_1639",
+   "fingerprint": "C-08|1694592629746|nhis_1639|coord:nhis_1559|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1639",
+   "groupKey": "same:nhis_1559",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1559, nhis_1639",
+   "fingerprint": "C-08|1694592629746|nhis_1639|same:nhis_1559|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1641",
+   "groupKey": "coord:nhis_1501",
+   "field": "COT_CONTS_NAME",
+   "value": "고려수내과의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: nhis_1501, nhis_1641",
+   "fingerprint": "C-08|1694592629746|nhis_1641|coord:nhis_1501|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "nhis_1641",
+   "groupKey": "same:nhis_1501",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: nhis_1501, nhis_1641",
+   "fingerprint": "C-08|1694592629746|nhis_1641|same:nhis_1501|"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "nhis_1517",
+   "groupKey": "near:nhis_1517",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성바른내과의원",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: nhis_1517, nhis_1606",
+   "fingerprint": "C-09|1694592629746|nhis_1517|near:nhis_1517|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "nhis_1606",
+   "groupKey": "near:nhis_1517",
+   "field": "COT_CONTS_NAME",
+   "value": "삼성바른내과의원",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: nhis_1517, nhis_1606",
+   "fingerprint": "C-09|1694592629746|nhis_1606|near:nhis_1517|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "nhis_1374",
+   "field": "COT_TEL_NO",
+   "value": "756-6858",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1694592629746|nhis_1374||COT_TEL_NO"
+  }
+ ]
+}

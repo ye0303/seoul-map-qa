@@ -1,0 +1,198 @@
+{
+ "themeId": "100706",
+ "rulesetVersion": 1,
+ "contentHash": "9047eca02e16ac6ea66cecb298da4e0b8658a0e609f28778e17df8d68e098095",
+ "findings": [
+  {
+   "ruleId": "C-04",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "outside",
+   "message": "서울 밖 장소가 3건 있습니다(주소도 서울 밖).",
+   "fingerprint": "C-04|100706||outside|"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100706_1727099278708",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100706|100706_1727099278708||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024tourinfo_0001",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100706|2024tourinfo_0001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024tourinfo_0002",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100706|2024tourinfo_0002||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2024tourinfo_0003",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100706|2024tourinfo_0003||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "2020tourinfo_0007",
+   "field": "COT_TEL_NO",
+   "value": "070%29+4224-4597",
+   "suggestion": "070) 4224-4597",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100706|2020tourinfo_0007||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "2020tourinfo_0008",
+   "field": "COT_TEL_NO",
+   "value": "02%29+2675-5600",
+   "suggestion": "02) 2675-5600",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100706|2020tourinfo_0008||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "2020tourinfo_0009",
+   "field": "COT_TEL_NO",
+   "value": "02%29+2675-5600",
+   "suggestion": "02) 2675-5600",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100706|2020tourinfo_0009||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "2024tourinfo_0001",
+   "field": "COT_TEL_NO",
+   "value": "032%29%2B743-3270",
+   "suggestion": "032)+743-3270",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100706|2024tourinfo_0001||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "2024tourinfo_0002",
+   "field": "COT_TEL_NO",
+   "value": "032%29%2B743-3272",
+   "suggestion": "032)+743-3272",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100706|2024tourinfo_0002||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "2024tourinfo_0003",
+   "field": "COT_TEL_NO",
+   "value": "032%29+743-3269",
+   "suggestion": "032) 743-3269",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100706|2024tourinfo_0003||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "2024tourinfo_0004",
+   "field": "COT_TEL_NO",
+   "value": "02%29+2660-2486%7E7",
+   "suggestion": "02) 2660-2486~7",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100706|2024tourinfo_0004||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "2024tourinfo_0005",
+   "field": "COT_TEL_NO",
+   "value": "02%29%2B3445-0111",
+   "suggestion": "02)+3445-0111",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100706|2024tourinfo_0005||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "2024tourinfo_0006",
+   "field": "COT_TEL_NO",
+   "value": "02%29+778-0333",
+   "suggestion": "02) 778-0333",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100706|2024tourinfo_0006||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "2024tourinfo_0012",
+   "field": "COT_TEL_NO",
+   "value": "02%29+2148-4161",
+   "suggestion": "02) 2148-4161",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100706|2024tourinfo_0012||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "2024tourinfo_0013",
+   "field": "COT_TEL_NO",
+   "value": "02%29+536-9472",
+   "suggestion": "02) 536-9472",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100706|2024tourinfo_0013||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "2024tourinfo_0015",
+   "field": "COT_TEL_NO",
+   "value": "02%29+6365-3100",
+   "suggestion": "02) 6365-3100",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100706|2024tourinfo_0015||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "2024tourinfo_0016",
+   "field": "COT_TEL_NO",
+   "value": "02%29+739-7755",
+   "suggestion": "02) 739-7755",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100706|2024tourinfo_0016||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "2024tourinfo_0017",
+   "field": "COT_TEL_NO",
+   "value": "02%29+3785-0942",
+   "suggestion": "02) 3785-0942",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100706|2024tourinfo_0017||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "2024tourinfo_0019",
+   "field": "COT_TEL_NO",
+   "value": "02%29+334-7878",
+   "suggestion": "02) 334-7878",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100706|2024tourinfo_0019||COT_TEL_NO"
+  }
+ ]
+}

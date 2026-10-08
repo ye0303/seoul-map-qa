@@ -1,0 +1,25 @@
+{
+ "themeId": "1741579295688",
+ "rulesetVersion": 1,
+ "contentHash": "3d922273e3b73ef26d7ff8784431cf35ee188a76d9f59e576ada9ec3b7bfab04",
+ "findings": [
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "ys_toji_0019",
+   "field": "COT_GU_NAME",
+   "value": "용산구",
+   "message": "구명(용산구)과 주소의 구(마포구)가 다릅니다.",
+   "fingerprint": "C-06|1741579295688|ys_toji_0019||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "ys_toji_0025_2",
+   "field": "COT_GU_NAME",
+   "value": "용산구",
+   "message": "구명(용산구)과 주소의 구(서초구)가 다릅니다.",
+   "fingerprint": "C-06|1741579295688|ys_toji_0025_2||COT_GU_NAME"
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "themeId": "1731391576076",
+ "rulesetVersion": 1,
+ "contentHash": "1b99ebe504c45fe364bad42d5bd61fffae4d5c208548a05f3e06da57a0ff2285",
+ "findings": [
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "11170-2020-00050",
+   "groupKey": "coord:11170-2020-00050",
+   "field": "COT_CONTS_NAME",
+   "value": "한울공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 11170-2020-00050, 11170-2024-00045",
+   "fingerprint": "C-08|1731391576076|11170-2020-00050|coord:11170-2020-00050|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "11170-2024-00045",
+   "groupKey": "coord:11170-2020-00050",
+   "field": "COT_CONTS_NAME",
+   "value": "나무공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 11170-2020-00050, 11170-2024-00045",
+   "fingerprint": "C-08|1731391576076|11170-2024-00045|coord:11170-2020-00050|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "11110-2015-00071",
+   "field": "COT_TEL_NO",
+   "value": "790-7714",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1731391576076|11110-2015-00071||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "11440-2021-00077_A",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1731391576076|11440-2021-00077_A||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "11440-2021-00077_B",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1731391576076|11440-2021-00077_B||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "11650-2019-00302",
+   "field": "COT_TEL_NO",
+   "value": "-",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1731391576076|11650-2019-00302||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "11680-2015-00258",
+   "field": "COT_TEL_NO",
+   "value": "558-0123, 558-0135",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1731391576076|11680-2015-00258||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "11680-2017-00427",
+   "field": "COT_TEL_NO",
+   "value": "543-9200",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1731391576076|11680-2017-00427||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "92310000-2446",
+   "field": "COT_TEL_NO",
+   "value": "82-2-995-6060\r\r\n(82-2-995-6131)\r\r\n010-2378-2377",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1731391576076|92310000-2446||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "92440000-07158_A",
+   "field": "COT_TEL_NO",
+   "value": "82-2-2635-1900\r\r\n(82-2-2635-1551)\r\r\n010-5441-2247",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1731391576076|92440000-07158_A||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "92440000-07158_B",
+   "field": "COT_TEL_NO",
+   "value": "82-2-2635-1900\r\r\n(82-2-2635-1551)\r\r\n010-5441-2247",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1731391576076|92440000-07158_B||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "9250-10164",
+   "field": "COT_TEL_NO",
+   "value": "555-1002",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1731391576076|9250-10164||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "9250-10853",
+   "field": "COT_TEL_NO",
+   "value": "517-7558",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1731391576076|9250-10853||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "9250-11867",
+   "field": "COT_TEL_NO",
+   "value": "566-4088",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1731391576076|9250-11867||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "9251-6757",
+   "field": "COT_TEL_NO",
+   "value": "581-3353",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1731391576076|9251-6757||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "9251-7921",
+   "field": "COT_TEL_NO",
+   "value": "0-533-4001",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1731391576076|9251-7921||COT_TEL_NO"
+  }
+ ]
+}

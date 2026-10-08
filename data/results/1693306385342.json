@@ -1,0 +1,45 @@
+{
+ "themeId": "1693306385342",
+ "rulesetVersion": 1,
+ "contentHash": "99682a396762bd4012ddb661c08fa4f4733fda26caacc6a4cae520967dc6c79b",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gdnanum_23007",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1693306385342|gdnanum_23007||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "gdnanum_3425",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1693306385342|gdnanum_3425||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gdnanum_0028",
+   "groupKey": "coord:gdnanum_0028",
+   "field": "COT_CONTS_NAME",
+   "value": "암사럭키수퍼마켓",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: gdnanum_0028, gdnanum_0034",
+   "fingerprint": "C-08|1693306385342|gdnanum_0028|coord:gdnanum_0028|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "gdnanum_0034",
+   "groupKey": "coord:gdnanum_0028",
+   "field": "COT_CONTS_NAME",
+   "value": "암사럭키수퍼마켓(중복)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: gdnanum_0028, gdnanum_0034",
+   "fingerprint": "C-08|1693306385342|gdnanum_0034|coord:gdnanum_0028|COT_CONTS_NAME"
+  }
+ ]
+}

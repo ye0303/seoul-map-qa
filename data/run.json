@@ -1,0 +1,22 @@
+{
+ "runId": "2026-10-08T14:58",
+ "startedAt": "2026-10-08T05:58:47.627Z",
+ "finishedAt": "2026-10-08T06:01:36.328Z",
+ "durationSec": 169,
+ "rulesetVersion": 1,
+ "themes": {
+  "public": 222,
+  "ok": 202,
+  "unavailable": 20,
+  "incomplete": 0,
+  "error": 0,
+  "missing": 0
+ },
+ "rows": 226974,
+ "findings": {
+  "error": 573,
+  "suspect": 23087,
+  "info": 13570
+ },
+ "departments": "ok"
+}

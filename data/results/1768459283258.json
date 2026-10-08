@@ -1,0 +1,213 @@
+{
+ "themeId": "1768459283258",
+ "rulesetVersion": 1,
+ "contentHash": "97316c7de1f0e48f0cc9fc3cd59979f45a0921561b13777cbfa5dc1cadeeaf81",
+ "findings": [
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_00434",
+   "groupKey": "coord:TH_00434",
+   "field": "COT_CONTS_NAME",
+   "value": "통큰손쭈꾸미마을 응암점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TH_00434, TH_00672",
+   "fingerprint": "C-08|1768459283258|TH_00434|coord:TH_00434|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_00480",
+   "groupKey": "coord:TH_00480",
+   "field": "COT_CONTS_NAME",
+   "value": "속초그바람에 마곡점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TH_00480, TH_01091",
+   "fingerprint": "C-08|1768459283258|TH_00480|coord:TH_00480|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_00554",
+   "groupKey": "coord:TH_00554",
+   "field": "COT_CONTS_NAME",
+   "value": "시골밥상",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TH_00554, TH_00666",
+   "fingerprint": "C-08|1768459283258|TH_00554|coord:TH_00554|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_00666",
+   "groupKey": "coord:TH_00554",
+   "field": "COT_CONTS_NAME",
+   "value": "시골밥상",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TH_00554, TH_00666",
+   "fingerprint": "C-08|1768459283258|TH_00666|coord:TH_00554|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_00672",
+   "groupKey": "coord:TH_00434",
+   "field": "COT_CONTS_NAME",
+   "value": "통큰손 쭈꾸미 마을 응암점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TH_00434, TH_00672",
+   "fingerprint": "C-08|1768459283258|TH_00672|coord:TH_00434|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_00684",
+   "groupKey": "coord:TH_00684",
+   "field": "COT_CONTS_NAME",
+   "value": "오이삼계탕",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TH_00684, TH_01163",
+   "fingerprint": "C-08|1768459283258|TH_00684|coord:TH_00684|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_00684",
+   "groupKey": "same:TH_00684",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: TH_00684, TH_01163",
+   "fingerprint": "C-08|1768459283258|TH_00684|same:TH_00684|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_00725",
+   "groupKey": "coord:TH_00725",
+   "field": "COT_CONTS_NAME",
+   "value": "진사골",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TH_00725, TH_01391",
+   "fingerprint": "C-08|1768459283258|TH_00725|coord:TH_00725|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_00969",
+   "groupKey": "coord:TH_00969",
+   "field": "COT_CONTS_NAME",
+   "value": "샐러데이 100번지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TH_00969, TH_01483",
+   "fingerprint": "C-08|1768459283258|TH_00969|coord:TH_00969|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_00983",
+   "groupKey": "coord:TH_00983",
+   "field": "COT_CONTS_NAME",
+   "value": "창평",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TH_00983, TH_01019",
+   "fingerprint": "C-08|1768459283258|TH_00983|coord:TH_00983|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_01019",
+   "groupKey": "coord:TH_00983",
+   "field": "COT_CONTS_NAME",
+   "value": "창평",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TH_00983, TH_01019",
+   "fingerprint": "C-08|1768459283258|TH_01019|coord:TH_00983|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_01091",
+   "groupKey": "coord:TH_00480",
+   "field": "COT_CONTS_NAME",
+   "value": "속초 그바람에 마곡점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TH_00480, TH_01091",
+   "fingerprint": "C-08|1768459283258|TH_01091|coord:TH_00480|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_01163",
+   "groupKey": "coord:TH_00684",
+   "field": "COT_CONTS_NAME",
+   "value": "오이삼계탕",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TH_00684, TH_01163",
+   "fingerprint": "C-08|1768459283258|TH_01163|coord:TH_00684|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_01163",
+   "groupKey": "same:TH_00684",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: TH_00684, TH_01163",
+   "fingerprint": "C-08|1768459283258|TH_01163|same:TH_00684|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_01334",
+   "groupKey": "coord:TH_01334",
+   "field": "COT_CONTS_NAME",
+   "value": "남산터 여의도점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TH_01334, TH_01343",
+   "fingerprint": "C-08|1768459283258|TH_01334|coord:TH_01334|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_01343",
+   "groupKey": "coord:TH_01334",
+   "field": "COT_CONTS_NAME",
+   "value": "남산터 여의도점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TH_01334, TH_01343",
+   "fingerprint": "C-08|1768459283258|TH_01343|coord:TH_01334|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_01381",
+   "groupKey": "coord:TH_01381",
+   "field": "COT_CONTS_NAME",
+   "value": "사월에보리밥과쭈꾸미송파오금점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TH_01381, TH_01478",
+   "fingerprint": "C-08|1768459283258|TH_01381|coord:TH_01381|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_01391",
+   "groupKey": "coord:TH_00725",
+   "field": "COT_CONTS_NAME",
+   "value": "진사골",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TH_00725, TH_01391",
+   "fingerprint": "C-08|1768459283258|TH_01391|coord:TH_00725|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_01478",
+   "groupKey": "coord:TH_01381",
+   "field": "COT_CONTS_NAME",
+   "value": "사월에 보리밥과 쭈꾸미 송파오금점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TH_01381, TH_01478",
+   "fingerprint": "C-08|1768459283258|TH_01478|coord:TH_01381|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TH_01483",
+   "groupKey": "coord:TH_00969",
+   "field": "COT_CONTS_NAME",
+   "value": "샐러데이100번지",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TH_00969, TH_01483",
+   "fingerprint": "C-08|1768459283258|TH_01483|coord:TH_00969|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-12",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "/smgis2/file/ucimgs/conts/1768459283258/TH_00093_0_KOR.jpg",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1768459283258/TH_00093_0_KOR.jpg",
+   "message": "1481건 중 1480건이 같은 대표 이미지를 씁니다.",
+   "fingerprint": "C-12|1768459283258||/smgis2/file/ucimgs/conts/1768459283258/TH_00093_0_KOR.jpg|COT_IMG_MAIN_URL"
+  }
+ ]
+}

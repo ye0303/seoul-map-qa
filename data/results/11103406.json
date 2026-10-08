@@ -1,0 +1,25 @@
+{
+ "themeId": "11103406",
+ "rulesetVersion": 1,
+ "contentHash": "75b7a751a91a72be6087cbfbf0376acbd1836f794151e6cbb1a2f8a2a57a3dff",
+ "findings": [
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "ARTmuseum_026",
+   "field": "COT_TEL_NO",
+   "value": "02-7604-615",
+   "message": "전화번호: 끝자리가 4자리가 아닙니다.",
+   "fingerprint": "C-10|11103406|ARTmuseum_026||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "museum_049",
+   "field": "COT_TEL_NO",
+   "value": "02-799-34",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|11103406|museum_049||COT_TEL_NO"
+  }
+ ]
+}

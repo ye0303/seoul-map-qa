@@ -1,0 +1,87 @@
+{
+ "themeId": "1767945239250",
+ "rulesetVersion": 1,
+ "contentHash": "2d1e46cd4e1eb0a0b03664ace25544b55d6dc06f5c382394f4b4d77d6b4276bd",
+ "findings": [
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "sb_work_13",
+   "field": "COT_TEL_NO",
+   "value": "%EC%97%85%EC%B2%B4%EB%AF%B8%EC%A0%9C%EA%B3%B5",
+   "suggestion": "업체미제공",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1767945239250|sb_work_13||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "sb_work_14",
+   "field": "COT_TEL_NO",
+   "value": "%EC%97%85%EC%B2%B4%EB%AF%B8%EC%A0%9C%EA%B3%B5",
+   "suggestion": "업체미제공",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1767945239250|sb_work_14||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "sb_work_15",
+   "field": "COT_TEL_NO",
+   "value": "%EC%97%85%EC%B2%B4%EB%AF%B8%EC%A0%9C%EA%B3%B5",
+   "suggestion": "업체미제공",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1767945239250|sb_work_15||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "sb_work_16",
+   "field": "COT_TEL_NO",
+   "value": "%EC%97%85%EC%B2%B4%EB%AF%B8%EC%A0%9C%EA%B3%B5",
+   "suggestion": "업체미제공",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1767945239250|sb_work_16||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "sb_work_17",
+   "field": "COT_TEL_NO",
+   "value": "%EC%97%85%EC%B2%B4%EB%AF%B8%EC%A0%9C%EA%B3%B5",
+   "suggestion": "업체미제공",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1767945239250|sb_work_17||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "sb_work_18",
+   "field": "COT_TEL_NO",
+   "value": "%EC%97%85%EC%B2%B4%EB%AF%B8%EC%A0%9C%EA%B3%B5",
+   "suggestion": "업체미제공",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1767945239250|sb_work_18||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "sb_work_19",
+   "field": "COT_TEL_NO",
+   "value": "%EC%97%85%EC%B2%B4%EB%AF%B8%EC%A0%9C%EA%B3%B5",
+   "suggestion": "업체미제공",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1767945239250|sb_work_19||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "sb_work_20",
+   "field": "COT_TEL_NO",
+   "value": "%EC%97%85%EC%B2%B4%EB%AF%B8%EC%A0%9C%EA%B3%B5",
+   "suggestion": "업체미제공",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1767945239250|sb_work_20||COT_TEL_NO"
+  }
+ ]
+}

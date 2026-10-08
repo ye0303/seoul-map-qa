@@ -1,0 +1,65 @@
+{
+ "themeId": "1740442117405",
+ "rulesetVersion": 1,
+ "contentHash": "3ba7a3d9317c1cc48aaf1657c29f2c756f284dbf79e807e5f84f50caaa5fb6ba",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1740442117405_1754538922537",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1740442117405|1740442117405_1754538922537||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1740442117405_1757052451019",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1740442117405|1740442117405_1757052451019||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "mbti_0041",
+   "groupKey": "coord:mbti_0041",
+   "field": "COT_CONTS_NAME",
+   "value": "대신공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: mbti_0041, mbti_0193",
+   "fingerprint": "C-08|1740442117405|mbti_0041|coord:mbti_0041|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "mbti_0042",
+   "groupKey": "coord:mbti_0042",
+   "field": "COT_CONTS_NAME",
+   "value": "명성공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: mbti_0042, mbti_0098",
+   "fingerprint": "C-08|1740442117405|mbti_0042|coord:mbti_0042|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "mbti_0098",
+   "groupKey": "coord:mbti_0042",
+   "field": "COT_CONTS_NAME",
+   "value": "그린공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: mbti_0042, mbti_0098",
+   "fingerprint": "C-08|1740442117405|mbti_0098|coord:mbti_0042|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "mbti_0193",
+   "groupKey": "coord:mbti_0041",
+   "field": "COT_CONTS_NAME",
+   "value": "평강공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: mbti_0041, mbti_0193",
+   "fingerprint": "C-08|1740442117405|mbti_0193|coord:mbti_0041|COT_CONTS_NAME"
+  }
+ ]
+}

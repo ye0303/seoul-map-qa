@@ -1,0 +1,109 @@
+{
+ "themeId": "100200",
+ "rulesetVersion": 1,
+ "contentHash": "a8e3172026962a6dafb39715808da3f7e7f3d497452209489f3c173fea4f13a9",
+ "findings": [
+  {
+   "ruleId": "C-04",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "outside",
+   "message": "서울 밖 장소가 7건 있습니다(주소도 서울 밖).",
+   "fingerprint": "C-04|100200||outside|"
+  },
+  {
+   "ruleId": "C-04",
+   "severity": "suspect",
+   "contsId": "jKcamp2023_001",
+   "field": "COT_COORD_X",
+   "value": "경도 128.157915079, 위도 37.349040477",
+   "message": "좌표가 서울 밖(약 88.8km)에 있고 주소로는 서울인지 알 수 없어 확인이 필요합니다.",
+   "fingerprint": "C-04|100200|jKcamp2023_001||COT_COORD_X"
+  },
+  {
+   "ruleId": "C-04",
+   "severity": "suspect",
+   "contsId": "jKcamp2023_004",
+   "field": "COT_COORD_X",
+   "value": "경도 127.39889455, 위도 38.300951748",
+   "message": "좌표가 서울 밖(약 72.7km)에 있고 주소로는 서울인지 알 수 없어 확인이 필요합니다.",
+   "fingerprint": "C-04|100200|jKcamp2023_004||COT_COORD_X"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "jKcamp2023_001",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100200|jKcamp2023_001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "jKcamp2023_003",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100200|jKcamp2023_003||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "jKcamp2023_004",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100200|jKcamp2023_004||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "jKcamp2023_005",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100200|jKcamp2023_005||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "jKcamp2023_006",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100200|jKcamp2023_006||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "jKcamp2023_007",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100200|jKcamp2023_007||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "jKcamp2023_008",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100200|jKcamp2023_008||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "camp2024_07",
+   "field": "COT_TEL_NO",
+   "value": "02-944-2941%7E2942",
+   "suggestion": "02-944-2941~2942",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100200|camp2024_07||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "camp2024_09",
+   "field": "COT_TEL_NO",
+   "value": "02-350-5233%7E5244",
+   "suggestion": "02-350-5233~5244",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100200|camp2024_09||COT_TEL_NO"
+  }
+ ]
+}

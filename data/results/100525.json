@@ -1,0 +1,447 @@
+{
+ "themeId": "100525",
+ "rulesetVersion": 1,
+ "contentHash": "cce511a52d49574fddd120cc3fc7def034864d5362f3cd97fb1b7e9947622d11",
+ "findings": [
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0004",
+   "groupKey": "coord:YC0004",
+   "field": "COT_CONTS_NAME",
+   "value": "서울자연치과",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0004, YC0022",
+   "fingerprint": "C-08|100525|YC0004|coord:YC0004|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0022",
+   "groupKey": "coord:YC0004",
+   "field": "COT_CONTS_NAME",
+   "value": "서울자연치과",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0004, YC0022",
+   "fingerprint": "C-08|100525|YC0022|coord:YC0004|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0061",
+   "groupKey": "coord:YC0061",
+   "field": "COT_CONTS_NAME",
+   "value": "맛대로치킨",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0061, YC0064",
+   "fingerprint": "C-08|100525|YC0061|coord:YC0061|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0064",
+   "groupKey": "coord:YC0061",
+   "field": "COT_CONTS_NAME",
+   "value": "맛대로치킨",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0061, YC0064",
+   "fingerprint": "C-08|100525|YC0064|coord:YC0061|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0085",
+   "groupKey": "coord:YC0085",
+   "field": "COT_CONTS_NAME",
+   "value": "목동교신학원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0085, YC0108",
+   "fingerprint": "C-08|100525|YC0085|coord:YC0085|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0093",
+   "groupKey": "coord:YC0093",
+   "field": "COT_CONTS_NAME",
+   "value": "최수용한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0093, YC0116",
+   "fingerprint": "C-08|100525|YC0093|coord:YC0093|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0094",
+   "groupKey": "coord:YC0094",
+   "field": "COT_CONTS_NAME",
+   "value": "은정헤어스튜디오",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0094, YC0117",
+   "fingerprint": "C-08|100525|YC0094|coord:YC0094|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0108",
+   "groupKey": "coord:YC0085",
+   "field": "COT_CONTS_NAME",
+   "value": "목동교신학원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0085, YC0108",
+   "fingerprint": "C-08|100525|YC0108|coord:YC0085|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0116",
+   "groupKey": "coord:YC0093",
+   "field": "COT_CONTS_NAME",
+   "value": "최수용한의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0093, YC0116",
+   "fingerprint": "C-08|100525|YC0116|coord:YC0093|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0117",
+   "groupKey": "coord:YC0094",
+   "field": "COT_CONTS_NAME",
+   "value": "은정혜어스튜디오",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0094, YC0117",
+   "fingerprint": "C-08|100525|YC0117|coord:YC0094|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0172",
+   "groupKey": "coord:YC0172",
+   "field": "COT_CONTS_NAME",
+   "value": "우린공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0172, YC0179",
+   "fingerprint": "C-08|100525|YC0172|coord:YC0172|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0179",
+   "groupKey": "coord:YC0172",
+   "field": "COT_CONTS_NAME",
+   "value": "스타공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0172, YC0179",
+   "fingerprint": "C-08|100525|YC0179|coord:YC0172|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0261",
+   "groupKey": "coord:YC0261",
+   "field": "COT_CONTS_NAME",
+   "value": "목4동주민센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0261, YC0273",
+   "fingerprint": "C-08|100525|YC0261|coord:YC0261|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0273",
+   "groupKey": "coord:YC0261",
+   "field": "COT_CONTS_NAME",
+   "value": "목4동 주민센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0261, YC0273",
+   "fingerprint": "C-08|100525|YC0273|coord:YC0261|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0277",
+   "groupKey": "coord:YC0277",
+   "field": "COT_CONTS_NAME",
+   "value": "목2동자치회관 강의실1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0277, YC0278",
+   "fingerprint": "C-08|100525|YC0277|coord:YC0277|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0278",
+   "groupKey": "coord:YC0277",
+   "field": "COT_CONTS_NAME",
+   "value": "목2동자치회관 강의실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0277, YC0278",
+   "fingerprint": "C-08|100525|YC0278|coord:YC0277|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0280",
+   "groupKey": "coord:YC0280",
+   "field": "COT_CONTS_NAME",
+   "value": "목3동자치회관 강의실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0280, YC0281",
+   "fingerprint": "C-08|100525|YC0280|coord:YC0280|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0281",
+   "groupKey": "coord:YC0280",
+   "field": "COT_CONTS_NAME",
+   "value": "목3동자치회관 강의실1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0280, YC0281",
+   "fingerprint": "C-08|100525|YC0281|coord:YC0280|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0282",
+   "groupKey": "coord:YC0282",
+   "field": "COT_CONTS_NAME",
+   "value": "목4동자치회관 강당",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: YC0282, YC0283, YC0284",
+   "fingerprint": "C-08|100525|YC0282|coord:YC0282|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0283",
+   "groupKey": "coord:YC0282",
+   "field": "COT_CONTS_NAME",
+   "value": "목4동자치회관 회의실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: YC0282, YC0283, YC0284",
+   "fingerprint": "C-08|100525|YC0283|coord:YC0282|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0284",
+   "groupKey": "coord:YC0282",
+   "field": "COT_CONTS_NAME",
+   "value": "목4동자치회관 강의실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: YC0282, YC0283, YC0284",
+   "fingerprint": "C-08|100525|YC0284|coord:YC0282|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0285",
+   "groupKey": "coord:YC0285",
+   "field": "COT_CONTS_NAME",
+   "value": "목5동자치회관 강당",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: YC0285, YC0286, YC0287",
+   "fingerprint": "C-08|100525|YC0285|coord:YC0285|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0286",
+   "groupKey": "coord:YC0285",
+   "field": "COT_CONTS_NAME",
+   "value": "목5동자치회관 강의실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: YC0285, YC0286, YC0287",
+   "fingerprint": "C-08|100525|YC0286|coord:YC0285|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0287",
+   "groupKey": "coord:YC0285",
+   "field": "COT_CONTS_NAME",
+   "value": "목5동자치회관 강의실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: YC0285, YC0286, YC0287",
+   "fingerprint": "C-08|100525|YC0287|coord:YC0285|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0291",
+   "groupKey": "coord:YC0291",
+   "field": "COT_CONTS_NAME",
+   "value": "신월2동자치회관 강의실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0291, YC0292",
+   "fingerprint": "C-08|100525|YC0291|coord:YC0291|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0292",
+   "groupKey": "coord:YC0291",
+   "field": "COT_CONTS_NAME",
+   "value": "신월2동자치회관 강의실1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0291, YC0292",
+   "fingerprint": "C-08|100525|YC0292|coord:YC0291|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0295",
+   "groupKey": "coord:YC0295",
+   "field": "COT_CONTS_NAME",
+   "value": "신월4동자치회관 강의실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0295, YC0296",
+   "fingerprint": "C-08|100525|YC0295|coord:YC0295|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0296",
+   "groupKey": "coord:YC0295",
+   "field": "COT_CONTS_NAME",
+   "value": "신월4동자치회관 회의실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0295, YC0296",
+   "fingerprint": "C-08|100525|YC0296|coord:YC0295|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0297",
+   "groupKey": "coord:YC0297",
+   "field": "COT_CONTS_NAME",
+   "value": "신월4동자치회관 기타",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0297, YC0298",
+   "fingerprint": "C-08|100525|YC0297|coord:YC0297|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0298",
+   "groupKey": "coord:YC0297",
+   "field": "COT_CONTS_NAME",
+   "value": "신월4동자치회관 기타1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0297, YC0298",
+   "fingerprint": "C-08|100525|YC0298|coord:YC0297|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0299",
+   "groupKey": "coord:YC0299",
+   "field": "COT_CONTS_NAME",
+   "value": "신월5동자치회관 회의실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0299, YC0301",
+   "fingerprint": "C-08|100525|YC0299|coord:YC0299|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0301",
+   "groupKey": "coord:YC0299",
+   "field": "COT_CONTS_NAME",
+   "value": "신월5동자치회관 강의실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0299, YC0301",
+   "fingerprint": "C-08|100525|YC0301|coord:YC0299|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0305",
+   "groupKey": "coord:YC0305",
+   "field": "COT_CONTS_NAME",
+   "value": "신정1동자치회관 강당",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: YC0305, YC0306, YC0307, YC0308",
+   "fingerprint": "C-08|100525|YC0305|coord:YC0305|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0306",
+   "groupKey": "coord:YC0305",
+   "field": "COT_CONTS_NAME",
+   "value": "신정1동자치회관 강의실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: YC0305, YC0306, YC0307, YC0308",
+   "fingerprint": "C-08|100525|YC0306|coord:YC0305|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0307",
+   "groupKey": "coord:YC0305",
+   "field": "COT_CONTS_NAME",
+   "value": "신정1동자치회관 강의실1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: YC0305, YC0306, YC0307, YC0308",
+   "fingerprint": "C-08|100525|YC0307|coord:YC0305|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0308",
+   "groupKey": "coord:YC0305",
+   "field": "COT_CONTS_NAME",
+   "value": "신정1동자치회관 강의실2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: YC0305, YC0306, YC0307, YC0308",
+   "fingerprint": "C-08|100525|YC0308|coord:YC0305|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0310",
+   "groupKey": "coord:YC0310",
+   "field": "COT_CONTS_NAME",
+   "value": "신정2동자치회관 강의실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0310, YC0311",
+   "fingerprint": "C-08|100525|YC0310|coord:YC0310|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0311",
+   "groupKey": "coord:YC0310",
+   "field": "COT_CONTS_NAME",
+   "value": "신정2동자치회관 강의실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0310, YC0311",
+   "fingerprint": "C-08|100525|YC0311|coord:YC0310|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0313",
+   "groupKey": "coord:YC0313",
+   "field": "COT_CONTS_NAME",
+   "value": "신정3동자치회관 강당",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0313, YC0314",
+   "fingerprint": "C-08|100525|YC0313|coord:YC0313|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0314",
+   "groupKey": "coord:YC0313",
+   "field": "COT_CONTS_NAME",
+   "value": "신정3동자치회관 강의실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0313, YC0314",
+   "fingerprint": "C-08|100525|YC0314|coord:YC0313|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0316",
+   "groupKey": "coord:YC0316",
+   "field": "COT_CONTS_NAME",
+   "value": "신정4동자치회관 기타",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0316, YC0317",
+   "fingerprint": "C-08|100525|YC0316|coord:YC0316|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "YC0317",
+   "groupKey": "coord:YC0316",
+   "field": "COT_CONTS_NAME",
+   "value": "신정4동자치회관 기타1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: YC0316, YC0317",
+   "fingerprint": "C-08|100525|YC0317|coord:YC0316|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "YC0119",
+   "groupKey": "near:YC0119",
+   "field": "COT_CONTS_NAME",
+   "value": "양천가방 협동조합",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: YC0119, YC0132",
+   "fingerprint": "C-09|100525|YC0119|near:YC0119|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "YC0132",
+   "groupKey": "near:YC0119",
+   "field": "COT_CONTS_NAME",
+   "value": "양천가방 협동조합",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: YC0119, YC0132",
+   "fingerprint": "C-09|100525|YC0132|near:YC0119|COT_CONTS_NAME"
+  }
+ ]
+}

@@ -1,0 +1,1969 @@
+{
+ "themeId": "1670291660555",
+ "rulesetVersion": 1,
+ "contentHash": "781f938697a64da3bfa3bdae29a140c1eae272e48c1f9f35db5210b15b042c6e",
+ "findings": [
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00001",
+   "field": "COT_TEL_NO",
+   "value": "723-2375",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00001||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00002",
+   "field": "COT_TEL_NO",
+   "value": "722-7977",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00002||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00003",
+   "field": "COT_TEL_NO",
+   "value": "737-5577",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00003||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00004",
+   "field": "COT_TEL_NO",
+   "value": "765-9441",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00004||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00005",
+   "field": "COT_TEL_NO",
+   "value": "723-9114",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00005||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00006",
+   "field": "COT_TEL_NO",
+   "value": "742-4999",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00006||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00007",
+   "field": "COT_TEL_NO",
+   "value": "720-1566",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00007||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00008",
+   "field": "COT_TEL_NO",
+   "value": "363-0412",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00008||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00009",
+   "field": "COT_TEL_NO",
+   "value": "723-6463",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00009||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00010",
+   "field": "COT_TEL_NO",
+   "value": "742-0002",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00010||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00011",
+   "field": "COT_TEL_NO",
+   "value": "737-5511",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00011||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00012",
+   "field": "COT_TEL_NO",
+   "value": "762-5815",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00012||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00013",
+   "field": "COT_TEL_NO",
+   "value": "735-0987",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00013||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00014",
+   "field": "COT_TEL_NO",
+   "value": "722-7779",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00014||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00015",
+   "field": "COT_TEL_NO",
+   "value": "2158-7810",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00015||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00016",
+   "field": "COT_TEL_NO",
+   "value": "2238-3680",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00016||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00017",
+   "field": "COT_TEL_NO",
+   "value": "2252-4657",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00017||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00018",
+   "field": "COT_TEL_NO",
+   "value": "2039-7575",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00018||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00019",
+   "field": "COT_TEL_NO",
+   "value": "3789-7359",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00019||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00020",
+   "field": "COT_TEL_NO",
+   "value": "2135-1898",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00020||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00021",
+   "field": "COT_TEL_NO",
+   "value": "318-5330",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00021||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00022",
+   "field": "COT_TEL_NO",
+   "value": "797-8272",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00022||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00023",
+   "field": "COT_TEL_NO",
+   "value": "3272-8275",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00023||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00024",
+   "field": "COT_TEL_NO",
+   "value": "793-0945",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00024||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00025",
+   "field": "COT_TEL_NO",
+   "value": "6954-1313",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00025||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00026",
+   "field": "COT_TEL_NO",
+   "value": "2291-4002",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00026||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00027",
+   "field": "COT_TEL_NO",
+   "value": "6954-7503",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00027||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00028",
+   "field": "COT_TEL_NO",
+   "value": "2295-3555",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00028||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00029",
+   "field": "COT_TEL_NO",
+   "value": "469-0900",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00029||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00030",
+   "field": "COT_TEL_NO",
+   "value": "2299-1942",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00030||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00031",
+   "field": "COT_TEL_NO",
+   "value": "2295-2544",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00031||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00032",
+   "field": "COT_TEL_NO",
+   "value": "2281-8593",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00032||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00033",
+   "field": "COT_TEL_NO",
+   "value": "2292-1535",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00033||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00034",
+   "field": "COT_TEL_NO",
+   "value": "446-1172",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00034||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00035",
+   "field": "COT_TEL_NO",
+   "value": "463-1331",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00035||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00036",
+   "field": "COT_TEL_NO",
+   "value": "6237-9357",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00036||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00037",
+   "field": "COT_TEL_NO",
+   "value": "2201-2900",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00037||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00038",
+   "field": "COT_TEL_NO",
+   "value": "969-9491",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00038||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00039",
+   "field": "COT_TEL_NO",
+   "value": "2212-2040",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00039||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00040",
+   "field": "COT_TEL_NO",
+   "value": "2242-8992",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00040||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00041",
+   "field": "COT_TEL_NO",
+   "value": "6959-0456",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00041||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00042",
+   "field": "COT_TEL_NO",
+   "value": "923-7610",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00042||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00043",
+   "field": "COT_TEL_NO",
+   "value": "959-6212",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00043||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00044",
+   "field": "COT_TEL_NO",
+   "value": "2245-9940",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00044||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00045",
+   "field": "COT_TEL_NO",
+   "value": "6949-5663",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00045||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00046",
+   "field": "COT_TEL_NO",
+   "value": "962-6300",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00046||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00047",
+   "field": "COT_TEL_NO",
+   "value": "969-7341",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00047||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00048",
+   "field": "COT_TEL_NO",
+   "value": "6217-7575",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00048||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00049",
+   "field": "COT_TEL_NO",
+   "value": "972-4300",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00049||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00050",
+   "field": "COT_TEL_NO",
+   "value": "439-5522",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00050||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00051",
+   "field": "COT_TEL_NO",
+   "value": "6952-5222",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00051||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00052",
+   "field": "COT_TEL_NO",
+   "value": "2209-2209",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00052||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00053",
+   "field": "COT_TEL_NO",
+   "value": "2038-3070",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00053||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00059",
+   "field": "COT_TEL_NO",
+   "value": "990-1116",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00059||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00060",
+   "field": "COT_TEL_NO",
+   "value": "905-3271",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00060||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00061",
+   "field": "COT_TEL_NO",
+   "value": "981-7772",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00061||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00062",
+   "field": "COT_TEL_NO",
+   "value": "945-7751",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00062||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00063",
+   "field": "COT_TEL_NO",
+   "value": "903-7201",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00063||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00064",
+   "field": "COT_TEL_NO",
+   "value": "903-7557",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00064||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00065",
+   "field": "COT_TEL_NO",
+   "value": "985-3364",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00065||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00066",
+   "field": "COT_TEL_NO",
+   "value": "6952-9777",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00066||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00069",
+   "field": "COT_TEL_NO",
+   "value": "6925-0002",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00069||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00070",
+   "field": "COT_TEL_NO",
+   "value": "979-5757",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00070||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00071",
+   "field": "COT_TEL_NO",
+   "value": "935-8305",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00071||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00072",
+   "field": "COT_TEL_NO",
+   "value": "948-4482",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00072||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00073",
+   "field": "COT_TEL_NO",
+   "value": "952-5200",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00073||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00074",
+   "field": "COT_TEL_NO",
+   "value": "909-8782",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00074||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00075",
+   "field": "COT_TEL_NO",
+   "value": "933-7501",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00075||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00076",
+   "field": "COT_TEL_NO",
+   "value": "938-7997",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00076||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00077",
+   "field": "COT_TEL_NO",
+   "value": "952-3735",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00077||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00078",
+   "field": "COT_TEL_NO",
+   "value": "356-6212",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00078||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00079",
+   "field": "COT_TEL_NO",
+   "value": "352-1872",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00079||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00080",
+   "field": "COT_TEL_NO",
+   "value": "382-0885",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00080||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00081",
+   "field": "COT_TEL_NO",
+   "value": "6380-6167",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00081||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00082",
+   "field": "COT_TEL_NO",
+   "value": "383-3155",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00082||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00083",
+   "field": "COT_TEL_NO",
+   "value": "353-7575",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00083||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00084",
+   "field": "COT_TEL_NO",
+   "value": "6956-7715",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00084||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00085",
+   "field": "COT_TEL_NO",
+   "value": "394-0887",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00085||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00086",
+   "field": "COT_TEL_NO",
+   "value": "336-0734",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00086||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00087",
+   "field": "COT_TEL_NO",
+   "value": "395-7737",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00087||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00088",
+   "field": "COT_TEL_NO",
+   "value": "365-1334",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00088||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00089",
+   "field": "COT_TEL_NO",
+   "value": "6949-5551",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00089||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00090",
+   "field": "COT_TEL_NO",
+   "value": "322-0082",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00090||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00091",
+   "field": "COT_TEL_NO",
+   "value": "3273-9591",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00091||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00092",
+   "field": "COT_TEL_NO",
+   "value": "365-8558",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00092||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00093",
+   "field": "COT_TEL_NO",
+   "value": "336-0166",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00093||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00094",
+   "field": "COT_TEL_NO",
+   "value": "702-1008",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00094||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00095",
+   "field": "COT_TEL_NO",
+   "value": "723-8189",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00095||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00096",
+   "field": "COT_TEL_NO",
+   "value": "2643-6435",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00096||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00097",
+   "field": "COT_TEL_NO",
+   "value": "2038-8075",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00097||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00098",
+   "field": "COT_TEL_NO",
+   "value": "6010-7582",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00098||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00099",
+   "field": "COT_TEL_NO",
+   "value": "2643-0006",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00099||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00100",
+   "field": "COT_TEL_NO",
+   "value": "2062-1119",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00100||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00101",
+   "field": "COT_TEL_NO",
+   "value": "2655-0729",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00101||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00102",
+   "field": "COT_TEL_NO",
+   "value": "6403-9139",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00102||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00103",
+   "field": "COT_TEL_NO",
+   "value": "2063-3618",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00103||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00104",
+   "field": "COT_TEL_NO",
+   "value": "2645-7502",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00104||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00105",
+   "field": "COT_TEL_NO",
+   "value": "2135-2924",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00105||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00106",
+   "field": "COT_TEL_NO",
+   "value": "6411-9088",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00106||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00107",
+   "field": "COT_TEL_NO",
+   "value": "6053-1416",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00107||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00108",
+   "field": "COT_TEL_NO",
+   "value": "2659-1610",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00108||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00109",
+   "field": "COT_TEL_NO",
+   "value": "6959-1175",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00109||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00110",
+   "field": "COT_TEL_NO",
+   "value": "2696-2538",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00110||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00111",
+   "field": "COT_TEL_NO",
+   "value": "2608-5558",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00111||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00112",
+   "field": "COT_TEL_NO",
+   "value": "830-8080",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00112||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00113",
+   "field": "COT_TEL_NO",
+   "value": "855-9996",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00113||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00114",
+   "field": "COT_TEL_NO",
+   "value": "2686-6449",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00114||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00115",
+   "field": "COT_TEL_NO",
+   "value": "864-7341",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00115||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00116",
+   "field": "COT_TEL_NO",
+   "value": "859-4469",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00116||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00117",
+   "field": "COT_TEL_NO",
+   "value": "856-4975",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00117||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00118",
+   "field": "COT_TEL_NO",
+   "value": "2038-7785",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00118||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00119",
+   "field": "COT_TEL_NO",
+   "value": "867-2022",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00119||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00120",
+   "field": "COT_TEL_NO",
+   "value": "2678-2679",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00120||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00121",
+   "field": "COT_TEL_NO",
+   "value": "3439-8818",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00121||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00122",
+   "field": "COT_TEL_NO",
+   "value": "857-7015",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00122||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00123",
+   "field": "COT_TEL_NO",
+   "value": "809-3088",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00123||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00124",
+   "field": "COT_TEL_NO",
+   "value": "6952-7551",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00124||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00125",
+   "field": "COT_TEL_NO",
+   "value": "894-7875",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00125||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00126",
+   "field": "COT_TEL_NO",
+   "value": "802-3180",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00126||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00127",
+   "field": "COT_TEL_NO",
+   "value": "2068-7486",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00127||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00128",
+   "field": "COT_TEL_NO",
+   "value": "6909-9870",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00128||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00129",
+   "field": "COT_TEL_NO",
+   "value": "2634-5691",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00129||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00130",
+   "field": "COT_TEL_NO",
+   "value": "2678-6355",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00130||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00131",
+   "field": "COT_TEL_NO",
+   "value": "2636-1044",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00131||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00132",
+   "field": "COT_TEL_NO",
+   "value": "2678-0088",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00132||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00133",
+   "field": "COT_TEL_NO",
+   "value": "780-1593",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00133||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00134",
+   "field": "COT_TEL_NO",
+   "value": "785-7008",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00134||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00135",
+   "field": "COT_TEL_NO",
+   "value": "6954-6997",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00135||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00136",
+   "field": "COT_TEL_NO",
+   "value": "6105-7520",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00136||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00137",
+   "field": "COT_TEL_NO",
+   "value": "2635-8277",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00137||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00138",
+   "field": "COT_TEL_NO",
+   "value": "2088-0869",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00138||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00139",
+   "field": "COT_TEL_NO",
+   "value": "3667-1338",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00139||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00140",
+   "field": "COT_TEL_NO",
+   "value": "780-7576",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00140||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00141",
+   "field": "COT_TEL_NO",
+   "value": "2677-7582",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00141||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00142",
+   "field": "COT_TEL_NO",
+   "value": "815-0353",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00142||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00143",
+   "field": "COT_TEL_NO",
+   "value": "596-0596",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00143||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00144",
+   "field": "COT_TEL_NO",
+   "value": "812-9494",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00144||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00145",
+   "field": "COT_TEL_NO",
+   "value": "812-2226",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00145||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00146",
+   "field": "COT_TEL_NO",
+   "value": "812-9888",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00146||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00147",
+   "field": "COT_TEL_NO",
+   "value": "521-0923",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00147||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00148",
+   "field": "COT_TEL_NO",
+   "value": "817-8275",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00148||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00149",
+   "field": "COT_TEL_NO",
+   "value": "859-8500",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00149||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00150",
+   "field": "COT_TEL_NO",
+   "value": "871-7121",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00150||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00151",
+   "field": "COT_TEL_NO",
+   "value": "872-0675",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00151||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00152",
+   "field": "COT_TEL_NO",
+   "value": "883-2082",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00152||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00153",
+   "field": "COT_TEL_NO",
+   "value": "889-7582",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00153||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00154",
+   "field": "COT_TEL_NO",
+   "value": "885-1857",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00154||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00155",
+   "field": "COT_TEL_NO",
+   "value": "872-9278",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00155||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00156",
+   "field": "COT_TEL_NO",
+   "value": "887-2158",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00156||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00157",
+   "field": "COT_TEL_NO",
+   "value": "830-7588",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00157||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00158",
+   "field": "COT_TEL_NO",
+   "value": "6267-7788",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00158||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00159",
+   "field": "COT_TEL_NO",
+   "value": "888-9860",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00159||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00160",
+   "field": "COT_TEL_NO",
+   "value": "6925-5515",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00160||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00161",
+   "field": "COT_TEL_NO",
+   "value": "6951-3344",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00161||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00162",
+   "field": "COT_TEL_NO",
+   "value": "523-2211",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00162||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00163",
+   "field": "COT_TEL_NO",
+   "value": "534-5568",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00163||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00164",
+   "field": "COT_TEL_NO",
+   "value": "597-8399",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00164||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00165",
+   "field": "COT_TEL_NO",
+   "value": "6207-3377",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00165||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00166",
+   "field": "COT_TEL_NO",
+   "value": "323-9197",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00166||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00167",
+   "field": "COT_TEL_NO",
+   "value": "3443-0075",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00167||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00168",
+   "field": "COT_TEL_NO",
+   "value": "537-9860",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00168||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00169",
+   "field": "COT_TEL_NO",
+   "value": "592-3742",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00169||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00170",
+   "field": "COT_TEL_NO",
+   "value": "534-2119",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00170||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00171",
+   "field": "COT_TEL_NO",
+   "value": "2267-3970",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00171||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00172",
+   "field": "COT_TEL_NO",
+   "value": "3463-7793",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00172||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00173",
+   "field": "COT_TEL_NO",
+   "value": "523-7008",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00173||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00174",
+   "field": "COT_TEL_NO",
+   "value": "525-0011",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00174||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00175",
+   "field": "COT_TEL_NO",
+   "value": "529-7599",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00175||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00176",
+   "field": "COT_TEL_NO",
+   "value": "540-7576",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00176||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00177",
+   "field": "COT_TEL_NO",
+   "value": "556-1359",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00177||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00178",
+   "field": "COT_TEL_NO",
+   "value": "556-6188",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00178||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00179",
+   "field": "COT_TEL_NO",
+   "value": "6956-4545",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00179||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00180",
+   "field": "COT_TEL_NO",
+   "value": "568-2075",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00180||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00181",
+   "field": "COT_TEL_NO",
+   "value": "558-7003",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00181||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00182",
+   "field": "COT_TEL_NO",
+   "value": "445-5575",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00182||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00183",
+   "field": "COT_TEL_NO",
+   "value": "2138-5568",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00183||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00184",
+   "field": "COT_TEL_NO",
+   "value": "543-6598",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00184||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00185",
+   "field": "COT_TEL_NO",
+   "value": "568-7008",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00185||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00186",
+   "field": "COT_TEL_NO",
+   "value": "565-1333",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00186||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00187",
+   "field": "COT_TEL_NO",
+   "value": "577-4745",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00187||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00188",
+   "field": "COT_TEL_NO",
+   "value": "577-7810",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00188||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00189",
+   "field": "COT_TEL_NO",
+   "value": "574-5748",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00189||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00190",
+   "field": "COT_TEL_NO",
+   "value": "6952-6119",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00190||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00191",
+   "field": "COT_TEL_NO",
+   "value": "6480-8777",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00191||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00192",
+   "field": "COT_TEL_NO",
+   "value": "6207-3140",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00192||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00193",
+   "field": "COT_TEL_NO",
+   "value": "515-1330",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00193||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00194",
+   "field": "COT_TEL_NO",
+   "value": "6475-7575",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00194||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00195",
+   "field": "COT_TEL_NO",
+   "value": "555-0405",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00195||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00196",
+   "field": "COT_TEL_NO",
+   "value": "555-7691",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00196||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00197",
+   "field": "COT_TEL_NO",
+   "value": "554-2999",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00197||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00198",
+   "field": "COT_TEL_NO",
+   "value": "419-0152",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00198||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00199",
+   "field": "COT_TEL_NO",
+   "value": "402-0667",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00199||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00200",
+   "field": "COT_TEL_NO",
+   "value": "2043-7737",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00200||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00201",
+   "field": "COT_TEL_NO",
+   "value": "2054-8977",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00201||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00202",
+   "field": "COT_TEL_NO",
+   "value": "425-1212",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00202||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00203",
+   "field": "COT_TEL_NO",
+   "value": "430-6251",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00203||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00204",
+   "field": "COT_TEL_NO",
+   "value": "2202-7512",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00204||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00205",
+   "field": "COT_TEL_NO",
+   "value": "416-1333",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00205||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00206",
+   "field": "COT_TEL_NO",
+   "value": "414-7755",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00206||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00207",
+   "field": "COT_TEL_NO",
+   "value": "449-7790",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00207||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00208",
+   "field": "COT_TEL_NO",
+   "value": "408-8359",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00208||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00209",
+   "field": "COT_TEL_NO",
+   "value": "427-5342",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00209||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00210",
+   "field": "COT_TEL_NO",
+   "value": "474-6007",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00210||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00211",
+   "field": "COT_TEL_NO",
+   "value": "484-0678",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00211||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00212",
+   "field": "COT_TEL_NO",
+   "value": "487-6220",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00212||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00213",
+   "field": "COT_TEL_NO",
+   "value": "488-8855",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00213||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00214",
+   "field": "COT_TEL_NO",
+   "value": "488-8555",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00214||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00215",
+   "field": "COT_TEL_NO",
+   "value": "482-5275",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00215||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00216",
+   "field": "COT_TEL_NO",
+   "value": "6383-7700",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00216||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00217",
+   "field": "COT_TEL_NO",
+   "value": "476-7533",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00217||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00218",
+   "field": "COT_TEL_NO",
+   "value": "485-4288",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00218||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00219",
+   "field": "COT_TEL_NO",
+   "value": "485-0055",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00219||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00220",
+   "field": "COT_TEL_NO",
+   "value": "485-3345",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00220||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00221",
+   "field": "COT_TEL_NO",
+   "value": "6953-7509",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00221||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00222",
+   "field": "COT_TEL_NO",
+   "value": "441-8575",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00222||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00223",
+   "field": "COT_TEL_NO",
+   "value": "6953-1905",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00223||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00224",
+   "field": "COT_TEL_NO",
+   "value": "473-1160",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00224||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "jongro00225",
+   "field": "COT_TEL_NO",
+   "value": "470-6656",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1670291660555|jongro00225||COT_TEL_NO"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "themeId": "1663564614080",
+ "rulesetVersion": 1,
+ "contentHash": "0abdbf43f576fad241bc80d85330fbd52beb99ed42c0018eac8a70d515e1a362",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "ID000117",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1663564614080|ID000117||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "ID000119",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1663564614080|ID000119||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "ID000148",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1663564614080|ID000148||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID000023",
+   "groupKey": "near:ID000023",
+   "field": "COT_CONTS_NAME",
+   "value": "정자",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID000023, ID000025",
+   "fingerprint": "C-09|1663564614080|ID000023|near:ID000023|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID000025",
+   "groupKey": "near:ID000023",
+   "field": "COT_CONTS_NAME",
+   "value": "정자",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID000023, ID000025",
+   "fingerprint": "C-09|1663564614080|ID000025|near:ID000023|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID000058",
+   "groupKey": "near:ID000058",
+   "field": "COT_CONTS_NAME",
+   "value": "물놀이장 안내문",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID000058, ID000059",
+   "fingerprint": "C-09|1663564614080|ID000058|near:ID000058|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID000059",
+   "groupKey": "near:ID000058",
+   "field": "COT_CONTS_NAME",
+   "value": "물놀이장 안내문",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID000058, ID000059",
+   "fingerprint": "C-09|1663564614080|ID000059|near:ID000058|COT_CONTS_NAME"
+  }
+ ]
+}

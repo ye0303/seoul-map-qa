@@ -1,0 +1,17 @@
+{
+ "themeId": "1777251935025",
+ "rulesetVersion": 1,
+ "contentHash": "4c69a27a6018289c11e21795efc36b7adb7251aacbe69560d5e00c1dd99c307e",
+ "findings": [
+  {
+   "ruleId": "C-05",
+   "contsId": "mulbitnaru_009",
+   "field": "COT_GU_NAME",
+   "value": "양천구",
+   "severity": "suspect",
+   "suggestion": "구로구",
+   "message": "구명(양천구)이 좌표·주소의 구(구로구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|1777251935025|mulbitnaru_009||COT_GU_NAME"
+  }
+ ]
+}

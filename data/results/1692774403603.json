@@ -1,0 +1,322 @@
+{
+ "themeId": "1692774403603",
+ "rulesetVersion": 1,
+ "contentHash": "9e5b30c99617ab2716214d99636cab021f743a3e05389b8dd8e55b64a7a2510e",
+ "findings": [
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000212",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000212||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000213",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "suspect",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|1692774403603|ID000213||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000321",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000321||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000322",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000322||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000323",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000323||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000324",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000324||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000325",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000325||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000326",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000326||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000327",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000327||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000328",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "suspect",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|1692774403603|ID000328||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000329",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000329||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000330",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "suspect",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|1692774403603|ID000330||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000347",
+   "field": "COT_GU_NAME",
+   "value": "서대문구",
+   "severity": "suspect",
+   "suggestion": "은평구",
+   "message": "구명(서대문구)이 좌표·주소의 구(은평구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|1692774403603|ID000347||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000357",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000357||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000358",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000358||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000359",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "suspect",
+   "message": "구명(마포구)과 좌표·주소의 구(서대문구)가 다릅니다. 이 좌표를 이름이 다른 장소 1곳이 함께 쓰고 있어 좌표·주소가 잘못 들어갔을 수 있습니다.",
+   "fingerprint": "C-05|1692774403603|ID000359||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000360",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "suspect",
+   "message": "구명(마포구)과 좌표·주소의 구(서대문구)가 다릅니다. 이 좌표를 이름이 다른 장소 1곳이 함께 쓰고 있어 좌표·주소가 잘못 들어갔을 수 있습니다.",
+   "fingerprint": "C-05|1692774403603|ID000360||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000361",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000361||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000362",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000362||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000363",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "suspect",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|1692774403603|ID000363||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000364",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000364||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000365",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000365||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000366",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000366||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000367",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000367||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000397",
+   "field": "COT_GU_NAME",
+   "value": "서대문구",
+   "severity": "suspect",
+   "suggestion": "은평구",
+   "message": "구명(서대문구)이 좌표·주소의 구(은평구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|1692774403603|ID000397||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000398",
+   "field": "COT_GU_NAME",
+   "value": "서대문구",
+   "severity": "suspect",
+   "suggestion": "은평구",
+   "message": "구명(서대문구)이 좌표·주소의 구(은평구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|1692774403603|ID000398||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000399",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000399||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000400",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000400||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000418",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "error",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다.",
+   "fingerprint": "C-05|1692774403603|ID000418||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "ID000443",
+   "field": "COT_GU_NAME",
+   "value": "서대문구",
+   "message": "구명(서대문구)과 주소의 구(마포구)가 다릅니다.",
+   "fingerprint": "C-06|1692774403603|ID000443||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "ID000445",
+   "field": "COT_GU_NAME",
+   "value": "서대문구",
+   "message": "구명(서대문구)과 주소의 구(마포구)가 다릅니다.",
+   "fingerprint": "C-06|1692774403603|ID000445||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "ID000446",
+   "field": "COT_GU_NAME",
+   "value": "서대문구",
+   "message": "구명(서대문구)과 주소의 구(마포구)가 다릅니다.",
+   "fingerprint": "C-06|1692774403603|ID000446||COT_GU_NAME"
+  }
+ ]
+}

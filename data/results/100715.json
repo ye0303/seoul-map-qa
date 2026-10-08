@@ -1,0 +1,86 @@
+{
+ "themeId": "100715",
+ "rulesetVersion": 1,
+ "contentHash": "9b086cdc870a2d663d1133bead8244664dc1b8f18ac61376ebc4bce3633d0a07",
+ "findings": [
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "100715_1733192748205",
+   "field": "COT_GU_NAME",
+   "value": "강동구",
+   "message": "구명(강동구)과 주소의 구(광진구)가 다릅니다.",
+   "fingerprint": "C-06|100715|100715_1733192748205||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "100715_1754631569276",
+   "field": "COT_GU_NAME",
+   "value": "관악구",
+   "message": "구명(관악구)과 주소의 구(금천구)가 다릅니다.",
+   "fingerprint": "C-06|100715|100715_1754631569276||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "A_009",
+   "field": "COT_GU_NAME",
+   "value": "서초구",
+   "message": "구명(서초구)과 주소의 구(동작구)가 다릅니다.",
+   "fingerprint": "C-06|100715|A_009||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "B_017",
+   "field": "COT_GU_NAME",
+   "value": "동작구",
+   "message": "구명(동작구)과 주소의 구(관악구)가 다릅니다.",
+   "fingerprint": "C-06|100715|B_017||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100715_1754625690768",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100715|100715_1754625690768||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100715_1754638139228",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100715|100715_1754638139228||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "A_014",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100715|A_014||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "A_033",
+   "field": "COT_GU_NAME",
+   "suggestion": "금천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100715|A_033||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "A_013",
+   "field": "COT_TEL_NO",
+   "value": "02-351-8023%7E5",
+   "suggestion": "02-351-8023~5",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100715|A_013||COT_TEL_NO"
+  }
+ ]
+}

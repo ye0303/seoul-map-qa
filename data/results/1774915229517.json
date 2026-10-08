@@ -1,0 +1,15 @@
+{
+ "themeId": "1774915229517",
+ "rulesetVersion": 1,
+ "contentHash": "6b984182d9ef0e76d8c0fd4cafef32583e02c6ffaffbdd1116a7b1d5edd9c8be",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "Oilst_065",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1774915229517|Oilst_065||COT_GU_NAME"
+  }
+ ]
+}

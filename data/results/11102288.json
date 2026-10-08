@@ -1,0 +1,695 @@
+{
+ "themeId": "11102288",
+ "rulesetVersion": 1,
+ "contentHash": "37588a507d15f2b5aa6fe7535348a20d8abe508d5fb9efd44afe15b0f5832e0e",
+ "findings": [
+  {
+   "ruleId": "C-04",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "outside",
+   "message": "서울 밖 장소가 1건 있습니다(주소도 서울 밖).",
+   "fingerprint": "C-04|11102288||outside|"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID100003",
+   "field": "COT_GU_NAME",
+   "value": "종로구",
+   "severity": "suspect",
+   "suggestion": "중구",
+   "message": "구명(종로구)이 좌표·주소의 구(중구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|11102288|ID100003||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "SP_17_00091",
+   "field": "COT_GU_NAME",
+   "value": "구로구",
+   "severity": "suspect",
+   "suggestion": "양천구",
+   "message": "구명(구로구)이 좌표·주소의 구(양천구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|11102288|SP_17_00091||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00005",
+   "groupKey": "coord:SP_01_00005",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 5",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00005, SP_01_00006",
+   "fingerprint": "C-08|11102288|SP_01_00005|coord:SP_01_00005|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00006",
+   "groupKey": "coord:SP_01_00005",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 6",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00005, SP_01_00006",
+   "fingerprint": "C-08|11102288|SP_01_00006|coord:SP_01_00005|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00021",
+   "groupKey": "coord:SP_01_00021",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 21",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00021, SP_01_00022",
+   "fingerprint": "C-08|11102288|SP_01_00021|coord:SP_01_00021|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00022",
+   "groupKey": "coord:SP_01_00021",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 22",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00021, SP_01_00022",
+   "fingerprint": "C-08|11102288|SP_01_00022|coord:SP_01_00021|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00026",
+   "groupKey": "coord:SP_01_00026",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 26",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: SP_01_00026, SP_01_00027, SP_01_00028",
+   "fingerprint": "C-08|11102288|SP_01_00026|coord:SP_01_00026|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00027",
+   "groupKey": "coord:SP_01_00026",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 27",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: SP_01_00026, SP_01_00027, SP_01_00028",
+   "fingerprint": "C-08|11102288|SP_01_00027|coord:SP_01_00026|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00028",
+   "groupKey": "coord:SP_01_00026",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 28",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: SP_01_00026, SP_01_00027, SP_01_00028",
+   "fingerprint": "C-08|11102288|SP_01_00028|coord:SP_01_00026|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00042",
+   "groupKey": "coord:SP_01_00042",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 42",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00042, SP_01_00043",
+   "fingerprint": "C-08|11102288|SP_01_00042|coord:SP_01_00042|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00043",
+   "groupKey": "coord:SP_01_00042",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 43",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00042, SP_01_00043",
+   "fingerprint": "C-08|11102288|SP_01_00043|coord:SP_01_00042|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00056",
+   "groupKey": "coord:SP_01_00056",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 56",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00056, SP_01_00057",
+   "fingerprint": "C-08|11102288|SP_01_00056|coord:SP_01_00056|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00057",
+   "groupKey": "coord:SP_01_00056",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 57",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00056, SP_01_00057",
+   "fingerprint": "C-08|11102288|SP_01_00057|coord:SP_01_00056|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00064",
+   "groupKey": "coord:SP_01_00064",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 64",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00064, SP_01_00065",
+   "fingerprint": "C-08|11102288|SP_01_00064|coord:SP_01_00064|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00065",
+   "groupKey": "coord:SP_01_00064",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 65",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00064, SP_01_00065",
+   "fingerprint": "C-08|11102288|SP_01_00065|coord:SP_01_00064|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00100",
+   "groupKey": "coord:SP_01_00100",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 100",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00100, SP_01_00101",
+   "fingerprint": "C-08|11102288|SP_01_00100|coord:SP_01_00100|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00101",
+   "groupKey": "coord:SP_01_00100",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 101",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00100, SP_01_00101",
+   "fingerprint": "C-08|11102288|SP_01_00101|coord:SP_01_00100|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00119",
+   "groupKey": "coord:SP_01_00119",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 119",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00119, SP_01_00120",
+   "fingerprint": "C-08|11102288|SP_01_00119|coord:SP_01_00119|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00120",
+   "groupKey": "coord:SP_01_00119",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 120",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00119, SP_01_00120",
+   "fingerprint": "C-08|11102288|SP_01_00120|coord:SP_01_00119|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00127",
+   "groupKey": "coord:SP_01_00127",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 127",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00127, SP_01_00129",
+   "fingerprint": "C-08|11102288|SP_01_00127|coord:SP_01_00127|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00128",
+   "groupKey": "coord:SP_01_00128",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 128",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00128, SP_01_00131",
+   "fingerprint": "C-08|11102288|SP_01_00128|coord:SP_01_00128|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00129",
+   "groupKey": "coord:SP_01_00127",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 129",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00127, SP_01_00129",
+   "fingerprint": "C-08|11102288|SP_01_00129|coord:SP_01_00127|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00131",
+   "groupKey": "coord:SP_01_00128",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 131",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00128, SP_01_00131",
+   "fingerprint": "C-08|11102288|SP_01_00131|coord:SP_01_00128|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00132",
+   "groupKey": "coord:SP_01_00132",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 132",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00132, SP_01_00134",
+   "fingerprint": "C-08|11102288|SP_01_00132|coord:SP_01_00132|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00133",
+   "groupKey": "coord:SP_01_00133",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 133",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00133, SP_01_00135",
+   "fingerprint": "C-08|11102288|SP_01_00133|coord:SP_01_00133|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00134",
+   "groupKey": "coord:SP_01_00132",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 134",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00132, SP_01_00134",
+   "fingerprint": "C-08|11102288|SP_01_00134|coord:SP_01_00132|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00135",
+   "groupKey": "coord:SP_01_00133",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 135",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00133, SP_01_00135",
+   "fingerprint": "C-08|11102288|SP_01_00135|coord:SP_01_00133|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00137",
+   "groupKey": "coord:SP_01_00137",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 137",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: SP_01_00137, SP_01_00139, SP_01_00140",
+   "fingerprint": "C-08|11102288|SP_01_00137|coord:SP_01_00137|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00139",
+   "groupKey": "coord:SP_01_00137",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 139",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: SP_01_00137, SP_01_00139, SP_01_00140",
+   "fingerprint": "C-08|11102288|SP_01_00139|coord:SP_01_00137|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00140",
+   "groupKey": "coord:SP_01_00137",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 140",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: SP_01_00137, SP_01_00139, SP_01_00140",
+   "fingerprint": "C-08|11102288|SP_01_00140|coord:SP_01_00137|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00172",
+   "groupKey": "coord:SP_01_00172",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 172",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00172, SP_01_00173",
+   "fingerprint": "C-08|11102288|SP_01_00172|coord:SP_01_00172|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00173",
+   "groupKey": "coord:SP_01_00172",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 173",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00172, SP_01_00173",
+   "fingerprint": "C-08|11102288|SP_01_00173|coord:SP_01_00172|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00174",
+   "groupKey": "coord:SP_01_00174",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 174",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00174, SP_01_00175",
+   "fingerprint": "C-08|11102288|SP_01_00174|coord:SP_01_00174|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_01_00175",
+   "groupKey": "coord:SP_01_00174",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구 스마트폴 175",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_01_00174, SP_01_00175",
+   "fingerprint": "C-08|11102288|SP_01_00175|coord:SP_01_00174|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_13_00008",
+   "groupKey": "coord:SP_13_00008",
+   "field": "COT_CONTS_NAME",
+   "value": "서대문구 스마트폴 8",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_13_00008, SP_13_00010",
+   "fingerprint": "C-08|11102288|SP_13_00008|coord:SP_13_00008|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_13_00010",
+   "groupKey": "coord:SP_13_00008",
+   "field": "COT_CONTS_NAME",
+   "value": "서대문구 스마트폴 10",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_13_00008, SP_13_00010",
+   "fingerprint": "C-08|11102288|SP_13_00010|coord:SP_13_00008|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_16_00017",
+   "groupKey": "coord:SP_16_00017",
+   "field": "COT_CONTS_NAME",
+   "value": "강서구 스마트폴 17",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_16_00017, SP_16_00018",
+   "fingerprint": "C-08|11102288|SP_16_00017|coord:SP_16_00017|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_16_00018",
+   "groupKey": "coord:SP_16_00017",
+   "field": "COT_CONTS_NAME",
+   "value": "강서구 스마트폴 18",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_16_00017, SP_16_00018",
+   "fingerprint": "C-08|11102288|SP_16_00018|coord:SP_16_00017|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_17_00151",
+   "groupKey": "coord:SP_17_00151",
+   "field": "COT_CONTS_NAME",
+   "value": "구로구 스마트폴 151",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_17_00151, SP_17_00175",
+   "fingerprint": "C-08|11102288|SP_17_00151|coord:SP_17_00151|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_17_00175",
+   "groupKey": "coord:SP_17_00151",
+   "field": "COT_CONTS_NAME",
+   "value": "구로구 스마트폴 175",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_17_00151, SP_17_00175",
+   "fingerprint": "C-08|11102288|SP_17_00175|coord:SP_17_00151|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_17_00306",
+   "groupKey": "coord:SP_17_00306",
+   "field": "COT_CONTS_NAME",
+   "value": "구로구 스마트폴 306",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_17_00306, SP_17_00319",
+   "fingerprint": "C-08|11102288|SP_17_00306|coord:SP_17_00306|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_17_00319",
+   "groupKey": "coord:SP_17_00306",
+   "field": "COT_CONTS_NAME",
+   "value": "구로구 스마트폴 319",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_17_00306, SP_17_00319",
+   "fingerprint": "C-08|11102288|SP_17_00319|coord:SP_17_00306|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_20_00001",
+   "groupKey": "coord:SP_20_00001",
+   "field": "COT_CONTS_NAME",
+   "value": "동작구 스마트폴 47",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_20_00001, SP_20_00002",
+   "fingerprint": "C-08|11102288|SP_20_00001|coord:SP_20_00001|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_20_00002",
+   "groupKey": "coord:SP_20_00001",
+   "field": "COT_CONTS_NAME",
+   "value": "동작구 스마트폴 48",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_20_00001, SP_20_00002",
+   "fingerprint": "C-08|11102288|SP_20_00002|coord:SP_20_00001|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_26_00009",
+   "groupKey": "coord:SP_26_00009",
+   "field": "COT_CONTS_NAME",
+   "value": "한강공원 스마트폴 9",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_26_00009, SP_26_00010",
+   "fingerprint": "C-08|11102288|SP_26_00009|coord:SP_26_00009|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_26_00010",
+   "groupKey": "coord:SP_26_00009",
+   "field": "COT_CONTS_NAME",
+   "value": "한강공원 스마트폴 10",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_26_00009, SP_26_00010",
+   "fingerprint": "C-08|11102288|SP_26_00010|coord:SP_26_00009|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_26_00012",
+   "groupKey": "coord:SP_26_00012",
+   "field": "COT_CONTS_NAME",
+   "value": "한강공원 스마트폴 12",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: SP_26_00012, SP_26_00013, SP_26_00014",
+   "fingerprint": "C-08|11102288|SP_26_00012|coord:SP_26_00012|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_26_00013",
+   "groupKey": "coord:SP_26_00012",
+   "field": "COT_CONTS_NAME",
+   "value": "한강공원 스마트폴 13",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: SP_26_00012, SP_26_00013, SP_26_00014",
+   "fingerprint": "C-08|11102288|SP_26_00013|coord:SP_26_00012|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_26_00014",
+   "groupKey": "coord:SP_26_00012",
+   "field": "COT_CONTS_NAME",
+   "value": "한강공원 스마트폴 14",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: SP_26_00012, SP_26_00013, SP_26_00014",
+   "fingerprint": "C-08|11102288|SP_26_00014|coord:SP_26_00012|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_26_00028",
+   "groupKey": "coord:SP_26_00028",
+   "field": "COT_CONTS_NAME",
+   "value": "한강공원 스마트폴 28",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_26_00028, SP_26_00029",
+   "fingerprint": "C-08|11102288|SP_26_00028|coord:SP_26_00028|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_26_00029",
+   "groupKey": "coord:SP_26_00028",
+   "field": "COT_CONTS_NAME",
+   "value": "한강공원 스마트폴 29",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: SP_26_00028, SP_26_00029",
+   "fingerprint": "C-08|11102288|SP_26_00029|coord:SP_26_00028|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_26_00031",
+   "groupKey": "coord:SP_26_00031",
+   "field": "COT_CONTS_NAME",
+   "value": "한강공원 스마트폴 31",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 6건 있습니다: SP_26_00031, SP_26_00032, SP_26_00033, SP_26_00034, SP_26_00035 외 1건",
+   "fingerprint": "C-08|11102288|SP_26_00031|coord:SP_26_00031|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_26_00032",
+   "groupKey": "coord:SP_26_00031",
+   "field": "COT_CONTS_NAME",
+   "value": "한강공원 스마트폴 32",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 6건 있습니다: SP_26_00031, SP_26_00032, SP_26_00033, SP_26_00034, SP_26_00035 외 1건",
+   "fingerprint": "C-08|11102288|SP_26_00032|coord:SP_26_00031|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_26_00033",
+   "groupKey": "coord:SP_26_00031",
+   "field": "COT_CONTS_NAME",
+   "value": "한강공원 스마트폴 33",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 6건 있습니다: SP_26_00031, SP_26_00032, SP_26_00033, SP_26_00034, SP_26_00035 외 1건",
+   "fingerprint": "C-08|11102288|SP_26_00033|coord:SP_26_00031|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_26_00034",
+   "groupKey": "coord:SP_26_00031",
+   "field": "COT_CONTS_NAME",
+   "value": "한강공원 스마트폴 34",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 6건 있습니다: SP_26_00031, SP_26_00032, SP_26_00033, SP_26_00034, SP_26_00035 외 1건",
+   "fingerprint": "C-08|11102288|SP_26_00034|coord:SP_26_00031|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_26_00035",
+   "groupKey": "coord:SP_26_00031",
+   "field": "COT_CONTS_NAME",
+   "value": "한강공원 스마트폴 35",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 6건 있습니다: SP_26_00031, SP_26_00032, SP_26_00033, SP_26_00034, SP_26_00035 외 1건",
+   "fingerprint": "C-08|11102288|SP_26_00035|coord:SP_26_00031|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "SP_26_00036",
+   "groupKey": "coord:SP_26_00031",
+   "field": "COT_CONTS_NAME",
+   "value": "한강공원 스마트폴 36",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 6건 있습니다: SP_26_00031, SP_26_00032, SP_26_00033, SP_26_00034, SP_26_00035 외 1건",
+   "fingerprint": "C-08|11102288|SP_26_00036|coord:SP_26_00031|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "11102288_1744936741159",
+   "groupKey": "near:11102288_1744936741159",
+   "field": "COT_CONTS_NAME",
+   "value": "광진구스마트폴 28",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 11102288_1744936741159, 11102288_1744937274837",
+   "fingerprint": "C-09|11102288|11102288_1744936741159|near:11102288_1744936741159|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "11102288_1744937274837",
+   "groupKey": "near:11102288_1744936741159",
+   "field": "COT_CONTS_NAME",
+   "value": "광진구 스마트폴 28",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 11102288_1744936741159, 11102288_1744937274837",
+   "fingerprint": "C-09|11102288|11102288_1744937274837|near:11102288_1744936741159|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "2019handsomeseoul_002",
+   "field": "COT_TEL_NO",
+   "value": "318-0903",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11102288|2019handsomeseoul_002||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "2019handsomeseoul_009",
+   "field": "COT_TEL_NO",
+   "value": "724-0135",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11102288|2019handsomeseoul_009||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "2019handsomeseoul_012",
+   "field": "COT_TEL_NO",
+   "value": "2153-0400",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11102288|2019handsomeseoul_012||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "2019handsomeseoul_013",
+   "field": "COT_TEL_NO",
+   "value": "2211-2540",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11102288|2019handsomeseoul_013||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "2019handsomeseoul_019",
+   "field": "COT_TEL_NO",
+   "value": "739-6994",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11102288|2019handsomeseoul_019||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "2019handsomeseoul_020",
+   "field": "COT_TEL_NO",
+   "value": "313-7017",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11102288|2019handsomeseoul_020||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "2019handsomeseoul_025",
+   "field": "COT_TEL_NO",
+   "value": "2273-5505",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11102288|2019handsomeseoul_025||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "DanGil_011",
+   "field": "COT_TEL_NO",
+   "value": "2094-2373",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11102288|DanGil_011||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "DanGil_099",
+   "field": "COT_TEL_NO",
+   "value": "2116-3958",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|11102288|DanGil_099||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "SeoulLiter_039",
+   "field": "COT_TEL_NO",
+   "value": "02-741~4696~7",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|11102288|SeoulLiter_039||COT_TEL_NO"
+  }
+ ]
+}

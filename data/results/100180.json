@@ -1,0 +1,61 @@
+{
+ "themeId": "100180",
+ "rulesetVersion": 1,
+ "contentHash": "d3896e3465dd9086c16c98d15f01048b4653abab0116c4bbf096dd2da970b700",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100180_1717397096166",
+   "field": "COT_GU_NAME",
+   "suggestion": "구로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100180|100180_1717397096166||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100180_1782437416001",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100180|100180_1782437416001||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100180_1784167339634",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100180|100180_1784167339634||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "국사봉체육관",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100180|국사봉체육관||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "안심택배함(강일동주민센터)",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100180|안심택배함(강일동주민센터)||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "안심택배함(응봉동공영주차장)",
+   "field": "COT_GU_NAME",
+   "suggestion": "성동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100180|안심택배함(응봉동공영주차장)||COT_GU_NAME"
+  }
+ ]
+}

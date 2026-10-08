@@ -1,0 +1,82 @@
+{
+ "themeId": "1693986134109",
+ "rulesetVersion": 1,
+ "contentHash": "7ee0ad4ab246a11144cf3b794c834b76ec09b80b73ba5efa77b8d4f70d3d5c12",
+ "findings": [
+  {
+   "ruleId": "C-04",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "outside",
+   "message": "서울 밖 장소가 1건 있습니다(주소도 서울 밖).",
+   "fingerprint": "C-04|1693986134109||outside|"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "eco_tumbler_196",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1693986134109|eco_tumbler_196||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "eco_tumbler_251",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1693986134109|eco_tumbler_251||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "eco_tumbler_078",
+   "groupKey": "coord:eco_tumbler_078",
+   "field": "COT_CONTS_NAME",
+   "value": "텐퍼센트커피 가산한화비즈2차점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: eco_tumbler_078, eco_tumbler_241",
+   "fingerprint": "C-08|1693986134109|eco_tumbler_078|coord:eco_tumbler_078|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "eco_tumbler_179",
+   "groupKey": "coord:eco_tumbler_179",
+   "field": "COT_CONTS_NAME",
+   "value": "카페 안젤로 서울성모점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: eco_tumbler_179, eco_tumbler_180, eco_tumbler_183",
+   "fingerprint": "C-08|1693986134109|eco_tumbler_179|coord:eco_tumbler_179|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "eco_tumbler_180",
+   "groupKey": "coord:eco_tumbler_179",
+   "field": "COT_CONTS_NAME",
+   "value": "카페 안젤로 서울장례점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: eco_tumbler_179, eco_tumbler_180, eco_tumbler_183",
+   "fingerprint": "C-08|1693986134109|eco_tumbler_180|coord:eco_tumbler_179|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "eco_tumbler_183",
+   "groupKey": "coord:eco_tumbler_179",
+   "field": "COT_CONTS_NAME",
+   "value": "카페 안젤로보노 서울성모점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: eco_tumbler_179, eco_tumbler_180, eco_tumbler_183",
+   "fingerprint": "C-08|1693986134109|eco_tumbler_183|coord:eco_tumbler_179|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "eco_tumbler_241",
+   "groupKey": "coord:eco_tumbler_078",
+   "field": "COT_CONTS_NAME",
+   "value": "텐퍼센트 가산한화비즈2차점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: eco_tumbler_078, eco_tumbler_241",
+   "fingerprint": "C-08|1693986134109|eco_tumbler_241|coord:eco_tumbler_078|COT_CONTS_NAME"
+  }
+ ]
+}

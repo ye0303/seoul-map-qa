@@ -1,0 +1,393 @@
+{
+ "themeId": "1648776043679",
+ "rulesetVersion": 1,
+ "contentHash": "0a30e1e74e6be827ef40beb9acca81b50efa263f3a92550907e3a99a676698a6",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1648776043679_1773815546986",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1648776043679|1648776043679_1773815546986||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1648776043679_1773820669023",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1648776043679|1648776043679_1773820669023||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1648776043679_1773893407015",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1648776043679|1648776043679_1773893407015||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1648776043679_1773893613350",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1648776043679|1648776043679_1773893613350||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1648776043679_1773893834177",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1648776043679|1648776043679_1773893834177||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1648776043679_1773894074728",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1648776043679|1648776043679_1773894074728||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1648776043679_1773894900074",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1648776043679|1648776043679_1773894900074||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1648776043679_1773895055209",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1648776043679|1648776043679_1773895055209||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1648776043679_1773895204551",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1648776043679|1648776043679_1773895204551||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1648776043679_1773895358685",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1648776043679|1648776043679_1773895358685||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1648776043679_1773895496317",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1648776043679|1648776043679_1773895496317||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1648776043679_1773895621019",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1648776043679|1648776043679_1773895621019||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1648776043679_1773897360938",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1648776043679|1648776043679_1773897360938||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1648776043679_1774227991105",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1648776043679|1648776043679_1774227991105||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1648776043679_1774228252465",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1648776043679|1648776043679_1774228252465||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1648776043679_1774229263096",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1648776043679|1648776043679_1774229263096||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1648776043679_1774229715547",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1648776043679|1648776043679_1774229715547||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1648776043679_1774239928449",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1648776043679|1648776043679_1774239928449||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_0783",
+   "groupKey": "coord:TRA_FACIL_0783",
+   "field": "COT_CONTS_NAME",
+   "value": "염화칼슘 보관의 집(신길1동)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TRA_FACIL_0783, TRA_FACIL_0784",
+   "fingerprint": "C-08|1648776043679|TRA_FACIL_0783|coord:TRA_FACIL_0783|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_0783",
+   "groupKey": "same:TRA_FACIL_0783",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: TRA_FACIL_0783, TRA_FACIL_0784",
+   "fingerprint": "C-08|1648776043679|TRA_FACIL_0783|same:TRA_FACIL_0783|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_0784",
+   "groupKey": "coord:TRA_FACIL_0783",
+   "field": "COT_CONTS_NAME",
+   "value": "염화칼슘 보관의 집(신길1동)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TRA_FACIL_0783, TRA_FACIL_0784",
+   "fingerprint": "C-08|1648776043679|TRA_FACIL_0784|coord:TRA_FACIL_0783|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_0784",
+   "groupKey": "same:TRA_FACIL_0783",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: TRA_FACIL_0783, TRA_FACIL_0784",
+   "fingerprint": "C-08|1648776043679|TRA_FACIL_0784|same:TRA_FACIL_0783|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_0832",
+   "groupKey": "coord:TRA_FACIL_0832",
+   "field": "COT_CONTS_NAME",
+   "value": "염화칼슘 보관의 집(신길4동)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TRA_FACIL_0832, TRA_FACIL_0833",
+   "fingerprint": "C-08|1648776043679|TRA_FACIL_0832|coord:TRA_FACIL_0832|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_0832",
+   "groupKey": "same:TRA_FACIL_0832",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: TRA_FACIL_0832, TRA_FACIL_0833",
+   "fingerprint": "C-08|1648776043679|TRA_FACIL_0832|same:TRA_FACIL_0832|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_0833",
+   "groupKey": "coord:TRA_FACIL_0832",
+   "field": "COT_CONTS_NAME",
+   "value": "염화칼슘 보관의 집(신길4동)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TRA_FACIL_0832, TRA_FACIL_0833",
+   "fingerprint": "C-08|1648776043679|TRA_FACIL_0833|coord:TRA_FACIL_0832|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_0833",
+   "groupKey": "same:TRA_FACIL_0832",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: TRA_FACIL_0832, TRA_FACIL_0833",
+   "fingerprint": "C-08|1648776043679|TRA_FACIL_0833|same:TRA_FACIL_0832|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_0840",
+   "groupKey": "coord:TRA_FACIL_0840",
+   "field": "COT_CONTS_NAME",
+   "value": "염화칼슘 보관의 집(신길5동)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TRA_FACIL_0840, TRA_FACIL_0841",
+   "fingerprint": "C-08|1648776043679|TRA_FACIL_0840|coord:TRA_FACIL_0840|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_0841",
+   "groupKey": "coord:TRA_FACIL_0840",
+   "field": "COT_CONTS_NAME",
+   "value": "염화칼슘 보관의 집(신길5동)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TRA_FACIL_0840, TRA_FACIL_0841",
+   "fingerprint": "C-08|1648776043679|TRA_FACIL_0841|coord:TRA_FACIL_0840|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_2228",
+   "groupKey": "coord:TRA_FACIL_2228",
+   "field": "COT_CONTS_NAME",
+   "value": "염화칼슘 보관의 집(신길1동)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TRA_FACIL_2228, TRA_FACIL_2229",
+   "fingerprint": "C-08|1648776043679|TRA_FACIL_2228|coord:TRA_FACIL_2228|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_2228",
+   "groupKey": "same:TRA_FACIL_2228",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: TRA_FACIL_2228, TRA_FACIL_2229",
+   "fingerprint": "C-08|1648776043679|TRA_FACIL_2228|same:TRA_FACIL_2228|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_2229",
+   "groupKey": "coord:TRA_FACIL_2228",
+   "field": "COT_CONTS_NAME",
+   "value": "염화칼슘 보관의 집(신길1동)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TRA_FACIL_2228, TRA_FACIL_2229",
+   "fingerprint": "C-08|1648776043679|TRA_FACIL_2229|coord:TRA_FACIL_2228|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_2229",
+   "groupKey": "same:TRA_FACIL_2228",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: TRA_FACIL_2228, TRA_FACIL_2229",
+   "fingerprint": "C-08|1648776043679|TRA_FACIL_2229|same:TRA_FACIL_2228|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_2277",
+   "groupKey": "coord:TRA_FACIL_2277",
+   "field": "COT_CONTS_NAME",
+   "value": "염화칼슘 보관의 집(신길4동)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TRA_FACIL_2277, TRA_FACIL_2278",
+   "fingerprint": "C-08|1648776043679|TRA_FACIL_2277|coord:TRA_FACIL_2277|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_2277",
+   "groupKey": "same:TRA_FACIL_2277",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: TRA_FACIL_2277, TRA_FACIL_2278",
+   "fingerprint": "C-08|1648776043679|TRA_FACIL_2277|same:TRA_FACIL_2277|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_2278",
+   "groupKey": "coord:TRA_FACIL_2277",
+   "field": "COT_CONTS_NAME",
+   "value": "염화칼슘 보관의 집(신길4동)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: TRA_FACIL_2277, TRA_FACIL_2278",
+   "fingerprint": "C-08|1648776043679|TRA_FACIL_2278|coord:TRA_FACIL_2277|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_2278",
+   "groupKey": "same:TRA_FACIL_2277",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: TRA_FACIL_2277, TRA_FACIL_2278",
+   "fingerprint": "C-08|1648776043679|TRA_FACIL_2278|same:TRA_FACIL_2277|"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_2021",
+   "groupKey": "near:TRA_FACIL_2021",
+   "field": "COT_CONTS_NAME",
+   "value": "염화칼슘보관함(국제금융로)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: TRA_FACIL_2021, TRA_FACIL_2131",
+   "fingerprint": "C-09|1648776043679|TRA_FACIL_2021|near:TRA_FACIL_2021|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_2107",
+   "groupKey": "near:TRA_FACIL_2107",
+   "field": "COT_CONTS_NAME",
+   "value": "염화칼슘보관함(가마산로79길)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: TRA_FACIL_2107, TRA_FACIL_2112",
+   "fingerprint": "C-09|1648776043679|TRA_FACIL_2107|near:TRA_FACIL_2107|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_2112",
+   "groupKey": "near:TRA_FACIL_2107",
+   "field": "COT_CONTS_NAME",
+   "value": "염화칼슘보관함(가마산로79길)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: TRA_FACIL_2107, TRA_FACIL_2112",
+   "fingerprint": "C-09|1648776043679|TRA_FACIL_2112|near:TRA_FACIL_2107|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_2131",
+   "groupKey": "near:TRA_FACIL_2021",
+   "field": "COT_CONTS_NAME",
+   "value": "염화칼슘보관함(국제금융로)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: TRA_FACIL_2021, TRA_FACIL_2131",
+   "fingerprint": "C-09|1648776043679|TRA_FACIL_2131|near:TRA_FACIL_2021|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_2431",
+   "groupKey": "near:TRA_FACIL_2431",
+   "field": "COT_CONTS_NAME",
+   "value": "염화칼슘보관함(노들로)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: TRA_FACIL_2431, TRA_FACIL_2432",
+   "fingerprint": "C-09|1648776043679|TRA_FACIL_2431|near:TRA_FACIL_2431|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "TRA_FACIL_2432",
+   "groupKey": "near:TRA_FACIL_2431",
+   "field": "COT_CONTS_NAME",
+   "value": "염화칼슘보관함(노들로)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: TRA_FACIL_2431, TRA_FACIL_2432",
+   "fingerprint": "C-09|1648776043679|TRA_FACIL_2432|near:TRA_FACIL_2431|COT_CONTS_NAME"
+  }
+ ]
+}

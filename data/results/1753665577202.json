@@ -1,0 +1,316 @@
+{
+ "themeId": "1753665577202",
+ "rulesetVersion": 1,
+ "contentHash": "b3d05c3e144f74571fef63ad2316311cfa2bfa2ee98054121fedeee1fdb560a7",
+ "findings": [
+  {
+   "ruleId": "C-05",
+   "contsId": "sw0065",
+   "field": "COT_GU_NAME",
+   "value": "중구",
+   "severity": "error",
+   "suggestion": "종로구",
+   "message": "구명(중구)이 좌표·주소의 구(종로구)와 다릅니다.",
+   "fingerprint": "C-05|1753665577202|sw0065||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "sw0066",
+   "field": "COT_GU_NAME",
+   "value": "중구",
+   "severity": "error",
+   "suggestion": "종로구",
+   "message": "구명(중구)이 좌표·주소의 구(종로구)와 다릅니다.",
+   "fingerprint": "C-05|1753665577202|sw0066||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "sw0067",
+   "field": "COT_GU_NAME",
+   "value": "중구",
+   "severity": "error",
+   "suggestion": "종로구",
+   "message": "구명(중구)이 좌표·주소의 구(종로구)와 다릅니다.",
+   "fingerprint": "C-05|1753665577202|sw0067||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sw0173",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1753665577202|sw0173||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0026",
+   "groupKey": "coord:sw0026",
+   "field": "COT_CONTS_NAME",
+   "value": "국립현대미술관 서울 MMCA Seoul",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: sw0026, sw0027, sw0028, sw0029, sw0030",
+   "fingerprint": "C-08|1753665577202|sw0026|coord:sw0026|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0027",
+   "groupKey": "coord:sw0026",
+   "field": "COT_CONTS_NAME",
+   "value": "국립현대미술관 서울 MMCA Seoul",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: sw0026, sw0027, sw0028, sw0029, sw0030",
+   "fingerprint": "C-08|1753665577202|sw0027|coord:sw0026|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0028",
+   "groupKey": "coord:sw0026",
+   "field": "COT_CONTS_NAME",
+   "value": "국립현대미술관 서울 MMCA Seoul",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: sw0026, sw0027, sw0028, sw0029, sw0030",
+   "fingerprint": "C-08|1753665577202|sw0028|coord:sw0026|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0029",
+   "groupKey": "coord:sw0026",
+   "field": "COT_CONTS_NAME",
+   "value": "국립현대미술관 서울 MMCA Seoul",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: sw0026, sw0027, sw0028, sw0029, sw0030",
+   "fingerprint": "C-08|1753665577202|sw0029|coord:sw0026|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0030",
+   "groupKey": "coord:sw0026",
+   "field": "COT_CONTS_NAME",
+   "value": "국립현대미술관 서울 MMCA Seoul",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: sw0026, sw0027, sw0028, sw0029, sw0030",
+   "fingerprint": "C-08|1753665577202|sw0030|coord:sw0026|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0031",
+   "groupKey": "coord:sw0031",
+   "field": "COT_CONTS_NAME",
+   "value": "국제갤러리Kukje Gallery",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sw0031, sw0032",
+   "fingerprint": "C-08|1753665577202|sw0031|coord:sw0031|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0032",
+   "groupKey": "coord:sw0031",
+   "field": "COT_CONTS_NAME",
+   "value": "국제갤러리Kukje Gallery",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sw0031, sw0032",
+   "fingerprint": "C-08|1753665577202|sw0032|coord:sw0031|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0040",
+   "groupKey": "coord:sw0040",
+   "field": "COT_CONTS_NAME",
+   "value": "더 소소The SoSo",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sw0040, sw0041",
+   "fingerprint": "C-08|1753665577202|sw0040|coord:sw0040|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0041",
+   "groupKey": "coord:sw0040",
+   "field": "COT_CONTS_NAME",
+   "value": "더 소소The SoSo",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sw0040, sw0041",
+   "fingerprint": "C-08|1753665577202|sw0041|coord:sw0040|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0054",
+   "groupKey": "coord:sw0054",
+   "field": "COT_CONTS_NAME",
+   "value": "마이아트뮤지엄 원그로브점 MY ART MUSEUM ONE GROVE",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sw0054, sw0055",
+   "fingerprint": "C-08|1753665577202|sw0054|coord:sw0054|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0055",
+   "groupKey": "coord:sw0054",
+   "field": "COT_CONTS_NAME",
+   "value": "마이아트뮤지엄 원그로브점 MY ART MUSEUM ONE GROVE",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sw0054, sw0055",
+   "fingerprint": "C-08|1753665577202|sw0055|coord:sw0054|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0062",
+   "groupKey": "coord:sw0062",
+   "field": "COT_CONTS_NAME",
+   "value": "상업화랑Sahng-up Gallery",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sw0062, sw0063",
+   "fingerprint": "C-08|1753665577202|sw0062|coord:sw0062|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0063",
+   "groupKey": "coord:sw0062",
+   "field": "COT_CONTS_NAME",
+   "value": "상업화랑Sahng-up Gallery",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sw0062, sw0063",
+   "fingerprint": "C-08|1753665577202|sw0063|coord:sw0062|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0065",
+   "groupKey": "coord:sw0065",
+   "field": "COT_CONTS_NAME",
+   "value": "서울디자인재단 Seoul Design Foundation",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sw0065, sw0066, sw0067",
+   "fingerprint": "C-08|1753665577202|sw0065|coord:sw0065|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0066",
+   "groupKey": "coord:sw0065",
+   "field": "COT_CONTS_NAME",
+   "value": "서울디자인재단 Seoul Design Foundation",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sw0065, sw0066, sw0067",
+   "fingerprint": "C-08|1753665577202|sw0066|coord:sw0065|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0067",
+   "groupKey": "coord:sw0065",
+   "field": "COT_CONTS_NAME",
+   "value": "서울디자인재단 Seoul Design Foundation",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sw0065, sw0066, sw0067",
+   "fingerprint": "C-08|1753665577202|sw0067|coord:sw0065|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0088",
+   "groupKey": "coord:sw0088",
+   "field": "COT_CONTS_NAME",
+   "value": "아트센터 예술의 시간Art Center Art Moment",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sw0088, sw0089",
+   "fingerprint": "C-08|1753665577202|sw0088|coord:sw0088|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0089",
+   "groupKey": "coord:sw0088",
+   "field": "COT_CONTS_NAME",
+   "value": "아트센터 예술의 시간Art Center Art Moment",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sw0088, sw0089",
+   "fingerprint": "C-08|1753665577202|sw0089|coord:sw0088|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0094",
+   "groupKey": "coord:sw0094",
+   "field": "COT_CONTS_NAME",
+   "value": "에브리아트everyArt",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sw0094, sw0095",
+   "fingerprint": "C-08|1753665577202|sw0094|coord:sw0094|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0095",
+   "groupKey": "coord:sw0094",
+   "field": "COT_CONTS_NAME",
+   "value": "에브리아트everyArt",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sw0094, sw0095",
+   "fingerprint": "C-08|1753665577202|sw0095|coord:sw0094|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0112",
+   "groupKey": "coord:sw0112",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구립 박노수미술관Pak No-soo Art Museum",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sw0112, sw0113",
+   "fingerprint": "C-08|1753665577202|sw0112|coord:sw0112|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0113",
+   "groupKey": "coord:sw0112",
+   "field": "COT_CONTS_NAME",
+   "value": "종로구립 박노수미술관Pak No-soo Art Museum",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sw0112, sw0113",
+   "fingerprint": "C-08|1753665577202|sw0113|coord:sw0112|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0120",
+   "groupKey": "coord:sw0120",
+   "field": "COT_CONTS_NAME",
+   "value": "캡션CAPTION",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sw0120, sw0121",
+   "fingerprint": "C-08|1753665577202|sw0120|coord:sw0120|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0121",
+   "groupKey": "coord:sw0120",
+   "field": "COT_CONTS_NAME",
+   "value": "캡션CAPTION",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sw0120, sw0121",
+   "fingerprint": "C-08|1753665577202|sw0121|coord:sw0120|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0136",
+   "groupKey": "coord:sw0136",
+   "field": "COT_CONTS_NAME",
+   "value": "플로우앤비트Flownbeat",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sw0136, sw0137",
+   "fingerprint": "C-08|1753665577202|sw0136|coord:sw0136|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sw0137",
+   "groupKey": "coord:sw0136",
+   "field": "COT_CONTS_NAME",
+   "value": "플로우앤비트Flownbeat",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sw0136, sw0137",
+   "fingerprint": "C-08|1753665577202|sw0137|coord:sw0136|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "sw0146",
+   "field": "COT_TEL_NO",
+   "value": "02%26ndash%3B794%26ndash%3B4775",
+   "suggestion": "02&ndash;794&ndash;4775",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1753665577202|sw0146||COT_TEL_NO"
+  }
+ ]
+}

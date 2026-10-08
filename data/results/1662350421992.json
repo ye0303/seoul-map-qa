@@ -1,0 +1,16 @@
+{
+ "themeId": "1662350421992",
+ "rulesetVersion": 1,
+ "contentHash": "83f8bb8da8c20b1ebd27eee2e951ff25ea786578dbeaec3b6f0f166ef441ad33",
+ "findings": [
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "ID000001",
+   "field": "COT_TEL_NO",
+   "value": "02-440-581",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1662350421992|ID000001||COT_TEL_NO"
+  }
+ ]
+}

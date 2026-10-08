@@ -1,0 +1,1665 @@
+{
+ "themeId": "100732",
+ "rulesetVersion": 1,
+ "contentHash": "de748991b6447fd6c9d728ce55d7d00f03ff01cf721515a12f52fee0ae4058e9",
+ "findings": [
+  {
+   "ruleId": "C-05",
+   "contsId": "ID000585",
+   "field": "COT_GU_NAME",
+   "value": "관악구",
+   "severity": "error",
+   "suggestion": "금천구",
+   "message": "구명(관악구)이 좌표·주소의 구(금천구)와 다릅니다.",
+   "fingerprint": "C-05|100732|ID000585||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID001012",
+   "field": "COT_GU_NAME",
+   "value": "관악구",
+   "severity": "suspect",
+   "suggestion": "동작구",
+   "message": "구명(관악구)이 좌표·주소의 구(동작구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|100732|ID001012||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100732_1686300906023",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100732|100732_1686300906023||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "ID000628",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100732|ID000628||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "ID002027",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100732|ID002027||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "ID002028",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100732|ID002028||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "ID002029",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100732|ID002029||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "ID002030",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100732|ID002030||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "ID002031",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100732|ID002031||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "ID002032",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100732|ID002032||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "ID002033",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100732|ID002033||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "ID2034",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100732|ID2034||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000454",
+   "groupKey": "coord:ID000454",
+   "field": "COT_CONTS_NAME",
+   "value": "서울대학교어린이보육지원센터 느티나무어린이집",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000454, ID000455",
+   "fingerprint": "C-08|100732|ID000454|coord:ID000454|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000455",
+   "groupKey": "coord:ID000454",
+   "field": "COT_CONTS_NAME",
+   "value": "서울대학교어린이보육지원센터 백학어린이집",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000454, ID000455",
+   "fingerprint": "C-08|100732|ID000455|coord:ID000454|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000598",
+   "groupKey": "coord:ID000598",
+   "field": "COT_CONTS_NAME",
+   "value": "휴먼시아아파트3 경로당",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000598, ID000599",
+   "fingerprint": "C-08|100732|ID000598|coord:ID000598|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000599",
+   "groupKey": "coord:ID000598",
+   "field": "COT_CONTS_NAME",
+   "value": "휴먼시아아파트4 경로당",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000598, ID000599",
+   "fingerprint": "C-08|100732|ID000599|coord:ID000598|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000641",
+   "groupKey": "coord:ID000641",
+   "field": "COT_CONTS_NAME",
+   "value": "서울남부초등학교",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000641, ID000659",
+   "fingerprint": "C-08|100732|ID000641|coord:ID000641|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000659",
+   "groupKey": "coord:ID000641",
+   "field": "COT_CONTS_NAME",
+   "value": "서울남부초등학교",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000641, ID000659",
+   "fingerprint": "C-08|100732|ID000659|coord:ID000641|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID053524",
+   "groupKey": "coord:ID053524",
+   "field": "COT_CONTS_NAME",
+   "value": "미성체육관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID053524, ID053537",
+   "fingerprint": "C-08|100732|ID053524|coord:ID053524|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID053537",
+   "groupKey": "coord:ID053524",
+   "field": "COT_CONTS_NAME",
+   "value": "미성체육관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID053524, ID053537",
+   "fingerprint": "C-08|100732|ID053537|coord:ID053524|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-15",
+   "groupKey": "coord:간선-15",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 간선-15, 대학동-5",
+   "fingerprint": "C-08|100732|간선-15|coord:간선-15|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-15",
+   "groupKey": "same:간선-15",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 간선-15, 대학동-5",
+   "fingerprint": "C-08|100732|간선-15|same:간선-15|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-19",
+   "groupKey": "coord:간선-19",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 간선-19, 신원동-13",
+   "fingerprint": "C-08|100732|간선-19|coord:간선-19|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-19",
+   "groupKey": "same:간선-19",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 간선-19, 신원동-13",
+   "fingerprint": "C-08|100732|간선-19|same:간선-19|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-3",
+   "groupKey": "coord:간선-3",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 간선-3, 간선-6",
+   "fingerprint": "C-08|100732|간선-3|coord:간선-3|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-3",
+   "groupKey": "same:간선-3",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 간선-3, 간선-6",
+   "fingerprint": "C-08|100732|간선-3|same:간선-3|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-38",
+   "groupKey": "coord:간선-38",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 간선-38, 청룡동-4",
+   "fingerprint": "C-08|100732|간선-38|coord:간선-38|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-38",
+   "groupKey": "same:간선-38",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 간선-38, 청룡동-4",
+   "fingerprint": "C-08|100732|간선-38|same:간선-38|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-39",
+   "groupKey": "coord:간선-39",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 간선-39, 청룡동-1",
+   "fingerprint": "C-08|100732|간선-39|coord:간선-39|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-39",
+   "groupKey": "same:간선-39",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 간선-39, 청룡동-1",
+   "fingerprint": "C-08|100732|간선-39|same:간선-39|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-43",
+   "groupKey": "coord:간선-43",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 간선-43, 간선-44, 간선-45",
+   "fingerprint": "C-08|100732|간선-43|coord:간선-43|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-43",
+   "groupKey": "same:간선-43",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 간선-43, 간선-44, 간선-45",
+   "fingerprint": "C-08|100732|간선-43|same:간선-43|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-44",
+   "groupKey": "coord:간선-43",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 간선-43, 간선-44, 간선-45",
+   "fingerprint": "C-08|100732|간선-44|coord:간선-43|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-44",
+   "groupKey": "same:간선-43",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 간선-43, 간선-44, 간선-45",
+   "fingerprint": "C-08|100732|간선-44|same:간선-43|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-45",
+   "groupKey": "coord:간선-43",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 간선-43, 간선-44, 간선-45",
+   "fingerprint": "C-08|100732|간선-45|coord:간선-43|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-45",
+   "groupKey": "same:간선-43",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 간선-43, 간선-44, 간선-45",
+   "fingerprint": "C-08|100732|간선-45|same:간선-43|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-46",
+   "groupKey": "coord:간선-46",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 간선-46, 간선-47",
+   "fingerprint": "C-08|100732|간선-46|coord:간선-46|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-46",
+   "groupKey": "same:간선-46",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 간선-46, 간선-47",
+   "fingerprint": "C-08|100732|간선-46|same:간선-46|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-47",
+   "groupKey": "coord:간선-46",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 간선-46, 간선-47",
+   "fingerprint": "C-08|100732|간선-47|coord:간선-46|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-47",
+   "groupKey": "same:간선-46",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 간선-46, 간선-47",
+   "fingerprint": "C-08|100732|간선-47|same:간선-46|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-6",
+   "groupKey": "coord:간선-3",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 간선-3, 간선-6",
+   "fingerprint": "C-08|100732|간선-6|coord:간선-3|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-6",
+   "groupKey": "same:간선-3",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 간선-3, 간선-6",
+   "fingerprint": "C-08|100732|간선-6|same:간선-3|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-65",
+   "groupKey": "coord:간선-65",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 간선-65, 간선-67",
+   "fingerprint": "C-08|100732|간선-65|coord:간선-65|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-65",
+   "groupKey": "same:간선-65",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 간선-65, 간선-67",
+   "fingerprint": "C-08|100732|간선-65|same:간선-65|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-66",
+   "groupKey": "coord:간선-66",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 간선-66, 간선-68",
+   "fingerprint": "C-08|100732|간선-66|coord:간선-66|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-66",
+   "groupKey": "same:간선-66",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 간선-66, 간선-68",
+   "fingerprint": "C-08|100732|간선-66|same:간선-66|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-67",
+   "groupKey": "coord:간선-65",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 간선-65, 간선-67",
+   "fingerprint": "C-08|100732|간선-67|coord:간선-65|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-67",
+   "groupKey": "same:간선-65",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 간선-65, 간선-67",
+   "fingerprint": "C-08|100732|간선-67|same:간선-65|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-68",
+   "groupKey": "coord:간선-66",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 간선-66, 간선-68",
+   "fingerprint": "C-08|100732|간선-68|coord:간선-66|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-68",
+   "groupKey": "same:간선-66",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 간선-66, 간선-68",
+   "fingerprint": "C-08|100732|간선-68|same:간선-66|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-69",
+   "groupKey": "coord:간선-69",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 간선-69, 간선-71",
+   "fingerprint": "C-08|100732|간선-69|coord:간선-69|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-69",
+   "groupKey": "same:간선-69",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 간선-69, 간선-71",
+   "fingerprint": "C-08|100732|간선-69|same:간선-69|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-70",
+   "groupKey": "coord:간선-70",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 간선-70, 간선-72, 성현동-15, 성현동-9",
+   "fingerprint": "C-08|100732|간선-70|coord:간선-70|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-70",
+   "groupKey": "same:간선-70",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: 간선-70, 간선-72, 성현동-15, 성현동-9",
+   "fingerprint": "C-08|100732|간선-70|same:간선-70|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-71",
+   "groupKey": "coord:간선-69",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 간선-69, 간선-71",
+   "fingerprint": "C-08|100732|간선-71|coord:간선-69|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-71",
+   "groupKey": "same:간선-69",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 간선-69, 간선-71",
+   "fingerprint": "C-08|100732|간선-71|same:간선-69|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-72",
+   "groupKey": "coord:간선-70",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 간선-70, 간선-72, 성현동-15, 성현동-9",
+   "fingerprint": "C-08|100732|간선-72|coord:간선-70|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-72",
+   "groupKey": "same:간선-70",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: 간선-70, 간선-72, 성현동-15, 성현동-9",
+   "fingerprint": "C-08|100732|간선-72|same:간선-70|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-81",
+   "groupKey": "coord:간선-81",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 간선-81, 간선-82, 은천동-1, 은천동-2",
+   "fingerprint": "C-08|100732|간선-81|coord:간선-81|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-81",
+   "groupKey": "same:간선-81",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: 간선-81, 간선-82, 은천동-1, 은천동-2",
+   "fingerprint": "C-08|100732|간선-81|same:간선-81|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-82",
+   "groupKey": "coord:간선-81",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 간선-81, 간선-82, 은천동-1, 은천동-2",
+   "fingerprint": "C-08|100732|간선-82|coord:간선-81|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "간선-82",
+   "groupKey": "same:간선-81",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: 간선-81, 간선-82, 은천동-1, 은천동-2",
+   "fingerprint": "C-08|100732|간선-82|same:간선-81|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "낙성대동-18",
+   "groupKey": "coord:낙성대동-18",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 낙성대동-18, 낙성대동-19",
+   "fingerprint": "C-08|100732|낙성대동-18|coord:낙성대동-18|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "낙성대동-18",
+   "groupKey": "same:낙성대동-18",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 낙성대동-18, 낙성대동-19",
+   "fingerprint": "C-08|100732|낙성대동-18|same:낙성대동-18|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "낙성대동-19",
+   "groupKey": "coord:낙성대동-18",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 낙성대동-18, 낙성대동-19",
+   "fingerprint": "C-08|100732|낙성대동-19|coord:낙성대동-18|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "낙성대동-19",
+   "groupKey": "same:낙성대동-18",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 낙성대동-18, 낙성대동-19",
+   "fingerprint": "C-08|100732|낙성대동-19|same:낙성대동-18|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "낙성대동-24",
+   "groupKey": "coord:낙성대동-24",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 낙성대동-24, 낙성대동-25",
+   "fingerprint": "C-08|100732|낙성대동-24|coord:낙성대동-24|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "낙성대동-24",
+   "groupKey": "same:낙성대동-24",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 낙성대동-24, 낙성대동-25",
+   "fingerprint": "C-08|100732|낙성대동-24|same:낙성대동-24|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "낙성대동-25",
+   "groupKey": "coord:낙성대동-24",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 낙성대동-24, 낙성대동-25",
+   "fingerprint": "C-08|100732|낙성대동-25|coord:낙성대동-24|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "낙성대동-25",
+   "groupKey": "same:낙성대동-24",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 낙성대동-24, 낙성대동-25",
+   "fingerprint": "C-08|100732|낙성대동-25|same:낙성대동-24|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "낙성대동-3",
+   "groupKey": "coord:낙성대동-3",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 낙성대동-3, 낙성대동-4",
+   "fingerprint": "C-08|100732|낙성대동-3|coord:낙성대동-3|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "낙성대동-3",
+   "groupKey": "same:낙성대동-3",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 낙성대동-3, 낙성대동-4",
+   "fingerprint": "C-08|100732|낙성대동-3|same:낙성대동-3|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "낙성대동-4",
+   "groupKey": "coord:낙성대동-3",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 낙성대동-3, 낙성대동-4",
+   "fingerprint": "C-08|100732|낙성대동-4|coord:낙성대동-3|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "낙성대동-4",
+   "groupKey": "same:낙성대동-3",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 낙성대동-3, 낙성대동-4",
+   "fingerprint": "C-08|100732|낙성대동-4|same:낙성대동-3|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "난곡동-34",
+   "groupKey": "coord:난곡동-34",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 난곡동-34, 난곡동-36",
+   "fingerprint": "C-08|100732|난곡동-34|coord:난곡동-34|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "난곡동-34",
+   "groupKey": "same:난곡동-34",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 난곡동-34, 난곡동-36",
+   "fingerprint": "C-08|100732|난곡동-34|same:난곡동-34|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "난곡동-35",
+   "groupKey": "coord:난곡동-35",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 난곡동-35, 난곡동-37",
+   "fingerprint": "C-08|100732|난곡동-35|coord:난곡동-35|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "난곡동-35",
+   "groupKey": "same:난곡동-35",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 난곡동-35, 난곡동-37",
+   "fingerprint": "C-08|100732|난곡동-35|same:난곡동-35|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "난곡동-36",
+   "groupKey": "coord:난곡동-34",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 난곡동-34, 난곡동-36",
+   "fingerprint": "C-08|100732|난곡동-36|coord:난곡동-34|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "난곡동-36",
+   "groupKey": "same:난곡동-34",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 난곡동-34, 난곡동-36",
+   "fingerprint": "C-08|100732|난곡동-36|same:난곡동-34|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "난곡동-37",
+   "groupKey": "coord:난곡동-35",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 난곡동-35, 난곡동-37",
+   "fingerprint": "C-08|100732|난곡동-37|coord:난곡동-35|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "난곡동-37",
+   "groupKey": "same:난곡동-35",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 난곡동-35, 난곡동-37",
+   "fingerprint": "C-08|100732|난곡동-37|same:난곡동-35|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "난곡동-40",
+   "groupKey": "coord:난곡동-40",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 난곡동-40, 난곡동-41",
+   "fingerprint": "C-08|100732|난곡동-40|coord:난곡동-40|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "난곡동-40",
+   "groupKey": "same:난곡동-40",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 난곡동-40, 난곡동-41",
+   "fingerprint": "C-08|100732|난곡동-40|same:난곡동-40|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "난곡동-41",
+   "groupKey": "coord:난곡동-40",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 난곡동-40, 난곡동-41",
+   "fingerprint": "C-08|100732|난곡동-41|coord:난곡동-40|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "난곡동-41",
+   "groupKey": "same:난곡동-40",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 난곡동-40, 난곡동-41",
+   "fingerprint": "C-08|100732|난곡동-41|same:난곡동-40|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "남현동-14",
+   "groupKey": "coord:남현동-14",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 남현동-14, 남현동-16, 남현동-17",
+   "fingerprint": "C-08|100732|남현동-14|coord:남현동-14|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "남현동-14",
+   "groupKey": "same:남현동-14",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 남현동-14, 남현동-16, 남현동-17",
+   "fingerprint": "C-08|100732|남현동-14|same:남현동-14|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "남현동-16",
+   "groupKey": "coord:남현동-14",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 남현동-14, 남현동-16, 남현동-17",
+   "fingerprint": "C-08|100732|남현동-16|coord:남현동-14|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "남현동-16",
+   "groupKey": "same:남현동-14",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 남현동-14, 남현동-16, 남현동-17",
+   "fingerprint": "C-08|100732|남현동-16|same:남현동-14|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "남현동-17",
+   "groupKey": "coord:남현동-14",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 남현동-14, 남현동-16, 남현동-17",
+   "fingerprint": "C-08|100732|남현동-17|coord:남현동-14|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "남현동-17",
+   "groupKey": "same:남현동-14",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 남현동-14, 남현동-16, 남현동-17",
+   "fingerprint": "C-08|100732|남현동-17|same:남현동-14|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "남현동-19",
+   "groupKey": "coord:남현동-19",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 남현동-19, 남현동-20",
+   "fingerprint": "C-08|100732|남현동-19|coord:남현동-19|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "남현동-19",
+   "groupKey": "same:남현동-19",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 남현동-19, 남현동-20",
+   "fingerprint": "C-08|100732|남현동-19|same:남현동-19|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "남현동-20",
+   "groupKey": "coord:남현동-19",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 남현동-19, 남현동-20",
+   "fingerprint": "C-08|100732|남현동-20|coord:남현동-19|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "남현동-20",
+   "groupKey": "same:남현동-19",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 남현동-19, 남현동-20",
+   "fingerprint": "C-08|100732|남현동-20|same:남현동-19|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "대학동-12",
+   "groupKey": "coord:대학동-12",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 대학동-12, 대학동-13, 대학동-14",
+   "fingerprint": "C-08|100732|대학동-12|coord:대학동-12|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "대학동-12",
+   "groupKey": "same:대학동-12",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 대학동-12, 대학동-13, 대학동-14",
+   "fingerprint": "C-08|100732|대학동-12|same:대학동-12|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "대학동-13",
+   "groupKey": "coord:대학동-12",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 대학동-12, 대학동-13, 대학동-14",
+   "fingerprint": "C-08|100732|대학동-13|coord:대학동-12|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "대학동-13",
+   "groupKey": "same:대학동-12",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 대학동-12, 대학동-13, 대학동-14",
+   "fingerprint": "C-08|100732|대학동-13|same:대학동-12|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "대학동-14",
+   "groupKey": "coord:대학동-12",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 대학동-12, 대학동-13, 대학동-14",
+   "fingerprint": "C-08|100732|대학동-14|coord:대학동-12|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "대학동-14",
+   "groupKey": "same:대학동-12",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 대학동-12, 대학동-13, 대학동-14",
+   "fingerprint": "C-08|100732|대학동-14|same:대학동-12|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "대학동-22",
+   "groupKey": "coord:대학동-22",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 대학동-22, 대학동-26",
+   "fingerprint": "C-08|100732|대학동-22|coord:대학동-22|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "대학동-22",
+   "groupKey": "same:대학동-22",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 대학동-22, 대학동-26",
+   "fingerprint": "C-08|100732|대학동-22|same:대학동-22|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "대학동-26",
+   "groupKey": "coord:대학동-22",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 대학동-22, 대학동-26",
+   "fingerprint": "C-08|100732|대학동-26|coord:대학동-22|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "대학동-26",
+   "groupKey": "same:대학동-22",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 대학동-22, 대학동-26",
+   "fingerprint": "C-08|100732|대학동-26|same:대학동-22|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "대학동-5",
+   "groupKey": "coord:간선-15",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 간선-15, 대학동-5",
+   "fingerprint": "C-08|100732|대학동-5|coord:간선-15|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "대학동-5",
+   "groupKey": "same:간선-15",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 간선-15, 대학동-5",
+   "fingerprint": "C-08|100732|대학동-5|same:간선-15|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "삼성동-36",
+   "groupKey": "coord:삼성동-36",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 삼성동-36, 삼성동-37, 삼성동-38",
+   "fingerprint": "C-08|100732|삼성동-36|coord:삼성동-36|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "삼성동-36",
+   "groupKey": "same:삼성동-36",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 삼성동-36, 삼성동-37, 삼성동-38",
+   "fingerprint": "C-08|100732|삼성동-36|same:삼성동-36|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "삼성동-37",
+   "groupKey": "coord:삼성동-36",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 삼성동-36, 삼성동-37, 삼성동-38",
+   "fingerprint": "C-08|100732|삼성동-37|coord:삼성동-36|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "삼성동-37",
+   "groupKey": "same:삼성동-36",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 삼성동-36, 삼성동-37, 삼성동-38",
+   "fingerprint": "C-08|100732|삼성동-37|same:삼성동-36|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "삼성동-38",
+   "groupKey": "coord:삼성동-36",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 삼성동-36, 삼성동-37, 삼성동-38",
+   "fingerprint": "C-08|100732|삼성동-38|coord:삼성동-36|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "삼성동-38",
+   "groupKey": "same:삼성동-36",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 삼성동-36, 삼성동-37, 삼성동-38",
+   "fingerprint": "C-08|100732|삼성동-38|same:삼성동-36|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성현동-11",
+   "groupKey": "coord:성현동-11",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성현동-11, 성현동-12",
+   "fingerprint": "C-08|100732|성현동-11|coord:성현동-11|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성현동-11",
+   "groupKey": "same:성현동-11",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 성현동-11, 성현동-12",
+   "fingerprint": "C-08|100732|성현동-11|same:성현동-11|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성현동-12",
+   "groupKey": "coord:성현동-11",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 성현동-11, 성현동-12",
+   "fingerprint": "C-08|100732|성현동-12|coord:성현동-11|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성현동-12",
+   "groupKey": "same:성현동-11",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 성현동-11, 성현동-12",
+   "fingerprint": "C-08|100732|성현동-12|same:성현동-11|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성현동-15",
+   "groupKey": "coord:간선-70",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 간선-70, 간선-72, 성현동-15, 성현동-9",
+   "fingerprint": "C-08|100732|성현동-15|coord:간선-70|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성현동-15",
+   "groupKey": "same:간선-70",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: 간선-70, 간선-72, 성현동-15, 성현동-9",
+   "fingerprint": "C-08|100732|성현동-15|same:간선-70|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성현동-9",
+   "groupKey": "coord:간선-70",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 간선-70, 간선-72, 성현동-15, 성현동-9",
+   "fingerprint": "C-08|100732|성현동-9|coord:간선-70|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "성현동-9",
+   "groupKey": "same:간선-70",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: 간선-70, 간선-72, 성현동-15, 성현동-9",
+   "fingerprint": "C-08|100732|성현동-9|same:간선-70|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "신사동-13",
+   "groupKey": "coord:신사동-13",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 신사동-13, 신사동-15, 신사동-16",
+   "fingerprint": "C-08|100732|신사동-13|coord:신사동-13|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "신사동-13",
+   "groupKey": "same:신사동-13",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 신사동-13, 신사동-15, 신사동-16",
+   "fingerprint": "C-08|100732|신사동-13|same:신사동-13|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "신사동-15",
+   "groupKey": "coord:신사동-13",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 신사동-13, 신사동-15, 신사동-16",
+   "fingerprint": "C-08|100732|신사동-15|coord:신사동-13|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "신사동-15",
+   "groupKey": "same:신사동-13",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 신사동-13, 신사동-15, 신사동-16",
+   "fingerprint": "C-08|100732|신사동-15|same:신사동-13|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "신사동-16",
+   "groupKey": "coord:신사동-13",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 신사동-13, 신사동-15, 신사동-16",
+   "fingerprint": "C-08|100732|신사동-16|coord:신사동-13|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "신사동-16",
+   "groupKey": "same:신사동-13",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 신사동-13, 신사동-15, 신사동-16",
+   "fingerprint": "C-08|100732|신사동-16|same:신사동-13|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "신사동-4",
+   "groupKey": "coord:신사동-4",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 신사동-4, 신사동-5",
+   "fingerprint": "C-08|100732|신사동-4|coord:신사동-4|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "신사동-4",
+   "groupKey": "same:신사동-4",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 신사동-4, 신사동-5",
+   "fingerprint": "C-08|100732|신사동-4|same:신사동-4|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "신사동-5",
+   "groupKey": "coord:신사동-4",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 신사동-4, 신사동-5",
+   "fingerprint": "C-08|100732|신사동-5|coord:신사동-4|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "신사동-5",
+   "groupKey": "same:신사동-4",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 신사동-4, 신사동-5",
+   "fingerprint": "C-08|100732|신사동-5|same:신사동-4|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "신원동-13",
+   "groupKey": "coord:간선-19",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 간선-19, 신원동-13",
+   "fingerprint": "C-08|100732|신원동-13|coord:간선-19|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "신원동-13",
+   "groupKey": "same:간선-19",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 간선-19, 신원동-13",
+   "fingerprint": "C-08|100732|신원동-13|same:간선-19|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은천동-1",
+   "groupKey": "coord:간선-81",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 간선-81, 간선-82, 은천동-1, 은천동-2",
+   "fingerprint": "C-08|100732|은천동-1|coord:간선-81|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은천동-1",
+   "groupKey": "same:간선-81",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: 간선-81, 간선-82, 은천동-1, 은천동-2",
+   "fingerprint": "C-08|100732|은천동-1|same:간선-81|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은천동-2",
+   "groupKey": "coord:간선-81",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: 간선-81, 간선-82, 은천동-1, 은천동-2",
+   "fingerprint": "C-08|100732|은천동-2|coord:간선-81|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은천동-2",
+   "groupKey": "same:간선-81",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: 간선-81, 간선-82, 은천동-1, 은천동-2",
+   "fingerprint": "C-08|100732|은천동-2|same:간선-81|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은천동-26",
+   "groupKey": "coord:은천동-26",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 은천동-26, 은천동-28",
+   "fingerprint": "C-08|100732|은천동-26|coord:은천동-26|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은천동-26",
+   "groupKey": "same:은천동-26",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 은천동-26, 은천동-28",
+   "fingerprint": "C-08|100732|은천동-26|same:은천동-26|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은천동-28",
+   "groupKey": "coord:은천동-26",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 은천동-26, 은천동-28",
+   "fingerprint": "C-08|100732|은천동-28|coord:은천동-26|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "은천동-28",
+   "groupKey": "same:은천동-26",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 은천동-26, 은천동-28",
+   "fingerprint": "C-08|100732|은천동-28|same:은천동-26|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-1",
+   "groupKey": "coord:간선-39",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 간선-39, 청룡동-1",
+   "fingerprint": "C-08|100732|청룡동-1|coord:간선-39|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-1",
+   "groupKey": "same:간선-39",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 간선-39, 청룡동-1",
+   "fingerprint": "C-08|100732|청룡동-1|same:간선-39|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-10",
+   "groupKey": "coord:청룡동-10",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 청룡동-10, 청룡동-11",
+   "fingerprint": "C-08|100732|청룡동-10|coord:청룡동-10|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-10",
+   "groupKey": "same:청룡동-10",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 청룡동-10, 청룡동-11",
+   "fingerprint": "C-08|100732|청룡동-10|same:청룡동-10|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-11",
+   "groupKey": "coord:청룡동-10",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 청룡동-10, 청룡동-11",
+   "fingerprint": "C-08|100732|청룡동-11|coord:청룡동-10|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-11",
+   "groupKey": "same:청룡동-10",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 청룡동-10, 청룡동-11",
+   "fingerprint": "C-08|100732|청룡동-11|same:청룡동-10|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-2",
+   "groupKey": "coord:청룡동-2",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 청룡동-2, 청룡동-3",
+   "fingerprint": "C-08|100732|청룡동-2|coord:청룡동-2|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-2",
+   "groupKey": "same:청룡동-2",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 청룡동-2, 청룡동-3",
+   "fingerprint": "C-08|100732|청룡동-2|same:청룡동-2|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-3",
+   "groupKey": "coord:청룡동-2",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 청룡동-2, 청룡동-3",
+   "fingerprint": "C-08|100732|청룡동-3|coord:청룡동-2|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-3",
+   "groupKey": "same:청룡동-2",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 청룡동-2, 청룡동-3",
+   "fingerprint": "C-08|100732|청룡동-3|same:청룡동-2|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-30",
+   "groupKey": "coord:청룡동-30",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 청룡동-30, 청룡동-32, 청룡동-36",
+   "fingerprint": "C-08|100732|청룡동-30|coord:청룡동-30|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-30",
+   "groupKey": "same:청룡동-30",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 청룡동-30, 청룡동-32, 청룡동-36",
+   "fingerprint": "C-08|100732|청룡동-30|same:청룡동-30|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-32",
+   "groupKey": "coord:청룡동-30",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 청룡동-30, 청룡동-32, 청룡동-36",
+   "fingerprint": "C-08|100732|청룡동-32|coord:청룡동-30|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-32",
+   "groupKey": "same:청룡동-30",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 청룡동-30, 청룡동-32, 청룡동-36",
+   "fingerprint": "C-08|100732|청룡동-32|same:청룡동-30|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-33",
+   "groupKey": "coord:청룡동-33",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 청룡동-33, 청룡동-34, 청룡동-35, 청룡동-37, 청룡동-39",
+   "fingerprint": "C-08|100732|청룡동-33|coord:청룡동-33|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-33",
+   "groupKey": "same:청룡동-33",
+   "message": "ID만 다르고 내용이 같은 행이 5건 있습니다: 청룡동-33, 청룡동-34, 청룡동-35, 청룡동-37, 청룡동-39",
+   "fingerprint": "C-08|100732|청룡동-33|same:청룡동-33|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-34",
+   "groupKey": "coord:청룡동-33",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 청룡동-33, 청룡동-34, 청룡동-35, 청룡동-37, 청룡동-39",
+   "fingerprint": "C-08|100732|청룡동-34|coord:청룡동-33|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-34",
+   "groupKey": "same:청룡동-33",
+   "message": "ID만 다르고 내용이 같은 행이 5건 있습니다: 청룡동-33, 청룡동-34, 청룡동-35, 청룡동-37, 청룡동-39",
+   "fingerprint": "C-08|100732|청룡동-34|same:청룡동-33|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-35",
+   "groupKey": "coord:청룡동-33",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 청룡동-33, 청룡동-34, 청룡동-35, 청룡동-37, 청룡동-39",
+   "fingerprint": "C-08|100732|청룡동-35|coord:청룡동-33|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-35",
+   "groupKey": "same:청룡동-33",
+   "message": "ID만 다르고 내용이 같은 행이 5건 있습니다: 청룡동-33, 청룡동-34, 청룡동-35, 청룡동-37, 청룡동-39",
+   "fingerprint": "C-08|100732|청룡동-35|same:청룡동-33|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-36",
+   "groupKey": "coord:청룡동-30",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 청룡동-30, 청룡동-32, 청룡동-36",
+   "fingerprint": "C-08|100732|청룡동-36|coord:청룡동-30|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-36",
+   "groupKey": "same:청룡동-30",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 청룡동-30, 청룡동-32, 청룡동-36",
+   "fingerprint": "C-08|100732|청룡동-36|same:청룡동-30|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-37",
+   "groupKey": "coord:청룡동-33",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 청룡동-33, 청룡동-34, 청룡동-35, 청룡동-37, 청룡동-39",
+   "fingerprint": "C-08|100732|청룡동-37|coord:청룡동-33|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-37",
+   "groupKey": "same:청룡동-33",
+   "message": "ID만 다르고 내용이 같은 행이 5건 있습니다: 청룡동-33, 청룡동-34, 청룡동-35, 청룡동-37, 청룡동-39",
+   "fingerprint": "C-08|100732|청룡동-37|same:청룡동-33|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-39",
+   "groupKey": "coord:청룡동-33",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 5건 있습니다: 청룡동-33, 청룡동-34, 청룡동-35, 청룡동-37, 청룡동-39",
+   "fingerprint": "C-08|100732|청룡동-39|coord:청룡동-33|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-39",
+   "groupKey": "same:청룡동-33",
+   "message": "ID만 다르고 내용이 같은 행이 5건 있습니다: 청룡동-33, 청룡동-34, 청룡동-35, 청룡동-37, 청룡동-39",
+   "fingerprint": "C-08|100732|청룡동-39|same:청룡동-33|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-4",
+   "groupKey": "coord:간선-38",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 간선-38, 청룡동-4",
+   "fingerprint": "C-08|100732|청룡동-4|coord:간선-38|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청룡동-4",
+   "groupKey": "same:간선-38",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 간선-38, 청룡동-4",
+   "fingerprint": "C-08|100732|청룡동-4|same:간선-38|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청림동-13",
+   "groupKey": "coord:청림동-13",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 청림동-13, 청림동-17",
+   "fingerprint": "C-08|100732|청림동-13|coord:청림동-13|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청림동-13",
+   "groupKey": "same:청림동-13",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 청림동-13, 청림동-17",
+   "fingerprint": "C-08|100732|청림동-13|same:청림동-13|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청림동-17",
+   "groupKey": "coord:청림동-13",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 청림동-13, 청림동-17",
+   "fingerprint": "C-08|100732|청림동-17|coord:청림동-13|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "청림동-17",
+   "groupKey": "same:청림동-13",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 청림동-13, 청림동-17",
+   "fingerprint": "C-08|100732|청림동-17|same:청림동-13|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "행운동-19",
+   "groupKey": "coord:행운동-19",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 행운동-19, 행운동-20",
+   "fingerprint": "C-08|100732|행운동-19|coord:행운동-19|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "행운동-19",
+   "groupKey": "same:행운동-19",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 행운동-19, 행운동-20",
+   "fingerprint": "C-08|100732|행운동-19|same:행운동-19|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "행운동-20",
+   "groupKey": "coord:행운동-19",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 행운동-19, 행운동-20",
+   "fingerprint": "C-08|100732|행운동-20|coord:행운동-19|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "행운동-20",
+   "groupKey": "same:행운동-19",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 행운동-19, 행운동-20",
+   "fingerprint": "C-08|100732|행운동-20|same:행운동-19|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "행운동-47",
+   "groupKey": "coord:행운동-47",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 행운동-47, 행운동-53",
+   "fingerprint": "C-08|100732|행운동-47|coord:행운동-47|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "행운동-47",
+   "groupKey": "same:행운동-47",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 행운동-47, 행운동-53",
+   "fingerprint": "C-08|100732|행운동-47|same:행운동-47|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "행운동-53",
+   "groupKey": "coord:행운동-47",
+   "field": "COT_CONTS_NAME",
+   "value": "제설함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 행운동-47, 행운동-53",
+   "fingerprint": "C-08|100732|행운동-53|coord:행운동-47|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "행운동-53",
+   "groupKey": "same:행운동-47",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 행운동-47, 행운동-53",
+   "fingerprint": "C-08|100732|행운동-53|same:행운동-47|"
+  },
+  {
+   "ruleId": "C-12",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "https://map.seoul.go.kr/smgis2/file/ucimgs/theme/1641540506989_20_X_20221124135238.png",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "https://map.seoul.go.kr/smgis2/file/ucimgs/theme/1641540506989_20_X_20221124135238.png",
+   "message": "1274건 중 737건이 같은 대표 이미지를 씁니다.",
+   "fingerprint": "C-12|100732||https://map.seoul.go.kr/smgis2/file/ucimgs/theme/1641540506989_20_X_20221124135238.png|COT_IMG_MAIN_URL"
+  }
+ ]
+}

@@ -1,0 +1,303 @@
+{
+ "themeId": "1657588761062",
+ "rulesetVersion": 1,
+ "contentHash": "1fae48d929159b0f841df8bdf8abfb0627f144b7d9b4cab2e3dcf5bd303d3ea7",
+ "findings": [
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "08A-0606",
+   "field": "COT_GU_NAME",
+   "value": "성북구",
+   "message": "구명(성북구)과 주소의 구(동대문구)가 다릅니다.",
+   "fingerprint": "C-06|1657588761062|08A-0606||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "08B-1020",
+   "field": "COT_GU_NAME",
+   "value": "성북구",
+   "message": "구명(성북구)과 주소의 구(강북구)가 다릅니다.",
+   "fingerprint": "C-06|1657588761062|08B-1020||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "15D-4120",
+   "field": "COT_GU_NAME",
+   "value": "강서구",
+   "message": "구명(강서구)과 주소의 구(양천구)가 다릅니다.",
+   "fingerprint": "C-06|1657588761062|15D-4120||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "19C-2152",
+   "field": "COT_GU_NAME",
+   "value": "영등포구",
+   "message": "구명(영등포구)과 주소의 구(구로구)가 다릅니다.",
+   "fingerprint": "C-06|1657588761062|19C-2152||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "23D-4200",
+   "field": "COT_GU_NAME",
+   "value": "서초구",
+   "message": "구명(서초구)과 주소의 구(강남구)가 다릅니다.",
+   "fingerprint": "C-06|1657588761062|23D-4200||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "24D-3403",
+   "field": "COT_GU_NAME",
+   "value": "송파구",
+   "message": "구명(송파구)과 주소의 구(강동구)가 다릅니다.",
+   "fingerprint": "C-06|1657588761062|24D-3403||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "A-5029",
+   "field": "COT_GU_NAME",
+   "value": "서대문구",
+   "message": "구명(서대문구)과 주소의 구(은평구)가 다릅니다.",
+   "fingerprint": "C-06|1657588761062|A-5029||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "D-5056",
+   "field": "COT_GU_NAME",
+   "value": "노원구",
+   "message": "구명(노원구)과 주소의 구(성북구)가 다릅니다.",
+   "fingerprint": "C-06|1657588761062|D-5056||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "D-5058",
+   "field": "COT_GU_NAME",
+   "value": "도봉구",
+   "message": "구명(도봉구)과 주소의 구(노원구)가 다릅니다.",
+   "fingerprint": "C-06|1657588761062|D-5058||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "D-5060",
+   "field": "COT_GU_NAME",
+   "value": "성북구",
+   "message": "구명(성북구)과 주소의 구(노원구)가 다릅니다.",
+   "fingerprint": "C-06|1657588761062|D-5060||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "D-5082",
+   "field": "COT_GU_NAME",
+   "value": "서대문구",
+   "message": "구명(서대문구)과 주소의 구(마포구)가 다릅니다.",
+   "fingerprint": "C-06|1657588761062|D-5082||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "05D-4060",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|05D-4060||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "05D-4061",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|05D-4061||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "12D-4090",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|12D-4090||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "14B-1048",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|14B-1048||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "14D-3119",
+   "field": "COT_GU_NAME",
+   "suggestion": "마포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|14D-3119||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "14D-3120",
+   "field": "COT_GU_NAME",
+   "suggestion": "마포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|14D-3120||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "14D-4098",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|14D-4098||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "15D-4119",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|15D-4119||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "17D-3178",
+   "field": "COT_GU_NAME",
+   "suggestion": "구로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|17D-3178||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "17D-3758",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|17D-3758||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "22D-3245",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|22D-3245||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "24A-0828",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|24A-0828||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "24A-0831",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|24A-0831||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "24B-1103",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|24B-1103||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "25A-0735",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|25A-0735||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "25A-0739",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|25A-0739||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "25D-3414",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|25D-3414||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "D-5007",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|D-5007||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "D-5021",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|D-5021||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "D-5072",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|D-5072||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "D-5087",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|D-5087||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "D-6014",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|D-6014||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "D-6015",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1657588761062|D-6015||COT_GU_NAME"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "themeId": "11102774",
+ "rulesetVersion": 1,
+ "contentHash": "650f24049688aafce89edd449a92575b84f7b3f30bfe29255617881ff3018eb2",
+ "findings": [
+  {
+   "ruleId": "C-05",
+   "contsId": "11170D000000667",
+   "field": "COT_GU_NAME",
+   "value": "용산구",
+   "severity": "suspect",
+   "suggestion": "마포구",
+   "message": "구명(용산구)이 좌표·주소의 구(마포구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|11102774|11170D000000667||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "11170D000000669",
+   "field": "COT_GU_NAME",
+   "value": "용산구",
+   "severity": "suspect",
+   "suggestion": "마포구",
+   "message": "구명(용산구)이 좌표·주소의 구(마포구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|11102774|11170D000000669||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "11170D000001384",
+   "field": "COT_GU_NAME",
+   "value": "용산구",
+   "severity": "suspect",
+   "suggestion": "마포구",
+   "message": "구명(용산구)이 좌표·주소의 구(마포구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|11102774|11170D000001384||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "11170D000005608",
+   "field": "COT_GU_NAME",
+   "value": "용산구",
+   "severity": "suspect",
+   "suggestion": "중구",
+   "message": "구명(용산구)이 좌표·주소의 구(중구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|11102774|11170D000005608||COT_GU_NAME"
+  }
+ ]
+}

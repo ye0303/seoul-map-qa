@@ -1,0 +1,67 @@
+{
+ "themeId": "1756444618373",
+ "rulesetVersion": 1,
+ "contentHash": "1f5e6052a86598feaa9ed8a0a2d26c70417d986f9dd18bb0280f5fd01ff95ca6",
+ "findings": [
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "jg_bus2_008",
+   "groupKey": "near:jg_bus2_008",
+   "field": "COT_CONTS_NAME",
+   "value": "약수하이츠아파트 111동 앞",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: jg_bus2_008, jg_bus2_010",
+   "fingerprint": "C-09|1756444618373|jg_bus2_008|near:jg_bus2_008|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "jg_bus2_010",
+   "groupKey": "near:jg_bus2_008",
+   "field": "COT_CONTS_NAME",
+   "value": "약수하이츠아파트 111동 앞",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: jg_bus2_008, jg_bus2_010",
+   "fingerprint": "C-09|1756444618373|jg_bus2_010|near:jg_bus2_008|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "jg_bus7_004",
+   "groupKey": "near:jg_bus7_004",
+   "field": "COT_CONTS_NAME",
+   "value": "중림종합사회복지관 앞",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: jg_bus7_004, jg_bus7_013",
+   "fingerprint": "C-09|1756444618373|jg_bus7_004|near:jg_bus7_004|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "jg_bus7_005",
+   "groupKey": "near:jg_bus7_005",
+   "field": "COT_CONTS_NAME",
+   "value": "충정로역 5번출구",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: jg_bus7_005, jg_bus7_007",
+   "fingerprint": "C-09|1756444618373|jg_bus7_005|near:jg_bus7_005|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "jg_bus7_007",
+   "groupKey": "near:jg_bus7_005",
+   "field": "COT_CONTS_NAME",
+   "value": "충정로역 5번출구",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: jg_bus7_005, jg_bus7_007",
+   "fingerprint": "C-09|1756444618373|jg_bus7_007|near:jg_bus7_005|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "jg_bus7_013",
+   "groupKey": "near:jg_bus7_004",
+   "field": "COT_CONTS_NAME",
+   "value": "중림종합사회복지관 앞",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: jg_bus7_004, jg_bus7_013",
+   "fingerprint": "C-09|1756444618373|jg_bus7_013|near:jg_bus7_004|COT_CONTS_NAME"
+  }
+ ]
+}

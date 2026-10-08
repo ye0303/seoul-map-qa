@@ -1,0 +1,16 @@
+{
+ "themeId": "11100550",
+ "rulesetVersion": 1,
+ "contentHash": "c1eec422544eb82e10ae09dc14b27180787cc58c9290197899c614abb8a0e248",
+ "findings": [
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "11100550_1548917960896",
+   "field": "COT_GU_NAME",
+   "value": "중구",
+   "message": "구명(중구)과 주소의 구(서대문구)가 다릅니다.",
+   "fingerprint": "C-06|11100550|11100550_1548917960896||COT_GU_NAME"
+  }
+ ]
+}

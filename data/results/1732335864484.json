@@ -1,0 +1,23 @@
+{
+ "themeId": "1732335864484",
+ "rulesetVersion": 1,
+ "contentHash": "20cb9c7adb6cb2fef64eb3891eeaa185b911ed0eef13158ebb81d69832aa6f3c",
+ "findings": [
+  {
+   "ruleId": "C-04",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "outside",
+   "message": "서울 밖 장소가 1건 있습니다(주소도 서울 밖).",
+   "fingerprint": "C-04|1732335864484||outside|"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "healing_forest_0002",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1732335864484|healing_forest_0002||COT_GU_NAME"
+  }
+ ]
+}

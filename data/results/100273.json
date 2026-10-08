@@ -1,0 +1,173 @@
+{
+ "themeId": "100273",
+ "rulesetVersion": 1,
+ "contentHash": "78af726157be25c80e36a304b377954c56955f6f09c9cd9d90da3f816df14e40",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SeoulView_140",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100273|SeoulView_140||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "SeoulView_150",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100273|SeoulView_150||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "SeoulView_089",
+   "groupKey": "near:SeoulView_089",
+   "field": "COT_CONTS_NAME",
+   "value": "성내동 성안마을 축제",
+   "message": "30m 안에 이름이 같은 행이 3건 있습니다: SeoulView_089, SeoulView_091, SeoulView_092",
+   "fingerprint": "C-09|100273|SeoulView_089|near:SeoulView_089|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "SeoulView_091",
+   "groupKey": "near:SeoulView_089",
+   "field": "COT_CONTS_NAME",
+   "value": "성내동 성안마을 축제",
+   "message": "30m 안에 이름이 같은 행이 3건 있습니다: SeoulView_089, SeoulView_091, SeoulView_092",
+   "fingerprint": "C-09|100273|SeoulView_091|near:SeoulView_089|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "SeoulView_092",
+   "groupKey": "near:SeoulView_089",
+   "field": "COT_CONTS_NAME",
+   "value": "성내동 성안마을 축제",
+   "message": "30m 안에 이름이 같은 행이 3건 있습니다: SeoulView_089, SeoulView_091, SeoulView_092",
+   "fingerprint": "C-09|100273|SeoulView_092|near:SeoulView_089|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "SeoulView_098",
+   "groupKey": "near:SeoulView_098",
+   "field": "COT_CONTS_NAME",
+   "value": "이화동 벽화마을",
+   "message": "30m 안에 이름이 같은 행이 3건 있습니다: SeoulView_098, SeoulView_099, SeoulView_100",
+   "fingerprint": "C-09|100273|SeoulView_098|near:SeoulView_098|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "SeoulView_099",
+   "groupKey": "near:SeoulView_098",
+   "field": "COT_CONTS_NAME",
+   "value": "이화동 벽화마을",
+   "message": "30m 안에 이름이 같은 행이 3건 있습니다: SeoulView_098, SeoulView_099, SeoulView_100",
+   "fingerprint": "C-09|100273|SeoulView_099|near:SeoulView_098|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "SeoulView_100",
+   "groupKey": "near:SeoulView_098",
+   "field": "COT_CONTS_NAME",
+   "value": "이화동 벽화마을",
+   "message": "30m 안에 이름이 같은 행이 3건 있습니다: SeoulView_098, SeoulView_099, SeoulView_100",
+   "fingerprint": "C-09|100273|SeoulView_100|near:SeoulView_098|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "SeoulView_111",
+   "groupKey": "near:SeoulView_111",
+   "field": "COT_CONTS_NAME",
+   "value": "대학로 마로니에공원",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: SeoulView_111, SeoulView_113",
+   "fingerprint": "C-09|100273|SeoulView_111|near:SeoulView_111|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "SeoulView_113",
+   "groupKey": "near:SeoulView_111",
+   "field": "COT_CONTS_NAME",
+   "value": "대학로 마로니에 공원",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: SeoulView_111, SeoulView_113",
+   "fingerprint": "C-09|100273|SeoulView_113|near:SeoulView_111|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "SeoulView_127",
+   "groupKey": "near:SeoulView_127",
+   "field": "COT_CONTS_NAME",
+   "value": "방학동 도깨비시장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: SeoulView_127, SeoulView_131",
+   "fingerprint": "C-09|100273|SeoulView_127|near:SeoulView_127|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "SeoulView_131",
+   "groupKey": "near:SeoulView_127",
+   "field": "COT_CONTS_NAME",
+   "value": "방학동 도깨비시장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: SeoulView_127, SeoulView_131",
+   "fingerprint": "C-09|100273|SeoulView_131|near:SeoulView_127|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "SeoulView_133",
+   "groupKey": "near:SeoulView_133",
+   "field": "COT_CONTS_NAME",
+   "value": "윤중로 벚꽃",
+   "message": "30m 안에 이름이 같은 행이 3건 있습니다: SeoulView_133, SeoulView_134, SeoulView_135",
+   "fingerprint": "C-09|100273|SeoulView_133|near:SeoulView_133|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "SeoulView_134",
+   "groupKey": "near:SeoulView_133",
+   "field": "COT_CONTS_NAME",
+   "value": "윤중로 벚꽃",
+   "message": "30m 안에 이름이 같은 행이 3건 있습니다: SeoulView_133, SeoulView_134, SeoulView_135",
+   "fingerprint": "C-09|100273|SeoulView_134|near:SeoulView_133|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "SeoulView_135",
+   "groupKey": "near:SeoulView_133",
+   "field": "COT_CONTS_NAME",
+   "value": "윤중로 벚꽃",
+   "message": "30m 안에 이름이 같은 행이 3건 있습니다: SeoulView_133, SeoulView_134, SeoulView_135",
+   "fingerprint": "C-09|100273|SeoulView_135|near:SeoulView_133|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "SeoulView_138",
+   "groupKey": "near:SeoulView_138",
+   "field": "COT_CONTS_NAME",
+   "value": "난지캠핑장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: SeoulView_138, SeoulView_139",
+   "fingerprint": "C-09|100273|SeoulView_138|near:SeoulView_138|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "SeoulView_139",
+   "groupKey": "near:SeoulView_138",
+   "field": "COT_CONTS_NAME",
+   "value": "난지캠핑장",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: SeoulView_138, SeoulView_139",
+   "fingerprint": "C-09|100273|SeoulView_139|near:SeoulView_138|COT_CONTS_NAME"
+  }
+ ]
+}

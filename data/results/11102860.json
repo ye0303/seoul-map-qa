@@ -1,0 +1,16 @@
+{
+ "themeId": "11102860",
+ "rulesetVersion": 1,
+ "contentHash": "7f8f35083bda52ac797c699c25b078b9356e4c8082d8e7a10de31a273ad075db",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2026-0003",
+   "field": "COT_GU_NAME",
+   "suggestion": "종로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11102860|2026-0003||COT_GU_NAME"
+  }
+ ]
+}

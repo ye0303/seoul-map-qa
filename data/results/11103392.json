@@ -1,0 +1,264 @@
+{
+ "themeId": "11103392",
+ "rulesetVersion": 1,
+ "contentHash": "e0c8b84ce3c824bc2841dd13b7e1f3019f5b4ad9dbe05fcbd4102e09860bee8b",
+ "findings": [
+  {
+   "ruleId": "C-05",
+   "contsId": "HC_0575",
+   "field": "COT_GU_NAME",
+   "value": "강남구",
+   "severity": "suspect",
+   "suggestion": "서초구",
+   "message": "구명(강남구)이 좌표·주소의 구(서초구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|11103392|HC_0575||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103392_1780283685182",
+   "field": "COT_GU_NAME",
+   "suggestion": "금천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103392|11103392_1780283685182||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103392_1780284017765",
+   "field": "COT_GU_NAME",
+   "suggestion": "금천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103392|11103392_1780284017765||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103392_1790813448030",
+   "field": "COT_GU_NAME",
+   "suggestion": "마포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103392|11103392_1790813448030||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "11103392_1774577000295",
+   "groupKey": "coord:11103392_1774577000295",
+   "field": "COT_CONTS_NAME",
+   "value": "중랑장애인 자립생활센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 11103392_1774577000295, 11103392_1774577181942",
+   "fingerprint": "C-08|11103392|11103392_1774577000295|coord:11103392_1774577000295|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "11103392_1774577181942",
+   "groupKey": "coord:11103392_1774577000295",
+   "field": "COT_CONTS_NAME",
+   "value": "중랑장애인 자립생활센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 11103392_1774577000295, 11103392_1774577181942",
+   "fingerprint": "C-08|11103392|11103392_1774577181942|coord:11103392_1774577000295|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "HC_0054",
+   "groupKey": "coord:HC_0054",
+   "field": "COT_CONTS_NAME",
+   "value": "용산역(1호선 1번출구)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: HC_0054, HC_0055",
+   "fingerprint": "C-08|11103392|HC_0054|coord:HC_0054|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "HC_0055",
+   "groupKey": "coord:HC_0054",
+   "field": "COT_CONTS_NAME",
+   "value": "용산역(1호선 3번출구)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: HC_0054, HC_0055",
+   "fingerprint": "C-08|11103392|HC_0055|coord:HC_0054|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "HC_0184",
+   "groupKey": "coord:HC_0184",
+   "field": "COT_CONTS_NAME",
+   "value": "성북장애인복지관(1층)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: HC_0184, HC_0185, HC_0186",
+   "fingerprint": "C-08|11103392|HC_0184|coord:HC_0184|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "HC_0185",
+   "groupKey": "coord:HC_0184",
+   "field": "COT_CONTS_NAME",
+   "value": "성북장애인복지관(1층)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: HC_0184, HC_0185, HC_0186",
+   "fingerprint": "C-08|11103392|HC_0185|coord:HC_0184|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "HC_0186",
+   "groupKey": "coord:HC_0184",
+   "field": "COT_CONTS_NAME",
+   "value": "성북장애인복지관(지하1층)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: HC_0184, HC_0185, HC_0186",
+   "fingerprint": "C-08|11103392|HC_0186|coord:HC_0184|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "HC_0203",
+   "groupKey": "coord:HC_0203",
+   "field": "COT_CONTS_NAME",
+   "value": "강북장애인종합복지관(주차장1)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: HC_0203, HC_0204",
+   "fingerprint": "C-08|11103392|HC_0203|coord:HC_0203|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "HC_0204",
+   "groupKey": "coord:HC_0203",
+   "field": "COT_CONTS_NAME",
+   "value": "강북장애인종합복지관(주차장2)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: HC_0203, HC_0204",
+   "fingerprint": "C-08|11103392|HC_0204|coord:HC_0203|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "HC_0219",
+   "groupKey": "coord:HC_0219",
+   "field": "COT_CONTS_NAME",
+   "value": "녹천역(1호선,남부)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: HC_0219, HC_0220",
+   "fingerprint": "C-08|11103392|HC_0219|coord:HC_0219|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "HC_0220",
+   "groupKey": "coord:HC_0219",
+   "field": "COT_CONTS_NAME",
+   "value": "녹천역(1호선,북부)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: HC_0219, HC_0220",
+   "fingerprint": "C-08|11103392|HC_0220|coord:HC_0219|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "HC_0235",
+   "groupKey": "coord:HC_0235",
+   "field": "COT_CONTS_NAME",
+   "value": "도봉장애인종합복지관(1층)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: HC_0235, HC_0236, HC_0237",
+   "fingerprint": "C-08|11103392|HC_0235|coord:HC_0235|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "HC_0236",
+   "groupKey": "coord:HC_0235",
+   "field": "COT_CONTS_NAME",
+   "value": "도봉장애인종합복지관(2층)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: HC_0235, HC_0236, HC_0237",
+   "fingerprint": "C-08|11103392|HC_0236|coord:HC_0235|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "HC_0237",
+   "groupKey": "coord:HC_0235",
+   "field": "COT_CONTS_NAME",
+   "value": "도봉장애인종합복지관(지층)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: HC_0235, HC_0236, HC_0237",
+   "fingerprint": "C-08|11103392|HC_0237|coord:HC_0235|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "11103392_1771822226178",
+   "groupKey": "near:11103392_1771822226178",
+   "field": "COT_CONTS_NAME",
+   "value": "성북장애인복지관(지하1층)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 11103392_1771822226178, HC_0186",
+   "fingerprint": "C-09|11103392|11103392_1771822226178|near:11103392_1771822226178|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "11103392_1780283685182",
+   "groupKey": "near:11103392_1780283685182",
+   "field": "COT_CONTS_NAME",
+   "value": "독산1동주민센터(분소)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 11103392_1780283685182, 11103392_1780284017765",
+   "fingerprint": "C-09|11103392|11103392_1780283685182|near:11103392_1780283685182|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "11103392_1780284017765",
+   "groupKey": "near:11103392_1780283685182",
+   "field": "COT_CONTS_NAME",
+   "value": "독산1동주민센터(분소)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 11103392_1780283685182, 11103392_1780284017765",
+   "fingerprint": "C-09|11103392|11103392_1780284017765|near:11103392_1780283685182|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "11103392_1789627576154",
+   "groupKey": "near:11103392_1789627576154",
+   "field": "COT_CONTS_NAME",
+   "value": "양재2동주민센터",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 11103392_1789627576154, HC_0584",
+   "fingerprint": "C-09|11103392|11103392_1789627576154|near:11103392_1789627576154|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "11103392_1789627659439",
+   "groupKey": "near:11103392_1789627659439",
+   "field": "COT_CONTS_NAME",
+   "value": "내곡열린문화센터",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 11103392_1789627659439, HC_0573",
+   "fingerprint": "C-09|11103392|11103392_1789627659439|near:11103392_1789627659439|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "HC_0186",
+   "groupKey": "near:11103392_1771822226178",
+   "field": "COT_CONTS_NAME",
+   "value": "성북장애인복지관(지하1층)",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 11103392_1771822226178, HC_0186",
+   "fingerprint": "C-09|11103392|HC_0186|near:11103392_1771822226178|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "HC_0573",
+   "groupKey": "near:11103392_1789627659439",
+   "field": "COT_CONTS_NAME",
+   "value": "내곡열린문화센터",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 11103392_1789627659439, HC_0573",
+   "fingerprint": "C-09|11103392|HC_0573|near:11103392_1789627659439|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "HC_0584",
+   "groupKey": "near:11103392_1789627576154",
+   "field": "COT_CONTS_NAME",
+   "value": "양재2동 주민센터",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 11103392_1789627576154, HC_0584",
+   "fingerprint": "C-09|11103392|HC_0584|near:11103392_1789627576154|COT_CONTS_NAME"
+  }
+ ]
+}

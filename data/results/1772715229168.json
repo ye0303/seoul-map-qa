@@ -1,0 +1,16 @@
+{
+ "themeId": "1772715229168",
+ "rulesetVersion": 1,
+ "contentHash": "35c9c20af53c5061a16e14457ee9275b268a8017804d6345fe8815c5bb2af812",
+ "findings": [
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "VET_109",
+   "field": "COT_TEL_NO",
+   "value": "01-894-3030",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1772715229168|VET_109||COT_TEL_NO"
+  }
+ ]
+}

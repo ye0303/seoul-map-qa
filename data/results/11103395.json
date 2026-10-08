@@ -1,0 +1,322 @@
+{
+ "themeId": "11103395",
+ "rulesetVersion": 1,
+ "contentHash": "0d5262f6fc0757c7306d18530987b231a9bfa2b44bfeff03f934672f82c405c1",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "mostly-empty",
+   "field": "COT_GU_NAME",
+   "message": "구명이 310건 중 310건 비어 있습니다.",
+   "fingerprint": "C-07|11103395||mostly-empty|COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0005",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0005||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0006",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0006||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0008",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0008||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0012",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0012||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0019",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0019||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0020",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0020||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0030",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0030||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0031",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0031||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0032",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0032||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0036",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0036||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0042",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0042||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0046",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0046||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0048",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0048||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0049",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0049||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0050",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0050||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0053",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0053||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0070",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0070||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0101",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0101||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0127",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0127||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0153",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0153||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0154",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0154||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0156",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0156||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0159",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0159||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0234",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0234||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0237",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0237||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0241",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0241||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0246",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0246||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0280",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0280||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0294",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0294||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0299",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0299||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0300",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0300||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0304",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0304||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0305",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0305||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "zerowaste_0307",
+   "field": "COT_TEL_NO",
+   "value": "정보없음",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|11103395|zerowaste_0307||COT_TEL_NO"
+  }
+ ]
+}

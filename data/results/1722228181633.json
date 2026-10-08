@@ -1,0 +1,2380 @@
+{
+ "themeId": "1722228181633",
+ "rulesetVersion": 1,
+ "contentHash": "a680432a096dc825c3f2ced39c6d6b73e15ae932e73eca77f6340d5942eae217",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769985888990",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769985888990||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986030382",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986030382||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986069397",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986069397||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986103921",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986103921||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986129516",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986129516||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986184681",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986184681||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986250539",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986250539||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986273927",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986273927||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986304340",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986304340||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986341701",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986341701||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986382697",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986382697||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986458209",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986458209||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986492009",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986492009||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986526331",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986526331||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986555572",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986555572||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986586329",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986586329||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986614959",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986614959||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986653619",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986653619||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986699359",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986699359||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986749448",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986749448||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986784073",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986784073||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986826625",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986826625||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986860144",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986860144||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986895529",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986895529||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986925897",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986925897||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986960667",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986960667||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769986995281",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769986995281||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769987030929",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769987030929||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769987066075",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769987066075||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769987100104",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769987100104||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769987131362",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769987131362||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769987173951",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769987173951||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769987268605",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769987268605||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769987310117",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769987310117||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769987367291",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769987367291||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769987406577",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769987406577||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769987442137",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769987442137||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769987474491",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769987474491||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769987512215",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769987512215||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769987576039",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769987576039||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769987621139",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769987621139||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769987659298",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769987659298||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769987686561",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769987686561||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1769987722135",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1769987722135||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784364269384",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784364269384||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784364493882",
+   "field": "COT_GU_NAME",
+   "suggestion": "용산구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784364493882||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784364646567",
+   "field": "COT_GU_NAME",
+   "suggestion": "용산구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784364646567||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784364757178",
+   "field": "COT_GU_NAME",
+   "suggestion": "용산구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784364757178||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784364862438",
+   "field": "COT_GU_NAME",
+   "suggestion": "성동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784364862438||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784364984453",
+   "field": "COT_GU_NAME",
+   "suggestion": "성동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784364984453||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784365161195",
+   "field": "COT_GU_NAME",
+   "suggestion": "성동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784365161195||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784365296316",
+   "field": "COT_GU_NAME",
+   "suggestion": "성동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784365296316||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784365435087",
+   "field": "COT_GU_NAME",
+   "suggestion": "동대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784365435087||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784365576759",
+   "field": "COT_GU_NAME",
+   "suggestion": "중랑구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784365576759||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784365704914",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784365704914||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784365778464",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784365778464||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784365868849",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784365868849||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784365916454",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784365916454||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784365947369",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784365947369||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784366021494",
+   "field": "COT_GU_NAME",
+   "suggestion": "노원구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784366021494||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784366230815",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784366230815||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784366350330",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784366350330||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784366577576",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784366577576||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784366610814",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784366610814||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784366699535",
+   "field": "COT_GU_NAME",
+   "suggestion": "마포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784366699535||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784597786055",
+   "field": "COT_GU_NAME",
+   "suggestion": "마포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784597786055||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784598323167",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784598323167||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784598422099",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784598422099||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784598522848",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784598522848||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784598609182",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784598609182||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784598693365",
+   "field": "COT_GU_NAME",
+   "suggestion": "양천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784598693365||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784598870531",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784598870531||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784598919489",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784598919489||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784598983289",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784598983289||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784599108937",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784599108937||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784599148509",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784599148509||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784599189886",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784599189886||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784599320846",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784599320846||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784599465726",
+   "field": "COT_GU_NAME",
+   "suggestion": "구로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784599465726||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784599669846",
+   "field": "COT_GU_NAME",
+   "suggestion": "금천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784599669846||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784599816394",
+   "field": "COT_GU_NAME",
+   "suggestion": "영등포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784599816394||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784600306090",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784600306090||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784600401685",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784600401685||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784600461176",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784600461176||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784600591382",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784600591382||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784600683616",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784600683616||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784600718852",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784600718852||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784600744559",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784600744559||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784600832472",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784600832472||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784600866878",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784600866878||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784600914576",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784600914576||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784600979587",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784600979587||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784601057287",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784601057287||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784606283187",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784606283187||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784606402487",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784606402487||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784606456820",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784606456820||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784606533134",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784606533134||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784606572464",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784606572464||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784606622830",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784606622830||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784606731984",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784606731984||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784606812433",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784606812433||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784606868687",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784606868687||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784606912862",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784606912862||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784606963251",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784606963251||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607013862",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607013862||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607085945",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607085945||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607122415",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607122415||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607165721",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607165721||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607209181",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607209181||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607252331",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607252331||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607300671",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607300671||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607329216",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607329216||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607378603",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607378603||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607423561",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607423561||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607466846",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607466846||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607516687",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607516687||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607561651",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607561651||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607607677",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607607677||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607690925",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607690925||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607728307",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607728307||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607861671",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607861671||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607891995",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607891995||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784607977717",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784607977717||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784608008520",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784608008520||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784608061053",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784608061053||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1722228181633_1784608093788",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1722228181633|1722228181633_1784608093788||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769985888990",
+   "groupKey": "coord:1722228181633_1769985888990",
+   "field": "COT_CONTS_NAME",
+   "value": "마음가다 심리상담,부부상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769985888990, 1722228181633_1784600401685",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769985888990|coord:1722228181633_1769985888990|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986030382",
+   "groupKey": "coord:1722228181633_1769986030382",
+   "field": "COT_CONTS_NAME",
+   "value": "비채심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986030382, 1722228181633_1784600461176",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986030382|coord:1722228181633_1769986030382|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986069397",
+   "groupKey": "coord:1722228181633_1769986069397",
+   "field": "COT_CONTS_NAME",
+   "value": "서담 심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986069397, 1722228181633_1784600591382",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986069397|coord:1722228181633_1769986069397|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986103921",
+   "groupKey": "coord:1722228181633_1769986103921",
+   "field": "COT_CONTS_NAME",
+   "value": "소담정심리상담연구소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986103921, 1722228181633_1784600718852",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986103921|coord:1722228181633_1769986103921|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986184681",
+   "groupKey": "coord:1722228181633_1769986184681",
+   "field": "COT_CONTS_NAME",
+   "value": "슬기로운 부부,가족 심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986184681, 1722228181633_1784600866878",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986184681|coord:1722228181633_1769986184681|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986273927",
+   "groupKey": "coord:1722228181633_1769986273927",
+   "field": "COT_CONTS_NAME",
+   "value": "온더함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986273927, 1722228181633_1784600914576",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986273927|coord:1722228181633_1769986273927|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986304340",
+   "groupKey": "coord:1722228181633_1769986304340",
+   "field": "COT_CONTS_NAME",
+   "value": "코지심리상담연구소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986304340, 7841_2025_0202",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986304340|coord:1722228181633_1769986304340|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986341701",
+   "groupKey": "coord:1722228181633_1769986341701",
+   "field": "COT_CONTS_NAME",
+   "value": "한국상담대학원대학교 부설 마음지음상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986341701, 7841_2025_0206",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986341701|coord:1722228181633_1769986341701|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986382697",
+   "groupKey": "coord:1722228181633_1769986382697",
+   "field": "COT_CONTS_NAME",
+   "value": "한국임상정신분석심리상담센터아이씨피",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986382697, 7841_2025_0207",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986382697|coord:1722228181633_1769986382697|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986458209",
+   "groupKey": "coord:1722228181633_1769986458209",
+   "field": "COT_CONTS_NAME",
+   "value": "마음계절 심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986458209, 1722228181633_1784606402487",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986458209|coord:1722228181633_1769986458209|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986492009",
+   "groupKey": "coord:1722228181633_1769986492009",
+   "field": "COT_CONTS_NAME",
+   "value": "마음과 봄 임상 및 상담 심리센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986492009, 1722228181633_1784606456820",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986492009|coord:1722228181633_1769986492009|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986526331",
+   "groupKey": "coord:1722228181633_1769986526331",
+   "field": "COT_CONTS_NAME",
+   "value": "마음데이 심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986526331, 1722228181633_1784606533134",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986526331|coord:1722228181633_1769986526331|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986555572",
+   "groupKey": "coord:1722228181633_1769986555572",
+   "field": "COT_CONTS_NAME",
+   "value": "마음새움심리상담연구소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986555572, 1722228181633_1784606572464",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986555572|coord:1722228181633_1769986555572|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986586329",
+   "groupKey": "coord:1722228181633_1769986586329",
+   "field": "COT_CONTS_NAME",
+   "value": "마음을 거닐다 심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986586329, 1722228181633_1784606622830",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986586329|coord:1722228181633_1769986586329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986653619",
+   "groupKey": "coord:1722228181633_1769986653619",
+   "field": "COT_CONTS_NAME",
+   "value": "마이셀의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986653619, 1722228181633_1784606868687",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986653619|coord:1722228181633_1769986653619|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986784073",
+   "groupKey": "coord:1722228181633_1769986784073",
+   "field": "COT_CONTS_NAME",
+   "value": "까리따스 아동발달센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986784073, 1722228181633_1784606963251",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986784073|coord:1722228181633_1769986784073|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986826625",
+   "groupKey": "coord:1722228181633_1769986826625",
+   "field": "COT_CONTS_NAME",
+   "value": "더마인드랩심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986826625, 1722228181633_1784607085945",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986826625|coord:1722228181633_1769986826625|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986860144",
+   "groupKey": "coord:1722228181633_1769986860144",
+   "field": "COT_CONTS_NAME",
+   "value": "더엘심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986860144, 1722228181633_1784607122415",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986860144|coord:1722228181633_1769986860144|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986895529",
+   "groupKey": "coord:1722228181633_1769986895529",
+   "field": "COT_CONTS_NAME",
+   "value": "레브심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986895529, 1722228181633_1784607165721",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986895529|coord:1722228181633_1769986895529|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986925897",
+   "groupKey": "coord:1722228181633_1769986925897",
+   "field": "COT_CONTS_NAME",
+   "value": "마음에 심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986925897, 1722228181633_1784607209181",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986925897|coord:1722228181633_1769986925897|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986960667",
+   "groupKey": "coord:1722228181633_1769986960667",
+   "field": "COT_CONTS_NAME",
+   "value": "마인드플라워 클리닉",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986960667, 1722228181633_1784607252331",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986960667|coord:1722228181633_1769986960667|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769986995281",
+   "groupKey": "coord:1722228181633_1769986995281",
+   "field": "COT_CONTS_NAME",
+   "value": "봄아동청소년심리발달센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986995281, 1722228181633_1784607300671",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769986995281|coord:1722228181633_1769986995281|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769987030929",
+   "groupKey": "coord:1722228181633_1769987030929",
+   "field": "COT_CONTS_NAME",
+   "value": "서울발달·심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769987030929, 1722228181633_1784607329216",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769987030929|coord:1722228181633_1769987030929|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769987066075",
+   "groupKey": "coord:1722228181633_1769987066075",
+   "field": "COT_CONTS_NAME",
+   "value": "심리상담센터 청연",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769987066075, 1722228181633_1784607423561",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769987066075|coord:1722228181633_1769987066075|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769987173951",
+   "groupKey": "coord:1722228181633_1769987173951",
+   "field": "COT_CONTS_NAME",
+   "value": "해인심리상담교육센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769987173951, 1722228181633_1784607607677",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769987173951|coord:1722228181633_1769987173951|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769987268605",
+   "groupKey": "coord:1722228181633_1769987268605",
+   "field": "COT_CONTS_NAME",
+   "value": "프라이빗상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769987268605, 1722228181633_1784607891995",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769987268605|coord:1722228181633_1769987268605|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769987310117",
+   "groupKey": "coord:1722228181633_1769987310117",
+   "field": "COT_CONTS_NAME",
+   "value": "해온 상담심리연구소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769987310117, 1722228181633_1784607861671",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769987310117|coord:1722228181633_1769987310117|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769987367291",
+   "groupKey": "coord:1722228181633_1769987367291",
+   "field": "COT_CONTS_NAME",
+   "value": "마음숲심리상담연구소 방이점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769987367291, 1722228181633_1784607977717",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769987367291|coord:1722228181633_1769987367291|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769987406577",
+   "groupKey": "coord:1722228181633_1769987406577",
+   "field": "COT_CONTS_NAME",
+   "value": "마음숲심리상담연구소 잠실점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769987406577, 1722228181633_1784608008520",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769987406577|coord:1722228181633_1769987406577|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769987442137",
+   "groupKey": "coord:1722228181633_1769987442137",
+   "field": "COT_CONTS_NAME",
+   "value": "사단법인 지엘청소년연구재단",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769987442137, 1722228181633_1784608093788",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769987442137|coord:1722228181633_1769987442137|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1769987576039",
+   "groupKey": "coord:1722228181633_1769987576039",
+   "field": "COT_CONTS_NAME",
+   "value": "(사)인터넷꿈희망터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769987576039, 7841_2025_0047",
+   "fingerprint": "C-08|1722228181633|1722228181633_1769987576039|coord:1722228181633_1769987576039|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784600401685",
+   "groupKey": "coord:1722228181633_1769985888990",
+   "field": "COT_CONTS_NAME",
+   "value": "마음가다 심리상담,부부상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769985888990, 1722228181633_1784600401685",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784600401685|coord:1722228181633_1769985888990|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784600461176",
+   "groupKey": "coord:1722228181633_1769986030382",
+   "field": "COT_CONTS_NAME",
+   "value": "비채심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986030382, 1722228181633_1784600461176",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784600461176|coord:1722228181633_1769986030382|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784600591382",
+   "groupKey": "coord:1722228181633_1769986069397",
+   "field": "COT_CONTS_NAME",
+   "value": "서담 심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986069397, 1722228181633_1784600591382",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784600591382|coord:1722228181633_1769986069397|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784600718852",
+   "groupKey": "coord:1722228181633_1769986103921",
+   "field": "COT_CONTS_NAME",
+   "value": "소담정심리상담연구소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986103921, 1722228181633_1784600718852",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784600718852|coord:1722228181633_1769986103921|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784600866878",
+   "groupKey": "coord:1722228181633_1769986184681",
+   "field": "COT_CONTS_NAME",
+   "value": "슬기로운 부부,가족 심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986184681, 1722228181633_1784600866878",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784600866878|coord:1722228181633_1769986184681|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784600914576",
+   "groupKey": "coord:1722228181633_1769986273927",
+   "field": "COT_CONTS_NAME",
+   "value": "온더함",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986273927, 1722228181633_1784600914576",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784600914576|coord:1722228181633_1769986273927|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784606402487",
+   "groupKey": "coord:1722228181633_1769986458209",
+   "field": "COT_CONTS_NAME",
+   "value": "마음계절 심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986458209, 1722228181633_1784606402487",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784606402487|coord:1722228181633_1769986458209|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784606456820",
+   "groupKey": "coord:1722228181633_1769986492009",
+   "field": "COT_CONTS_NAME",
+   "value": "마음과 봄 임상 및 상담 심리센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986492009, 1722228181633_1784606456820",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784606456820|coord:1722228181633_1769986492009|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784606533134",
+   "groupKey": "coord:1722228181633_1769986526331",
+   "field": "COT_CONTS_NAME",
+   "value": "마음데이 심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986526331, 1722228181633_1784606533134",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784606533134|coord:1722228181633_1769986526331|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784606572464",
+   "groupKey": "coord:1722228181633_1769986555572",
+   "field": "COT_CONTS_NAME",
+   "value": "마음새움심리상담연구소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986555572, 1722228181633_1784606572464",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784606572464|coord:1722228181633_1769986555572|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784606622830",
+   "groupKey": "coord:1722228181633_1769986586329",
+   "field": "COT_CONTS_NAME",
+   "value": "마음을 거닐다 심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986586329, 1722228181633_1784606622830",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784606622830|coord:1722228181633_1769986586329|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784606731984",
+   "groupKey": "coord:1722228181633_1784606731984",
+   "field": "COT_CONTS_NAME",
+   "value": "사단법인라파심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1784606731984, 7841_2025_0021",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784606731984|coord:1722228181633_1784606731984|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784606868687",
+   "groupKey": "coord:1722228181633_1769986653619",
+   "field": "COT_CONTS_NAME",
+   "value": "마이셀의원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986653619, 1722228181633_1784606868687",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784606868687|coord:1722228181633_1769986653619|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784606963251",
+   "groupKey": "coord:1722228181633_1769986784073",
+   "field": "COT_CONTS_NAME",
+   "value": "까리따스 아동발달센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986784073, 1722228181633_1784606963251",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784606963251|coord:1722228181633_1769986784073|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784607085945",
+   "groupKey": "coord:1722228181633_1769986826625",
+   "field": "COT_CONTS_NAME",
+   "value": "더마인드랩심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986826625, 1722228181633_1784607085945",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784607085945|coord:1722228181633_1769986826625|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784607122415",
+   "groupKey": "coord:1722228181633_1769986860144",
+   "field": "COT_CONTS_NAME",
+   "value": "더엘심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986860144, 1722228181633_1784607122415",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784607122415|coord:1722228181633_1769986860144|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784607165721",
+   "groupKey": "coord:1722228181633_1769986895529",
+   "field": "COT_CONTS_NAME",
+   "value": "레브심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986895529, 1722228181633_1784607165721",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784607165721|coord:1722228181633_1769986895529|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784607209181",
+   "groupKey": "coord:1722228181633_1769986925897",
+   "field": "COT_CONTS_NAME",
+   "value": "마음에 심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986925897, 1722228181633_1784607209181",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784607209181|coord:1722228181633_1769986925897|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784607252331",
+   "groupKey": "coord:1722228181633_1769986960667",
+   "field": "COT_CONTS_NAME",
+   "value": "마인드플라워 클리닉",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986960667, 1722228181633_1784607252331",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784607252331|coord:1722228181633_1769986960667|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784607300671",
+   "groupKey": "coord:1722228181633_1769986995281",
+   "field": "COT_CONTS_NAME",
+   "value": "봄아동청소년심리발달센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986995281, 1722228181633_1784607300671",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784607300671|coord:1722228181633_1769986995281|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784607329216",
+   "groupKey": "coord:1722228181633_1769987030929",
+   "field": "COT_CONTS_NAME",
+   "value": "서울발달·심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769987030929, 1722228181633_1784607329216",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784607329216|coord:1722228181633_1769987030929|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784607423561",
+   "groupKey": "coord:1722228181633_1769987066075",
+   "field": "COT_CONTS_NAME",
+   "value": "심리상담센터 청연",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769987066075, 1722228181633_1784607423561",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784607423561|coord:1722228181633_1769987066075|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784607607677",
+   "groupKey": "coord:1722228181633_1769987173951",
+   "field": "COT_CONTS_NAME",
+   "value": "해인심리상담교육센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769987173951, 1722228181633_1784607607677",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784607607677|coord:1722228181633_1769987173951|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784607861671",
+   "groupKey": "coord:1722228181633_1769987310117",
+   "field": "COT_CONTS_NAME",
+   "value": "해온 상담심리연구소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769987310117, 1722228181633_1784607861671",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784607861671|coord:1722228181633_1769987310117|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784607891995",
+   "groupKey": "coord:1722228181633_1769987268605",
+   "field": "COT_CONTS_NAME",
+   "value": "프라이빗상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769987268605, 1722228181633_1784607891995",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784607891995|coord:1722228181633_1769987268605|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784607977717",
+   "groupKey": "coord:1722228181633_1769987367291",
+   "field": "COT_CONTS_NAME",
+   "value": "마음숲심리상담연구소 방이점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769987367291, 1722228181633_1784607977717",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784607977717|coord:1722228181633_1769987367291|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784608008520",
+   "groupKey": "coord:1722228181633_1769987406577",
+   "field": "COT_CONTS_NAME",
+   "value": "마음숲심리상담연구소 잠실점",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769987406577, 1722228181633_1784608008520",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784608008520|coord:1722228181633_1769987406577|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "1722228181633_1784608093788",
+   "groupKey": "coord:1722228181633_1769987442137",
+   "field": "COT_CONTS_NAME",
+   "value": "사단법인 지엘청소년연구재단",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769987442137, 1722228181633_1784608093788",
+   "fingerprint": "C-08|1722228181633|1722228181633_1784608093788|coord:1722228181633_1769987442137|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "7841_2025_0021",
+   "groupKey": "coord:1722228181633_1784606731984",
+   "field": "COT_CONTS_NAME",
+   "value": "사단법인라파심리상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1784606731984, 7841_2025_0021",
+   "fingerprint": "C-08|1722228181633|7841_2025_0021|coord:1722228181633_1784606731984|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "7841_2025_0047",
+   "groupKey": "coord:1722228181633_1769987576039",
+   "field": "COT_CONTS_NAME",
+   "value": "(사)인터넷꿈희망터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769987576039, 7841_2025_0047",
+   "fingerprint": "C-08|1722228181633|7841_2025_0047|coord:1722228181633_1769987576039|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "7841_2025_0202",
+   "groupKey": "coord:1722228181633_1769986304340",
+   "field": "COT_CONTS_NAME",
+   "value": "코지심리상담연구소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986304340, 7841_2025_0202",
+   "fingerprint": "C-08|1722228181633|7841_2025_0202|coord:1722228181633_1769986304340|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "7841_2025_0206",
+   "groupKey": "coord:1722228181633_1769986341701",
+   "field": "COT_CONTS_NAME",
+   "value": "한국상담대학원대학교 부설 마음지음상담센터",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986341701, 7841_2025_0206",
+   "fingerprint": "C-08|1722228181633|7841_2025_0206|coord:1722228181633_1769986341701|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "7841_2025_0207",
+   "groupKey": "coord:1722228181633_1769986382697",
+   "field": "COT_CONTS_NAME",
+   "value": "한국임상정신분석심리상담센터아이씨피",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 1722228181633_1769986382697, 7841_2025_0207",
+   "fingerprint": "C-08|1722228181633|7841_2025_0207|coord:1722228181633_1769986382697|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1769484811349",
+   "field": "COT_TEL_NO",
+   "value": "%0902-2647-5516",
+   "suggestion": "02-2647-5516",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1769484811349||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1769484919574",
+   "field": "COT_TEL_NO",
+   "value": "%09070-7722-2111",
+   "suggestion": "070-7722-2111",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1769484919574||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1769485535619",
+   "field": "COT_TEL_NO",
+   "value": "%0902-6952-3374",
+   "suggestion": "02-6952-3374",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1769485535619||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1769485618193",
+   "field": "COT_TEL_NO",
+   "value": "%0902-313-1619",
+   "suggestion": "02-313-1619",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1769485618193||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784365778464",
+   "field": "COT_TEL_NO",
+   "value": "%09010-8037-6264",
+   "suggestion": "010-8037-6264",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784365778464||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784365868849",
+   "field": "COT_TEL_NO",
+   "value": "%0902-904-5375",
+   "suggestion": "02-904-5375",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784365868849||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784365916454",
+   "field": "COT_TEL_NO",
+   "value": "%0902-998-0721",
+   "suggestion": "02-998-0721",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784365916454||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784365947369",
+   "field": "COT_TEL_NO",
+   "value": "%0902-951-0552",
+   "suggestion": "02-951-0552",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784365947369||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784366230815",
+   "field": "COT_TEL_NO",
+   "value": "%09010-6313-5669",
+   "suggestion": "010-6313-5669",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784366230815||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784366350330",
+   "field": "COT_TEL_NO",
+   "value": "%09010-2745-8462",
+   "suggestion": "010-2745-8462",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784366350330||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784366577576",
+   "field": "COT_TEL_NO",
+   "value": "%0902-395-8838",
+   "suggestion": "02-395-8838",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784366577576||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784366610814",
+   "field": "COT_TEL_NO",
+   "value": "%09010-4682-6278",
+   "suggestion": "010-4682-6278",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784366610814||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784366699535",
+   "field": "COT_TEL_NO",
+   "value": "%09010-9660-6976",
+   "suggestion": "010-9660-6976",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784366699535||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784367412305",
+   "field": "COT_TEL_NO",
+   "value": "%09010-3269-0919",
+   "suggestion": "010-3269-0919",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784367412305||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784598919489",
+   "field": "COT_TEL_NO",
+   "value": "%09070-7766-0099",
+   "suggestion": "070-7766-0099",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784598919489||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784599108937",
+   "field": "COT_TEL_NO",
+   "value": "%0902-2664-1007",
+   "suggestion": "02-2664-1007",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784599108937||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784599148509",
+   "field": "COT_TEL_NO",
+   "value": "%0902-6952-9816",
+   "suggestion": "02-6952-9816",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784599148509||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784599189886",
+   "field": "COT_TEL_NO",
+   "value": "%09010-4963-9576",
+   "suggestion": "010-4963-9576",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784599189886||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784599320846",
+   "field": "COT_TEL_NO",
+   "value": "%09010-5819-1989",
+   "suggestion": "010-5819-1989",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784599320846||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784599465726",
+   "field": "COT_TEL_NO",
+   "value": "%0902-830-1205",
+   "suggestion": "02-830-1205",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784599465726||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784600306090",
+   "field": "COT_TEL_NO",
+   "value": "%0902-6015-9623",
+   "suggestion": "02-6015-9623",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784600306090||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784600401685",
+   "field": "COT_TEL_NO",
+   "value": "%0902-6956-1408",
+   "suggestion": "02-6956-1408",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784600401685||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784600591382",
+   "field": "COT_TEL_NO",
+   "value": "%0902-2038-4305",
+   "suggestion": "02-2038-4305",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784600591382||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784600683616",
+   "field": "COT_TEL_NO",
+   "value": "%0902-2039-0388",
+   "suggestion": "02-2039-0388",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784600683616||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784600718852",
+   "field": "COT_TEL_NO",
+   "value": "%09010-2752-4212",
+   "suggestion": "010-2752-4212",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784600718852||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784600744559",
+   "field": "COT_TEL_NO",
+   "value": "%09010-5673-7792",
+   "suggestion": "010-5673-7792",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784600744559||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784600832472",
+   "field": "COT_TEL_NO",
+   "value": "%0902-523-7756",
+   "suggestion": "02-523-7756",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784600832472||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784606283187",
+   "field": "COT_TEL_NO",
+   "value": "%09010-5695-2606",
+   "suggestion": "010-5695-2606",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784606283187||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784606402487",
+   "field": "COT_TEL_NO",
+   "value": "%09010-4683-4020",
+   "suggestion": "010-4683-4020",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784606402487||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784606456820",
+   "field": "COT_TEL_NO",
+   "value": "%0902-2135-2284",
+   "suggestion": "02-2135-2284",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784606456820||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784606533134",
+   "field": "COT_TEL_NO",
+   "value": "%09010-6751-8904",
+   "suggestion": "010-6751-8904",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784606533134||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784606572464",
+   "field": "COT_TEL_NO",
+   "value": "%09010-5612-7217",
+   "suggestion": "010-5612-7217",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784606572464||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784606622830",
+   "field": "COT_TEL_NO",
+   "value": "%09010-7302-8255",
+   "suggestion": "010-7302-8255",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784606622830||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784606731984",
+   "field": "COT_TEL_NO",
+   "value": "%09070-8823-4618",
+   "suggestion": "070-8823-4618",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784606731984||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784606812433",
+   "field": "COT_TEL_NO",
+   "value": "%0902-6956-1676",
+   "suggestion": "02-6956-1676",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784606812433||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784606868687",
+   "field": "COT_TEL_NO",
+   "value": "%0902-517-5252",
+   "suggestion": "02-517-5252",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784606868687||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784606912862",
+   "field": "COT_TEL_NO",
+   "value": "%0902-545-1147",
+   "suggestion": "02-545-1147",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784606912862||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784606963251",
+   "field": "COT_TEL_NO",
+   "value": "%0902-523-0024",
+   "suggestion": "02-523-0024",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784606963251||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784607013862",
+   "field": "COT_TEL_NO",
+   "value": "%0902-6369-1852",
+   "suggestion": "02-6369-1852",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784607013862||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784607085945",
+   "field": "COT_TEL_NO",
+   "value": "%09010-5918-9483",
+   "suggestion": "010-5918-9483",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784607085945||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784607122415",
+   "field": "COT_TEL_NO",
+   "value": "%0902-521-3544",
+   "suggestion": "02-521-3544",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784607122415||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784607165721",
+   "field": "COT_TEL_NO",
+   "value": "%0902-515-9195",
+   "suggestion": "02-515-9195",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784607165721||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784607209181",
+   "field": "COT_TEL_NO",
+   "value": "%09010-6416-4183",
+   "suggestion": "010-6416-4183",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784607209181||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784607252331",
+   "field": "COT_TEL_NO",
+   "value": "%0902-2088-7448",
+   "suggestion": "02-2088-7448",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784607252331||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784607300671",
+   "field": "COT_TEL_NO",
+   "value": "%0902-567-1090",
+   "suggestion": "02-567-1090",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784607300671||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784607329216",
+   "field": "COT_TEL_NO",
+   "value": "%0902-3448-9004",
+   "suggestion": "02-3448-9004",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784607329216||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784607378603",
+   "field": "COT_TEL_NO",
+   "value": "%09010-2747-3849",
+   "suggestion": "010-2747-3849",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784607378603||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784607423561",
+   "field": "COT_TEL_NO",
+   "value": "%09010-5491-1121",
+   "suggestion": "010-5491-1121",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784607423561||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784607466846",
+   "field": "COT_TEL_NO",
+   "value": "%09010-8336-7794",
+   "suggestion": "010-8336-7794",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784607466846||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784607516687",
+   "field": "COT_TEL_NO",
+   "value": "%0902-6259-5975",
+   "suggestion": "02-6259-5975",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784607516687||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784607561651",
+   "field": "COT_TEL_NO",
+   "value": "%0902-579-6888",
+   "suggestion": "02-579-6888",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784607561651||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784607607677",
+   "field": "COT_TEL_NO",
+   "value": "%09010-3360-7363",
+   "suggestion": "010-3360-7363",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784607607677||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784607690925",
+   "field": "COT_TEL_NO",
+   "value": "%09010-8693-8417",
+   "suggestion": "010-8693-8417",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784607690925||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784607728307",
+   "field": "COT_TEL_NO",
+   "value": "%0902-412-3370",
+   "suggestion": "02-412-3370",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784607728307||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784607861671",
+   "field": "COT_TEL_NO",
+   "value": "%0902-422-0501",
+   "suggestion": "02-422-0501",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784607861671||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784607977717",
+   "field": "COT_TEL_NO",
+   "value": "%09010-2132-3806",
+   "suggestion": "010-2132-3806",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784607977717||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784608008520",
+   "field": "COT_TEL_NO",
+   "value": "%09010-8860-3228",
+   "suggestion": "010-8860-3228",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784608008520||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784608061053",
+   "field": "COT_TEL_NO",
+   "value": "%09010-5687-0982",
+   "suggestion": "010-5687-0982",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784608061053||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "1722228181633_1784608093788",
+   "field": "COT_TEL_NO",
+   "value": "%0902-594-1514",
+   "suggestion": "02-594-1514",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1722228181633|1722228181633_1784608093788||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "7841_2025_0311",
+   "field": "COT_TEL_NO",
+   "value": "02-6369",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1722228181633|7841_2025_0311||COT_TEL_NO"
+  }
+ ]
+}

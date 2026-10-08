@@ -1,0 +1,2797 @@
+{
+ "themeId": "100106",
+ "rulesetVersion": 1,
+ "contentHash": "ea81a950326af4c7c1f74f5997b045b924e8ea8001afe2f30fb7710d6a6a47f7",
+ "findings": [
+  {
+   "ruleId": "C-05",
+   "contsId": "rest2025_0494",
+   "field": "COT_GU_NAME",
+   "value": "강동구",
+   "severity": "suspect",
+   "suggestion": "송파구",
+   "message": "구명(강동구)이 좌표·주소의 구(송파구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|100106|rest2025_0494||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "rest2025_0554",
+   "field": "COT_GU_NAME",
+   "value": "강동구",
+   "severity": "error",
+   "suggestion": "송파구",
+   "message": "구명(강동구)이 좌표·주소의 구(송파구)와 다릅니다.",
+   "fingerprint": "C-05|100106|rest2025_0554||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "rest2025_0878",
+   "field": "COT_GU_NAME",
+   "value": "관악구",
+   "severity": "suspect",
+   "message": "구명(관악구)과 좌표·주소의 구(동작구)가 다릅니다. 이 좌표를 이름이 다른 장소 1곳이 함께 쓰고 있어 좌표·주소가 잘못 들어갔을 수 있습니다.",
+   "fingerprint": "C-05|100106|rest2025_0878||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "rest2025_1263",
+   "field": "COT_GU_NAME",
+   "value": "구로구",
+   "severity": "suspect",
+   "message": "구명(구로구)과 좌표·주소의 구(관악구)가 다릅니다. 이 좌표를 이름이 다른 장소 1곳이 함께 쓰고 있어 좌표·주소가 잘못 들어갔을 수 있습니다.",
+   "fingerprint": "C-05|100106|rest2025_1263||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "rest2025_1326",
+   "field": "COT_GU_NAME",
+   "value": "구로구",
+   "severity": "suspect",
+   "suggestion": "양천구",
+   "message": "구명(구로구)이 좌표·주소의 구(양천구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|100106|rest2025_1326||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "rest2025_1905",
+   "field": "COT_GU_NAME",
+   "value": "동대문구",
+   "severity": "error",
+   "suggestion": "영등포구",
+   "message": "구명(동대문구)이 좌표·주소의 구(영등포구)와 다릅니다.",
+   "fingerprint": "C-05|100106|rest2025_1905||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "rest2025_2174",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "suspect",
+   "suggestion": "용산구",
+   "message": "구명(마포구)이 좌표·주소의 구(용산구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|100106|rest2025_2174||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "rest2025_3319",
+   "field": "COT_GU_NAME",
+   "value": "양천구",
+   "severity": "error",
+   "suggestion": "광진구",
+   "message": "구명(양천구)이 좌표·주소의 구(광진구)와 다릅니다.",
+   "fingerprint": "C-05|100106|rest2025_3319||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "rest2025_3552",
+   "field": "COT_GU_NAME",
+   "value": "영등포구",
+   "severity": "error",
+   "suggestion": "송파구",
+   "message": "구명(영등포구)이 좌표·주소의 구(송파구)와 다릅니다.",
+   "fingerprint": "C-05|100106|rest2025_3552||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "rest2025_3643",
+   "field": "COT_GU_NAME",
+   "value": "영등포구",
+   "severity": "error",
+   "suggestion": "송파구",
+   "message": "구명(영등포구)이 좌표·주소의 구(송파구)와 다릅니다.",
+   "fingerprint": "C-05|100106|rest2025_3643||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "rest2025_3764",
+   "field": "COT_GU_NAME",
+   "value": "용산구",
+   "severity": "error",
+   "suggestion": "강남구",
+   "message": "구명(용산구)이 좌표·주소의 구(강남구)와 다릅니다.",
+   "fingerprint": "C-05|100106|rest2025_3764||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "rest2025_3770",
+   "field": "COT_GU_NAME",
+   "value": "용산구",
+   "severity": "suspect",
+   "suggestion": "중구",
+   "message": "구명(용산구)이 좌표·주소의 구(중구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|100106|rest2025_3770||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "rest2025_4372",
+   "field": "COT_GU_NAME",
+   "value": "중랑구",
+   "severity": "suspect",
+   "suggestion": "동대문구",
+   "message": "구명(중랑구)이 좌표·주소의 구(동대문구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|100106|rest2025_4372||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-06",
+   "severity": "suspect",
+   "contsId": "rest2025_4503",
+   "field": "COT_ADDR_FULL_NEW",
+   "value": "동대문구",
+   "message": "주소의 구(동대문구)가 구명·좌표의 구(중랑구)와 다릅니다. 주소를 확인해 주세요.",
+   "fingerprint": "C-06|100106|rest2025_4503||COT_ADDR_FULL_NEW"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1760579314941",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1760579314941||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1760580067646",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1760580067646||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1763963295268",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1763963295268||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1770877158964",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1770877158964||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1775545047655",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1775545047655||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1776668338570",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1776668338570||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1777255158611",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1777255158611||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1777255527785",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1777255527785||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1777264572135",
+   "field": "COT_GU_NAME",
+   "suggestion": "동작구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1777264572135||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1777264696351",
+   "field": "COT_GU_NAME",
+   "suggestion": "동작구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1777264696351||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1778338944828",
+   "field": "COT_GU_NAME",
+   "suggestion": "성동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1778338944828||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1779775719550",
+   "field": "COT_GU_NAME",
+   "suggestion": "중구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1779775719550||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1782108730979",
+   "field": "COT_GU_NAME",
+   "suggestion": "동대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1782108730979||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1782109437098",
+   "field": "COT_GU_NAME",
+   "suggestion": "동대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1782109437098||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1782282391361",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1782282391361||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1782389867212",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1782389867212||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1782390479486",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1782390479486||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1782780850304",
+   "field": "COT_GU_NAME",
+   "suggestion": "동작구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1782780850304||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1782974218095",
+   "field": "COT_GU_NAME",
+   "suggestion": "동대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1782974218095||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1784769590653",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1784769590653||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1784769741118",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1784769741118||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1784769858531",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1784769858531||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1784771228461",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1784771228461||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1785127746549",
+   "field": "COT_GU_NAME",
+   "suggestion": "동대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1785127746549||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1785910542103",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1785910542103||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1786169808404",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1786169808404||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1786169841640",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1786169841640||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1786173728813",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1786173728813||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1786173786155",
+   "field": "COT_GU_NAME",
+   "suggestion": "강남구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1786173786155||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1787104291459",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1787104291459||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1787104533394",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1787104533394||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1787104722806",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1787104722806||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1787104759166",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1787104759166||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1787104821924",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1787104821924||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1787104853582",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1787104853582||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1787104879190",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1787104879190||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1787104933296",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1787104933296||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1787104967494",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1787104967494||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1787105024284",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1787105024284||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1787105057098",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1787105057098||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1787105099786",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1787105099786||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1787105127602",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1787105127602||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1787105179474",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1787105179474||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1787105258686",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1787105258686||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1787105368140",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1787105368140||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1789367827949",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1789367827949||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1789436196754",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1789436196754||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1789436527828",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1789436527828||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1789437414584",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1789437414584||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1789437735514",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1789437735514||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1789455099300",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1789455099300||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1789455135252",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1789455135252||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1789455548582",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1789455548582||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1789455592454",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1789455592454||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1789455649959",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1789455649959||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1789980091813",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1789980091813||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1790050499081",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1790050499081||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1790127945012",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1790127945012||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1790816720080",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1790816720080||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1790816976913",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1790816976913||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1790817191912",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1790817191912||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "100106_1790817406496",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|100106_1790817406496||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "rest2022_4171",
+   "field": "COT_GU_NAME",
+   "suggestion": "종로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|rest2022_4171||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "rest2026_01",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|rest2026_01||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "rest2026_02",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|rest2026_02||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "rest2026_03",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|rest2026_03||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "rest2026_04",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|rest2026_04||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "rest2026_05",
+   "field": "COT_GU_NAME",
+   "suggestion": "광진구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|rest2026_05||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "rest2026_4170",
+   "field": "COT_GU_NAME",
+   "suggestion": "종로구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|rest2026_4170||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "성락성결교회",
+   "field": "COT_GU_NAME",
+   "suggestion": "성동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|성락성결교회||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "하우스디세종타워",
+   "field": "COT_GU_NAME",
+   "suggestion": "성동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|100106|하우스디세종타워||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1775545047655",
+   "groupKey": "coord:100106_1775545047655",
+   "field": "COT_CONTS_NAME",
+   "value": "잠실더샵스타파크오피스텔상가",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 100106_1775545047655, 100106_1789437735514, 100106_1789454819602",
+   "fingerprint": "C-08|100106|100106_1775545047655|coord:100106_1775545047655|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1777264572135",
+   "groupKey": "coord:100106_1777264572135",
+   "field": "COT_CONTS_NAME",
+   "value": "유진학원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 100106_1777264572135, 100106_1777274856582",
+   "fingerprint": "C-08|100106|100106_1777264572135|coord:100106_1777264572135|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1777264696351",
+   "groupKey": "coord:100106_1777264696351",
+   "field": "COT_CONTS_NAME",
+   "value": "시민교회",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 100106_1777264696351, 100106_1777275048423",
+   "fingerprint": "C-08|100106|100106_1777264696351|coord:100106_1777264696351|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1777274856582",
+   "groupKey": "coord:100106_1777264572135",
+   "field": "COT_CONTS_NAME",
+   "value": "유진학원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 100106_1777264572135, 100106_1777274856582",
+   "fingerprint": "C-08|100106|100106_1777274856582|coord:100106_1777264572135|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1777275048423",
+   "groupKey": "coord:100106_1777264696351",
+   "field": "COT_CONTS_NAME",
+   "value": "시민교회",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 100106_1777264696351, 100106_1777275048423",
+   "fingerprint": "C-08|100106|100106_1777275048423|coord:100106_1777264696351|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1782108730979",
+   "groupKey": "coord:100106_1782108730979",
+   "field": "COT_CONTS_NAME",
+   "value": "천장어린이공원화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 100106_1782108730979, 100106_1782109437098, 100106_1782974218095",
+   "fingerprint": "C-08|100106|100106_1782108730979|coord:100106_1782108730979|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1782108730979",
+   "groupKey": "same:100106_1782108730979",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 100106_1782108730979, 100106_1782109437098, 100106_1782974218095",
+   "fingerprint": "C-08|100106|100106_1782108730979|same:100106_1782108730979|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1782109437098",
+   "groupKey": "coord:100106_1782108730979",
+   "field": "COT_CONTS_NAME",
+   "value": "천장어린이공원화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 100106_1782108730979, 100106_1782109437098, 100106_1782974218095",
+   "fingerprint": "C-08|100106|100106_1782109437098|coord:100106_1782108730979|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1782109437098",
+   "groupKey": "same:100106_1782108730979",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 100106_1782108730979, 100106_1782109437098, 100106_1782974218095",
+   "fingerprint": "C-08|100106|100106_1782109437098|same:100106_1782108730979|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1782389867212",
+   "groupKey": "coord:100106_1782389867212",
+   "field": "COT_CONTS_NAME",
+   "value": "포레온스테이션5",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 100106_1782389867212, 100106_1782390479486, 100106_1782390634150",
+   "fingerprint": "C-08|100106|100106_1782389867212|coord:100106_1782389867212|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1782389867212",
+   "groupKey": "same:100106_1782389867212",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 100106_1782389867212, 100106_1782390479486",
+   "fingerprint": "C-08|100106|100106_1782389867212|same:100106_1782389867212|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1782390479486",
+   "groupKey": "coord:100106_1782389867212",
+   "field": "COT_CONTS_NAME",
+   "value": "포레온스테이션5",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 100106_1782389867212, 100106_1782390479486, 100106_1782390634150",
+   "fingerprint": "C-08|100106|100106_1782390479486|coord:100106_1782389867212|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1782390479486",
+   "groupKey": "same:100106_1782389867212",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 100106_1782389867212, 100106_1782390479486",
+   "fingerprint": "C-08|100106|100106_1782390479486|same:100106_1782389867212|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1782390634150",
+   "groupKey": "coord:100106_1782389867212",
+   "field": "COT_CONTS_NAME",
+   "value": "포레온스테이션5",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 100106_1782389867212, 100106_1782390479486, 100106_1782390634150",
+   "fingerprint": "C-08|100106|100106_1782390634150|coord:100106_1782389867212|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1782974218095",
+   "groupKey": "coord:100106_1782108730979",
+   "field": "COT_CONTS_NAME",
+   "value": "천장어린이공원화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 100106_1782108730979, 100106_1782109437098, 100106_1782974218095",
+   "fingerprint": "C-08|100106|100106_1782974218095|coord:100106_1782108730979|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1782974218095",
+   "groupKey": "same:100106_1782108730979",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 100106_1782108730979, 100106_1782109437098, 100106_1782974218095",
+   "fingerprint": "C-08|100106|100106_1782974218095|same:100106_1782108730979|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1786169808404",
+   "groupKey": "coord:100106_1786169808404",
+   "field": "COT_CONTS_NAME",
+   "value": "현대1차아파트 상가",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 100106_1786169808404, 100106_1786169841640, 100106_1786170268257",
+   "fingerprint": "C-08|100106|100106_1786169808404|coord:100106_1786169808404|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1786169808404",
+   "groupKey": "same:100106_1786169808404",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 100106_1786169808404, 100106_1786169841640",
+   "fingerprint": "C-08|100106|100106_1786169808404|same:100106_1786169808404|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1786169841640",
+   "groupKey": "coord:100106_1786169808404",
+   "field": "COT_CONTS_NAME",
+   "value": "현대1차아파트 상가",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 100106_1786169808404, 100106_1786169841640, 100106_1786170268257",
+   "fingerprint": "C-08|100106|100106_1786169841640|coord:100106_1786169808404|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1786169841640",
+   "groupKey": "same:100106_1786169808404",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 100106_1786169808404, 100106_1786169841640",
+   "fingerprint": "C-08|100106|100106_1786169841640|same:100106_1786169808404|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1786170268257",
+   "groupKey": "coord:100106_1786169808404",
+   "field": "COT_CONTS_NAME",
+   "value": "현대1차아파트 상가",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 100106_1786169808404, 100106_1786169841640, 100106_1786170268257",
+   "fingerprint": "C-08|100106|100106_1786170268257|coord:100106_1786169808404|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1786173728813",
+   "groupKey": "coord:100106_1786173728813",
+   "field": "COT_CONTS_NAME",
+   "value": "일원느티나무공원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 100106_1786173728813, 100106_1786173786155",
+   "fingerprint": "C-08|100106|100106_1786173728813|coord:100106_1786173728813|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1786173728813",
+   "groupKey": "same:100106_1786173728813",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 100106_1786173728813, 100106_1786173786155",
+   "fingerprint": "C-08|100106|100106_1786173728813|same:100106_1786173728813|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1786173786155",
+   "groupKey": "coord:100106_1786173728813",
+   "field": "COT_CONTS_NAME",
+   "value": "일원느티나무공원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 100106_1786173728813, 100106_1786173786155",
+   "fingerprint": "C-08|100106|100106_1786173786155|coord:100106_1786173728813|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1786173786155",
+   "groupKey": "same:100106_1786173728813",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 100106_1786173728813, 100106_1786173786155",
+   "fingerprint": "C-08|100106|100106_1786173786155|same:100106_1786173728813|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1787104291459",
+   "groupKey": "coord:100106_1787104291459",
+   "field": "COT_CONTS_NAME",
+   "value": "도봉기적의도서관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 100106_1787104291459, 100106_1787104533394",
+   "fingerprint": "C-08|100106|100106_1787104291459|coord:100106_1787104291459|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1787104533394",
+   "groupKey": "coord:100106_1787104291459",
+   "field": "COT_CONTS_NAME",
+   "value": "도봉기적의도서관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 100106_1787104291459, 100106_1787104533394",
+   "fingerprint": "C-08|100106|100106_1787104533394|coord:100106_1787104291459|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1787105024284",
+   "groupKey": "coord:100106_1787105024284",
+   "field": "COT_CONTS_NAME",
+   "value": "우림빌딩",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 100106_1787105024284, 100106_1787105368140",
+   "fingerprint": "C-08|100106|100106_1787105024284|coord:100106_1787105024284|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1787105024284",
+   "groupKey": "same:100106_1787105024284",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 100106_1787105024284, 100106_1787105368140",
+   "fingerprint": "C-08|100106|100106_1787105024284|same:100106_1787105024284|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1787105368140",
+   "groupKey": "coord:100106_1787105024284",
+   "field": "COT_CONTS_NAME",
+   "value": "우림빌딩",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: 100106_1787105024284, 100106_1787105368140",
+   "fingerprint": "C-08|100106|100106_1787105368140|coord:100106_1787105024284|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1787105368140",
+   "groupKey": "same:100106_1787105024284",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 100106_1787105024284, 100106_1787105368140",
+   "fingerprint": "C-08|100106|100106_1787105368140|same:100106_1787105024284|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1789437735514",
+   "groupKey": "coord:100106_1775545047655",
+   "field": "COT_CONTS_NAME",
+   "value": "잠실더샵스타파크오피스텔상가",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 100106_1775545047655, 100106_1789437735514, 100106_1789454819602",
+   "fingerprint": "C-08|100106|100106_1789437735514|coord:100106_1775545047655|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1789454819602",
+   "groupKey": "coord:100106_1775545047655",
+   "field": "COT_CONTS_NAME",
+   "value": "잠실더샵스타파크오피스텔상가",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 100106_1775545047655, 100106_1789437735514, 100106_1789454819602",
+   "fingerprint": "C-08|100106|100106_1789454819602|coord:100106_1775545047655|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1789455099300",
+   "groupKey": "coord:100106_1789455099300",
+   "field": "COT_CONTS_NAME",
+   "value": "잠실르엘",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 100106_1789455099300, 100106_1789455135252, 100106_1789455309896",
+   "fingerprint": "C-08|100106|100106_1789455099300|coord:100106_1789455099300|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1789455099300",
+   "groupKey": "same:100106_1789455099300",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 100106_1789455099300, 100106_1789455135252",
+   "fingerprint": "C-08|100106|100106_1789455099300|same:100106_1789455099300|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1789455135252",
+   "groupKey": "coord:100106_1789455099300",
+   "field": "COT_CONTS_NAME",
+   "value": "잠실르엘",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 100106_1789455099300, 100106_1789455135252, 100106_1789455309896",
+   "fingerprint": "C-08|100106|100106_1789455135252|coord:100106_1789455099300|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1789455135252",
+   "groupKey": "same:100106_1789455099300",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: 100106_1789455099300, 100106_1789455135252",
+   "fingerprint": "C-08|100106|100106_1789455135252|same:100106_1789455099300|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1789455309896",
+   "groupKey": "coord:100106_1789455099300",
+   "field": "COT_CONTS_NAME",
+   "value": "잠실르엘",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 100106_1789455099300, 100106_1789455135252, 100106_1789455309896",
+   "fingerprint": "C-08|100106|100106_1789455309896|coord:100106_1789455099300|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1789455548582",
+   "groupKey": "coord:100106_1789455548582",
+   "field": "COT_CONTS_NAME",
+   "value": "하늘비전교회",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 100106_1789455548582, 100106_1789455592454, 100106_1789455649959",
+   "fingerprint": "C-08|100106|100106_1789455548582|coord:100106_1789455548582|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1789455548582",
+   "groupKey": "same:100106_1789455548582",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 100106_1789455548582, 100106_1789455592454, 100106_1789455649959",
+   "fingerprint": "C-08|100106|100106_1789455548582|same:100106_1789455548582|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1789455592454",
+   "groupKey": "coord:100106_1789455548582",
+   "field": "COT_CONTS_NAME",
+   "value": "하늘비전교회",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 100106_1789455548582, 100106_1789455592454, 100106_1789455649959",
+   "fingerprint": "C-08|100106|100106_1789455592454|coord:100106_1789455548582|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1789455592454",
+   "groupKey": "same:100106_1789455548582",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 100106_1789455548582, 100106_1789455592454, 100106_1789455649959",
+   "fingerprint": "C-08|100106|100106_1789455592454|same:100106_1789455548582|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1789455649959",
+   "groupKey": "coord:100106_1789455548582",
+   "field": "COT_CONTS_NAME",
+   "value": "하늘비전교회",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: 100106_1789455548582, 100106_1789455592454, 100106_1789455649959",
+   "fingerprint": "C-08|100106|100106_1789455649959|coord:100106_1789455548582|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "100106_1789455649959",
+   "groupKey": "same:100106_1789455548582",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: 100106_1789455548582, 100106_1789455592454, 100106_1789455649959",
+   "fingerprint": "C-08|100106|100106_1789455649959|same:100106_1789455548582|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_0125",
+   "groupKey": "coord:rest2025_0125",
+   "field": "COT_CONTS_NAME",
+   "value": "압구정 현대 5차 주구 2상가",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_0125, rest2025_0126",
+   "fingerprint": "C-08|100106|rest2025_0125|coord:rest2025_0125|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_0126",
+   "groupKey": "coord:rest2025_0125",
+   "field": "COT_CONTS_NAME",
+   "value": "압구정 현대 5차 주구 1상가",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_0125, rest2025_0126",
+   "fingerprint": "C-08|100106|rest2025_0126|coord:rest2025_0125|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_0128",
+   "groupKey": "coord:rest2025_0128",
+   "field": "COT_CONTS_NAME",
+   "value": "미성(아)상가",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_0128, rest2025_0319",
+   "fingerprint": "C-08|100106|rest2025_0128|coord:rest2025_0128|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_0128",
+   "groupKey": "same:rest2025_0128",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_0128, rest2025_0319",
+   "fingerprint": "C-08|100106|rest2025_0128|same:rest2025_0128|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_0319",
+   "groupKey": "coord:rest2025_0128",
+   "field": "COT_CONTS_NAME",
+   "value": "미성(아)상가",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_0128, rest2025_0319",
+   "fingerprint": "C-08|100106|rest2025_0319|coord:rest2025_0128|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_0319",
+   "groupKey": "same:rest2025_0128",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_0128, rest2025_0319",
+   "fingerprint": "C-08|100106|rest2025_0319|same:rest2025_0128|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_0666",
+   "groupKey": "coord:rest2025_0666",
+   "field": "COT_CONTS_NAME",
+   "value": "서울식물원 호수원 화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_0666, rest2025_0667",
+   "fingerprint": "C-08|100106|rest2025_0666|coord:rest2025_0666|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_0667",
+   "groupKey": "coord:rest2025_0666",
+   "field": "COT_CONTS_NAME",
+   "value": "서울식물원 습지원 화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_0666, rest2025_0667",
+   "fingerprint": "C-08|100106|rest2025_0667|coord:rest2025_0666|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_0883",
+   "groupKey": "coord:rest2025_0883",
+   "field": "COT_CONTS_NAME",
+   "value": "사당(2)역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_0883, rest2025_0884",
+   "fingerprint": "C-08|100106|rest2025_0883|coord:rest2025_0883|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_0883",
+   "groupKey": "same:rest2025_0883",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_0883, rest2025_0884",
+   "fingerprint": "C-08|100106|rest2025_0883|same:rest2025_0883|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_0884",
+   "groupKey": "coord:rest2025_0883",
+   "field": "COT_CONTS_NAME",
+   "value": "사당(2)역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_0883, rest2025_0884",
+   "fingerprint": "C-08|100106|rest2025_0884|coord:rest2025_0883|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_0884",
+   "groupKey": "same:rest2025_0883",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_0883, rest2025_0884",
+   "fingerprint": "C-08|100106|rest2025_0884|same:rest2025_0883|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1053",
+   "groupKey": "coord:rest2025_1053",
+   "field": "COT_CONTS_NAME",
+   "value": "리젠트오피스텔",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1053, rest2025_1178",
+   "fingerprint": "C-08|100106|rest2025_1053|coord:rest2025_1053|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1053",
+   "groupKey": "same:rest2025_1053",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_1053, rest2025_1178",
+   "fingerprint": "C-08|100106|rest2025_1053|same:rest2025_1053|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1144",
+   "groupKey": "coord:rest2025_1144",
+   "field": "COT_CONTS_NAME",
+   "value": "언덕배기공원 공중화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1144, rest2025_1192",
+   "fingerprint": "C-08|100106|rest2025_1144|coord:rest2025_1144|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1144",
+   "groupKey": "same:rest2025_1144",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_1144, rest2025_1192",
+   "fingerprint": "C-08|100106|rest2025_1144|same:rest2025_1144|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1178",
+   "groupKey": "coord:rest2025_1053",
+   "field": "COT_CONTS_NAME",
+   "value": "리젠트오피스텔",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1053, rest2025_1178",
+   "fingerprint": "C-08|100106|rest2025_1178|coord:rest2025_1053|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1178",
+   "groupKey": "same:rest2025_1053",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_1053, rest2025_1178",
+   "fingerprint": "C-08|100106|rest2025_1178|same:rest2025_1053|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1192",
+   "groupKey": "coord:rest2025_1144",
+   "field": "COT_CONTS_NAME",
+   "value": "언덕배기공원 공중화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1144, rest2025_1192",
+   "fingerprint": "C-08|100106|rest2025_1192|coord:rest2025_1144|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1192",
+   "groupKey": "same:rest2025_1144",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_1144, rest2025_1192",
+   "fingerprint": "C-08|100106|rest2025_1192|same:rest2025_1144|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1196",
+   "groupKey": "coord:rest2025_1196",
+   "field": "COT_CONTS_NAME",
+   "value": "광성시장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1196, rest2025_1197",
+   "fingerprint": "C-08|100106|rest2025_1196|coord:rest2025_1196|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1196",
+   "groupKey": "same:rest2025_1196",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_1196, rest2025_1197",
+   "fingerprint": "C-08|100106|rest2025_1196|same:rest2025_1196|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1197",
+   "groupKey": "coord:rest2025_1196",
+   "field": "COT_CONTS_NAME",
+   "value": "광성시장",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1196, rest2025_1197",
+   "fingerprint": "C-08|100106|rest2025_1197|coord:rest2025_1196|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1197",
+   "groupKey": "same:rest2025_1196",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_1196, rest2025_1197",
+   "fingerprint": "C-08|100106|rest2025_1197|same:rest2025_1196|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1464",
+   "groupKey": "coord:rest2025_1464",
+   "field": "COT_CONTS_NAME",
+   "value": "불암산역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1464, rest2025_1465",
+   "fingerprint": "C-08|100106|rest2025_1464|coord:rest2025_1464|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1464",
+   "groupKey": "same:rest2025_1464",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_1464, rest2025_1465",
+   "fingerprint": "C-08|100106|rest2025_1464|same:rest2025_1464|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1465",
+   "groupKey": "coord:rest2025_1464",
+   "field": "COT_CONTS_NAME",
+   "value": "불암산역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1464, rest2025_1465",
+   "fingerprint": "C-08|100106|rest2025_1465|coord:rest2025_1464|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1465",
+   "groupKey": "same:rest2025_1464",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_1464, rest2025_1465",
+   "fingerprint": "C-08|100106|rest2025_1465|same:rest2025_1464|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1755",
+   "groupKey": "coord:rest2025_1755",
+   "field": "COT_CONTS_NAME",
+   "value": "용두역(내선 대합실)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1755, rest2025_1756",
+   "fingerprint": "C-08|100106|rest2025_1755|coord:rest2025_1755|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1756",
+   "groupKey": "coord:rest2025_1755",
+   "field": "COT_CONTS_NAME",
+   "value": "용두역(외선 대합실)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1755, rest2025_1756",
+   "fingerprint": "C-08|100106|rest2025_1756|coord:rest2025_1755|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1757",
+   "groupKey": "coord:rest2025_1757",
+   "field": "COT_CONTS_NAME",
+   "value": "용두역(내선 승강장)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1757, rest2025_1758",
+   "fingerprint": "C-08|100106|rest2025_1757|coord:rest2025_1757|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1758",
+   "groupKey": "coord:rest2025_1757",
+   "field": "COT_CONTS_NAME",
+   "value": "용두역(외선 승강장)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1757, rest2025_1758",
+   "fingerprint": "C-08|100106|rest2025_1758|coord:rest2025_1757|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1920",
+   "groupKey": "coord:rest2025_1920",
+   "field": "COT_CONTS_NAME",
+   "value": "국립서울현충원 충혼당",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1920, rest2025_1923",
+   "fingerprint": "C-08|100106|rest2025_1920|coord:rest2025_1920|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1922",
+   "groupKey": "coord:rest2025_1922",
+   "field": "COT_CONTS_NAME",
+   "value": "국립서울현충원 제1제례동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1922, rest2025_1924",
+   "fingerprint": "C-08|100106|rest2025_1922|coord:rest2025_1922|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1923",
+   "groupKey": "coord:rest2025_1920",
+   "field": "COT_CONTS_NAME",
+   "value": "국립서울현충원 제2충혼당",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1920, rest2025_1923",
+   "fingerprint": "C-08|100106|rest2025_1923|coord:rest2025_1920|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1924",
+   "groupKey": "coord:rest2025_1922",
+   "field": "COT_CONTS_NAME",
+   "value": "국립서울현충원 제2제례동",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1922, rest2025_1924",
+   "fingerprint": "C-08|100106|rest2025_1924|coord:rest2025_1922|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1926",
+   "groupKey": "coord:rest2025_1926",
+   "field": "COT_CONTS_NAME",
+   "value": "국립서울현충원 호국전시관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1926, rest2025_1927",
+   "fingerprint": "C-08|100106|rest2025_1926|coord:rest2025_1926|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1927",
+   "groupKey": "coord:rest2025_1926",
+   "field": "COT_CONTS_NAME",
+   "value": "국립서울현충원 유품전시관",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1926, rest2025_1927",
+   "fingerprint": "C-08|100106|rest2025_1927|coord:rest2025_1926|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1928",
+   "groupKey": "coord:rest2025_1928",
+   "field": "COT_CONTS_NAME",
+   "value": "국립서울현충원 정문화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: rest2025_1928, rest2025_1929, rest2025_1930",
+   "fingerprint": "C-08|100106|rest2025_1928|coord:rest2025_1928|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1929",
+   "groupKey": "coord:rest2025_1928",
+   "field": "COT_CONTS_NAME",
+   "value": "국립서울현충원 호국종화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: rest2025_1928, rest2025_1929, rest2025_1930",
+   "fingerprint": "C-08|100106|rest2025_1929|coord:rest2025_1928|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1930",
+   "groupKey": "coord:rest2025_1928",
+   "field": "COT_CONTS_NAME",
+   "value": "국립서울현충원 정국교화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: rest2025_1928, rest2025_1929, rest2025_1930",
+   "fingerprint": "C-08|100106|rest2025_1930|coord:rest2025_1928|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1935",
+   "groupKey": "coord:rest2025_1935",
+   "field": "COT_CONTS_NAME",
+   "value": "국립서울현충원 유공자화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1935, rest2025_1936",
+   "fingerprint": "C-08|100106|rest2025_1935|coord:rest2025_1935|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1936",
+   "groupKey": "coord:rest2025_1935",
+   "field": "COT_CONTS_NAME",
+   "value": "국립서울현충원 유격대화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1935, rest2025_1936",
+   "fingerprint": "C-08|100106|rest2025_1936|coord:rest2025_1935|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1938",
+   "groupKey": "coord:rest2025_1938",
+   "field": "COT_CONTS_NAME",
+   "value": "국립서울현충원 박대묘화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1938, rest2025_1939",
+   "fingerprint": "C-08|100106|rest2025_1938|coord:rest2025_1938|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1939",
+   "groupKey": "coord:rest2025_1938",
+   "field": "COT_CONTS_NAME",
+   "value": "국립서울현충원 이대묘화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1938, rest2025_1939",
+   "fingerprint": "C-08|100106|rest2025_1939|coord:rest2025_1938|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1943",
+   "groupKey": "coord:rest2025_1943",
+   "field": "COT_CONTS_NAME",
+   "value": "2호선 사당역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1943, rest2025_1944",
+   "fingerprint": "C-08|100106|rest2025_1943|coord:rest2025_1943|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1943",
+   "groupKey": "same:rest2025_1943",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_1943, rest2025_1944",
+   "fingerprint": "C-08|100106|rest2025_1943|same:rest2025_1943|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1944",
+   "groupKey": "coord:rest2025_1943",
+   "field": "COT_CONTS_NAME",
+   "value": "2호선 사당역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1943, rest2025_1944",
+   "fingerprint": "C-08|100106|rest2025_1944|coord:rest2025_1943|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1944",
+   "groupKey": "same:rest2025_1943",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_1943, rest2025_1944",
+   "fingerprint": "C-08|100106|rest2025_1944|same:rest2025_1943|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1945",
+   "groupKey": "coord:rest2025_1945",
+   "field": "COT_CONTS_NAME",
+   "value": "7호선 이수역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1945, rest2025_1946",
+   "fingerprint": "C-08|100106|rest2025_1945|coord:rest2025_1945|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1945",
+   "groupKey": "same:rest2025_1945",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_1945, rest2025_1946",
+   "fingerprint": "C-08|100106|rest2025_1945|same:rest2025_1945|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1946",
+   "groupKey": "coord:rest2025_1945",
+   "field": "COT_CONTS_NAME",
+   "value": "7호선 이수역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_1945, rest2025_1946",
+   "fingerprint": "C-08|100106|rest2025_1946|coord:rest2025_1945|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1946",
+   "groupKey": "same:rest2025_1945",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_1945, rest2025_1946",
+   "fingerprint": "C-08|100106|rest2025_1946|same:rest2025_1945|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1947",
+   "groupKey": "coord:rest2025_1947",
+   "field": "COT_CONTS_NAME",
+   "value": "4호선 사당역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: rest2025_1947, rest2025_1948, rest2025_1949",
+   "fingerprint": "C-08|100106|rest2025_1947|coord:rest2025_1947|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1947",
+   "groupKey": "same:rest2025_1947",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: rest2025_1947, rest2025_1948, rest2025_1949",
+   "fingerprint": "C-08|100106|rest2025_1947|same:rest2025_1947|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1948",
+   "groupKey": "coord:rest2025_1947",
+   "field": "COT_CONTS_NAME",
+   "value": "4호선 사당역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: rest2025_1947, rest2025_1948, rest2025_1949",
+   "fingerprint": "C-08|100106|rest2025_1948|coord:rest2025_1947|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1948",
+   "groupKey": "same:rest2025_1947",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: rest2025_1947, rest2025_1948, rest2025_1949",
+   "fingerprint": "C-08|100106|rest2025_1948|same:rest2025_1947|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1949",
+   "groupKey": "coord:rest2025_1947",
+   "field": "COT_CONTS_NAME",
+   "value": "4호선 사당역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: rest2025_1947, rest2025_1948, rest2025_1949",
+   "fingerprint": "C-08|100106|rest2025_1949|coord:rest2025_1947|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_1949",
+   "groupKey": "same:rest2025_1947",
+   "message": "ID만 다르고 내용이 같은 행이 3건 있습니다: rest2025_1947, rest2025_1948, rest2025_1949",
+   "fingerprint": "C-08|100106|rest2025_1949|same:rest2025_1947|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_2311",
+   "groupKey": "coord:rest2025_2311",
+   "field": "COT_CONTS_NAME",
+   "value": "쌈지마당 화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_2311, rest2025_2322",
+   "fingerprint": "C-08|100106|rest2025_2311|coord:rest2025_2311|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_2311",
+   "groupKey": "same:rest2025_2311",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_2311, rest2025_2322",
+   "fingerprint": "C-08|100106|rest2025_2311|same:rest2025_2311|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_2322",
+   "groupKey": "coord:rest2025_2311",
+   "field": "COT_CONTS_NAME",
+   "value": "쌈지마당 화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_2311, rest2025_2322",
+   "fingerprint": "C-08|100106|rest2025_2322|coord:rest2025_2311|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_2322",
+   "groupKey": "same:rest2025_2311",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_2311, rest2025_2322",
+   "fingerprint": "C-08|100106|rest2025_2322|same:rest2025_2311|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_2455",
+   "groupKey": "coord:rest2025_2455",
+   "field": "COT_CONTS_NAME",
+   "value": "고속터미널역 화장실(4번출구))",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: rest2025_2455, rest2025_2456, rest2025_2457",
+   "fingerprint": "C-08|100106|rest2025_2455|coord:rest2025_2455|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_2456",
+   "groupKey": "coord:rest2025_2455",
+   "field": "COT_CONTS_NAME",
+   "value": "고속터미널역 화장실(1번출구)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: rest2025_2455, rest2025_2456, rest2025_2457",
+   "fingerprint": "C-08|100106|rest2025_2456|coord:rest2025_2455|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_2457",
+   "groupKey": "coord:rest2025_2455",
+   "field": "COT_CONTS_NAME",
+   "value": "고속터미널역 화장실(3번출구)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: rest2025_2455, rest2025_2456, rest2025_2457",
+   "fingerprint": "C-08|100106|rest2025_2457|coord:rest2025_2455|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_2472",
+   "groupKey": "coord:rest2025_2472",
+   "field": "COT_CONTS_NAME",
+   "value": "강남터미널 3구역 지하상가",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: rest2025_2472, rest2025_2473, rest2025_2474",
+   "fingerprint": "C-08|100106|rest2025_2472|coord:rest2025_2472|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_2473",
+   "groupKey": "coord:rest2025_2472",
+   "field": "COT_CONTS_NAME",
+   "value": "강남터미널 2구역 지하상가",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: rest2025_2472, rest2025_2473, rest2025_2474",
+   "fingerprint": "C-08|100106|rest2025_2473|coord:rest2025_2472|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_2474",
+   "groupKey": "coord:rest2025_2472",
+   "field": "COT_CONTS_NAME",
+   "value": "강남터미널 1구역 지하상가",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: rest2025_2472, rest2025_2473, rest2025_2474",
+   "fingerprint": "C-08|100106|rest2025_2474|coord:rest2025_2472|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_2486",
+   "groupKey": "coord:rest2025_2486",
+   "field": "COT_CONTS_NAME",
+   "value": "한강공원화장실잠원7",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_2486, rest2025_2596",
+   "fingerprint": "C-08|100106|rest2025_2486|coord:rest2025_2486|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_2486",
+   "groupKey": "same:rest2025_2486",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_2486, rest2025_2596",
+   "fingerprint": "C-08|100106|rest2025_2486|same:rest2025_2486|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_2596",
+   "groupKey": "coord:rest2025_2486",
+   "field": "COT_CONTS_NAME",
+   "value": "한강공원화장실잠원7",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_2486, rest2025_2596",
+   "fingerprint": "C-08|100106|rest2025_2596|coord:rest2025_2486|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_2596",
+   "groupKey": "same:rest2025_2486",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_2486, rest2025_2596",
+   "fingerprint": "C-08|100106|rest2025_2596|same:rest2025_2486|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_2750",
+   "groupKey": "coord:rest2025_2750",
+   "field": "COT_CONTS_NAME",
+   "value": "뚝도시장 2번",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_2750, rest2025_2751",
+   "fingerprint": "C-08|100106|rest2025_2750|coord:rest2025_2750|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_2751",
+   "groupKey": "coord:rest2025_2750",
+   "field": "COT_CONTS_NAME",
+   "value": "뚝도시장 1번",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_2750, rest2025_2751",
+   "fingerprint": "C-08|100106|rest2025_2751|coord:rest2025_2750|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3083",
+   "groupKey": "coord:rest2025_3083",
+   "field": "COT_CONTS_NAME",
+   "value": "3호선 경찰병원역(개찰구 안)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_3083, rest2025_3084",
+   "fingerprint": "C-08|100106|rest2025_3083|coord:rest2025_3083|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3084",
+   "groupKey": "coord:rest2025_3083",
+   "field": "COT_CONTS_NAME",
+   "value": "3호선 경찰병원역(개찰구 밖)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_3083, rest2025_3084",
+   "fingerprint": "C-08|100106|rest2025_3084|coord:rest2025_3083|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3085",
+   "groupKey": "coord:rest2025_3085",
+   "field": "COT_CONTS_NAME",
+   "value": "3호선 가락시장역(개찰구 안)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_3085, rest2025_3086",
+   "fingerprint": "C-08|100106|rest2025_3085|coord:rest2025_3085|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3086",
+   "groupKey": "coord:rest2025_3085",
+   "field": "COT_CONTS_NAME",
+   "value": "3호선 가락시장역(개찰구 밖)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_3085, rest2025_3086",
+   "fingerprint": "C-08|100106|rest2025_3086|coord:rest2025_3085|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3098",
+   "groupKey": "coord:rest2025_3098",
+   "field": "COT_CONTS_NAME",
+   "value": "3호선 오금역(개찰구 안)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_3098, rest2025_3099",
+   "fingerprint": "C-08|100106|rest2025_3098|coord:rest2025_3098|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3099",
+   "groupKey": "coord:rest2025_3098",
+   "field": "COT_CONTS_NAME",
+   "value": "3호선 오금역(개찰구 밖)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_3098, rest2025_3099",
+   "fingerprint": "C-08|100106|rest2025_3099|coord:rest2025_3098|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3101",
+   "groupKey": "coord:rest2025_3101",
+   "field": "COT_CONTS_NAME",
+   "value": "2호선 종합운동장역(개찰구 밖)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_3101, rest2025_3102",
+   "fingerprint": "C-08|100106|rest2025_3101|coord:rest2025_3101|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3101",
+   "groupKey": "same:rest2025_3101",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_3101, rest2025_3102",
+   "fingerprint": "C-08|100106|rest2025_3101|same:rest2025_3101|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3102",
+   "groupKey": "coord:rest2025_3101",
+   "field": "COT_CONTS_NAME",
+   "value": "2호선 종합운동장역(개찰구 밖)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_3101, rest2025_3102",
+   "fingerprint": "C-08|100106|rest2025_3102|coord:rest2025_3101|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3102",
+   "groupKey": "same:rest2025_3101",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_3101, rest2025_3102",
+   "fingerprint": "C-08|100106|rest2025_3102|same:rest2025_3101|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3783",
+   "groupKey": "coord:rest2025_3783",
+   "field": "COT_CONTS_NAME",
+   "value": "불광역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_3783, rest2025_3792",
+   "fingerprint": "C-08|100106|rest2025_3783|coord:rest2025_3783|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3784",
+   "groupKey": "coord:rest2025_3784",
+   "field": "COT_CONTS_NAME",
+   "value": "연신내역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_3784, rest2025_3790",
+   "fingerprint": "C-08|100106|rest2025_3784|coord:rest2025_3784|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3790",
+   "groupKey": "coord:rest2025_3784",
+   "field": "COT_CONTS_NAME",
+   "value": "연신내역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_3784, rest2025_3790",
+   "fingerprint": "C-08|100106|rest2025_3790|coord:rest2025_3784|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3792",
+   "groupKey": "coord:rest2025_3783",
+   "field": "COT_CONTS_NAME",
+   "value": "불광역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_3783, rest2025_3792",
+   "fingerprint": "C-08|100106|rest2025_3792|coord:rest2025_3783|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3931",
+   "groupKey": "coord:rest2025_3931",
+   "field": "COT_CONTS_NAME",
+   "value": "동묘앞역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: rest2025_3931, rest2025_3932, rest2025_3933, rest2025_3934",
+   "fingerprint": "C-08|100106|rest2025_3931|coord:rest2025_3931|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3931",
+   "groupKey": "same:rest2025_3931",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: rest2025_3931, rest2025_3932, rest2025_3933, rest2025_3934",
+   "fingerprint": "C-08|100106|rest2025_3931|same:rest2025_3931|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3932",
+   "groupKey": "coord:rest2025_3931",
+   "field": "COT_CONTS_NAME",
+   "value": "동묘앞역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: rest2025_3931, rest2025_3932, rest2025_3933, rest2025_3934",
+   "fingerprint": "C-08|100106|rest2025_3932|coord:rest2025_3931|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3932",
+   "groupKey": "same:rest2025_3931",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: rest2025_3931, rest2025_3932, rest2025_3933, rest2025_3934",
+   "fingerprint": "C-08|100106|rest2025_3932|same:rest2025_3931|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3933",
+   "groupKey": "coord:rest2025_3931",
+   "field": "COT_CONTS_NAME",
+   "value": "동묘앞역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: rest2025_3931, rest2025_3932, rest2025_3933, rest2025_3934",
+   "fingerprint": "C-08|100106|rest2025_3933|coord:rest2025_3931|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3933",
+   "groupKey": "same:rest2025_3931",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: rest2025_3931, rest2025_3932, rest2025_3933, rest2025_3934",
+   "fingerprint": "C-08|100106|rest2025_3933|same:rest2025_3931|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3934",
+   "groupKey": "coord:rest2025_3931",
+   "field": "COT_CONTS_NAME",
+   "value": "동묘앞역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: rest2025_3931, rest2025_3932, rest2025_3933, rest2025_3934",
+   "fingerprint": "C-08|100106|rest2025_3934|coord:rest2025_3931|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3934",
+   "groupKey": "same:rest2025_3931",
+   "message": "ID만 다르고 내용이 같은 행이 4건 있습니다: rest2025_3931, rest2025_3932, rest2025_3933, rest2025_3934",
+   "fingerprint": "C-08|100106|rest2025_3934|same:rest2025_3931|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3937",
+   "groupKey": "coord:rest2025_3937",
+   "field": "COT_CONTS_NAME",
+   "value": "종로3가(1)역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_3937, rest2025_3938",
+   "fingerprint": "C-08|100106|rest2025_3937|coord:rest2025_3937|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3937",
+   "groupKey": "same:rest2025_3937",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_3937, rest2025_3938",
+   "fingerprint": "C-08|100106|rest2025_3937|same:rest2025_3937|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3938",
+   "groupKey": "coord:rest2025_3937",
+   "field": "COT_CONTS_NAME",
+   "value": "종로3가(1)역",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_3937, rest2025_3938",
+   "fingerprint": "C-08|100106|rest2025_3938|coord:rest2025_3937|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3938",
+   "groupKey": "same:rest2025_3937",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_3937, rest2025_3938",
+   "fingerprint": "C-08|100106|rest2025_3938|same:rest2025_3937|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3980",
+   "groupKey": "coord:rest2025_3980",
+   "field": "COT_CONTS_NAME",
+   "value": "종합시장D동상가본관지상3층",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_3980, rest2025_3981",
+   "fingerprint": "C-08|100106|rest2025_3980|coord:rest2025_3980|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3981",
+   "groupKey": "coord:rest2025_3980",
+   "field": "COT_CONTS_NAME",
+   "value": "종합시장D동상가본관지하1층",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_3980, rest2025_3981",
+   "fingerprint": "C-08|100106|rest2025_3981|coord:rest2025_3980|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3997",
+   "groupKey": "coord:rest2025_3997",
+   "field": "COT_CONTS_NAME",
+   "value": "서울시교육청 민원봉사실 화장실(남:지하 1층/여:지하 1층)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_3997, rest2025_4047",
+   "fingerprint": "C-08|100106|rest2025_3997|coord:rest2025_3997|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_3997",
+   "groupKey": "same:rest2025_3997",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_3997, rest2025_4047",
+   "fingerprint": "C-08|100106|rest2025_3997|same:rest2025_3997|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4002",
+   "groupKey": "coord:rest2025_4002",
+   "field": "COT_CONTS_NAME",
+   "value": "동대문종합시장신관1층",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: rest2025_4002, rest2025_4003, rest2025_4004",
+   "fingerprint": "C-08|100106|rest2025_4002|coord:rest2025_4002|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4003",
+   "groupKey": "coord:rest2025_4002",
+   "field": "COT_CONTS_NAME",
+   "value": "동대문종합시장C동1층",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: rest2025_4002, rest2025_4003, rest2025_4004",
+   "fingerprint": "C-08|100106|rest2025_4003|coord:rest2025_4002|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4004",
+   "groupKey": "coord:rest2025_4002",
+   "field": "COT_CONTS_NAME",
+   "value": "동대문종합시장B동 1층",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: rest2025_4002, rest2025_4003, rest2025_4004",
+   "fingerprint": "C-08|100106|rest2025_4004|coord:rest2025_4002|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4016",
+   "groupKey": "coord:rest2025_4016",
+   "field": "COT_CONTS_NAME",
+   "value": "창경궁 온실 화장실(1층)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: rest2025_4016, rest2025_4017, rest2025_4018, rest2025_4019",
+   "fingerprint": "C-08|100106|rest2025_4016|coord:rest2025_4016|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4017",
+   "groupKey": "coord:rest2025_4016",
+   "field": "COT_CONTS_NAME",
+   "value": "창경궁 서측 화장실(1층",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: rest2025_4016, rest2025_4017, rest2025_4018, rest2025_4019",
+   "fingerprint": "C-08|100106|rest2025_4017|coord:rest2025_4016|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4018",
+   "groupKey": "coord:rest2025_4016",
+   "field": "COT_CONTS_NAME",
+   "value": "창경궁 남측 화장실(1층)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: rest2025_4016, rest2025_4017, rest2025_4018, rest2025_4019",
+   "fingerprint": "C-08|100106|rest2025_4018|coord:rest2025_4016|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4019",
+   "groupKey": "coord:rest2025_4016",
+   "field": "COT_CONTS_NAME",
+   "value": "창경궁 사무실 화장실(1층)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: rest2025_4016, rest2025_4017, rest2025_4018, rest2025_4019",
+   "fingerprint": "C-08|100106|rest2025_4019|coord:rest2025_4016|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4036",
+   "groupKey": "coord:rest2025_4036",
+   "field": "COT_CONTS_NAME",
+   "value": "세종문화회관 광화문아띠(지하1층) 남측",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_4036, rest2025_4037",
+   "fingerprint": "C-08|100106|rest2025_4036|coord:rest2025_4036|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4037",
+   "groupKey": "coord:rest2025_4036",
+   "field": "COT_CONTS_NAME",
+   "value": "세종문화회관 광화문아띠(지하1층) 북측",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_4036, rest2025_4037",
+   "fingerprint": "C-08|100106|rest2025_4037|coord:rest2025_4036|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4047",
+   "groupKey": "coord:rest2025_3997",
+   "field": "COT_CONTS_NAME",
+   "value": "서울시교육청 민원봉사실 화장실(남:지하 1층/여:지하 1층)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_3997, rest2025_4047",
+   "fingerprint": "C-08|100106|rest2025_4047|coord:rest2025_3997|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4047",
+   "groupKey": "same:rest2025_3997",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_3997, rest2025_4047",
+   "fingerprint": "C-08|100106|rest2025_4047|same:rest2025_3997|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4145",
+   "groupKey": "coord:rest2025_4145",
+   "field": "COT_CONTS_NAME",
+   "value": "창2(창신1지역) 공중화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_4145, rest2025_4201",
+   "fingerprint": "C-08|100106|rest2025_4145|coord:rest2025_4145|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4145",
+   "groupKey": "same:rest2025_4145",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_4145, rest2025_4201",
+   "fingerprint": "C-08|100106|rest2025_4145|same:rest2025_4145|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4157",
+   "groupKey": "coord:rest2025_4157",
+   "field": "COT_CONTS_NAME",
+   "value": "색동박물관 개방화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_4157, rest2025_4198",
+   "fingerprint": "C-08|100106|rest2025_4157|coord:rest2025_4157|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4198",
+   "groupKey": "coord:rest2025_4157",
+   "field": "COT_CONTS_NAME",
+   "value": "색동박물관 개방화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_4157, rest2025_4198",
+   "fingerprint": "C-08|100106|rest2025_4198|coord:rest2025_4157|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4201",
+   "groupKey": "coord:rest2025_4145",
+   "field": "COT_CONTS_NAME",
+   "value": "창2(창신1지역) 공중화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_4145, rest2025_4201",
+   "fingerprint": "C-08|100106|rest2025_4201|coord:rest2025_4145|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4201",
+   "groupKey": "same:rest2025_4145",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2025_4145, rest2025_4201",
+   "fingerprint": "C-08|100106|rest2025_4201|same:rest2025_4145|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4232",
+   "groupKey": "coord:rest2025_4232",
+   "field": "COT_CONTS_NAME",
+   "value": "동대문지상상가 1층",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: rest2025_4232, rest2025_4233, rest2025_4234, rest2025_4235",
+   "fingerprint": "C-08|100106|rest2025_4232|coord:rest2025_4232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4233",
+   "groupKey": "coord:rest2025_4232",
+   "field": "COT_CONTS_NAME",
+   "value": "동대문지상상가 2층",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: rest2025_4232, rest2025_4233, rest2025_4234, rest2025_4235",
+   "fingerprint": "C-08|100106|rest2025_4233|coord:rest2025_4232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4234",
+   "groupKey": "coord:rest2025_4232",
+   "field": "COT_CONTS_NAME",
+   "value": "동대문지상상가 3층",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: rest2025_4232, rest2025_4233, rest2025_4234, rest2025_4235",
+   "fingerprint": "C-08|100106|rest2025_4234|coord:rest2025_4232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4235",
+   "groupKey": "coord:rest2025_4232",
+   "field": "COT_CONTS_NAME",
+   "value": "동대문지상상가 B1층",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 4건 있습니다: rest2025_4232, rest2025_4233, rest2025_4234, rest2025_4235",
+   "fingerprint": "C-08|100106|rest2025_4235|coord:rest2025_4232|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4269",
+   "groupKey": "coord:rest2025_4269",
+   "field": "COT_CONTS_NAME",
+   "value": "소공지하상가A",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_4269, rest2025_4270",
+   "fingerprint": "C-08|100106|rest2025_4269|coord:rest2025_4269|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4270",
+   "groupKey": "coord:rest2025_4269",
+   "field": "COT_CONTS_NAME",
+   "value": "소공지하상가B",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_4269, rest2025_4270",
+   "fingerprint": "C-08|100106|rest2025_4270|coord:rest2025_4269|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4284",
+   "groupKey": "coord:rest2025_4284",
+   "field": "COT_CONTS_NAME",
+   "value": "신당A 지하상가",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: rest2025_4284, rest2025_4285, rest2025_4286",
+   "fingerprint": "C-08|100106|rest2025_4284|coord:rest2025_4284|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4285",
+   "groupKey": "coord:rest2025_4284",
+   "field": "COT_CONTS_NAME",
+   "value": "신당B 지하상가",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: rest2025_4284, rest2025_4285, rest2025_4286",
+   "fingerprint": "C-08|100106|rest2025_4285|coord:rest2025_4284|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4286",
+   "groupKey": "coord:rest2025_4284",
+   "field": "COT_CONTS_NAME",
+   "value": "신당C 지하상가",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: rest2025_4284, rest2025_4285, rest2025_4286",
+   "fingerprint": "C-08|100106|rest2025_4286|coord:rest2025_4284|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4303",
+   "groupKey": "coord:rest2025_4303",
+   "field": "COT_CONTS_NAME",
+   "value": "을지4구역A 지하상가",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_4303, rest2025_4304",
+   "fingerprint": "C-08|100106|rest2025_4303|coord:rest2025_4303|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2025_4304",
+   "groupKey": "coord:rest2025_4303",
+   "field": "COT_CONTS_NAME",
+   "value": "을지4구역B 지하상가",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2025_4303, rest2025_4304",
+   "fingerprint": "C-08|100106|rest2025_4304|coord:rest2025_4303|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2026_01",
+   "groupKey": "coord:rest2026_01",
+   "field": "COT_CONTS_NAME",
+   "value": "면곡시장 중앙통로",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2026_01, rest2026_02",
+   "fingerprint": "C-08|100106|rest2026_01|coord:rest2026_01|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2026_01",
+   "groupKey": "same:rest2026_01",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2026_01, rest2026_02",
+   "fingerprint": "C-08|100106|rest2026_01|same:rest2026_01|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2026_02",
+   "groupKey": "coord:rest2026_01",
+   "field": "COT_CONTS_NAME",
+   "value": "면곡시장 중앙통로",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: rest2026_01, rest2026_02",
+   "fingerprint": "C-08|100106|rest2026_02|coord:rest2026_01|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "rest2026_02",
+   "groupKey": "same:rest2026_01",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: rest2026_01, rest2026_02",
+   "fingerprint": "C-08|100106|rest2026_02|same:rest2026_01|"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "100106_1770877158964",
+   "groupKey": "near:100106_1770877158964",
+   "field": "COT_CONTS_NAME",
+   "value": "조인트힐병원 1층 개방화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 100106_1770877158964, 100106_1776408463079",
+   "fingerprint": "C-09|100106|100106_1770877158964|near:100106_1770877158964|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "100106_1776408463079",
+   "groupKey": "near:100106_1770877158964",
+   "field": "COT_CONTS_NAME",
+   "value": "조인트힐병원 1층 개방화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 100106_1770877158964, 100106_1776408463079",
+   "fingerprint": "C-09|100106|100106_1776408463079|near:100106_1770877158964|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "100106_1778338944828",
+   "groupKey": "near:100106_1778338944828",
+   "field": "COT_CONTS_NAME",
+   "value": "서울숲it밸리",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 100106_1778338944828, rest2025_2792",
+   "fingerprint": "C-09|100106|100106_1778338944828|near:100106_1778338944828|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "rest2025_2634",
+   "groupKey": "near:rest2025_2634",
+   "field": "COT_CONTS_NAME",
+   "value": "성락성결교회",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: rest2025_2634, 성락성결교회",
+   "fingerprint": "C-09|100106|rest2025_2634|near:rest2025_2634|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "rest2025_2745",
+   "groupKey": "near:rest2025_2745",
+   "field": "COT_CONTS_NAME",
+   "value": "하우스디세종타워",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: rest2025_2745, 하우스디세종타워",
+   "fingerprint": "C-09|100106|rest2025_2745|near:rest2025_2745|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "rest2025_2792",
+   "groupKey": "near:100106_1778338944828",
+   "field": "COT_CONTS_NAME",
+   "value": "서울숲it밸리",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: 100106_1778338944828, rest2025_2792",
+   "fingerprint": "C-09|100106|rest2025_2792|near:100106_1778338944828|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "rest2025_3709",
+   "groupKey": "near:rest2025_3709",
+   "field": "COT_CONTS_NAME",
+   "value": "후암동주민센터",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: rest2025_3709, rest2025_3758",
+   "fingerprint": "C-09|100106|rest2025_3709|near:rest2025_3709|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "rest2025_3758",
+   "groupKey": "near:rest2025_3709",
+   "field": "COT_CONTS_NAME",
+   "value": "후암동주민센터",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: rest2025_3709, rest2025_3758",
+   "fingerprint": "C-09|100106|rest2025_3758|near:rest2025_3709|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "성락성결교회",
+   "groupKey": "near:rest2025_2634",
+   "field": "COT_CONTS_NAME",
+   "value": "성락성결교회",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: rest2025_2634, 성락성결교회",
+   "fingerprint": "C-09|100106|성락성결교회|near:rest2025_2634|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "하우스디세종타워",
+   "groupKey": "near:rest2025_2745",
+   "field": "COT_CONTS_NAME",
+   "value": "하우스디세종타워",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: rest2025_2745, 하우스디세종타워",
+   "fingerprint": "C-09|100106|하우스디세종타워|near:rest2025_2745|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_0609",
+   "field": "COT_TEL_NO",
+   "value": "944-4153",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100106|rest2025_0609||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_0610",
+   "field": "COT_TEL_NO",
+   "value": "944-4142",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100106|rest2025_0610||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_0611",
+   "field": "COT_TEL_NO",
+   "value": "944-4132",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100106|rest2025_0611||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_0612",
+   "field": "COT_TEL_NO",
+   "value": "944-4123",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100106|rest2025_0612||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "rest2025_2475",
+   "field": "COT_TEL_NO",
+   "value": "02%292290-6182",
+   "suggestion": "02)2290-6182",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100106|rest2025_2475||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_2616",
+   "field": "COT_TEL_NO",
+   "value": "2290-6852",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100106|rest2025_2616||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_2814",
+   "field": "COT_TEL_NO",
+   "value": "010-7373",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|100106|rest2025_2814||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_2944",
+   "field": "COT_TEL_NO",
+   "value": "02-2241-52026",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|100106|rest2025_2944||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_3276",
+   "field": "COT_TEL_NO",
+   "value": "2152-5850",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100106|rest2025_3276||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_3440",
+   "field": "COT_TEL_NO",
+   "value": "2620-3099",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100106|rest2025_3440||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_3501",
+   "field": "COT_TEL_NO",
+   "value": "26331013",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100106|rest2025_3501||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_3502",
+   "field": "COT_TEL_NO",
+   "value": "26715182",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100106|rest2025_3502||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_3503",
+   "field": "COT_TEL_NO",
+   "value": "26780503",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100106|rest2025_3503||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_3504",
+   "field": "COT_TEL_NO",
+   "value": "26721151",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100106|rest2025_3504||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_3510",
+   "field": "COT_TEL_NO",
+   "value": "26357781",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100106|rest2025_3510||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_3513",
+   "field": "COT_TEL_NO",
+   "value": "8495180",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100106|rest2025_3513||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_3517",
+   "field": "COT_TEL_NO",
+   "value": "26335546",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100106|rest2025_3517||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_3523",
+   "field": "COT_TEL_NO",
+   "value": "8421155",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|100106|rest2025_3523||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_3616",
+   "field": "COT_TEL_NO",
+   "value": "22-634-7502",
+   "suggestion": "02-2634-7502",
+   "message": "전화번호: 앞자리 0이 빠진 것 같습니다.",
+   "fingerprint": "C-10|100106|rest2025_3616||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "rest2025_3970",
+   "field": "COT_TEL_NO",
+   "value": "%ED%95%A9%EB%8F%99+%3A+02-2267-2640%2C+%2F%ED%99%94%EC%B0%BD%3A02",
+   "suggestion": "합동 : 02-2267-2640, /화창:02",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|100106|rest2025_3970||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_3996",
+   "field": "COT_TEL_NO",
+   "value": "02-3999-673",
+   "message": "전화번호: 끝자리가 4자리가 아닙니다.",
+   "fingerprint": "C-10|100106|rest2025_3996||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_3997",
+   "field": "COT_TEL_NO",
+   "value": "02-3999-219",
+   "message": "전화번호: 끝자리가 4자리가 아닙니다.",
+   "fingerprint": "C-10|100106|rest2025_3997||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "rest2025_4047",
+   "field": "COT_TEL_NO",
+   "value": "02-3999-219",
+   "message": "전화번호: 끝자리가 4자리가 아닙니다.",
+   "fingerprint": "C-10|100106|rest2025_4047||COT_TEL_NO"
+  }
+ ]
+}

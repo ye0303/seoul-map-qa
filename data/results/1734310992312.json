@@ -1,0 +1,16 @@
+{
+ "themeId": "1734310992312",
+ "rulesetVersion": 1,
+ "contentHash": "ac223625de697469838d524e8e7e93ce0ff1384f2bafae8b3cf28bf57f4750ba",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1734310992312_1787727152892",
+   "field": "COT_GU_NAME",
+   "suggestion": "송파구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1734310992312|1734310992312_1787727152892||COT_GU_NAME"
+  }
+ ]
+}

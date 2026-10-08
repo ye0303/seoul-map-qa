@@ -1,0 +1,47 @@
+{
+ "themeId": "1766483936373",
+ "rulesetVersion": 1,
+ "contentHash": "36a937f4eeab9c1aa0f9d93c880f1c4a444a81cb7a09cdf6a862f571626fe5ac",
+ "findings": [
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "sb_edu_001",
+   "field": "COT_TEL_NO",
+   "value": "02-3292-1779%7E90",
+   "suggestion": "02-3292-1779~90",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1766483936373|sb_edu_001||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "sb_edu_004",
+   "field": "COT_TEL_NO",
+   "value": "02-927-9877%7E8",
+   "suggestion": "02-927-9877~8",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1766483936373|sb_edu_004||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "sb_edu_006",
+   "field": "COT_TEL_NO",
+   "value": "02-942-9870%7E1",
+   "suggestion": "02-942-9870~1",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1766483936373|sb_edu_006||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "sb_edu_008",
+   "field": "COT_TEL_NO",
+   "value": "02-927-9579%7E80",
+   "suggestion": "02-927-9579~80",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1766483936373|sb_edu_008||COT_TEL_NO"
+  }
+ ]
+}

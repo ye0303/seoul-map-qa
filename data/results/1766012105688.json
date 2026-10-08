@@ -1,0 +1,68 @@
+{
+ "themeId": "1766012105688",
+ "rulesetVersion": 1,
+ "contentHash": "954770391f262fa6dc35f8ca9d0cb7d035813bc9a97217efec31303dc9d10110",
+ "findings": [
+  {
+   "ruleId": "C-04",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "outside",
+   "message": "서울 밖 장소가 1건 있습니다(주소도 서울 밖).",
+   "fingerprint": "C-04|1766012105688||outside|"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sb_welfare_015",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1766012105688|sb_welfare_015||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_welfare_094",
+   "field": "COT_TEL_NO",
+   "value": "업체미제공",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1766012105688|sb_welfare_094||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_welfare_098",
+   "field": "COT_TEL_NO",
+   "value": "업체미제공",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1766012105688|sb_welfare_098||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_welfare_099",
+   "field": "COT_TEL_NO",
+   "value": "업체미제공",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1766012105688|sb_welfare_099||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_welfare_101",
+   "field": "COT_TEL_NO",
+   "value": "업체미제공",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1766012105688|sb_welfare_101||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "info",
+   "contsId": "sb_welfare_107",
+   "field": "COT_TEL_NO",
+   "value": "업체미제공",
+   "message": "전화번호: 번호 대신 '-'·'없음' 같은 표시가 들어 있습니다.",
+   "fingerprint": "C-10|1766012105688|sb_welfare_107||COT_TEL_NO"
+  }
+ ]
+}

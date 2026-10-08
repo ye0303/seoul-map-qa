@@ -1,0 +1,88 @@
+{
+ "themeId": "1771835297598",
+ "rulesetVersion": 1,
+ "contentHash": "47c20ebe5021b8539d3807822c4d12fe6c3262a083d37b1ba13b2cbd38799223",
+ "findings": [
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "pet-002",
+   "groupKey": "coord:pet-002",
+   "field": "COT_CONTS_NAME",
+   "value": "봄동살롱",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: pet-002, pet-015",
+   "fingerprint": "C-08|1771835297598|pet-002|coord:pet-002|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "pet-002",
+   "groupKey": "same:pet-002",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: pet-002, pet-015",
+   "fingerprint": "C-08|1771835297598|pet-002|same:pet-002|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "pet-015",
+   "groupKey": "coord:pet-002",
+   "field": "COT_CONTS_NAME",
+   "value": "봄동살롱",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: pet-002, pet-015",
+   "fingerprint": "C-08|1771835297598|pet-015|coord:pet-002|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "pet-015",
+   "groupKey": "same:pet-002",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: pet-002, pet-015",
+   "fingerprint": "C-08|1771835297598|pet-015|same:pet-002|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "pet-032",
+   "groupKey": "coord:pet-032",
+   "field": "COT_CONTS_NAME",
+   "value": "엉클독애견유치원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: pet-032, pet-035",
+   "fingerprint": "C-08|1771835297598|pet-032|coord:pet-032|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "pet-032",
+   "groupKey": "same:pet-032",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: pet-032, pet-035",
+   "fingerprint": "C-08|1771835297598|pet-032|same:pet-032|"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "pet-035",
+   "groupKey": "coord:pet-032",
+   "field": "COT_CONTS_NAME",
+   "value": "엉클독애견유치원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: pet-032, pet-035",
+   "fingerprint": "C-08|1771835297598|pet-035|coord:pet-032|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "pet-035",
+   "groupKey": "same:pet-032",
+   "message": "ID만 다르고 내용이 같은 행이 2건 있습니다: pet-032, pet-035",
+   "fingerprint": "C-08|1771835297598|pet-035|same:pet-032|"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "pet-007",
+   "field": "COT_TEL_NO",
+   "value": "0507-1365-328",
+   "message": "전화번호: 끝자리가 4자리가 아닙니다.",
+   "fingerprint": "C-10|1771835297598|pet-007||COT_TEL_NO"
+  }
+ ]
+}

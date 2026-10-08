@@ -1,0 +1,26 @@
+{
+ "themeId": "1684396695589",
+ "rulesetVersion": 1,
+ "contentHash": "2908dd139ac8828368663fd9adb1c6642d978b7edd1c59bd0ea8f44b39f2bcc8",
+ "findings": [
+  {
+   "ruleId": "C-05",
+   "contsId": "bookplayground_06",
+   "field": "COT_GU_NAME",
+   "value": "성동구",
+   "severity": "error",
+   "suggestion": "서초구",
+   "message": "구명(성동구)이 좌표·주소의 구(서초구)와 다릅니다.",
+   "fingerprint": "C-05|1684396695589|bookplayground_06||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "bookplayground_11",
+   "field": "COT_GU_NAME",
+   "value": "양천구",
+   "severity": "suspect",
+   "message": "구명(양천구)과 좌표·주소의 구(송파구)가 다릅니다. 이 좌표를 이름이 다른 장소 1곳이 함께 쓰고 있어 좌표·주소가 잘못 들어갔을 수 있습니다.",
+   "fingerprint": "C-05|1684396695589|bookplayground_11||COT_GU_NAME"
+  }
+ ]
+}

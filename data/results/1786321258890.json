@@ -1,0 +1,252 @@
+{
+ "themeId": "1786321258890",
+ "rulesetVersion": 1,
+ "contentHash": "086ab379590b586d3d874d8aeb0c6b3bd5c29e16eb99a620b5aa15eec4ae85f6",
+ "findings": [
+  {
+   "ruleId": "T-E25-02",
+   "severity": "error",
+   "contsId": "25_edition25_5",
+   "field": "COT_GU_NAME",
+   "value": "영등포구",
+   "suggestion": "관악구",
+   "message": "콘텐츠 ID의 구 번호는 관악구 자리인데 구명이 영등포구입니다.",
+   "fingerprint": "T-E25-02|1786321258890|25_edition25_5||COT_GU_NAME"
+  },
+  {
+   "ruleId": "T-E25-03",
+   "severity": "error",
+   "contsId": null,
+   "groupKey": "25|관악구",
+   "message": "2025년 관악구 장소가 없습니다.",
+   "fingerprint": "T-E25-03|1786321258890||25|관악구|"
+  },
+  {
+   "ruleId": "T-E25-03",
+   "severity": "error",
+   "contsId": "25_edition25_20",
+   "groupKey": "25|영등포구",
+   "field": "COT_GU_NAME",
+   "value": "영등포구",
+   "message": "2025년 영등포구 장소가 2곳입니다(구별 1곳): 강변서재, 도림천",
+   "fingerprint": "T-E25-03|1786321258890|25_edition25_20|25|영등포구|COT_GU_NAME"
+  },
+  {
+   "ruleId": "T-E25-03",
+   "severity": "error",
+   "contsId": "25_edition25_5",
+   "groupKey": "25|영등포구",
+   "field": "COT_GU_NAME",
+   "value": "영등포구",
+   "message": "2025년 영등포구 장소가 2곳입니다(구별 1곳): 강변서재, 도림천",
+   "fingerprint": "T-E25-03|1786321258890|25_edition25_5|25|영등포구|COT_GU_NAME"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_1",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_1||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_11",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_11||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_12",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_12||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_13",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_13||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_15",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_15||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_16",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_16||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_17",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_17||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_18",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_18||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_19",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_19||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_2",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_2||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_20",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_20||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_21",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_21||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_22",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_22||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_23",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_23||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_24",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_24||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_25",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_25||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_3",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_3||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_4",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_4||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_5",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_5||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_6",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_6||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_7",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_7||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_8",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_8||COT_IMG_MAIN_URL"
+  },
+  {
+   "ruleId": "T-E25-04",
+   "severity": "suspect",
+   "contsId": "25_edition25_9",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
+   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+   "fingerprint": "T-E25-04|1786321258890|25_edition25_9||COT_IMG_MAIN_URL"
+  }
+ ]
+}

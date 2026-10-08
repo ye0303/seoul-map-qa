@@ -1,0 +1,545 @@
+{
+ "themeId": "1693984068965",
+ "rulesetVersion": 1,
+ "contentHash": "54bdd6bae664dee8117bb65b404b4362fd88bad3eb1ecfa38f8b8cc8d694fa7e",
+ "findings": [
+  {
+   "ruleId": "C-05",
+   "contsId": "ID001593",
+   "field": "COT_GU_NAME",
+   "value": "서초구",
+   "severity": "suspect",
+   "suggestion": "동작구",
+   "message": "구명(서초구)이 좌표·주소의 구(동작구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|1693984068965|ID001593||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID002119",
+   "field": "COT_GU_NAME",
+   "value": "서대문구",
+   "severity": "suspect",
+   "suggestion": "마포구",
+   "message": "구명(서대문구)이 좌표·주소의 구(마포구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|1693984068965|ID002119||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID002167",
+   "field": "COT_GU_NAME",
+   "value": "강북구",
+   "severity": "error",
+   "suggestion": "중구",
+   "message": "구명(강북구)이 좌표·주소의 구(중구)와 다릅니다.",
+   "fingerprint": "C-05|1693984068965|ID002167||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID002175",
+   "field": "COT_GU_NAME",
+   "value": "동대문구",
+   "severity": "suspect",
+   "suggestion": "종로구",
+   "message": "구명(동대문구)이 좌표·주소의 구(종로구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|1693984068965|ID002175||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID002191",
+   "field": "COT_GU_NAME",
+   "value": "동작구",
+   "severity": "error",
+   "suggestion": "서초구",
+   "message": "구명(동작구)이 좌표·주소의 구(서초구)와 다릅니다.",
+   "fingerprint": "C-05|1693984068965|ID002191||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID002195",
+   "field": "COT_GU_NAME",
+   "value": "동작구",
+   "severity": "suspect",
+   "suggestion": "서초구",
+   "message": "구명(동작구)이 좌표·주소의 구(서초구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|1693984068965|ID002195||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID002265",
+   "field": "COT_GU_NAME",
+   "value": "강동구",
+   "severity": "error",
+   "suggestion": "송파구",
+   "message": "구명(강동구)이 좌표·주소의 구(송파구)와 다릅니다.",
+   "fingerprint": "C-05|1693984068965|ID002265||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID002293",
+   "field": "COT_GU_NAME",
+   "value": "강서구",
+   "severity": "suspect",
+   "message": "구명(강서구)과 좌표·주소의 구(송파구)가 다릅니다. 이 좌표를 이름이 다른 장소 2곳이 함께 쓰고 있어 좌표·주소가 잘못 들어갔을 수 있습니다.",
+   "fingerprint": "C-05|1693984068965|ID002293||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID002295",
+   "field": "COT_GU_NAME",
+   "value": "동대문구",
+   "severity": "suspect",
+   "message": "구명(동대문구)과 좌표·주소의 구(송파구)가 다릅니다. 이 좌표를 이름이 다른 장소 2곳이 함께 쓰고 있어 좌표·주소가 잘못 들어갔을 수 있습니다.",
+   "fingerprint": "C-05|1693984068965|ID002295||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID002461",
+   "field": "COT_GU_NAME",
+   "value": "동작구",
+   "severity": "error",
+   "suggestion": "도봉구",
+   "message": "구명(동작구)이 좌표·주소의 구(도봉구)와 다릅니다.",
+   "fingerprint": "C-05|1693984068965|ID002461||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID002463",
+   "field": "COT_GU_NAME",
+   "value": "도봉구",
+   "severity": "error",
+   "suggestion": "송파구",
+   "message": "구명(도봉구)이 좌표·주소의 구(송파구)와 다릅니다.",
+   "fingerprint": "C-05|1693984068965|ID002463||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID002486",
+   "field": "COT_GU_NAME",
+   "value": "동작구",
+   "severity": "suspect",
+   "suggestion": "서초구",
+   "message": "구명(동작구)이 좌표·주소의 구(서초구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|1693984068965|ID002486||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "ID002530",
+   "field": "COT_GU_NAME",
+   "value": "마포구",
+   "severity": "suspect",
+   "suggestion": "서대문구",
+   "message": "구명(마포구)이 좌표·주소의 구(서대문구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+   "fingerprint": "C-05|1693984068965|ID002530||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000499",
+   "groupKey": "coord:ID000499",
+   "field": "COT_CONTS_NAME",
+   "value": "메리츠타워 1층 화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000499, ID000500",
+   "fingerprint": "C-08|1693984068965|ID000499|coord:ID000499|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000500",
+   "groupKey": "coord:ID000499",
+   "field": "COT_CONTS_NAME",
+   "value": "메리츠타워 지하 1층 화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000499, ID000500",
+   "fingerprint": "C-08|1693984068965|ID000500|coord:ID000499|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID001052",
+   "groupKey": "coord:ID001052",
+   "field": "COT_CONTS_NAME",
+   "value": "코엑스 지하1층 화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: ID001052, ID001054, ID002392",
+   "fingerprint": "C-08|1693984068965|ID001052|coord:ID001052|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID001053",
+   "groupKey": "coord:ID001053",
+   "field": "COT_CONTS_NAME",
+   "value": "코엑스 지하1층 화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID001053, ID001055",
+   "fingerprint": "C-08|1693984068965|ID001053|coord:ID001053|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID001054",
+   "groupKey": "coord:ID001052",
+   "field": "COT_CONTS_NAME",
+   "value": "코엑스 지하1층 화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: ID001052, ID001054, ID002392",
+   "fingerprint": "C-08|1693984068965|ID001054|coord:ID001052|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID001055",
+   "groupKey": "coord:ID001053",
+   "field": "COT_CONTS_NAME",
+   "value": "코엑스 지하1층 화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID001053, ID001055",
+   "fingerprint": "C-08|1693984068965|ID001055|coord:ID001053|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID001587",
+   "groupKey": "coord:ID001587",
+   "field": "COT_CONTS_NAME",
+   "value": "시립대 정보기술관 1층 화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID001587, ID001588",
+   "fingerprint": "C-08|1693984068965|ID001587|coord:ID001587|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID001588",
+   "groupKey": "coord:ID001587",
+   "field": "COT_CONTS_NAME",
+   "value": "시립대 정보기술관 지하1층 화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID001587, ID001588",
+   "fingerprint": "C-08|1693984068965|ID001588|coord:ID001587|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID002032",
+   "groupKey": "coord:ID002032",
+   "field": "COT_CONTS_NAME",
+   "value": "헬리오시티 상가 B동 지하1층 화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID002032, ID002033",
+   "fingerprint": "C-08|1693984068965|ID002032|coord:ID002032|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID002033",
+   "groupKey": "coord:ID002032",
+   "field": "COT_CONTS_NAME",
+   "value": "헬리오시티 상가 B동 1층 화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID002032, ID002033",
+   "fingerprint": "C-08|1693984068965|ID002033|coord:ID002032|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID002392",
+   "groupKey": "coord:ID001052",
+   "field": "COT_CONTS_NAME",
+   "value": "코엑스 1층 화장실",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: ID001052, ID001054, ID002392",
+   "fingerprint": "C-08|1693984068965|ID002392|coord:ID001052|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID000036",
+   "groupKey": "near:ID000036",
+   "field": "COT_CONTS_NAME",
+   "value": "신논현역 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID000036, ID000061",
+   "fingerprint": "C-09|1693984068965|ID000036|near:ID000036|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID000061",
+   "groupKey": "near:ID000036",
+   "field": "COT_CONTS_NAME",
+   "value": "신논현역 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID000036, ID000061",
+   "fingerprint": "C-09|1693984068965|ID000061|near:ID000036|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID000084",
+   "groupKey": "near:ID000084",
+   "field": "COT_CONTS_NAME",
+   "value": "고덕역 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID000084, ID002164",
+   "fingerprint": "C-09|1693984068965|ID000084|near:ID000084|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID000155",
+   "groupKey": "near:ID000155",
+   "field": "COT_CONTS_NAME",
+   "value": "서울시립대 전농관 1층 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID000155, ID001825",
+   "fingerprint": "C-09|1693984068965|ID000155|near:ID000155|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID000343",
+   "groupKey": "near:ID000343",
+   "field": "COT_CONTS_NAME",
+   "value": "NC백화점 1층 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID000343, ID001092",
+   "fingerprint": "C-09|1693984068965|ID000343|near:ID000343|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID000410",
+   "groupKey": "near:ID000410",
+   "field": "COT_CONTS_NAME",
+   "value": "일원역 지하 2층 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID000410, ID001475",
+   "fingerprint": "C-09|1693984068965|ID000410|near:ID000410|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID000503",
+   "groupKey": "near:ID000503",
+   "field": "COT_CONTS_NAME",
+   "value": "케이스퀘어강남2 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID000503, ID001554",
+   "fingerprint": "C-09|1693984068965|ID000503|near:ID000503|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID000855",
+   "groupKey": "near:ID000855",
+   "field": "COT_CONTS_NAME",
+   "value": "지타워 1층 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID000855, ID001659",
+   "fingerprint": "C-09|1693984068965|ID000855|near:ID000855|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID001036",
+   "groupKey": "near:ID001036",
+   "field": "COT_CONTS_NAME",
+   "value": "대덕프라자 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID001036, ID001050",
+   "fingerprint": "C-09|1693984068965|ID001036|near:ID001036|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID001050",
+   "groupKey": "near:ID001036",
+   "field": "COT_CONTS_NAME",
+   "value": "대덕프라자 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID001036, ID001050",
+   "fingerprint": "C-09|1693984068965|ID001050|near:ID001036|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID001092",
+   "groupKey": "near:ID000343",
+   "field": "COT_CONTS_NAME",
+   "value": "NC 백화점 1층 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID000343, ID001092",
+   "fingerprint": "C-09|1693984068965|ID001092|near:ID000343|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID001155",
+   "groupKey": "near:ID001155",
+   "field": "COT_CONTS_NAME",
+   "value": "원이빌딩 1층 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID001155, ID001675",
+   "fingerprint": "C-09|1693984068965|ID001155|near:ID001155|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID001426",
+   "groupKey": "near:ID001426",
+   "field": "COT_CONTS_NAME",
+   "value": "아현동 주민센터 1층 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID001426, ID001562",
+   "fingerprint": "C-09|1693984068965|ID001426|near:ID001426|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID001475",
+   "groupKey": "near:ID000410",
+   "field": "COT_CONTS_NAME",
+   "value": "일원역 지하2층 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID000410, ID001475",
+   "fingerprint": "C-09|1693984068965|ID001475|near:ID000410|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID001525",
+   "groupKey": "near:ID001525",
+   "field": "COT_CONTS_NAME",
+   "value": "시청역 1호선 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID001525, ID001752",
+   "fingerprint": "C-09|1693984068965|ID001525|near:ID001525|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID001554",
+   "groupKey": "near:ID000503",
+   "field": "COT_CONTS_NAME",
+   "value": "케이스퀘어 강남2 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID000503, ID001554",
+   "fingerprint": "C-09|1693984068965|ID001554|near:ID000503|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID001562",
+   "groupKey": "near:ID001426",
+   "field": "COT_CONTS_NAME",
+   "value": "아현동주민센터 1층 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID001426, ID001562",
+   "fingerprint": "C-09|1693984068965|ID001562|near:ID001426|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID001610",
+   "groupKey": "near:ID001610",
+   "field": "COT_CONTS_NAME",
+   "value": "한국장애인문화예술원 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID001610, ID002379",
+   "fingerprint": "C-09|1693984068965|ID001610|near:ID001610|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID001620",
+   "groupKey": "near:ID001620",
+   "field": "COT_CONTS_NAME",
+   "value": "상봉역 지하1층 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID001620, ID002479",
+   "fingerprint": "C-09|1693984068965|ID001620|near:ID001620|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID001659",
+   "groupKey": "near:ID000855",
+   "field": "COT_CONTS_NAME",
+   "value": "지타워 1층 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID000855, ID001659",
+   "fingerprint": "C-09|1693984068965|ID001659|near:ID000855|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID001675",
+   "groupKey": "near:ID001155",
+   "field": "COT_CONTS_NAME",
+   "value": "원이빌딩 1층 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID001155, ID001675",
+   "fingerprint": "C-09|1693984068965|ID001675|near:ID001155|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID001694",
+   "groupKey": "near:ID001694",
+   "field": "COT_CONTS_NAME",
+   "value": "강일역 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID001694, ID002003",
+   "fingerprint": "C-09|1693984068965|ID001694|near:ID001694|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID001752",
+   "groupKey": "near:ID001525",
+   "field": "COT_CONTS_NAME",
+   "value": "시청역 1호선 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID001525, ID001752",
+   "fingerprint": "C-09|1693984068965|ID001752|near:ID001525|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID001825",
+   "groupKey": "near:ID000155",
+   "field": "COT_CONTS_NAME",
+   "value": "서울시립대 전농관 1층 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID000155, ID001825",
+   "fingerprint": "C-09|1693984068965|ID001825|near:ID000155|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID001902",
+   "groupKey": "near:ID001902",
+   "field": "COT_CONTS_NAME",
+   "value": "마장역 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID001902, ID002375",
+   "fingerprint": "C-09|1693984068965|ID001902|near:ID001902|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID002003",
+   "groupKey": "near:ID001694",
+   "field": "COT_CONTS_NAME",
+   "value": "강일역 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID001694, ID002003",
+   "fingerprint": "C-09|1693984068965|ID002003|near:ID001694|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID002164",
+   "groupKey": "near:ID000084",
+   "field": "COT_CONTS_NAME",
+   "value": "고덕역 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID000084, ID002164",
+   "fingerprint": "C-09|1693984068965|ID002164|near:ID000084|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID002375",
+   "groupKey": "near:ID001902",
+   "field": "COT_CONTS_NAME",
+   "value": "마장역 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID001902, ID002375",
+   "fingerprint": "C-09|1693984068965|ID002375|near:ID001902|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID002379",
+   "groupKey": "near:ID001610",
+   "field": "COT_CONTS_NAME",
+   "value": "한국장애인문화예술원 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID001610, ID002379",
+   "fingerprint": "C-09|1693984068965|ID002379|near:ID001610|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-09",
+   "severity": "suspect",
+   "contsId": "ID002479",
+   "groupKey": "near:ID001620",
+   "field": "COT_CONTS_NAME",
+   "value": "상봉역 지하1층 화장실",
+   "message": "30m 안에 이름이 같은 행이 2건 있습니다: ID001620, ID002479",
+   "fingerprint": "C-09|1693984068965|ID002479|near:ID001620|COT_CONTS_NAME"
+  }
+ ]
+}

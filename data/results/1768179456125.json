@@ -1,0 +1,16 @@
+{
+ "themeId": "1768179456125",
+ "rulesetVersion": 1,
+ "contentHash": "c0afcd6e8084f73c6e6d6f433c4753999ccda1c95991ba15e6b7ff764acca62d",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sb_mom_011",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1768179456125|sb_mom_011||COT_GU_NAME"
+  }
+ ]
+}

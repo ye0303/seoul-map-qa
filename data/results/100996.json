@@ -1,0 +1,137 @@
+{
+ "themeId": "100996",
+ "rulesetVersion": 1,
+ "contentHash": "b6d1caccec32757ef01b1b131e47d93e7c172726561604cf8fbb331a44c164ae",
+ "findings": [
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000043",
+   "groupKey": "coord:ID000043",
+   "field": "COT_CONTS_NAME",
+   "value": "대진공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000043, ID000170",
+   "fingerprint": "C-08|100996|ID000043|coord:ID000043|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000104",
+   "groupKey": "coord:ID000104",
+   "field": "COT_CONTS_NAME",
+   "value": "현대공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000104, ID000246",
+   "fingerprint": "C-08|100996|ID000104|coord:ID000104|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000120",
+   "groupKey": "coord:ID000120",
+   "field": "COT_CONTS_NAME",
+   "value": "하마공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000120, ID000312",
+   "fingerprint": "C-08|100996|ID000120|coord:ID000120|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000128",
+   "groupKey": "coord:ID000128",
+   "field": "COT_CONTS_NAME",
+   "value": "우리공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000128, ID000325",
+   "fingerprint": "C-08|100996|ID000128|coord:ID000128|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000135",
+   "groupKey": "coord:ID000135",
+   "field": "COT_CONTS_NAME",
+   "value": "이레컨설팅공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000135, ID000292",
+   "fingerprint": "C-08|100996|ID000135|coord:ID000135|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000170",
+   "groupKey": "coord:ID000043",
+   "field": "COT_CONTS_NAME",
+   "value": "DH공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000043, ID000170",
+   "fingerprint": "C-08|100996|ID000170|coord:ID000043|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000187",
+   "groupKey": "coord:ID000187",
+   "field": "COT_CONTS_NAME",
+   "value": "하라공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000187, ID000223",
+   "fingerprint": "C-08|100996|ID000187|coord:ID000187|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000223",
+   "groupKey": "coord:ID000187",
+   "field": "COT_CONTS_NAME",
+   "value": "해승공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000187, ID000223",
+   "fingerprint": "C-08|100996|ID000223|coord:ID000187|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000246",
+   "groupKey": "coord:ID000104",
+   "field": "COT_CONTS_NAME",
+   "value": "대한공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000104, ID000246",
+   "fingerprint": "C-08|100996|ID000246|coord:ID000104|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000292",
+   "groupKey": "coord:ID000135",
+   "field": "COT_CONTS_NAME",
+   "value": "성심컨설팅공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000135, ID000292",
+   "fingerprint": "C-08|100996|ID000292|coord:ID000135|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000312",
+   "groupKey": "coord:ID000120",
+   "field": "COT_CONTS_NAME",
+   "value": "라라공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000120, ID000312",
+   "fingerprint": "C-08|100996|ID000312|coord:ID000120|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "ID000325",
+   "groupKey": "coord:ID000128",
+   "field": "COT_CONTS_NAME",
+   "value": "우리공인중개사사무소",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: ID000128, ID000325",
+   "fingerprint": "C-08|100996|ID000325|coord:ID000128|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-12",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "/smgis/ucimgs/conts/100996/test_0.png",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "/smgis/ucimgs/conts/100996/test_0.png",
+   "message": "314건 중 275건이 같은 대표 이미지를 씁니다.",
+   "fingerprint": "C-12|100996||/smgis/ucimgs/conts/100996/test_0.png|COT_IMG_MAIN_URL"
+  }
+ ]
+}

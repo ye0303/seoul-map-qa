@@ -1,0 +1,71 @@
+{
+ "themeId": "1777281638371",
+ "rulesetVersion": 1,
+ "contentHash": "93cb734ebebb175c0e366e254106667db4c776015d96f2ca38e513d6184033d2",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2026-02",
+   "field": "COT_GU_NAME",
+   "suggestion": "금천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1777281638371|2026-02||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2026-03",
+   "field": "COT_GU_NAME",
+   "suggestion": "마포구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1777281638371|2026-03||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2026-04",
+   "field": "COT_GU_NAME",
+   "suggestion": "서대문구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1777281638371|2026-04||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2026-05",
+   "field": "COT_GU_NAME",
+   "suggestion": "서초구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1777281638371|2026-05||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "2026-06",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1777281638371|2026-06||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "DH_019",
+   "field": "COT_TEL_NO",
+   "value": "1588-1775\n(2260-7311)",
+   "message": "전화번호: 자릿수가 맞지 않습니다.",
+   "fingerprint": "C-10|1777281638371|DH_019||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-12",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "https://news.seoul.go.kr/welfare/files/2025/07/006-768x768.jpg",
+   "field": "COT_IMG_MAIN_URL",
+   "value": "https://news.seoul.go.kr/welfare/files/2025/07/006-768x768.jpg",
+   "message": "40건 중 34건이 같은 대표 이미지를 씁니다.",
+   "fingerprint": "C-12|1777281638371||https://news.seoul.go.kr/welfare/files/2025/07/006-768x768.jpg|COT_IMG_MAIN_URL"
+  }
+ ]
+}

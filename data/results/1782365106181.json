@@ -1,0 +1,27 @@
+{
+ "themeId": "1782365106181",
+ "rulesetVersion": 1,
+ "contentHash": "c7ec98308f89ecfe9a9e1b2debed1fc86cb5509d8eaa19dff7421708cbf6cafd",
+ "findings": [
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_health2_5",
+   "groupKey": "coord:jg_health2_5",
+   "field": "COT_CONTS_NAME",
+   "value": "응봉근린공원 쌈지공원",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_health2_5, jg_health2_6",
+   "fingerprint": "C-08|1782365106181|jg_health2_5|coord:jg_health2_5|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "jg_health2_6",
+   "groupKey": "coord:jg_health2_5",
+   "field": "COT_CONTS_NAME",
+   "value": "응봉근린공원 쌈지공원 상부",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: jg_health2_5, jg_health2_6",
+   "fingerprint": "C-08|1782365106181|jg_health2_6|coord:jg_health2_5|COT_CONTS_NAME"
+  }
+ ]
+}

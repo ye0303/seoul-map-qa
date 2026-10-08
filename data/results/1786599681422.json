@@ -1,0 +1,47 @@
+{
+ "themeId": "1786599681422",
+ "rulesetVersion": 1,
+ "contentHash": "1c2aeda66585e0d54604e44c67f7102f77871e6653aeb0619db3e38c3f615a58",
+ "findings": [
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "11740-2026-0001",
+   "field": "COT_TEL_NO",
+   "value": "%ED%86%A0%EC%A7%80%EC%9D%B4%EC%9A%A9%EA%B3%84%ED%9A%8D%ED%99%95%EC%9D%B8%28%ED%86%A0%EC%A7%80%EC%9D%B4%EC%9D%8C%29",
+   "suggestion": "토지이용계획확인(토지이음)",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1786599681422|11740-2026-0001||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "11740-2026-0002",
+   "field": "COT_TEL_NO",
+   "value": "%ED%86%A0%EC%A7%80%EC%9D%B4%EC%9A%A9%EA%B3%84%ED%9A%8D%ED%99%95%EC%9D%B8%28%ED%86%A0%EC%A7%80%EC%9D%B4%EC%9D%8C%29",
+   "suggestion": "토지이용계획확인(토지이음)",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1786599681422|11740-2026-0002||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "11740-2026-0003",
+   "field": "COT_TEL_NO",
+   "value": "%ED%86%A0%EC%A7%80%EC%9D%B4%EC%9A%A9%EA%B3%84%ED%9A%8D%ED%99%95%EC%9D%B8%28%ED%86%A0%EC%A7%80%EC%9D%B4%EC%9D%8C%29",
+   "suggestion": "토지이용계획확인(토지이음)",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1786599681422|11740-2026-0003||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "11740-2026-0004",
+   "field": "COT_TEL_NO",
+   "value": "%ED%86%A0%EC%A7%80%EC%9D%B4%EC%9A%A9%EA%B3%84%ED%9A%8D%ED%99%95%EC%9D%B8%28%ED%86%A0%EC%A7%80%EC%9D%B4%EC%9D%8C%29",
+   "suggestion": "토지이용계획확인(토지이음)",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|1786599681422|11740-2026-0004||COT_TEL_NO"
+  }
+ ]
+}

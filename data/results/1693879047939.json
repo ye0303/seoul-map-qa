@@ -1,0 +1,25 @@
+{
+ "themeId": "1693879047939",
+ "rulesetVersion": 1,
+ "contentHash": "69a78a190fb97144cd1ac6dc3afb1939dc7adf5f0a6a3f2f87026787ebb2ae75",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1693879047939_1777006931751",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1693879047939|1693879047939_1777006931751||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "1693879047939_1787892142065",
+   "field": "COT_GU_NAME",
+   "suggestion": "은평구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1693879047939|1693879047939_1787892142065||COT_GU_NAME"
+  }
+ ]
+}

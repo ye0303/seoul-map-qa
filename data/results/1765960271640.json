@@ -1,0 +1,46 @@
+{
+ "themeId": "1765960271640",
+ "rulesetVersion": 1,
+ "contentHash": "722e1edb8a08232bdf531308c4c0d789bb3444d20a1b2e40c3d5ced11ffcda33",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sb_park_204",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1765960271640|sb_park_204||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_park_083",
+   "groupKey": "coord:sb_park_083",
+   "field": "COT_CONTS_NAME",
+   "value": "삼선공원1",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sb_park_083, sb_park_084, sb_park_085",
+   "fingerprint": "C-08|1765960271640|sb_park_083|coord:sb_park_083|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_park_084",
+   "groupKey": "coord:sb_park_083",
+   "field": "COT_CONTS_NAME",
+   "value": "삼선공원2",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sb_park_083, sb_park_084, sb_park_085",
+   "fingerprint": "C-08|1765960271640|sb_park_084|coord:sb_park_083|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_park_085",
+   "groupKey": "coord:sb_park_083",
+   "field": "COT_CONTS_NAME",
+   "value": "삼선공원3",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 3건 있습니다: sb_park_083, sb_park_084, sb_park_085",
+   "fingerprint": "C-08|1765960271640|sb_park_085|coord:sb_park_083|COT_CONTS_NAME"
+  }
+ ]
+}

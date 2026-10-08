@@ -1,0 +1,43 @@
+{
+ "themeId": "1708328729039",
+ "rulesetVersion": 1,
+ "contentHash": "40b6451236986e570d84bcbfb2d74a80eb898f35d8ec2174684a846bdba69832",
+ "findings": [
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "soa0020",
+   "field": "COT_TEL_NO",
+   "value": "931-5224",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1708328729039|soa0020||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "soa0021",
+   "field": "COT_TEL_NO",
+   "value": "459-0119",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1708328729039|soa0021||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "soa0022",
+   "field": "COT_TEL_NO",
+   "value": "596-4585",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1708328729039|soa0022||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "suspect",
+   "contsId": "soa0035",
+   "field": "COT_TEL_NO",
+   "value": "2290-8114",
+   "message": "전화번호: 지역번호가 없습니다.",
+   "fingerprint": "C-10|1708328729039|soa0035||COT_TEL_NO"
+  }
+ ]
+}

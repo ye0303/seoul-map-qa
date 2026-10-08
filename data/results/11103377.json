@@ -1,0 +1,148 @@
+{
+ "themeId": "11103377",
+ "rulesetVersion": 1,
+ "contentHash": "8ed52bc0467c581bd90a273ad8bf99f6adc806d6593fbc00c708b3723dfed74f",
+ "findings": [
+  {
+   "ruleId": "C-05",
+   "contsId": "seoulyouth_035",
+   "field": "COT_GU_NAME",
+   "value": "중랑구",
+   "severity": "error",
+   "suggestion": "성북구",
+   "message": "구명(중랑구)이 좌표·주소의 구(성북구)와 다릅니다.",
+   "fingerprint": "C-05|11103377|seoulyouth_035||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-05",
+   "contsId": "seoulyouth_047",
+   "field": "COT_GU_NAME",
+   "value": "강북구",
+   "severity": "error",
+   "suggestion": "중구",
+   "message": "구명(강북구)이 좌표·주소의 구(중구)와 다릅니다.",
+   "fingerprint": "C-05|11103377|seoulyouth_047||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103377_1712108411178",
+   "field": "COT_GU_NAME",
+   "suggestion": "금천구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103377|11103377_1712108411178||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103377_1712117331864",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103377|11103377_1712117331864||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103377_1712117445066",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103377|11103377_1712117445066||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103377_1712117487856",
+   "field": "COT_GU_NAME",
+   "suggestion": "도봉구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103377|11103377_1712117487856||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103377_1712117627372",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103377|11103377_1712117627372||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103377_1712117836073",
+   "field": "COT_GU_NAME",
+   "suggestion": "강북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103377|11103377_1712117836073||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103377_1712117976684",
+   "field": "COT_GU_NAME",
+   "suggestion": "강서구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103377|11103377_1712117976684||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103377_1712118070588",
+   "field": "COT_GU_NAME",
+   "suggestion": "관악구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103377|11103377_1712118070588||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "11103377_1712123006198",
+   "field": "COT_GU_NAME",
+   "suggestion": "강동구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11103377|11103377_1712123006198||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "seoulyouth_004",
+   "field": "COT_TEL_NO",
+   "value": "02-6715-6665%2C6667%2C6691",
+   "suggestion": "02-6715-6665,6667,6691",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|11103377|seoulyouth_004||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "seoulyouth_030",
+   "field": "COT_TEL_NO",
+   "value": "02-950-9651%7E4",
+   "suggestion": "02-950-9651~4",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|11103377|seoulyouth_030||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "seoulyouth_050",
+   "field": "COT_TEL_NO",
+   "value": "02-6953-4070%7E9",
+   "suggestion": "02-6953-4070~9",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|11103377|seoulyouth_050||COT_TEL_NO"
+  },
+  {
+   "ruleId": "C-10",
+   "severity": "error",
+   "contsId": "seoulyouth_058",
+   "field": "COT_TEL_NO",
+   "value": "02-6715-6665%2C6667%2C6691",
+   "suggestion": "02-6715-6665,6667,6691",
+   "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+   "fingerprint": "C-10|11103377|seoulyouth_058||COT_TEL_NO"
+  }
+ ]
+}

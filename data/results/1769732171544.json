@@ -1,0 +1,143 @@
+{
+ "themeId": "1769732171544",
+ "rulesetVersion": 1,
+ "contentHash": "2d0d579e2985071bd3338aedcde24cb5b667f1c30fb54479ec503a61324b1b4c",
+ "findings": [
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sb_bna_27",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1769732171544|sb_bna_27||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sb_bna_29",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1769732171544|sb_bna_29||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sb_bna_30",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1769732171544|sb_bna_30||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "sb_bna_31",
+   "field": "COT_GU_NAME",
+   "suggestion": "성북구",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|1769732171544|sb_bna_31||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_bna_11",
+   "groupKey": "coord:sb_bna_11",
+   "field": "COT_CONTS_NAME",
+   "value": "관리16번 숭덕초교 앞(A)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_bna_11, sb_bna_12",
+   "fingerprint": "C-08|1769732171544|sb_bna_11|coord:sb_bna_11|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_bna_12",
+   "groupKey": "coord:sb_bna_11",
+   "field": "COT_CONTS_NAME",
+   "value": "관리17번 숭덕초교 앞(B)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_bna_11, sb_bna_12",
+   "fingerprint": "C-08|1769732171544|sb_bna_12|coord:sb_bna_11|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_bna_15",
+   "groupKey": "coord:sb_bna_15",
+   "field": "COT_CONTS_NAME",
+   "value": "관리20번 고려고앞(A)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_bna_15, sb_bna_16",
+   "fingerprint": "C-08|1769732171544|sb_bna_15|coord:sb_bna_15|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_bna_16",
+   "groupKey": "coord:sb_bna_15",
+   "field": "COT_CONTS_NAME",
+   "value": "관리21번 고려고앞(B)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_bna_15, sb_bna_16",
+   "fingerprint": "C-08|1769732171544|sb_bna_16|coord:sb_bna_15|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_bna_18",
+   "groupKey": "coord:sb_bna_18",
+   "field": "COT_CONTS_NAME",
+   "value": "관리23번 이상갈비앞(A)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_bna_18, sb_bna_19",
+   "fingerprint": "C-08|1769732171544|sb_bna_18|coord:sb_bna_18|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_bna_19",
+   "groupKey": "coord:sb_bna_18",
+   "field": "COT_CONTS_NAME",
+   "value": "관리24번 이상갈비앞(B)",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_bna_18, sb_bna_19",
+   "fingerprint": "C-08|1769732171544|sb_bna_19|coord:sb_bna_18|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_bna_26",
+   "groupKey": "coord:sb_bna_26",
+   "field": "COT_CONTS_NAME",
+   "value": "관리32번 흥천사 삼거리A",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_bna_26, sb_bna_27",
+   "fingerprint": "C-08|1769732171544|sb_bna_26|coord:sb_bna_26|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_bna_27",
+   "groupKey": "coord:sb_bna_26",
+   "field": "COT_CONTS_NAME",
+   "value": "관리33번 흥천사 삼거리B",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_bna_26, sb_bna_27",
+   "fingerprint": "C-08|1769732171544|sb_bna_27|coord:sb_bna_26|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_bna_28",
+   "groupKey": "coord:sb_bna_28",
+   "field": "COT_CONTS_NAME",
+   "value": "관리34번 월곡두산위브 정문 앞A",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_bna_28, sb_bna_29",
+   "fingerprint": "C-08|1769732171544|sb_bna_28|coord:sb_bna_28|COT_CONTS_NAME"
+  },
+  {
+   "ruleId": "C-08",
+   "severity": "suspect",
+   "contsId": "sb_bna_29",
+   "groupKey": "coord:sb_bna_28",
+   "field": "COT_CONTS_NAME",
+   "value": "관리35번 월곡두산위브 정문 앞B",
+   "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: sb_bna_28, sb_bna_29",
+   "fingerprint": "C-08|1769732171544|sb_bna_29|coord:sb_bna_28|COT_CONTS_NAME"
+  }
+ ]
+}

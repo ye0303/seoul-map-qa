@@ -1,0 +1,40 @@
+{
+ "themeId": "11101844",
+ "rulesetVersion": 1,
+ "contentHash": "25dd6cfd66832eb5058ef20284069264a31e20c60baa765b942260e5d3bf8fe5",
+ "findings": [
+  {
+   "ruleId": "C-04",
+   "severity": "info",
+   "contsId": null,
+   "groupKey": "outside",
+   "message": "서울 밖 장소가 1건 있습니다(주소도 서울 밖).",
+   "fingerprint": "C-04|11101844||outside|"
+  },
+  {
+   "ruleId": "C-04",
+   "severity": "error",
+   "contsId": "ID000030",
+   "field": "COT_COORD_X",
+   "value": "경도 126.847770316, 위도 37.58699705",
+   "message": "주소·구명은 서울인데 좌표는 서울 밖(약 965m)에 있습니다.",
+   "fingerprint": "C-04|11101844|ID000030||COT_COORD_X"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "ID000025",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11101844|ID000025||COT_GU_NAME"
+  },
+  {
+   "ruleId": "C-07",
+   "severity": "info",
+   "contsId": "ID000030",
+   "field": "COT_GU_NAME",
+   "message": "구명이 비어 있습니다.",
+   "fingerprint": "C-07|11101844|ID000030||COT_GU_NAME"
+  }
+ ]
+}
