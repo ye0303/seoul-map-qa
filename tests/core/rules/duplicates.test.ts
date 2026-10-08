@@ -50,6 +50,25 @@ describe("C-08 중복 등록 의심", () => {
     ).toEqual([]);
   });
 
+  test("이름 유사도 0.8이 경계: 10글자 중 2글자 차이는 같은 장소, 3글자 차이는 다른 장소", () => {
+    const pair = (other: string) =>
+      findingsOf("C-08", [row({ COT_CONTS_ID: "a", COT_CONTS_NAME: "가나다라마바사아자차", COT_TEL_NO: "1" }), row({ COT_CONTS_ID: "b", COT_CONTS_NAME: other, COT_TEL_NO: "2" })]);
+    expect(pair("가나다라마바사아카타")).toHaveLength(2);
+    expect(pair("가나다라마바사파카타")).toEqual([]);
+  });
+
+  test("한 좌표에 이름이 50개보다 많으면(행사장 등) 비슷한 이름은 건너뛰고 같은 이름만 묶는다", () => {
+    const crowd = Array.from({ length: 51 }, (_, index) => row({ COT_CONTS_ID: `e${index}`, COT_CONTS_NAME: `행사 ${index}회차 안내`, COT_TEL_NO: String(index) }));
+    const findings = findingsOf("C-08", [
+      ...crowd,
+      row({ COT_CONTS_ID: "x1", COT_CONTS_NAME: "문찬구압구정성모내과의원", COT_TEL_NO: "x1" }),
+      row({ COT_CONTS_ID: "x2", COT_CONTS_NAME: "문찬수압구정성모내과의원", COT_TEL_NO: "x2" }),
+      row({ COT_CONTS_ID: "y1", COT_CONTS_NAME: "같은 이름", COT_TEL_NO: "y1" }),
+      row({ COT_CONTS_ID: "y2", COT_CONTS_NAME: "같은 이름", COT_TEL_NO: "y2" }),
+    ]);
+    expect(findings.map((finding) => finding.contsId)).toEqual(["y1", "y2"]);
+  });
+
   test("같은 좌표라도 이름이 전혀 다르면(같은 건물의 다른 가게) 제외한다", () => {
     expect(
       findingsOf("C-08", [row({ COT_CONTS_ID: "a", COT_CONTS_NAME: "가까운주점" }), row({ COT_CONTS_ID: "b", COT_CONTS_NAME: "부산진오뎅바" })]),
@@ -72,6 +91,11 @@ describe("C-09 가까운 곳에 같은 이름", () => {
   test("30m보다 멀거나 분류가 다르면 제외한다", () => {
     expect(findingsOf("C-09", [healing("a", 127.0757, 37.6283), healing("b", 127.0757, 37.6290)])).toEqual([]);
     expect(findingsOf("C-09", [healing("a", 127.075707892, 37.628373879), healing("b", 127.075724571, 37.628430263, "19")])).toEqual([]);
+  });
+
+  test("테마 안에서 4번까지 나오는 이름은 고유 이름으로 본다", () => {
+    const rows = [healing("a", 127.075707892, 37.628373879), healing("b", 127.075724571, 37.628430263), healing("c", 127.08, 37.63), healing("d", 127.09, 37.64)];
+    expect(findingsOf("C-09", rows).map((finding) => finding.contsId)).toEqual(["a", "b"]);
   });
 
   test("테마 안에서 5번 이상 나오는 이름(분류명)은 보지 않는다", () => {

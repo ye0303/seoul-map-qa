@@ -57,6 +57,14 @@ describe("C-05 구명과 좌표의 구 불일치", () => {
     expect(findings).toMatchObject([{ severity: "error", suggestion: "중구" }]);
   });
 
+  test.each(["", " ", "1"])("좌표 타입 %j은 점으로 보고 판정한다", (type) => {
+    expect(findingsOf("C-05", [row({ COT_COORD_TYPE: type, COT_COORD_X: 127.059, COT_COORD_Y: 37.5116 })])).toHaveLength(1);
+  });
+
+  test.each(["2", "3", "4", "5", "6", "7", "8"])("좌표 타입 %s(점이 아님)는 구 판정을 하지 않는다", (type) => {
+    expect(findingsOf("C-05", [row({ COT_COORD_TYPE: type, COT_COORD_X: 127.059, COT_COORD_Y: 37.5116 })])).toEqual([]);
+  });
+
   test("구명과 좌표의 구가 같으면 표시하지 않는다", () => {
     expect(findingsOf("C-05", [row()])).toEqual([]);
   });

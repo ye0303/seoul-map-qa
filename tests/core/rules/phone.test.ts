@@ -35,6 +35,10 @@ describe("정상으로 보는 값", () => {
 });
 
 describe("시민 화면에 깨져 보이는 값은 오류", () => {
+  test("두 번 인코딩된 값(%2B)은 한 번만 풀어 제안한다 — 공백이었는지 +였는지 알 수 없어 추측하지 않는다", () => {
+    expect(checkPhone("02%29%2B120")).toMatchObject({ severity: "error", suggestion: "02)+120" });
+  });
+
   test("URL 인코딩 잔재는 풀어 쓴 값을 제안한다", () => {
     expect(checkPhone("02-350-5233%7E5244")).toEqual({ severity: "error", reason: "URL 인코딩된 문자(%XX)가 섞여 있습니다", suggestion: "02-350-5233~5244" });
     expect(checkPhone("02%29+364-4686")).toMatchObject({ severity: "error", suggestion: "02) 364-4686" });

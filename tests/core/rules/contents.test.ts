@@ -15,6 +15,10 @@ describe("C-12 대표 이미지 공유", () => {
     ]);
   });
 
+  test("정확히 절반(4건 중 2건)도 알린다", () => {
+    expect(findingsOf("C-12", withImages("/a.png", "/a.png", "/b.png", "/c.png"))).toHaveLength(1);
+  });
+
   test("전체가 같은 이미지(테마 아이콘)거나 절반 미만이면 표시하지 않는다", () => {
     expect(findingsOf("C-12", withImages("/a.png", "/a.png", "/a.png"))).toEqual([]);
     expect(findingsOf("C-12", withImages("/a.png", "/b.png", "/c.png", ""))).toEqual([]);
