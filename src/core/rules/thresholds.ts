@@ -2,3 +2,6 @@
 
 /** 경계 허용 오차(m). 참조 경계 파일이 단순화돼 있어 이 안의 불일치는 표시하지 않는다. */
 export const BOUNDARY_TOLERANCE_M = 100;
+
+/** 구명이 비어 있는 행이 이 비율 이상이면 행마다 지적하지 않고 테마 수준 1건으로 묶는다. */
+export const MOSTLY_EMPTY_RATIO = 0.9;
