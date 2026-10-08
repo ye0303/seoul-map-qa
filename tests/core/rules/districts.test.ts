@@ -50,6 +50,13 @@ describe("C-05 구명과 좌표의 구 불일치", () => {
     expect(findingsOf("C-05", [row({ COT_GU_NAME: "과천시" })])).toMatchObject([{ severity: "suspect", suggestion: "중구" }]);
   });
 
+  test("시도 없는 '중구 …' 주소도 좌표가 서울 안이면 서울 주소로 쓴다 (국립극장)", () => {
+    const findings = findingsOf("C-05", [
+      row({ COT_COORD_X: 126.9996846, COT_COORD_Y: 37.5526403, COT_GU_NAME: "용산구", COT_ADDR_FULL_NEW: "", COT_ADDR_FULL_OLD: "중구 장충동2가 14-67" }),
+    ]);
+    expect(findings).toMatchObject([{ severity: "error", suggestion: "중구" }]);
+  });
+
   test("구명과 좌표의 구가 같으면 표시하지 않는다", () => {
     expect(findingsOf("C-05", [row()])).toEqual([]);
   });

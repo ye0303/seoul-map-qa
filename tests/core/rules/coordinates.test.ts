@@ -39,6 +39,11 @@ describe("C-04 서울 밖 좌표", () => {
     expect(findingsOf("C-04", [row({ ...camp, COT_GU_NAME: "송파구", COT_ADDR_FULL_NEW: "" })])).toMatchObject([{ severity: "error" }]);
   });
 
+  test("시도 없는 '중구 …' 주소는 좌표가 서울 밖이면 서울 주소로 보지 않는다 (대구 중구 같은 경우)", () => {
+    const findings = findingsOf("C-04", [row({ COT_COORD_X: 128.5926, COT_COORD_Y: 35.8693, COT_GU_NAME: null, COT_ADDR_FULL_NEW: "중구 쌍림동 100" })]);
+    expect(findings).toMatchObject([{ severity: "suspect" }]);
+  });
+
   test("주소·구명 없이 서울 밖이면 의심 (철원 캠핑장)", () => {
     const findings = findingsOf("C-04", [
       row({ COT_COORD_X: 127.39889455, COT_COORD_Y: 38.300951748, COT_GU_NAME: null, COT_ADDR_FULL_NEW: "" }),

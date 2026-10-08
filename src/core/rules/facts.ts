@@ -37,6 +37,8 @@ export function buildFacts(rows: readonly ContentRow[], districts: DistrictIndex
     const locatable = isPoint && coordinateStatus === "ok";
     const newAddress = parseAddress(text(row, "COT_ADDR_FULL_NEW"));
     const useNew = newAddress.inSeoul !== null;
+    const address = useNew ? newAddress : parseAddress(text(row, "COT_ADDR_FULL_OLD"));
+    const coordinateDistrict = locatable ? districts.districtAt(lng!, lat!) : null;
     return {
       key: keys[index]!,
       row,
@@ -48,8 +50,9 @@ export function buildFacts(rows: readonly ContentRow[], districts: DistrictIndex
       coordinateStatus,
       isPoint,
       pointKey: locatable ? `${lng!.toFixed(6)},${lat!.toFixed(6)}` : null,
-      coordinateDistrict: locatable ? districts.districtAt(lng!, lat!) : null,
-      address: useNew ? newAddress : parseAddress(text(row, "COT_ADDR_FULL_OLD")),
+      coordinateDistrict,
+      // 시도 없는 "중구 …"·"강서구 …"는 좌표가 서울 안일 때만 서울 주소로 본다(부산·대구 등에도 같은 구가 있다).
+      address: address.ambiguous && coordinateDistrict === null ? { inSeoul: null, gu: null } : address,
       addressField: useNew ? "COT_ADDR_FULL_NEW" : "COT_ADDR_FULL_OLD",
     };
   });

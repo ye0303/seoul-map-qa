@@ -73,7 +73,7 @@ export const outsideSeoul: Rule = {
         value: `경도 ${fact.lng}, 위도 ${fact.lat}`,
         message: claimsSeoul
           ? `주소·구명은 서울인데 좌표는 서울 밖(약 ${formatDistance(distance)})에 있습니다.`
-          : `좌표가 서울 밖(약 ${formatDistance(distance)})에 있고 주소가 없어 확인이 필요합니다.`,
+          : `좌표가 서울 밖(약 ${formatDistance(distance)})에 있고 주소로는 서울인지 알 수 없어 확인이 필요합니다.`,
       });
     }
     if (consistentOutside > 0) {
