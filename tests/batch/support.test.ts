@@ -76,8 +76,9 @@ describe("스냅샷 파일", () => {
   test("테마가 줄어 파일 수가 줄면 남는 조각을 지운다", () => {
     const dir = mkdtempSync(join(tmpdir(), "seoul-map-qa-"));
     const store = createStore(dir);
-    store.writeTheme("t1", { meta: {}, shards: ["a\n", "b\n", "c\n"], results: {} });
-    store.writeTheme("t1", { meta: {}, shards: ["a\n"], results: {} });
+    const results = { themeId: "t1", rulesetVersion: 1, contentHash: "h", findings: [] };
+    store.writeTheme("t1", { meta: {}, shards: ["a\n", "b\n", "c\n"], results });
+    store.writeTheme("t1", { meta: {}, shards: ["a\n"], results });
     expect(readdirSync(join(dir, "snapshots", "t1")).sort()).toEqual(["meta.json", "rows-000.ndjson"]);
   });
 });

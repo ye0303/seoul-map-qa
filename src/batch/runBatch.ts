@@ -6,8 +6,20 @@ import { RULESET_VERSION } from "../core/rules/registry.ts";
 import { runRules } from "../core/rules/runRules.ts";
 import type { Finding } from "../core/rules/types.ts";
 import type { Department } from "./departments.ts";
+import { compareWithPrevious, koreanMinute, runTag } from "./history.ts";
 import { describeError } from "./http.ts";
-import { toShards, type FindingCounts, type RunInfo, type Store, type ThemeEntry, type ThemeFiles, type ThemeStatus } from "./storage.ts";
+import {
+  toShards,
+  type FindingChangeCounts,
+  type FindingCounts,
+  type RowChangeCounts,
+  type RunInfo,
+  type Store,
+  type ThemeChange,
+  type ThemeEntry,
+  type ThemeFiles,
+  type ThemeStatus,
+} from "./storage.ts";
 
 /** 공개 테마 수가 직전 실행보다 이 비율 넘게 줄면 API 장애로 보고 멈춘다(D-027). */
 export const MAX_THEME_DROP = 0.2;
@@ -34,7 +46,14 @@ export class BatchAbortError extends Error {
 type Outcome = {
   readonly theme: PublicTheme;
   readonly result: Exclude<ContentsResult, { status: "ok" }> | { readonly status: "ok" };
-  readonly done?: { readonly rowCount: number; readonly contentHash: string; readonly counts: FindingCounts; readonly files: ThemeFiles };
+  readonly done?: {
+    readonly rowCount: number;
+    readonly contentHash: string;
+    readonly counts: FindingCounts;
+    readonly change: ThemeChange | null;
+    readonly contentChanged: boolean;
+    readonly files: ThemeFiles;
+  };
 };
 
 /** 공개 테마 전체를 수집·검사해 data/에 쓴다. 안전장치에 걸리면 쓰기 전에 멈춘다. */
@@ -43,6 +62,8 @@ export async function runBatch(options: BatchOptions): Promise<RunInfo> {
   const now = options.now ?? (() => new Date());
   const log = options.log ?? (() => {});
   const startedAt = now();
+  const runId = koreanMinute(startedAt);
+  const previousRun = store.readRun();
 
   const previous = new Map((store.readThemes() ?? []).map((entry) => [entry.id, entry]));
   const themes = publicThemes(await fetchThemeList(get, key));
@@ -64,7 +85,7 @@ export async function runBatch(options: BatchOptions): Promise<RunInfo> {
   const outcomes = await mapPool(themes, CONCURRENCY, async (theme): Promise<Outcome> => {
     let result = await fetchThemeContents(get, key, theme.id);
     if (result.status === "incomplete") result = await fetchThemeContents(get, key, theme.id);
-    const outcome = result.status === "ok" ? inspect(theme, result.rows, districts) : { theme, result };
+    const outcome = result.status === "ok" ? inspect(theme, result.rows, { districts, store, runId, before: previous.get(theme.id) }) : { theme, result };
     finished++;
     log(`[${String(finished).padStart(3)}/${themes.length}] ${statusLabel(outcome.result.status)} ${theme.name}${progressDetail(outcome)}`);
     return outcome;
@@ -93,6 +114,7 @@ export async function runBatch(options: BatchOptions): Promise<RunInfo> {
       lastSuccessAt: done ? startedIso : (before?.lastSuccessAt ?? null),
       department,
       ...(departments ? {} : { departmentStale: true as const }),
+      ...(done?.change ? { change: done.change } : {}),
     };
   });
   const listed = new Set(themes.map((theme) => theme.id));
@@ -105,8 +127,10 @@ export async function runBatch(options: BatchOptions): Promise<RunInfo> {
   store.writeThemes(entries);
 
   const finishedAt = now();
+  const compared = outcomes.flatMap((outcome) => (outcome.done?.change ? [{ change: outcome.done.change, contentChanged: outcome.done.contentChanged }] : []));
+  const rulesEffects = compared.flatMap(({ change }) => (change.rulesEffect ? [change.rulesEffect] : []));
   const run: RunInfo = {
-    runId: koreanMinute(startedAt),
+    runId,
     startedAt: startedIso,
     finishedAt: finishedAt.toISOString(),
     durationSec: Math.round((finishedAt.getTime() - startedAt.getTime()) / 1000),
@@ -115,16 +139,37 @@ export async function runBatch(options: BatchOptions): Promise<RunInfo> {
     rows: outcomes.reduce((sum, outcome) => sum + (outcome.done?.rowCount ?? 0), 0),
     findings: sumCounts(outcomes.flatMap((outcome) => (outcome.done ? [outcome.done.counts] : []))),
     departments: departments ? "ok" : "stale",
+    tag: runTag(runId),
+    previous: previousRun ? { runId: previousRun.runId, tag: previousRun.tag ?? runTag(previousRun.runId) } : null,
+    changes:
+      compared.length === 0
+        ? null
+        : {
+            themesChanged: compared.filter(({ contentChanged }) => contentChanged).length,
+            rows: sumRowChanges(compared.flatMap(({ change }) => (change.rows ? [change.rows] : []))),
+            findings: sumFindingChanges(compared.flatMap(({ change }) => (change.findings ? [change.findings] : []))),
+            ...(rulesEffects.length > 0 ? { rulesEffect: sumFindingChanges(rulesEffects) } : {}),
+          },
   };
   store.writeRun(run);
   return run;
 }
 
-/** 검사하고 저장할 문자열까지 만들어 원본 행은 바로 버린다(전체 원본을 메모리에 쌓지 않는다). */
-function inspect(theme: PublicTheme, rows: readonly ContentRow[], districts: DistrictIndex): Outcome {
+type InspectContext = { readonly districts: DistrictIndex; readonly store: Store; readonly runId: string; readonly before: ThemeEntry | undefined };
+
+/**
+ * 검사하고, 마지막으로 받은 상태와 비교하고, 저장할 문자열까지 만든다.
+ * 원본 행·스냅샷 객체는 여기서 버려 전체 원본을 메모리에 쌓지 않는다.
+ */
+function inspect(theme: PublicTheme, rows: readonly ContentRow[], context: InspectContext): Outcome {
+  const { districts, store, runId, before } = context;
   const snapshot = normalizeRows(rows);
   const hash = contentHash(snapshot);
   const findings = runRules({ meta: theme, rows }, { districts });
+  const counts = countFindings(findings);
+  const history = compareWithPrevious(store, theme.id, before, { runId, snapshot, contentHash: hash, counts, findings }, (previousRows) =>
+    runRules({ meta: theme, rows: previousRows }, { districts }),
+  );
   const shards = toShards(snapshot.rows);
   return {
     theme,
@@ -132,11 +177,14 @@ function inspect(theme: PublicTheme, rows: readonly ContentRow[], districts: Dis
     done: {
       rowCount: rows.length,
       contentHash: hash,
-      counts: countFindings(findings),
+      counts,
+      change: history.change,
+      contentChanged: history.contentChanged,
       files: {
         meta: { themeId: theme.id, columns: snapshot.columns, rowCount: rows.length, contentHash: hash, shards: shards.length },
         shards,
         results: { themeId: theme.id, rulesetVersion: RULESET_VERSION, contentHash: hash, findings },
+        ...(history.versions ? { versions: history.versions } : {}),
       },
     },
   };
@@ -168,6 +216,17 @@ function countFindings(findings: readonly Finding[]): FindingCounts {
   return counts;
 }
 
+function sumRowChanges(list: readonly RowChangeCounts[]): RowChangeCounts {
+  return list.reduce((sum, rows) => ({ added: sum.added + rows.added, removed: sum.removed + rows.removed, modified: sum.modified + rows.modified }), { added: 0, removed: 0, modified: 0 });
+}
+
+function sumFindingChanges(list: readonly FindingChangeCounts[]): FindingChangeCounts {
+  return list.reduce(
+    (sum, findings) => ({ added: sum.added + findings.added, resolved: sum.resolved + findings.resolved, severityChanged: sum.severityChanged + findings.severityChanged }),
+    { added: 0, resolved: 0, severityChanged: 0 },
+  );
+}
+
 function sumCounts(list: readonly FindingCounts[]): FindingCounts {
   return list.reduce((sum, counts) => ({ error: sum.error + counts.error, suspect: sum.suspect + counts.suspect, info: sum.info + counts.info }), { error: 0, suspect: 0, info: 0 });
 }
@@ -177,16 +236,9 @@ function statusLabel(status: ThemeStatus): string {
 }
 
 function progressDetail(outcome: Outcome): string {
-  if (outcome.done) return ` (${outcome.done.rowCount}행, 오류 ${outcome.done.counts.error}·의심 ${outcome.done.counts.suspect})`;
+  if (outcome.done) {
+    const changed = outcome.done.contentChanged ? ", 내용 바뀜" : "";
+    return ` (${outcome.done.rowCount}행, 오류 ${outcome.done.counts.error}·의심 ${outcome.done.counts.suspect}${changed})`;
+  }
   return "reason" in outcome.result ? ` — ${outcome.result.reason}` : "";
-}
-
-/** 한국 시각 기준 "YYYY-MM-DDTHH:mm". */
-export function koreanMinute(date: Date): string {
-  const parts = Object.fromEntries(
-    new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Seoul", year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hourCycle: "h23" })
-      .formatToParts(date)
-      .map((part) => [part.type, part.value]),
-  );
-  return `${parts["year"]}-${parts["month"]}-${parts["day"]}T${parts["hour"]}:${parts["minute"]}`;
 }

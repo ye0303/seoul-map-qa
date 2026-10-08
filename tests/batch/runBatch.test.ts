@@ -6,7 +6,8 @@ import { beforeEach, describe, expect, test } from "vitest";
 
 import type { HttpGet } from "../../src/core/api/smartSeoulApi.ts";
 import type { Department } from "../../src/batch/departments.ts";
-import { BatchAbortError, koreanMinute, runBatch } from "../../src/batch/runBatch.ts";
+import { koreanMinute } from "../../src/batch/history.ts";
+import { BatchAbortError, runBatch } from "../../src/batch/runBatch.ts";
 import { createStore, type RunInfo, type ThemeEntry } from "../../src/batch/storage.ts";
 import { districts, row } from "../helpers.ts";
 
