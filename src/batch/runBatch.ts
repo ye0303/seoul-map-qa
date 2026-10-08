@@ -217,7 +217,15 @@ function countFindings(findings: readonly Finding[]): FindingCounts {
 }
 
 function sumRowChanges(list: readonly RowChangeCounts[]): RowChangeCounts {
-  return list.reduce((sum, rows) => ({ added: sum.added + rows.added, removed: sum.removed + rows.removed, modified: sum.modified + rows.modified }), { added: 0, removed: 0, modified: 0 });
+  return list.reduce(
+    (sum, rows) => ({
+      added: sum.added + rows.added,
+      removed: sum.removed + rows.removed,
+      modified: sum.modified + rows.modified,
+      datesOnly: (sum.datesOnly ?? 0) + (rows.datesOnly ?? 0),
+    }),
+    { added: 0, removed: 0, modified: 0, datesOnly: 0 },
+  );
 }
 
 function sumFindingChanges(list: readonly FindingChangeCounts[]): FindingChangeCounts {

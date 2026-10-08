@@ -3,6 +3,9 @@ import { compareCodeUnits, type Snapshot } from "../model/snapshot.ts";
 
 const ID_COLUMN = "COT_CONTS_ID";
 
+/** 제공 기관이 같은 내용을 다시 올리기만 해도 바뀌는 열. 내용 변화로 세지 않는다(D-056). */
+export const TIMESTAMP_COLUMNS: readonly string[] = ["COT_UPDATE_DATE"];
+
 export type FieldChange = { readonly column: string; readonly before: unknown; readonly after: unknown };
 export type RowChange = { readonly key: string; readonly fields: readonly FieldChange[] };
 
@@ -53,6 +56,21 @@ export function diffSnapshots(before: Snapshot, after: Snapshot): SnapshotDiff {
     if (fields.length > 0) modified.push({ key, fields });
   }
   return { added, removed, modified };
+}
+
+/**
+ * 수정 시각만 바뀐 행을 따로 뺀다. 남은 변경 행에서도 수정 시각 필드는 뺀다.
+ * (서울공공와이파이는 같은 내용을 매일 다시 올려 1천여 행의 수정 시각만 바뀐다.)
+ */
+export function separateTimestampChanges(diff: SnapshotDiff): { readonly diff: SnapshotDiff; readonly timestampOnly: readonly string[] } {
+  const modified: RowChange[] = [];
+  const timestampOnly: string[] = [];
+  for (const change of diff.modified) {
+    const fields = change.fields.filter((field) => !TIMESTAMP_COLUMNS.includes(field.column));
+    if (fields.length === 0) timestampOnly.push(change.key);
+    else modified.push({ key: change.key, fields });
+  }
+  return { diff: { ...diff, modified }, timestampOnly };
 }
 
 /** 행 키 → (열 이름 → 값) 조회 함수. */

@@ -11,7 +11,8 @@ export const SHARD_ROWS = 10_000;
 export type ThemeStatus = "ok" | "unavailable" | "incomplete" | "error" | "missing";
 
 export type FindingCounts = { readonly error: number; readonly suspect: number; readonly info: number };
-export type RowChangeCounts = { readonly added: number; readonly removed: number; readonly modified: number };
+/** 행 변화 수. datesOnly는 수정 시각만 바뀐 행(내용 변화가 아니라 modified에 넣지 않는다, D-056). M3 첫 실행 기록에는 없다. */
+export type RowChangeCounts = { readonly added: number; readonly removed: number; readonly modified: number; readonly datesOnly?: number };
 export type FindingChangeCounts = { readonly added: number; readonly resolved: number; readonly severityChanged: number };
 
 /** 마지막으로 받은 상태 대비 이번 실행의 변화(D-025, D-043). */

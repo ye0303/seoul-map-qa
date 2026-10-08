@@ -1,6 +1,6 @@
 import { describe, expect, test } from "vitest";
 
-import { diffSnapshots, rowsFromSnapshot, snapshotRowKeys } from "../../../src/core/diff/snapshotDiff.ts";
+import { diffSnapshots, rowsFromSnapshot, separateTimestampChanges, snapshotRowKeys } from "../../../src/core/diff/snapshotDiff.ts";
 import { normalizeRows } from "../../../src/core/model/snapshot.ts";
 import { check, row } from "../../helpers.ts";
 
@@ -48,6 +48,14 @@ describe("diffSnapshots", () => {
   test("DIST·RNUM만 다르면 차이가 없다", () => {
     const after = normalizeRows([row({ COT_CONTS_ID: "gone", DIST: 9 }), row({ COT_CONTS_ID: "edit", COT_TEL_NO: "02-1", RNUM: 3 }), row({ COT_CONTS_ID: "keep" })]);
     expect(diffSnapshots(before, after)).toEqual({ added: [], removed: [], modified: [] });
+  });
+
+  test("수정 시각만 바뀐 행은 따로 빼고, 다른 변경과 함께 바뀐 행에서는 수정 시각 필드만 뺀다", () => {
+    const old = normalizeRows([row({ COT_CONTS_ID: "a", COT_UPDATE_DATE: "2026-10-07" }), row({ COT_CONTS_ID: "b", COT_UPDATE_DATE: "2026-10-07", COT_TEL_NO: "02-1" })]);
+    const now = normalizeRows([row({ COT_CONTS_ID: "a", COT_UPDATE_DATE: "2026-10-08" }), row({ COT_CONTS_ID: "b", COT_UPDATE_DATE: "2026-10-08", COT_TEL_NO: "02-2" })]);
+    const { diff, timestampOnly } = separateTimestampChanges(diffSnapshots(old, now));
+    expect(timestampOnly).toEqual(["a"]);
+    expect(diff.modified).toEqual([{ key: "b", fields: [{ column: "COT_TEL_NO", before: "02-1", after: "02-2" }] }]);
   });
 
   test("열 구성이 바뀌면 없는 쪽 값을 undefined로 비교한다", () => {

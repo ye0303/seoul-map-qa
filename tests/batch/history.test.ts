@@ -81,6 +81,15 @@ describe("버전과 직전 실행 대비 변화", () => {
     expect(json<VersionEntry[]>("versions/t2.json")).toHaveLength(1);
   });
 
+  test("수정 시각만 바뀌면(같은 내용 재업로드) 새 버전을 만들지 않고 따로 센다", async () => {
+    const touched = (date: string) => t1.map((item) => ({ ...item, COT_UPDATE_DATE: date }));
+    await run({ t1: touched("2026-10-07 16:20:26"), ...others }, "2026-10-08T04:30:00Z");
+    const second = await run({ t1: touched("2026-10-08 16:12:08"), ...others }, "2026-10-09T01:00:00Z");
+    expect(json<VersionEntry[]>("versions/t1.json")).toHaveLength(1);
+    expect(entry("t1").change?.rows).toEqual({ added: 0, removed: 0, modified: 0, datesOnly: 2 });
+    expect(second.changes).toMatchObject({ themesChanged: 0, rows: { modified: 0, datesOnly: 2 } });
+  });
+
   test("버전 기록이 없는 M2 데이터는 마지막으로 받은 실행을 첫 버전으로 삼는다", async () => {
     await run({ t1, ...others }, "2026-10-08T05:58:47Z");
     // M2 실행 결과처럼 만든다: 버전 목록·태그가 없다

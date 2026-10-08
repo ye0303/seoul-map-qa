@@ -1,5 +1,5 @@
 import { splitFindingChanges, type FindingDiff } from "../core/diff/findingDiff.ts";
-import { diffSnapshots, rowsFromSnapshot } from "../core/diff/snapshotDiff.ts";
+import { diffSnapshots, rowsFromSnapshot, separateTimestampChanges } from "../core/diff/snapshotDiff.ts";
 import type { ContentRow } from "../core/model/row.ts";
 import type { Snapshot } from "../core/model/snapshot.ts";
 import { RULESET_VERSION } from "../core/rules/registry.ts";
@@ -56,12 +56,14 @@ export function compareWithPrevious(
   }
 
   const since = koreanMinute(new Date(before.lastSuccessAt));
-  const contentChanged = before.contentHash !== current.contentHash;
+  const hashChanged = before.contentHash !== current.contentHash;
   const previousResults = store.readResults(themeId);
   const rulesChanged = previousResults !== null && previousResults.rulesetVersion !== RULESET_VERSION;
-  const previousSnapshot = contentChanged || rulesChanged ? store.readSnapshot(themeId) : null;
+  const previousSnapshot = hashChanged || rulesChanged ? store.readSnapshot(themeId) : null;
 
-  const rows = contentChanged ? (previousSnapshot ? countRows(diffSnapshots(previousSnapshot, current.snapshot)) : null) : { added: 0, removed: 0, modified: 0 };
+  // 해시가 달라도 수정 시각만 바뀌었으면 내용 변화가 아니다(D-056).
+  const rows = hashChanged ? (previousSnapshot ? countRows(diffSnapshots(previousSnapshot, current.snapshot)) : null) : { added: 0, removed: 0, modified: 0 };
+  const contentChanged = hashChanged && (rows === null || rows.added + rows.removed + rows.modified > 0);
   const split = previousResults
     ? splitFindingChanges(previousResults, { rulesetVersion: RULESET_VERSION, findings: current.findings }, () =>
         previousSnapshot ? recheck(rowsFromSnapshot(previousSnapshot)) : previousResults.findings,
@@ -82,8 +84,14 @@ export function compareWithPrevious(
   return { change, versions, contentChanged };
 }
 
-function countRows(diff: ReturnType<typeof diffSnapshots>): RowChangeCounts {
-  return { added: diff.added.length, removed: diff.removed.length, modified: diff.modified.length };
+function countRows(raw: ReturnType<typeof diffSnapshots>): RowChangeCounts {
+  const { diff, timestampOnly } = separateTimestampChanges(raw);
+  return {
+    added: diff.added.length,
+    removed: diff.removed.length,
+    modified: diff.modified.length,
+    ...(timestampOnly.length > 0 ? { datesOnly: timestampOnly.length } : {}),
+  };
 }
 
 function countFindings(diff: FindingDiff): FindingChangeCounts {
