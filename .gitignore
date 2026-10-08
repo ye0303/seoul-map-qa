@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+*.log
+.DS_Store
+
+# 인증키 등 로컬 환경 변수
+.env
+.env.*
+!.env.example

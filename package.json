@@ -1,0 +1,18 @@
+{
+  "name": "seoul-map-qa",
+  "description": "스마트서울맵 공개 테마 데이터 검증 대시보드",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.7.0",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "typecheck": "tsc",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.3"
+  }
+}
