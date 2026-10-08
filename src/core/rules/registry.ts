@@ -3,6 +3,7 @@ import { missingCoordinate, outOfRangeCoordinate, outsideSeoul, swappedCoordinat
 import { districtEmpty, districtMismatchAddress, districtMismatchCoordinate } from "./common/districts.ts";
 import { duplicateEntry, duplicateId, nearbySameName } from "./common/duplicates.ts";
 import { phoneFormat } from "./common/phone.ts";
+import { EDITION25_RULES, EDITION25_THEME_ID } from "./themes/edition25.ts";
 import type { Rule } from "./types.ts";
 
 /** 규칙을 바꾸면 올린다. 판정 비교 때 규칙 변경 영향과 데이터 변화를 나누는 기준이다. */
@@ -30,7 +31,9 @@ type ThemeRules = {
   readonly replaces?: readonly string[];
 };
 
-const THEME_RULES: Readonly<Record<string, ThemeRules>> = {};
+const THEME_RULES: Readonly<Record<string, ThemeRules>> = {
+  [EDITION25_THEME_ID]: { rules: EDITION25_RULES, replaces: ["C-12"] },
+};
 
 export function rulesFor(themeId: string): readonly Rule[] {
   const theme = THEME_RULES[themeId];
