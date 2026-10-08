@@ -1,0 +1,152 @@
+[
+ {
+  "ruleId": "C-10",
+  "severity": "error",
+  "contsId": "2025_ds_0007",
+  "field": "COT_TEL_NO",
+  "value": "%EC%97%AC%EC%9D%98%EB%8F%84%EC%95%88%EB%82%B4%EC%84%BC%ED%84%B0+02-3780-0566%2C+%EC%B4%9D%EA%B4%84+%EB%8B%B4%EB%8B%B9+02",
+  "suggestion": "여의도안내센터 02-3780-0566, 총괄 담당 02",
+  "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+  "fingerprint": "C-10|1741228380725|2025_ds_0007||COT_TEL_NO"
+ },
+ {
+  "ruleId": "C-10",
+  "severity": "error",
+  "contsId": "2025_ds_0009",
+  "field": "COT_TEL_NO",
+  "value": "02-2290-7111%7E3%28%EC%B2%AD%EA%B3%84%EC%B2%9C%EC%A2%85%ED%95%A9%EC%83%81%ED%99%A9%EC%8B%A4%29",
+  "suggestion": "02-2290-7111~3(청계천종합상황실)",
+  "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+  "fingerprint": "C-10|1741228380725|2025_ds_0009||COT_TEL_NO"
+ },
+ {
+  "ruleId": "C-10",
+  "severity": "error",
+  "contsId": "2025_ds_0011",
+  "field": "COT_TEL_NO",
+  "value": "%28%EA%B2%BD%EA%B4%80%EC%A1%B0%EB%AA%85+%EC%95%88%EB%82%B4%29+02-300-8404+%28%EB%A7%88%ED%8F%AC%EB%8C%80%EA%B5%90+%EC%95%88%EB%82%B4%29+02",
+  "suggestion": "(경관조명 안내) 02-300-8404 (마포대교 안내) 02",
+  "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+  "fingerprint": "C-10|1741228380725|2025_ds_0011||COT_TEL_NO"
+ },
+ {
+  "ruleId": "C-10",
+  "severity": "error",
+  "contsId": "2025_ds_0012",
+  "field": "COT_TEL_NO",
+  "value": "%EB%82%9C%EC%A7%80%EC%95%88%EB%82%B4%EC%84%BC%ED%84%B0+02-3780-0611",
+  "suggestion": "난지안내센터 02-3780-0611",
+  "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+  "fingerprint": "C-10|1741228380725|2025_ds_0012||COT_TEL_NO"
+ },
+ {
+  "ruleId": "C-10",
+  "severity": "error",
+  "contsId": "2025_ds_0014",
+  "field": "COT_TEL_NO",
+  "value": "02-120%2C+02-3783",
+  "suggestion": "02-120, 02-3783",
+  "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+  "fingerprint": "C-10|1741228380725|2025_ds_0014||COT_TEL_NO"
+ },
+ {
+  "ruleId": "C-10",
+  "severity": "error",
+  "contsId": "2025_ds_0015",
+  "field": "COT_TEL_NO",
+  "value": "%28%EA%B3%B5%EC%9B%90%EC%95%88%EB%82%B4%29+02-813-2130",
+  "suggestion": "(공원안내) 02-813-2130",
+  "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+  "fingerprint": "C-10|1741228380725|2025_ds_0015||COT_TEL_NO"
+ },
+ {
+  "ruleId": "C-10",
+  "severity": "error",
+  "contsId": "2025_ds_0016",
+  "field": "COT_TEL_NO",
+  "value": "%28%EA%B2%BD%EA%B4%80%EC%A1%B0%EB%AA%85+%EC%95%88%EB%82%B4%29+02-2657-7965+%28%EC%9B%94%EB%93%9C%EC%BB%B5%EB%8C%80%EA%B5%90+%EC%95%88%EB%82%B4%29+02",
+  "suggestion": "(경관조명 안내) 02-2657-7965 (월드컵대교 안내) 02",
+  "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+  "fingerprint": "C-10|1741228380725|2025_ds_0016||COT_TEL_NO"
+ },
+ {
+  "ruleId": "C-10",
+  "severity": "error",
+  "contsId": "2025_ds_0022",
+  "field": "COT_TEL_NO",
+  "value": "%28%EA%B3%B5%EC%9B%90%EC%95%88%EB%82%B4%29+02-300-5501+%28%EC%A3%BC%EC%B0%A8%EC%9E%A5%EC%95%88%EB%82%B4%29+02",
+  "suggestion": "(공원안내) 02-300-5501 (주차장안내) 02",
+  "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+  "fingerprint": "C-10|1741228380725|2025_ds_0022||COT_TEL_NO"
+ },
+ {
+  "ruleId": "C-10",
+  "severity": "error",
+  "contsId": "2025_ds_0027",
+  "field": "COT_TEL_NO",
+  "value": "%EB%B0%98%ED%8F%AC%EC%95%88%EB%82%B4%EC%84%BC%ED%84%B0+02-3780-0541%7E4%2C+%EC%9A%B4%EC%98%81%EC%82%AC%EB%AC%B4%EC%8B%A4+02",
+  "suggestion": "반포안내센터 02-3780-0541~4, 운영사무실 02",
+  "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+  "fingerprint": "C-10|1741228380725|2025_ds_0027||COT_TEL_NO"
+ },
+ {
+  "ruleId": "C-10",
+  "severity": "error",
+  "contsId": "2025_ds_0029",
+  "field": "COT_TEL_NO",
+  "value": "%28%EA%B2%BD%EA%B4%80%EC%A1%B0%EB%AA%85+%EC%95%88%EB%82%B4%29+02-2040-0367%2C+%28%EC%98%AC%EB%A6%BC%ED%94%BD%EB%8C%80%EA%B5%90+%EC%95%88%EB%82%B4%29+02",
+  "suggestion": "(경관조명 안내) 02-2040-0367, (올림픽대교 안내) 02",
+  "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+  "fingerprint": "C-10|1741228380725|2025_ds_0029||COT_TEL_NO"
+ },
+ {
+  "ruleId": "C-10",
+  "severity": "error",
+  "contsId": "2025_ds_0035",
+  "field": "COT_TEL_NO",
+  "value": "%28%EC%95%88%EB%82%B4%29+02-399-1000",
+  "suggestion": "(안내) 02-399-1000",
+  "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+  "fingerprint": "C-10|1741228380725|2025_ds_0035||COT_TEL_NO"
+ },
+ {
+  "ruleId": "C-10",
+  "severity": "error",
+  "contsId": "2025_ds_0036",
+  "field": "COT_TEL_NO",
+  "value": "%28%EA%B2%BD%EA%B4%80%EC%A1%B0%EB%AA%85+%EC%95%88%EB%82%B4%29+02-3284-5436+",
+  "suggestion": "(경관조명 안내) 02-3284-5436",
+  "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+  "fingerprint": "C-10|1741228380725|2025_ds_0036||COT_TEL_NO"
+ },
+ {
+  "ruleId": "C-10",
+  "severity": "error",
+  "contsId": "2025_ds_0038",
+  "field": "COT_TEL_NO",
+  "value": "02-2184-8800%2C+02",
+  "suggestion": "02-2184-8800, 02",
+  "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+  "fingerprint": "C-10|1741228380725|2025_ds_0038||COT_TEL_NO"
+ },
+ {
+  "ruleId": "C-10",
+  "severity": "error",
+  "contsId": "2025_ds_0044",
+  "field": "COT_TEL_NO",
+  "value": "02-3780-0521%2C+02",
+  "suggestion": "02-3780-0521, 02",
+  "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+  "fingerprint": "C-10|1741228380725|2025_ds_0044||COT_TEL_NO"
+ },
+ {
+  "ruleId": "C-10",
+  "severity": "error",
+  "contsId": "2025_ds_0051",
+  "field": "COT_TEL_NO",
+  "value": "%28%EA%B2%BD%EA%B4%80%EC%A1%B0%EB%AA%85+%EC%95%88%EB%82%B4%29+02-2657-7965+%28%EC%84%B1%EC%82%B0%EB%8C%80%EA%B5%90+%EC%95%88%EB%82%B4%29+02",
+  "suggestion": "(경관조명 안내) 02-2657-7965 (성산대교 안내) 02",
+  "message": "전화번호: URL 인코딩된 문자(%XX)가 섞여 있습니다.",
+  "fingerprint": "C-10|1741228380725|2025_ds_0051||COT_TEL_NO"
+ }
+]

@@ -1,0 +1,192 @@
+[
+ {
+  "ruleId": "C-04",
+  "severity": "info",
+  "contsId": null,
+  "groupKey": "outside",
+  "message": "서울 밖 장소가 11건 있습니다(주소도 서울 밖).",
+  "fingerprint": "C-04|100578||outside|"
+ },
+ {
+  "ruleId": "C-05",
+  "contsId": "wm_0002",
+  "field": "COT_GU_NAME",
+  "value": "종로구",
+  "severity": "suspect",
+  "message": "구명(종로구)과 좌표·주소의 구(용산구)가 다릅니다. 이 좌표를 이름이 다른 장소 4곳이 함께 쓰고 있어 좌표·주소가 잘못 들어갔을 수 있습니다.",
+  "fingerprint": "C-05|100578|wm_0002||COT_GU_NAME"
+ },
+ {
+  "ruleId": "C-05",
+  "contsId": "wm_0015",
+  "field": "COT_GU_NAME",
+  "value": "종로구",
+  "severity": "suspect",
+  "message": "구명(종로구)과 좌표·주소의 구(용산구)가 다릅니다. 이 좌표를 이름이 다른 장소 4곳이 함께 쓰고 있어 좌표·주소가 잘못 들어갔을 수 있습니다.",
+  "fingerprint": "C-05|100578|wm_0015||COT_GU_NAME"
+ },
+ {
+  "ruleId": "C-05",
+  "contsId": "wm_0017",
+  "field": "COT_GU_NAME",
+  "value": "종로구",
+  "severity": "suspect",
+  "message": "구명(종로구)과 좌표·주소의 구(용산구)가 다릅니다. 이 좌표를 이름이 다른 장소 4곳이 함께 쓰고 있어 좌표·주소가 잘못 들어갔을 수 있습니다.",
+  "fingerprint": "C-05|100578|wm_0017||COT_GU_NAME"
+ },
+ {
+  "ruleId": "C-05",
+  "contsId": "wm_0019",
+  "field": "COT_GU_NAME",
+  "value": "종로구",
+  "severity": "suspect",
+  "message": "구명(종로구)과 좌표·주소의 구(용산구)가 다릅니다. 이 좌표를 이름이 다른 장소 4곳이 함께 쓰고 있어 좌표·주소가 잘못 들어갔을 수 있습니다.",
+  "fingerprint": "C-05|100578|wm_0019||COT_GU_NAME"
+ },
+ {
+  "ruleId": "C-05",
+  "contsId": "wm_0020",
+  "field": "COT_GU_NAME",
+  "value": "종로구",
+  "severity": "suspect",
+  "message": "구명(종로구)과 좌표·주소의 구(용산구)가 다릅니다. 이 좌표를 이름이 다른 장소 4곳이 함께 쓰고 있어 좌표·주소가 잘못 들어갔을 수 있습니다.",
+  "fingerprint": "C-05|100578|wm_0020||COT_GU_NAME"
+ },
+ {
+  "ruleId": "C-05",
+  "contsId": "wm_0043",
+  "field": "COT_GU_NAME",
+  "value": "성북구",
+  "severity": "error",
+  "suggestion": "서초구",
+  "message": "구명(성북구)이 좌표·주소의 구(서초구)와 다릅니다.",
+  "fingerprint": "C-05|100578|wm_0043||COT_GU_NAME"
+ },
+ {
+  "ruleId": "C-05",
+  "contsId": "wm_0054",
+  "field": "COT_GU_NAME",
+  "value": "서초구",
+  "severity": "suspect",
+  "message": "구명(서초구)과 좌표·주소의 구(관악구)가 다릅니다. 이 좌표를 이름이 다른 장소 9곳이 함께 쓰고 있어 좌표·주소가 잘못 들어갔을 수 있습니다.",
+  "fingerprint": "C-05|100578|wm_0054||COT_GU_NAME"
+ },
+ {
+  "ruleId": "C-05",
+  "contsId": "wm_0058",
+  "field": "COT_GU_NAME",
+  "value": "서초구",
+  "severity": "suspect",
+  "message": "구명(서초구)과 좌표·주소의 구(관악구)가 다릅니다. 이 좌표를 이름이 다른 장소 9곳이 함께 쓰고 있어 좌표·주소가 잘못 들어갔을 수 있습니다.",
+  "fingerprint": "C-05|100578|wm_0058||COT_GU_NAME"
+ },
+ {
+  "ruleId": "C-05",
+  "contsId": "wm_0059",
+  "field": "COT_GU_NAME",
+  "value": "서초구",
+  "severity": "suspect",
+  "message": "구명(서초구)과 좌표·주소의 구(관악구)가 다릅니다. 이 좌표를 이름이 다른 장소 9곳이 함께 쓰고 있어 좌표·주소가 잘못 들어갔을 수 있습니다.",
+  "fingerprint": "C-05|100578|wm_0059||COT_GU_NAME"
+ },
+ {
+  "ruleId": "C-05",
+  "contsId": "wm_0167",
+  "field": "COT_GU_NAME",
+  "value": "강북구",
+  "severity": "suspect",
+  "message": "구명(강북구)과 좌표·주소의 구(성북구)가 다릅니다. 이 좌표를 이름이 다른 장소 2곳이 함께 쓰고 있어 좌표·주소가 잘못 들어갔을 수 있습니다.",
+  "fingerprint": "C-05|100578|wm_0167||COT_GU_NAME"
+ },
+ {
+  "ruleId": "C-05",
+  "contsId": "wm_0169",
+  "field": "COT_GU_NAME",
+  "value": "강북구",
+  "severity": "suspect",
+  "message": "구명(강북구)과 좌표·주소의 구(성북구)가 다릅니다. 이 좌표를 이름이 다른 장소 2곳이 함께 쓰고 있어 좌표·주소가 잘못 들어갔을 수 있습니다.",
+  "fingerprint": "C-05|100578|wm_0169||COT_GU_NAME"
+ },
+ {
+  "ruleId": "C-05",
+  "contsId": "wm_0176",
+  "field": "COT_GU_NAME",
+  "value": "강북구",
+  "severity": "suspect",
+  "message": "구명(강북구)과 좌표·주소의 구(성북구)가 다릅니다. 이 좌표를 이름이 다른 장소 2곳이 함께 쓰고 있어 좌표·주소가 잘못 들어갔을 수 있습니다.",
+  "fingerprint": "C-05|100578|wm_0176||COT_GU_NAME"
+ },
+ {
+  "ruleId": "C-05",
+  "contsId": "wm_0208",
+  "field": "COT_GU_NAME",
+  "value": "강남구",
+  "severity": "suspect",
+  "suggestion": "서초구",
+  "message": "구명(강남구)이 좌표·주소의 구(서초구)와 다릅니다. 구 경계 근처라 확인이 필요합니다.",
+  "fingerprint": "C-05|100578|wm_0208||COT_GU_NAME"
+ },
+ {
+  "ruleId": "C-05",
+  "contsId": "wm_0213",
+  "field": "COT_GU_NAME",
+  "value": "종로구",
+  "severity": "error",
+  "suggestion": "양천구",
+  "message": "구명(종로구)이 좌표·주소의 구(양천구)와 다릅니다.",
+  "fingerprint": "C-05|100578|wm_0213||COT_GU_NAME"
+ },
+ {
+  "ruleId": "C-07",
+  "severity": "info",
+  "contsId": "wm_0200",
+  "field": "COT_GU_NAME",
+  "message": "구명이 비어 있습니다.",
+  "fingerprint": "C-07|100578|wm_0200||COT_GU_NAME"
+ },
+ {
+  "ruleId": "C-07",
+  "severity": "info",
+  "contsId": "wm_0210",
+  "field": "COT_GU_NAME",
+  "suggestion": "서초구",
+  "message": "구명이 비어 있습니다.",
+  "fingerprint": "C-07|100578|wm_0210||COT_GU_NAME"
+ },
+ {
+  "ruleId": "C-07",
+  "severity": "info",
+  "contsId": "wm_0211",
+  "field": "COT_GU_NAME",
+  "message": "구명이 비어 있습니다.",
+  "fingerprint": "C-07|100578|wm_0211||COT_GU_NAME"
+ },
+ {
+  "ruleId": "C-07",
+  "severity": "info",
+  "contsId": "wm_0212",
+  "field": "COT_GU_NAME",
+  "message": "구명이 비어 있습니다.",
+  "fingerprint": "C-07|100578|wm_0212||COT_GU_NAME"
+ },
+ {
+  "ruleId": "C-08",
+  "severity": "suspect",
+  "contsId": "wm_0044",
+  "groupKey": "coord:wm_0044",
+  "field": "COT_CONTS_NAME",
+  "value": "영취천 약수터",
+  "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: wm_0044, wm_0045",
+  "fingerprint": "C-08|100578|wm_0044|coord:wm_0044|COT_CONTS_NAME"
+ },
+ {
+  "ruleId": "C-08",
+  "severity": "suspect",
+  "contsId": "wm_0045",
+  "groupKey": "coord:wm_0044",
+  "field": "COT_CONTS_NAME",
+  "value": "영천 약수터",
+  "message": "같은 좌표·같은 분류에 이름이 같거나 비슷한 행이 2건 있습니다: wm_0044, wm_0045",
+  "fingerprint": "C-08|100578|wm_0045|coord:wm_0044|COT_CONTS_NAME"
+ }
+]
