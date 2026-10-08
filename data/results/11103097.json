@@ -1,7 +1,7 @@
 {
  "themeId": "11103097",
  "rulesetVersion": 1,
- "contentHash": "493c78f3146b11d57dcbd7ccbffdeee61cd7829ee01557870a6bb14b0ad8dffd",
+ "contentHash": "48ef3c7a6fc54eb4e249340a96faf87f691923a5c9a3593449519dd87721aa5d",
  "findings": [
   {
    "ruleId": "C-03",

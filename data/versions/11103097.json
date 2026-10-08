@@ -1,0 +1,30 @@
+[
+ {
+  "version": "2026-10-08T14:58",
+  "tag": "snap-2026-10-08-1458",
+  "rowCount": 555,
+  "contentHash": "493c78f3146b11d57dcbd7ccbffdeee61cd7829ee01557870a6bb14b0ad8dffd",
+  "counts": {
+   "error": 61,
+   "suspect": 6,
+   "info": 96
+  },
+  "rows": null
+ },
+ {
+  "version": "2026-10-08T16:54",
+  "tag": "snap-2026-10-08-1654",
+  "rowCount": 555,
+  "contentHash": "48ef3c7a6fc54eb4e249340a96faf87f691923a5c9a3593449519dd87721aa5d",
+  "counts": {
+   "error": 61,
+   "suspect": 6,
+   "info": 96
+  },
+  "rows": {
+   "added": 0,
+   "removed": 0,
+   "modified": 1
+  }
+ }
+]

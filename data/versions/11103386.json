@@ -1,0 +1,14 @@
+[
+ {
+  "version": "2026-10-08T14:58",
+  "tag": "snap-2026-10-08-1458",
+  "rowCount": 1879,
+  "contentHash": "039f2b1755d3fa83244ac41eb7c38b325310bd0bd51588577d22d356fd4d95e7",
+  "counts": {
+   "error": 0,
+   "suspect": 2,
+   "info": 11
+  },
+  "rows": null
+ }
+]

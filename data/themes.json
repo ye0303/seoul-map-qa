@@ -11,7 +11,7 @@
    "suspect": 0,
    "info": 7
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 스마트서울맵",
    "codes": [
@@ -19,6 +19,19 @@
     "",
     "스마트서울맵"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -33,7 +46,7 @@
    "suspect": 3,
    "info": 2
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 문화본부 문화정책과",
    "codes": [
@@ -41,6 +54,19 @@
     "",
     "문화본부 문화정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -55,7 +81,7 @@
    "suspect": 220,
    "info": 71
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 시민건강국 감염병관리과",
    "codes": [
@@ -63,6 +89,19 @@
     "",
     "시민건강국 감염병관리과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -77,7 +116,7 @@
    "suspect": 72,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "양천구 부동산정보과",
    "codes": [
@@ -85,6 +124,19 @@
     "양천구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -99,7 +151,7 @@
    "suspect": 48,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "동작구 부동산정보과",
    "codes": [
@@ -107,6 +159,19 @@
     "동작구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -121,7 +186,7 @@
    "suspect": 119,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "동작구 부동산정보과",
    "codes": [
@@ -129,6 +194,19 @@
     "동작구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -143,7 +221,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "동작구 부동산정보과",
    "codes": [
@@ -151,6 +229,19 @@
     "동작구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -165,7 +256,7 @@
    "suspect": 9,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "동작구 부동산정보과",
    "codes": [
@@ -173,6 +264,19 @@
     "동작구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -187,7 +291,7 @@
    "suspect": 0,
    "info": 11
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 스마트서울맵",
    "codes": [
@@ -195,6 +299,19 @@
     "",
     "스마트서울맵"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -209,7 +326,7 @@
    "suspect": 0,
    "info": 6
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 복지실 1인가구지원과",
    "codes": [
@@ -217,6 +334,19 @@
     "",
     "복지실 1인가구지원과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -231,7 +361,7 @@
    "suspect": 2,
    "info": 8
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 스마트서울맵",
    "codes": [
@@ -239,6 +369,19 @@
     "",
     "스마트서울맵"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -253,7 +396,7 @@
    "suspect": 145,
    "info": 2
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 디자인정책관 디자인산업담당관",
    "codes": [
@@ -261,6 +404,19 @@
     "",
     "디자인정책관 디자인산업담당관"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -275,7 +431,7 @@
    "suspect": 15,
    "info": 2
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 문화본부 문화유산보존과",
    "codes": [
@@ -283,6 +439,19 @@
     "",
     "문화본부 문화유산보존과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -297,7 +466,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 문화본부 문화유산보존과",
    "codes": [
@@ -305,6 +474,19 @@
     "",
     "문화본부 문화유산보존과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -319,7 +501,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 정원도시국 자연생태과",
    "codes": [
@@ -327,6 +509,19 @@
     "",
     "정원도시국 자연생태과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -341,7 +536,7 @@
    "suspect": 40,
    "info": 148
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 여성가족실 영유아담당관",
    "codes": [
@@ -349,6 +544,19 @@
     "",
     "여성가족실 영유아담당관"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -363,7 +571,7 @@
    "suspect": 49,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 정원도시국 정원도시정책과",
    "codes": [
@@ -371,6 +579,19 @@
     "",
     "정원도시국 정원도시정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -385,7 +606,7 @@
    "suspect": 5,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "동작구 부동산정보과",
    "codes": [
@@ -393,6 +614,19 @@
     "동작구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -407,7 +641,7 @@
    "suspect": 22,
    "info": 2
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 정원도시국 자연생태과",
    "codes": [
@@ -415,6 +649,19 @@
     "",
     "정원도시국 자연생태과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -429,7 +676,7 @@
    "suspect": 2,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 정원도시국 정원도시정책과",
    "codes": [
@@ -437,6 +684,19 @@
     "",
     "정원도시국 정원도시정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -451,7 +711,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 관광체육국 관광산업과",
    "codes": [
@@ -459,6 +719,19 @@
     "",
     "관광체육국 관광산업과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -473,7 +746,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "부동산정보과",
    "codes": [
@@ -481,6 +754,19 @@
     "",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -495,7 +781,7 @@
    "suspect": 2,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 균형발전본부 균형발전정책과",
    "codes": [
@@ -503,6 +789,19 @@
     "",
     "균형발전본부 균형발전정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -517,7 +816,7 @@
    "suspect": 552,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "관악구 부동산정보과",
    "codes": [
@@ -525,6 +824,19 @@
     "관악구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -539,7 +851,7 @@
    "suspect": 1,
    "info": 6
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "양천구 부동산정보과",
    "codes": [
@@ -547,6 +859,19 @@
     "양천구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -561,7 +886,7 @@
    "suspect": 44,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "양천구 부동산정보과",
    "codes": [
@@ -569,6 +894,19 @@
     "양천구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -583,7 +921,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 관광체육국 관광산업과",
    "codes": [
@@ -591,6 +929,19 @@
     "",
     "관광체육국 관광산업과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -605,7 +956,7 @@
    "suspect": 14,
    "info": 5
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 보건환경연구원 물환경연구부",
    "codes": [
@@ -613,6 +964,19 @@
     "",
     "보건환경연구원 물환경연구부"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -627,7 +991,7 @@
    "suspect": 67,
    "info": 54
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 홍보기획관 민원담당관",
    "codes": [
@@ -635,6 +999,19 @@
     "",
     "홍보기획관 민원담당관"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -649,7 +1026,7 @@
    "suspect": 592,
    "info": 3
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "강북구 부동산정보과",
    "codes": [
@@ -657,6 +1034,19 @@
     "강북구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -671,7 +1061,7 @@
    "suspect": 0,
    "info": 5
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 스마트서울맵",
    "codes": [
@@ -679,6 +1069,19 @@
     "",
     "스마트서울맵"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -693,7 +1096,7 @@
    "suspect": 4,
    "info": 4
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 정원도시국 자연생태과",
    "codes": [
@@ -701,6 +1104,19 @@
     "",
     "정원도시국 자연생태과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -715,7 +1131,7 @@
    "suspect": 171,
    "info": 11
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "관악구 녹색환경과",
    "codes": [
@@ -723,6 +1139,19 @@
     "관악구",
     "녹색환경과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -737,7 +1166,7 @@
    "suspect": 37,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "관악구 부동산정보과",
    "codes": [
@@ -745,6 +1174,19 @@
     "관악구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -759,7 +1201,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 기후환경본부 자원회수시설과",
    "codes": [
@@ -767,6 +1209,19 @@
     "",
     "기후환경본부 자원회수시설과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -781,7 +1236,7 @@
    "suspect": 2,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 정원도시국 조경과",
    "codes": [
@@ -789,6 +1244,19 @@
     "",
     "정원도시국 조경과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -803,7 +1271,7 @@
    "suspect": 1,
    "info": 7
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 스마트서울맵",
    "codes": [
@@ -811,6 +1279,19 @@
     "",
     "스마트서울맵"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -825,7 +1306,7 @@
    "suspect": 12,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "관악구 부동산정보과",
    "codes": [
@@ -833,6 +1314,19 @@
     "관악구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -847,7 +1341,7 @@
    "suspect": 1,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 스마트서울맵",
    "codes": [
@@ -855,6 +1349,19 @@
     "",
     "스마트서울맵"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -869,7 +1376,7 @@
    "suspect": 10,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "양천구 부동산정보과",
    "codes": [
@@ -877,6 +1384,19 @@
     "양천구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -891,7 +1411,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 기획조정실 법률지원담당관",
    "codes": [
@@ -899,6 +1419,19 @@
     "",
     "기획조정실 법률지원담당관"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -913,7 +1446,7 @@
    "suspect": 31,
    "info": 18
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울관광재단",
    "codes": [
@@ -921,6 +1454,19 @@
     "",
     "서울관광재단"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -935,7 +1481,7 @@
    "suspect": 12,
    "info": 14
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울관광재단",
    "codes": [
@@ -943,6 +1489,19 @@
     "",
     "서울관광재단"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -957,7 +1516,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "동작구 스마트정보과",
    "codes": [
@@ -965,6 +1524,19 @@
     "동작구",
     "스마트정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -979,7 +1551,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 스마트서울맵",
    "codes": [
@@ -987,6 +1559,19 @@
     "",
     "스마트서울맵"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1001,7 +1586,7 @@
    "suspect": 0,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 정원도시국 정원도시정책과",
    "codes": [
@@ -1009,6 +1594,19 @@
     "",
     "정원도시국 정원도시정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1023,7 +1621,7 @@
    "suspect": 2,
    "info": 59
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 교통실 보행자전거과",
    "codes": [
@@ -1031,6 +1629,19 @@
     "",
     "교통실 보행자전거과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1045,7 +1656,7 @@
    "suspect": 0,
    "info": 8
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "금천구 부동산정보과",
    "codes": [
@@ -1053,6 +1664,19 @@
     "금천구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1067,7 +1691,7 @@
    "suspect": 3,
    "info": 1051
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "마포구 부동산정보과",
    "codes": [
@@ -1075,6 +1699,19 @@
     "마포구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1089,7 +1726,7 @@
    "suspect": 40,
    "info": 2220
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 교통실 보행자전거과",
    "codes": [
@@ -1097,6 +1734,19 @@
     "",
     "교통실 보행자전거과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1111,7 +1761,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 교통실 교통정책과",
    "codes": [
@@ -1119,6 +1769,19 @@
     "",
     "교통실 교통정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1133,7 +1796,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 정원도시국 자연생태과",
    "codes": [
@@ -1141,6 +1804,19 @@
     "",
     "정원도시국 자연생태과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1155,7 +1831,7 @@
    "suspect": 0,
    "info": 3
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 기후환경본부 자원회수시설과",
    "codes": [
@@ -1163,6 +1839,19 @@
     "",
     "기후환경본부 자원회수시설과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1177,7 +1866,7 @@
    "suspect": 27,
    "info": 16
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "양천구 부동산정보과",
    "codes": [
@@ -1185,6 +1874,19 @@
     "양천구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1199,7 +1901,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "관악구 부동산정보과",
    "codes": [
@@ -1207,6 +1909,19 @@
     "관악구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1221,7 +1936,7 @@
    "suspect": 19,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "구로구 부동산정보과",
    "codes": [
@@ -1229,6 +1944,19 @@
     "구로구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1243,7 +1971,7 @@
    "suspect": 1,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "유니버설디자인센터",
    "codes": [
@@ -1251,6 +1979,19 @@
     "",
     "유니버설디자인센터"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1265,7 +2006,7 @@
    "suspect": 69,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 디지털도시국 디지털정책과",
    "codes": [
@@ -1273,6 +2014,19 @@
     "",
     "디지털도시국 디지털정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1287,7 +2041,7 @@
    "suspect": 4,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "용산구 부동산정보과",
    "codes": [
@@ -1295,6 +2049,19 @@
     "용산구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1309,7 +2076,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "용산구 부동산정보과",
    "codes": [
@@ -1317,6 +2084,19 @@
     "용산구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1331,7 +2111,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "용산구 부동산정보과",
    "codes": [
@@ -1339,6 +2119,19 @@
     "용산구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1353,7 +2146,7 @@
    "suspect": 19,
    "info": 3242
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "세이브더칠드런",
    "codes": [
@@ -1361,6 +2154,19 @@
     "",
     "세이브더칠드런"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1375,7 +2181,7 @@
    "suspect": 83,
    "info": 2866
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "선한영향력가게",
    "codes": [
@@ -1383,6 +2189,19 @@
     "",
     "선한영향력가게"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1397,7 +2216,7 @@
    "suspect": 22,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 스마트서울맵",
    "codes": [
@@ -1405,6 +2224,19 @@
     "",
     "스마트서울맵"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1419,7 +2251,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "용산구 부동산정보과",
    "codes": [
@@ -1427,6 +2259,19 @@
     "용산구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1441,7 +2286,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 정원도시국 정원도시정책과",
    "codes": [
@@ -1449,6 +2294,19 @@
     "",
     "정원도시국 정원도시정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1457,13 +2315,13 @@
   "type": "2",
   "status": "ok",
   "rowCount": 15786,
-  "contentHash": "b0157a30ec16ef458ace1df46b5edc354e8d84599aacac1a95b906503ed08333",
+  "contentHash": "65fd16e26270f527b5602d6d7a93a9a3827e59e0cc9610cc76a45a32bc115cc1",
   "counts": {
    "error": 193,
    "suspect": 2930,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 디지털도시국 정보통신과",
    "codes": [
@@ -1471,6 +2329,19 @@
     "",
     "디지털도시국 정보통신과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 1154
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1485,7 +2356,7 @@
    "suspect": 0,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 시민건강국 보건의료정책과",
    "codes": [
@@ -1493,6 +2364,19 @@
     "",
     "시민건강국 보건의료정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1501,13 +2385,13 @@
   "type": "2",
   "status": "ok",
   "rowCount": 555,
-  "contentHash": "493c78f3146b11d57dcbd7ccbffdeee61cd7829ee01557870a6bb14b0ad8dffd",
+  "contentHash": "48ef3c7a6fc54eb4e249340a96faf87f691923a5c9a3593449519dd87721aa5d",
   "counts": {
    "error": 61,
    "suspect": 6,
    "info": 96
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 여성가족실 아이돌봄담당관",
    "codes": [
@@ -1515,6 +2399,19 @@
     "",
     "여성가족실 아이돌봄담당관"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 1
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1529,7 +2426,7 @@
    "suspect": 5754,
    "info": 53
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 여성가족실 아이돌봄담당관",
    "codes": [
@@ -1537,6 +2434,19 @@
     "",
     "여성가족실 아이돌봄담당관"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1551,7 +2461,7 @@
    "suspect": 0,
    "info": 9
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울특별시립청소년활동진흥센터",
    "codes": [
@@ -1559,6 +2469,19 @@
     "",
     "서울특별시립청소년활동진흥센터"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1573,7 +2496,7 @@
    "suspect": 432,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울종합방재센터 안전지원과",
    "codes": [
@@ -1581,6 +2504,19 @@
     "",
     "서울종합방재센터 안전지원과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1595,7 +2531,7 @@
    "suspect": 2,
    "info": 11
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "영등포구 부동산정보과",
    "codes": [
@@ -1603,6 +2539,19 @@
     "영등포구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1617,7 +2566,7 @@
    "suspect": 336,
    "info": 30
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 기후환경본부 자원순환과",
    "codes": [
@@ -1625,6 +2574,19 @@
     "",
     "기후환경본부 자원순환과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1639,7 +2601,7 @@
    "suspect": 23,
    "info": 3
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 복지실 장애인복지과",
    "codes": [
@@ -1647,6 +2609,19 @@
     "",
     "복지실 장애인복지과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1661,7 +2636,7 @@
    "suspect": 0,
    "info": 35
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 기후환경본부 자원순환과",
    "codes": [
@@ -1669,6 +2644,19 @@
     "",
     "기후환경본부 자원순환과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1683,7 +2671,7 @@
    "suspect": 1,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 관광체육국 관광정책과",
    "codes": [
@@ -1691,6 +2679,19 @@
     "",
     "관광체육국 관광정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1705,7 +2706,7 @@
    "suspect": 2,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 스마트서울맵",
    "codes": [
@@ -1713,6 +2714,19 @@
     "",
     "스마트서울맵"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1727,7 +2741,7 @@
    "suspect": 21,
    "info": 4
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울경찰청 청소년보호과",
    "codes": [
@@ -1735,6 +2749,19 @@
     "",
     "서울경찰청 청소년보호과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1749,7 +2776,7 @@
    "suspect": 3,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "구로구 부동산정보과",
    "codes": [
@@ -1757,6 +2784,19 @@
     "구로구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1771,7 +2811,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "영등포구 보건소 감염병관리과",
    "codes": [
@@ -1779,6 +2819,19 @@
     "영등포구",
     "보건소 감염병관리과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1793,7 +2846,7 @@
    "suspect": 0,
    "info": 69
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 교통실 보행자전거과",
    "codes": [
@@ -1801,6 +2854,19 @@
     "",
     "교통실 보행자전거과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1815,7 +2881,7 @@
    "suspect": 18,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "노원구 부동산정보과",
    "codes": [
@@ -1823,6 +2889,19 @@
     "노원구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1837,7 +2916,7 @@
    "suspect": 24,
    "info": 18
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "영등포구 홍보미디어과",
    "codes": [
@@ -1845,6 +2924,19 @@
     "영등포구",
     "홍보미디어과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1859,7 +2951,7 @@
    "suspect": 248,
    "info": 4
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 기후환경본부 자원순환과",
    "codes": [
@@ -1867,6 +2959,19 @@
     "",
     "기후환경본부 자원순환과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1881,7 +2986,7 @@
    "suspect": 2,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "관악구 부동산정보과",
    "codes": [
@@ -1889,6 +2994,19 @@
     "관악구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1903,7 +3021,7 @@
    "suspect": 11,
    "info": 23
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 교통실 보행자전거과",
    "codes": [
@@ -1911,6 +3029,19 @@
     "",
     "교통실 보행자전거과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1925,7 +3056,7 @@
    "suspect": 1,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 복지실 장애인복지과",
    "codes": [
@@ -1933,6 +3064,19 @@
     "",
     "복지실 장애인복지과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1947,7 +3091,7 @@
    "suspect": 4,
    "info": 3
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "구로구 부동산정보과",
    "codes": [
@@ -1955,6 +3099,19 @@
     "구로구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1969,7 +3126,7 @@
    "suspect": 21,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시",
    "codes": [
@@ -1977,6 +3134,19 @@
     "성북구",
     ""
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -1991,7 +3161,7 @@
    "suspect": 18,
    "info": 33
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 여성가족실 저출생담당관",
    "codes": [
@@ -1999,6 +3169,19 @@
     "",
     "여성가족실 저출생담당관"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2013,7 +3196,7 @@
    "suspect": 218,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 시민건강국 정신건강과",
    "codes": [
@@ -2021,6 +3204,19 @@
     "",
     "시민건강국 정신건강과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2035,7 +3231,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 문화본부 문화유산보존과",
    "codes": [
@@ -2043,6 +3239,19 @@
     "",
     "문화본부 문화유산보존과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2057,7 +3266,7 @@
    "suspect": 880,
    "info": 2
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 스마트서울맵",
    "codes": [
@@ -2065,6 +3274,19 @@
     "",
     "스마트서울맵"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2079,7 +3301,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": null,
    "codes": [
@@ -2087,6 +3309,19 @@
     "",
     ""
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2101,7 +3336,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 여성가족실 아이돌봄담당관",
    "codes": [
@@ -2109,6 +3344,19 @@
     "",
     "여성가족실 아이돌봄담당관"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2123,7 +3371,7 @@
    "suspect": 5,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 여성가족실 아이돌봄담당관",
    "codes": [
@@ -2131,6 +3379,19 @@
     "",
     "여성가족실 아이돌봄담당관"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2145,7 +3406,7 @@
    "suspect": 1,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 스마트서울맵",
    "codes": [
@@ -2153,6 +3414,19 @@
     "",
     "스마트서울맵"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2167,7 +3441,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 여성가족실 아이돌봄담당관",
    "codes": [
@@ -2175,6 +3449,19 @@
     "",
     "여성가족실 아이돌봄담당관"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2189,7 +3476,7 @@
    "suspect": 1,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 스마트서울맵",
    "codes": [
@@ -2197,6 +3484,19 @@
     "",
     "스마트서울맵"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2211,7 +3511,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "초록우산어린이재단",
    "codes": [
@@ -2219,6 +3519,19 @@
     "",
     "초록우산어린이재단"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2233,7 +3546,7 @@
    "suspect": 7,
    "info": 1261
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "사단법인 더함께새희망 기획사업부",
    "codes": [
@@ -2241,6 +3554,19 @@
     "",
     "사단법인 더함께새희망 기획사업부"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2255,7 +3581,7 @@
    "suspect": 12,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서대문구 부동산정보과",
    "codes": [
@@ -2263,6 +3589,19 @@
     "서대문구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2277,7 +3616,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 가족담당관",
    "codes": [
@@ -2285,6 +3624,19 @@
     "",
     "가족담당관"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2299,7 +3651,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 디지털도시국 디지털정책과",
    "codes": [
@@ -2307,6 +3659,19 @@
     "",
     "디지털도시국 디지털정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2321,7 +3686,7 @@
    "suspect": 2,
    "info": 2
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "강동구 복지정책과",
    "codes": [
@@ -2329,6 +3694,19 @@
     "강동구",
     "복지정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2343,7 +3721,7 @@
    "suspect": 0,
    "info": 2
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 여성가족실 아이돌봄담당관",
    "codes": [
@@ -2351,6 +3729,19 @@
     "",
     "여성가족실 아이돌봄담당관"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2365,7 +3756,7 @@
    "suspect": 49,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 장애인자립지원과",
    "codes": [
@@ -2373,6 +3764,19 @@
     "",
     "장애인자립지원과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2387,7 +3791,7 @@
    "suspect": 5,
    "info": 3
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 기후환경본부 자원순환과",
    "codes": [
@@ -2395,6 +3799,19 @@
     "",
     "기후환경본부 자원순환과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2409,7 +3826,7 @@
    "suspect": 1259,
    "info": 4
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 도시공간본부 토지관리과",
    "codes": [
@@ -2417,6 +3834,19 @@
     "",
     "도시공간본부 토지관리과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2431,7 +3861,7 @@
    "suspect": 51,
    "info": 82
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "국민건강보험공단 서울강원지역본부 건강지원센터",
    "codes": [
@@ -2439,6 +3869,19 @@
     "",
     "국민건강보험공단 서울강원지역본부 건강지원센터"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2453,7 +3896,7 @@
    "suspect": 2,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "구로구 부동산정보과",
    "codes": [
@@ -2461,6 +3904,19 @@
     "구로구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2475,7 +3931,7 @@
    "suspect": 0,
    "info": 13
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "강북구 보건소 보건위생과",
    "codes": [
@@ -2483,6 +3939,19 @@
     "강북구",
     "보건소 보건위생과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2497,7 +3966,7 @@
    "suspect": 4,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 시민건강국 보건의료정책과",
    "codes": [
@@ -2505,6 +3974,19 @@
     "",
     "시민건강국 보건의료정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2519,7 +4001,7 @@
    "suspect": 0,
    "info": 23
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 문화본부 문화유산보존과",
    "codes": [
@@ -2527,6 +4009,19 @@
     "",
     "문화본부 문화유산보존과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2541,7 +4036,7 @@
    "suspect": 26,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "광진구 스마트정보담당관",
    "codes": [
@@ -2549,6 +4044,19 @@
     "광진구",
     "스마트정보담당관"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2563,7 +4071,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "구로구 부동산정보과",
    "codes": [
@@ -2571,6 +4079,19 @@
     "구로구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2585,7 +4106,7 @@
    "suspect": 7,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 스마트서울맵",
    "codes": [
@@ -2593,6 +4114,19 @@
     "",
     "스마트서울맵"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2607,7 +4141,7 @@
    "suspect": 0,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "동작구 부동산정보과",
    "codes": [
@@ -2615,6 +4149,19 @@
     "동작구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2629,7 +4176,7 @@
    "suspect": 1,
    "info": 56
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 정원도시국 자연생태과",
    "codes": [
@@ -2637,6 +4184,19 @@
     "",
     "정원도시국 자연생태과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2651,7 +4211,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 여성가족실 저출생담당관",
    "codes": [
@@ -2659,6 +4219,19 @@
     "",
     "여성가족실 저출생담당관"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2673,7 +4246,7 @@
    "suspect": 5,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 여성가족실 영유아담당관",
    "codes": [
@@ -2681,6 +4254,19 @@
     "",
     "여성가족실 영유아담당관"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2695,7 +4281,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 경제실 창업정책과",
    "codes": [
@@ -2703,6 +4289,19 @@
     "",
     "경제실 창업정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2717,7 +4316,7 @@
    "suspect": 112,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 스마트서울맵",
    "codes": [
@@ -2725,6 +4324,19 @@
     "",
     "스마트서울맵"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2739,7 +4351,7 @@
    "suspect": 3,
    "info": 25
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "중구 부동산정보과",
    "codes": [
@@ -2747,6 +4359,19 @@
     "중구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2761,7 +4386,7 @@
    "suspect": 65,
    "info": 126
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 시민건강국 정신건강과",
    "codes": [
@@ -2769,6 +4394,19 @@
     "",
     "시민건강국 정신건강과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2783,7 +4421,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "마포구 부동산정보과",
    "codes": [
@@ -2791,6 +4429,19 @@
     "마포구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2805,7 +4456,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 부동산 정책개발센터",
    "codes": [
@@ -2813,6 +4464,19 @@
     "",
     "부동산 정책개발센터"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2827,7 +4491,7 @@
    "suspect": 0,
    "info": 371
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 정원도시정책과",
    "codes": [
@@ -2835,6 +4499,19 @@
     "",
     "정원도시정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2849,7 +4526,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 관광체육국 관광산업과",
    "codes": [
@@ -2857,6 +4534,19 @@
     "",
     "관광체육국 관광산업과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2871,7 +4561,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 관광산업과",
    "codes": [
@@ -2879,6 +4569,19 @@
     "",
     "관광산업과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2893,7 +4596,7 @@
    "suspect": 371,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 자원순환과",
    "codes": [
@@ -2901,6 +4604,19 @@
     "",
     "자원순환과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2915,7 +4631,7 @@
    "suspect": 13,
    "info": 3
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 공간정보과",
    "codes": [
@@ -2923,6 +4639,19 @@
     "",
     "공간정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2937,7 +4666,7 @@
    "suspect": 0,
    "info": 2
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 자연생태과",
    "codes": [
@@ -2945,6 +4674,19 @@
     "",
     "자연생태과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2959,7 +4701,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 스마트서울맵",
    "codes": [
@@ -2967,6 +4709,19 @@
     "",
     "스마트서울맵"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -2981,7 +4736,7 @@
    "suspect": 0,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 보행자전거과",
    "codes": [
@@ -2989,6 +4744,19 @@
     "",
     "보행자전거과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3003,7 +4771,7 @@
    "suspect": 2,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 시민건강국 식품정책과",
    "codes": [
@@ -3011,6 +4779,19 @@
     "",
     "시민건강국 식품정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3025,7 +4806,7 @@
    "suspect": 27,
    "info": 466
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울대 글로벌사회공헌단",
    "codes": [
@@ -3033,6 +4814,19 @@
     "",
     "서울대 글로벌사회공헌단"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3047,7 +4841,7 @@
    "suspect": 0,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "금천구 부동산정보과",
    "codes": [
@@ -3055,6 +4849,19 @@
     "금천구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3088,7 +4895,7 @@
    "suspect": 4,
    "info": 2
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "광진구 부동산정보과",
    "codes": [
@@ -3096,6 +4903,19 @@
     "광진구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3110,7 +4930,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 문화본부 문화정책과",
    "codes": [
@@ -3118,6 +4938,19 @@
     "",
     "문화본부 문화정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3132,7 +4965,7 @@
    "suspect": 20,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "강북구 부동산정보과",
    "codes": [
@@ -3140,6 +4973,19 @@
     "강북구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3154,7 +5000,7 @@
    "suspect": 2,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "용산구 부동산정보과",
    "codes": [
@@ -3162,6 +5008,19 @@
     "용산구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3176,7 +5035,7 @@
    "suspect": 0,
    "info": 9
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 고독대응과",
    "codes": [
@@ -3184,6 +5043,19 @@
     "",
     "고독대응과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3198,7 +5070,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "한강사업본부",
    "codes": [
@@ -3206,6 +5078,19 @@
     "한강사업본부",
     ""
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3239,7 +5124,7 @@
    "suspect": 2,
    "info": 60
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 보건의료정책과",
    "codes": [
@@ -3247,6 +5132,19 @@
     "",
     "보건의료정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3261,7 +5159,7 @@
    "suspect": 89,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "문화시설과",
    "codes": [
@@ -3269,6 +5167,19 @@
     "",
     "문화시설과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3283,7 +5194,7 @@
    "suspect": 13,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "중구 토지관리과",
    "codes": [
@@ -3291,6 +5202,19 @@
     "중구",
     "토지관리과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3305,7 +5229,7 @@
    "suspect": 90,
    "info": 6
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "은평구 공간혁신국 부동산정보과",
    "codes": [
@@ -3313,6 +5237,19 @@
     "은평구",
     "공간혁신국 부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3327,7 +5264,7 @@
    "suspect": 2,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 민방위담당관",
    "codes": [
@@ -3335,6 +5272,19 @@
     "",
     "민방위담당관"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3349,7 +5299,7 @@
    "suspect": 26,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 박물관과",
    "codes": [
@@ -3357,6 +5307,19 @@
     "",
     "박물관과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3371,7 +5334,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "중구 부동산정보과",
    "codes": [
@@ -3379,6 +5342,19 @@
     "중구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3393,7 +5369,7 @@
    "suspect": 22,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "용산구 건설관리과",
    "codes": [
@@ -3401,6 +5377,19 @@
     "용산구",
     "건설관리과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3415,7 +5404,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서대문구 부동산정보과",
    "codes": [
@@ -3423,6 +5412,19 @@
     "서대문구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3437,7 +5439,7 @@
    "suspect": 0,
    "info": 4
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 정원도시정책과",
    "codes": [
@@ -3445,6 +5447,19 @@
     "",
     "정원도시정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3459,7 +5474,7 @@
    "suspect": 6,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "중구 부동산",
    "codes": [
@@ -3467,6 +5482,19 @@
     "중구",
     "부동산"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3481,7 +5509,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "건강관리과",
    "codes": [
@@ -3489,6 +5517,19 @@
     "",
     "건강관리과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3522,7 +5563,7 @@
    "suspect": 2,
    "info": 48
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 보행자전거과",
    "codes": [
@@ -3530,6 +5571,19 @@
     "",
     "보행자전거과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3563,7 +5617,7 @@
    "suspect": 110,
    "info": 6
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "중구 부동산정보과",
    "codes": [
@@ -3571,6 +5625,19 @@
     "중구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3585,7 +5652,7 @@
    "suspect": 397,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "중구 부동산정보과",
    "codes": [
@@ -3593,6 +5660,19 @@
     "중구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3645,7 +5725,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 도시활력담당관",
    "codes": [
@@ -3653,6 +5733,19 @@
     "",
     "도시활력담당관"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3667,7 +5760,7 @@
    "suspect": 3,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -3675,6 +5768,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3689,7 +5795,7 @@
    "suspect": 84,
    "info": 136
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -3697,6 +5803,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3711,7 +5830,7 @@
    "suspect": 0,
    "info": 7
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -3719,6 +5838,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3733,7 +5865,7 @@
    "suspect": 2,
    "info": 4
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -3741,6 +5873,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3755,7 +5900,7 @@
    "suspect": 0,
    "info": 2
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -3763,6 +5908,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3777,7 +5935,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -3785,6 +5943,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3799,7 +5970,7 @@
    "suspect": 0,
    "info": 2
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -3807,6 +5978,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3840,7 +6024,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 공간정보과",
    "codes": [
@@ -3848,6 +6032,19 @@
     "",
     "공간정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3862,7 +6059,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -3870,6 +6067,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3884,7 +6094,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -3892,6 +6102,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3906,7 +6129,7 @@
    "suspect": 6,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -3914,6 +6137,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3928,7 +6164,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -3936,6 +6172,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3950,7 +6199,7 @@
    "suspect": 7,
    "info": 3
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -3958,6 +6207,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3972,7 +6234,7 @@
    "suspect": 2,
    "info": 540
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -3980,6 +6242,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -3994,7 +6269,7 @@
    "suspect": 0,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -4002,6 +6277,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4016,7 +6304,7 @@
    "suspect": 20,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 식품정책과",
    "codes": [
@@ -4024,6 +6312,19 @@
     "",
     "식품정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4038,7 +6339,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -4046,6 +6347,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4060,7 +6374,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -4068,6 +6382,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4082,7 +6409,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -4090,6 +6417,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4104,7 +6444,7 @@
    "suspect": 10,
    "info": 4
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -4112,6 +6452,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4126,7 +6479,7 @@
    "suspect": 6478,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "관악구 부동산정보과",
    "codes": [
@@ -4134,6 +6487,19 @@
     "관악구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4148,7 +6514,7 @@
    "suspect": 9,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 동물보호과",
    "codes": [
@@ -4156,6 +6522,19 @@
     "",
     "동물보호과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4170,7 +6549,7 @@
    "suspect": 0,
    "info": 3
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "금천구 부동산정보과",
    "codes": [
@@ -4178,6 +6557,19 @@
     "금천구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4192,7 +6584,7 @@
    "suspect": 1,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 동물보호과",
    "codes": [
@@ -4200,6 +6592,19 @@
     "",
     "동물보호과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4214,7 +6619,7 @@
    "suspect": 2,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "구로구 부동산정보과",
    "codes": [
@@ -4222,6 +6627,19 @@
     "구로구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4236,7 +6654,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "중구 부동산정보과",
    "codes": [
@@ -4244,6 +6662,19 @@
     "중구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4277,7 +6708,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "관악구 스마트정보과",
    "codes": [
@@ -4285,6 +6716,19 @@
     "관악구",
     "스마트정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4318,7 +6762,7 @@
    "suspect": 0,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "녹색에너지과",
    "codes": [
@@ -4326,6 +6770,19 @@
     "",
     "녹색에너지과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4340,7 +6797,7 @@
    "suspect": 68,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "자원순환과",
    "codes": [
@@ -4348,6 +6805,19 @@
     "",
     "자원순환과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4362,7 +6832,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 문화예술과",
    "codes": [
@@ -4370,6 +6840,19 @@
     "",
     "문화예술과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4384,7 +6867,7 @@
    "suspect": 0,
    "info": 1
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 조경과",
    "codes": [
@@ -4392,6 +6875,19 @@
     "",
     "조경과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4406,7 +6902,7 @@
    "suspect": 1,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 수변감성도시과",
    "codes": [
@@ -4414,6 +6910,19 @@
     "",
     "수변감성도시과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4428,7 +6937,7 @@
    "suspect": 1,
    "info": 6
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 정신건강과",
    "codes": [
@@ -4436,6 +6945,19 @@
     "",
     "정신건강과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4526,7 +7048,7 @@
    "suspect": 0,
    "info": 16
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -4534,6 +7056,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4586,7 +7121,7 @@
    "suspect": 2,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "중구 의약과",
    "codes": [
@@ -4594,6 +7129,19 @@
     "중구",
     "의약과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4608,7 +7156,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "성북구 기획예산과",
    "codes": [
@@ -4616,6 +7164,19 @@
     "성북구",
     "기획예산과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4687,7 +7248,7 @@
    "suspect": 3,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 관광정책과",
    "codes": [
@@ -4695,6 +7256,19 @@
     "",
     "관광정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4709,7 +7283,7 @@
    "suspect": 23,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "서울시 관광정책과",
    "codes": [
@@ -4717,6 +7291,19 @@
     "",
     "관광정책과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4731,7 +7318,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "강동구 부동산정보과",
    "codes": [
@@ -4739,6 +7326,19 @@
     "강동구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4753,7 +7353,7 @@
    "suspect": 2,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "광진구 부동산정보과",
    "codes": [
@@ -4761,6 +7361,19 @@
     "광진구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {
@@ -4794,7 +7407,7 @@
    "suspect": 0,
    "info": 0
   },
-  "lastSuccessAt": "2026-10-08T05:58:47.627Z",
+  "lastSuccessAt": "2026-10-08T07:54:25.828Z",
   "department": {
    "label": "노원구 부동산정보과",
    "codes": [
@@ -4802,6 +7415,19 @@
     "노원구",
     "부동산정보과"
    ]
+  },
+  "change": {
+   "since": "2026-10-08T14:58",
+   "rows": {
+    "added": 0,
+    "removed": 0,
+    "modified": 0
+   },
+   "findings": {
+    "added": 0,
+    "resolved": 0,
+    "severityChanged": 0
+   }
   }
  },
  {

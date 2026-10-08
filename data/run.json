@@ -1,8 +1,8 @@
 {
- "runId": "2026-10-08T14:58",
- "startedAt": "2026-10-08T05:58:47.627Z",
- "finishedAt": "2026-10-08T06:01:36.328Z",
- "durationSec": 169,
+ "runId": "2026-10-08T16:54",
+ "startedAt": "2026-10-08T07:54:25.828Z",
+ "finishedAt": "2026-10-08T07:56:47.143Z",
+ "durationSec": 141,
  "rulesetVersion": 1,
  "themes": {
   "public": 222,
@@ -18,5 +18,23 @@
   "suspect": 23087,
   "info": 13570
  },
- "departments": "ok"
+ "departments": "ok",
+ "tag": "snap-2026-10-08-1654",
+ "previous": {
+  "runId": "2026-10-08T14:58",
+  "tag": "snap-2026-10-08-1458"
+ },
+ "changes": {
+  "themesChanged": 2,
+  "rows": {
+   "added": 0,
+   "removed": 0,
+   "modified": 1155
+  },
+  "findings": {
+   "added": 0,
+   "resolved": 0,
+   "severityChanged": 0
+  }
+ }
 }
