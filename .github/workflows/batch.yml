@@ -24,11 +24,20 @@ jobs:
           node-version: 24
           cache: pnpm
       - run: pnpm install --frozen-lockfile
+      # 버전 목록은 실행마다 붙는 태그로 과거 파일을 가리킨다. 태그 도입 전(M2) 실행이면 지금 태그를 붙여 둔다.
+      - name: 직전 실행 태그 확인
+        run: |
+          if [ ! -f data/run.json ]; then exit 0; fi
+          tag=$(node -p "const r = require('./data/run.json'); r.tag ?? 'snap-' + r.runId.replace('T', '-').replace(':', '')")
+          if [ -z "$(git ls-remote --tags origin "refs/tags/$tag")" ]; then
+            git tag "$tag"
+            git push origin "refs/tags/$tag"
+          fi
       - name: 수집·검사
         run: pnpm batch
         env:
           SMART_SEOUL_THEME_KEY: ${{ secrets.SMART_SEOUL_THEME_KEY }}
-      - name: 결과 커밋
+      - name: 결과 커밋과 태그
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -38,4 +47,6 @@ jobs:
             exit 0
           fi
           git commit -m "chore(data): 검사 결과 갱신 $(node -p "require('./data/run.json').runId")"
-          git push
+          tag=$(node -p "require('./data/run.json').tag")
+          git tag "$tag"
+          git push --atomic origin HEAD "refs/tags/$tag"
