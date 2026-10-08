@@ -1,5 +1,6 @@
 import { missingCoordinate, outOfRangeCoordinate, outsideSeoul, swappedCoordinate } from "./common/coordinates.ts";
 import { districtEmpty, districtMismatchAddress, districtMismatchCoordinate } from "./common/districts.ts";
+import { duplicateEntry, duplicateId, nearbySameName } from "./common/duplicates.ts";
 import type { Rule } from "./types.ts";
 
 /** 규칙을 바꾸면 올린다. 판정 비교 때 규칙 변경 영향과 데이터 변화를 나누는 기준이다. */
@@ -13,6 +14,9 @@ export const COMMON_RULES: readonly Rule[] = [
   districtMismatchCoordinate,
   districtMismatchAddress,
   districtEmpty,
+  duplicateEntry,
+  nearbySameName,
+  duplicateId,
 ];
 
 type ThemeRules = {
