@@ -43,8 +43,12 @@ export async function fetchThemeList(get: HttpGet, key: string): Promise<Readonl
     for (let page = 1; page <= MAX_PAGES; page++) {
       const url = `${BASE_URL}/${encodeURIComponent(key)}/public/themes/ko?${query({ theme_type: themeType, page_size: PAGE_SIZE, page_no: page })}`;
       const response = await get(url);
-      if (response.status !== 200) throw new SmartSeoulApiError(`테마 목록 HTTP ${response.status} (분류 ${themeType})`);
       const parsed = parseJson(response.text);
+      if (response.status !== 200) {
+        // 인증키가 틀리거나 막히면 여기서 거절된다. 서버 안내 문구(키는 담기지 않음)를 그대로 보여 준다.
+        const message = parsed ? headerValue(parsed, "resultMessage") : undefined;
+        throw new SmartSeoulApiError(`테마 목록 요청이 거절됐습니다(HTTP ${response.status}${message ? `: ${String(message)}` : ""})`);
+      }
       const body = parsed?.["body"];
       if (!parsed || (body !== undefined && body !== null && !Array.isArray(body))) {
         throw new SmartSeoulApiError(`테마 목록 응답 형식 오류 (분류 ${themeType})`);

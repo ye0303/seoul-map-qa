@@ -124,6 +124,11 @@ describe("fetchThemeList · publicThemes", () => {
     expect(urls.map((raw) => parseUrl(raw).params["theme_type"])).toEqual(["1", "2", "4", "5", "5"]);
   });
 
+  test("인증키가 거절되면 서버 안내 문구를 담은 오류를 낸다", async () => {
+    const { get } = fakeGet(() => ({ status: 400, header: { resultCode: "400", resultMessage: "요청하신 APIKEY를 확인해 주세요(미발급, 미승인, 종료등)" } }));
+    await expect(fetchThemeList(get, "WRONG-KEY")).rejects.toThrow("테마 목록 요청이 거절됐습니다(HTTP 400: 요청하신 APIKEY를 확인해 주세요(미발급, 미승인, 종료등))");
+  });
+
   test("목록 요청이 실패하면 URL(키)을 담지 않은 오류를 낸다", async () => {
     const { get } = fakeGet(() => ({ status: 503, text: "" }));
     const error = await fetchThemeList(get, "SECRET-KEY").catch((caught: unknown) => caught);

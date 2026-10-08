@@ -46,6 +46,7 @@ export async function runBatch(options: BatchOptions): Promise<RunInfo> {
 
   const previous = new Map((store.readThemes() ?? []).map((entry) => [entry.id, entry]));
   const themes = publicThemes(await fetchThemeList(get, key));
+  if (themes.length === 0) throw new BatchAbortError("공개 테마가 0개로 왔습니다. API 응답이 비정상이라 멈춥니다.");
   const previousPublic = [...previous.values()].filter((entry) => entry.status !== "missing").length;
   if (previousPublic > 0 && themes.length < previousPublic * (1 - MAX_THEME_DROP)) {
     throw new BatchAbortError(`공개 테마가 ${previousPublic}개에서 ${themes.length}개로 줄었습니다. API 장애일 수 있어 멈춥니다.`);

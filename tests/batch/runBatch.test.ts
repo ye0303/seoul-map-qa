@@ -154,6 +154,11 @@ describe("안전장치: 쓰기 전에 멈춘다", () => {
     expect(() => statSync(join(dir, "themes.json"))).toThrow();
   });
 
+  test("공개 테마가 0개로 오면", async () => {
+    await expect(run([])).rejects.toBeInstanceOf(BatchAbortError);
+    expect(() => statSync(join(dir, "run.json"))).toThrow();
+  });
+
   test("권한 없음(unavailable)은 실패로 세지 않는다", async () => {
     const themes = many(10).map((theme, index) => (index < 5 ? { ...theme, contents: "unavailable" as const } : theme));
     const { result } = await run(themes);
