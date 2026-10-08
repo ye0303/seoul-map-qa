@@ -14,3 +14,6 @@ export const DISTINCT_NAME_MAX_COUNT = 4;
 
 /** 구명이 비어 있는 행이 이 비율 이상이면 행마다 지적하지 않고 테마 수준 1건으로 묶는다. */
 export const MOSTLY_EMPTY_RATIO = 0.9;
+
+/** 한 대표 이미지를 이 비율 이상의 행이 함께 쓰면(전체가 쓰는 경우 제외) 정보로 알린다. */
+export const IMAGE_REUSE_RATIO = 0.5;

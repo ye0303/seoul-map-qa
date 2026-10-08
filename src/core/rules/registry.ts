@@ -1,3 +1,4 @@
+import { missingName, sharedImage } from "./common/contents.ts";
 import { missingCoordinate, outOfRangeCoordinate, outsideSeoul, swappedCoordinate } from "./common/coordinates.ts";
 import { districtEmpty, districtMismatchAddress, districtMismatchCoordinate } from "./common/districts.ts";
 import { duplicateEntry, duplicateId, nearbySameName } from "./common/duplicates.ts";
@@ -18,6 +19,8 @@ export const COMMON_RULES: readonly Rule[] = [
   duplicateEntry,
   nearbySameName,
   phoneFormat,
+  missingName,
+  sharedImage,
   duplicateId,
 ];
 
