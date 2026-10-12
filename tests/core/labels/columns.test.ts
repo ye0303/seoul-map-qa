@@ -1,7 +1,7 @@
 import { expect, test } from "vitest";
 
 import edition25 from "../../fixtures/edition25.json" with { type: "json" };
-import { columnLabels } from "../../../src/core/labels/columns.ts";
+import { columnLabel, columnLabels } from "../../../src/core/labels/columns.ts";
 import { normalizeRows } from "../../../src/core/model/snapshot.ts";
 
 test("고정 열은 한글 이름, 상세정보 값은 테마의 제목, 모르는 열은 그대로", () => {
@@ -17,4 +17,11 @@ test("고정 열은 한글 이름, 상세정보 값은 테마의 제목, 모르�
 test("제목이 비어 있으면 '상세정보 n'", () => {
   const labels = columnLabels({ columns: ["COT_NAME_02", "COT_VALUE_02"], rows: [["", "값"]] });
   expect(labels.get("COT_VALUE_02")).toBe("상세정보 2");
+});
+
+test("스냅샷 없이 열 하나의 이름: 상세정보 값은 번호로", () => {
+  expect(columnLabel("COT_GU_NAME")).toBe("구명");
+  expect(columnLabel("COT_VALUE_01")).toBe("상세정보 1");
+  expect(columnLabel("COT_NAME_10")).toBe("상세정보 10 제목");
+  expect(columnLabel("NEW_FIELD")).toBe("NEW_FIELD");
 });

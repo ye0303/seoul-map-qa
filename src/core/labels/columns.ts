@@ -51,12 +51,18 @@ export function columnLabels(snapshot: Snapshot): Map<string, string> {
   const labels = new Map<string, string>();
   for (const column of snapshot.columns) {
     const value = DETAIL_VALUE.exec(column);
-    const name = DETAIL_NAME.exec(column);
-    if (value) labels.set(column, mostCommonTitle(snapshot, `COT_NAME_${value[1]}`) ?? `상세정보 ${Number(value[1])}`);
-    else if (name) labels.set(column, `상세정보 ${Number(name[1])} 제목`);
-    else labels.set(column, COLUMN_LABELS[column] ?? column);
+    labels.set(column, (value && mostCommonTitle(snapshot, `COT_NAME_${value[1]}`)) || columnLabel(column));
   }
   return labels;
+}
+
+/** 열 하나의 한글 이름. 스냅샷 없이 쓸 때라 상세정보 값은 제목 대신 "상세정보 n"이다. */
+export function columnLabel(column: string): string {
+  const value = DETAIL_VALUE.exec(column);
+  const name = DETAIL_NAME.exec(column);
+  if (value) return `상세정보 ${Number(value[1])}`;
+  if (name) return `상세정보 ${Number(name[1])} 제목`;
+  return COLUMN_LABELS[column] ?? column;
 }
 
 function mostCommonTitle(snapshot: Snapshot, titleColumn: string): string | null {
