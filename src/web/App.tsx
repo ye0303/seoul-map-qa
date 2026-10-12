@@ -29,7 +29,7 @@ export function App() {
         <Page route={route} />
       </main>
       <footer className="site-footer">
-        <div className="wrap">스마트서울맵 OpenAPI의 공개 테마를 자동으로 검사한 결과입니다. 데이터 수정은 테마 입력 시스템에서 합니다.</div>
+        <div className="wrap">스마트서울맵 OpenAPI의 공개 테마를 검사 규칙으로 점검한 결과입니다. 결과는 검사를 실행할 때 갱신되고, 데이터 수정은 테마 입력 시스템에서 합니다.</div>
       </footer>
     </>
   );
