@@ -7,6 +7,7 @@
   "value": "영등포구",
   "suggestion": "관악구",
   "message": "콘텐츠 ID의 구 번호는 관악구 자리인데 구명이 영등포구입니다.",
+  "name": "도림천",
   "fingerprint": "T-E25-02|1786321258890|25_edition25_5||COT_GU_NAME"
  },
  {
@@ -25,6 +26,7 @@
   "field": "COT_GU_NAME",
   "value": "영등포구",
   "message": "2025년 영등포구 장소가 2곳입니다(구별 1곳): 강변서재, 도림천",
+  "name": "강변서재",
   "fingerprint": "T-E25-03|1786321258890|25_edition25_20|25|영등포구|COT_GU_NAME"
  },
  {
@@ -35,6 +37,7 @@
   "field": "COT_GU_NAME",
   "value": "영등포구",
   "message": "2025년 영등포구 장소가 2곳입니다(구별 1곳): 강변서재, 도림천",
+  "name": "도림천",
   "fingerprint": "T-E25-03|1786321258890|25_edition25_5|25|영등포구|COT_GU_NAME"
  },
  {
@@ -44,6 +47,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "삼성해맞이공원",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_1||COT_IMG_MAIN_URL"
  },
  {
@@ -53,6 +57,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "서울풍물시장",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_11||COT_IMG_MAIN_URL"
  },
  {
@@ -62,6 +67,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "용양봉저정공원",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_12||COT_IMG_MAIN_URL"
  },
  {
@@ -71,6 +77,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "제비다방",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_13||COT_IMG_MAIN_URL"
  },
  {
@@ -80,6 +87,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "양재천근린공원",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_15||COT_IMG_MAIN_URL"
  },
  {
@@ -89,6 +97,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "달맞이봉공원",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_16||COT_IMG_MAIN_URL"
  },
  {
@@ -98,6 +107,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "의릉",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_17||COT_IMG_MAIN_URL"
  },
  {
@@ -107,6 +117,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "서울책보고",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_18||COT_IMG_MAIN_URL"
  },
  {
@@ -116,6 +127,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "서서울호수공원",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_19||COT_IMG_MAIN_URL"
  },
  {
@@ -125,6 +137,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "서울 암사동 유적체험마을",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_2||COT_IMG_MAIN_URL"
  },
  {
@@ -134,6 +147,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "강변서재",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_20||COT_IMG_MAIN_URL"
  },
  {
@@ -143,6 +157,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "해방촌신흥시장",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_21||COT_IMG_MAIN_URL"
  },
  {
@@ -152,6 +167,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "은평한옥마을",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_22||COT_IMG_MAIN_URL"
  },
  {
@@ -161,6 +177,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "BAR CHAM",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_23||COT_IMG_MAIN_URL"
  },
  {
@@ -170,6 +187,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "남산공원 백범광장",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_24||COT_IMG_MAIN_URL"
  },
  {
@@ -179,6 +197,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "중랑장미공원",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_25||COT_IMG_MAIN_URL"
  },
  {
@@ -188,6 +207,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "북서울꿈의숲",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_3||COT_IMG_MAIN_URL"
  },
  {
@@ -197,6 +217,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "양천향교",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_4||COT_IMG_MAIN_URL"
  },
  {
@@ -206,6 +227,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "도림천",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_5||COT_IMG_MAIN_URL"
  },
  {
@@ -215,6 +237,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "아차산 어울림정원",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_6||COT_IMG_MAIN_URL"
  },
  {
@@ -224,6 +247,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "항동철길",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_7||COT_IMG_MAIN_URL"
  },
  {
@@ -233,6 +257,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "동홍관",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_8||COT_IMG_MAIN_URL"
  },
  {
@@ -242,6 +267,7 @@
   "field": "COT_IMG_MAIN_URL",
   "value": "/smgis2/file/ucimgs/conts/1786321258890/26_edition25_1_2_KOR.jpg",
   "message": "대표 이미지 파일명이 다른 장소(26_edition25_1)의 것입니다.",
+  "name": "경춘선숲길",
   "fingerprint": "T-E25-04|1786321258890|25_edition25_9||COT_IMG_MAIN_URL"
  }
 ]

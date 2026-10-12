@@ -15,13 +15,15 @@ export type Finding = {
   readonly field?: string;
   readonly value?: string;
   readonly suggestion?: string;
+  /** 행의 콘텐츠 이름(화면·엑셀 표시용). 테마 수준 지적이나 이름 없는 행에는 없다. */
+  readonly name?: string;
   readonly message: string;
   /** 판정 비교용 지문. 값·메시지·등급은 넣지 않는다. */
   readonly fingerprint: string;
 };
 
-/** 규칙이 돌려주는 판정. ruleId·fingerprint는 실행기가 채운다. */
-export type FindingDraft = Omit<Finding, "ruleId" | "fingerprint">;
+/** 규칙이 돌려주는 판정. ruleId·name·fingerprint는 실행기가 채운다. */
+export type FindingDraft = Omit<Finding, "ruleId" | "name" | "fingerprint">;
 
 export type RuleContext = {
   readonly theme: ThemeMeta;
