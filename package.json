@@ -8,16 +8,25 @@
     "node": "24.x"
   },
   "scripts": {
-    "typecheck": "tsc && tsc -p src/batch",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc && tsc -p src/batch && tsc -p src/web",
     "test": "vitest run",
     "batch": "node --env-file-if-exists=.env src/batch/main.ts"
   },
   "devDependencies": {
     "@types/node": "^24.19.1",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
     "typescript": "^7.0.2",
+    "vite": "^8.3.4",
     "vitest": "^5.0.3"
   },
   "dependencies": {
-    "@noble/hashes": "^2.4.0"
+    "@noble/hashes": "^2.4.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
   }
 }
