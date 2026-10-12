@@ -34,5 +34,7 @@ export type RuleContext = {
 export type Rule = {
   readonly id: string;
   readonly title: string;
+  /** 규칙 안내 화면에 보이는 설명(무엇을 보고, 어떤 등급으로, 무엇을 제외하는지). */
+  readonly description: string;
   check(context: RuleContext): readonly FindingDraft[];
 };

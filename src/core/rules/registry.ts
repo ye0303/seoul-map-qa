@@ -25,18 +25,21 @@ export const COMMON_RULES: readonly Rule[] = [
   duplicateId,
 ];
 
-type ThemeRules = {
+export type ThemeRuleSet = {
+  readonly themeId: string;
+  readonly themeName: string;
   readonly rules: readonly Rule[];
   /** 테마 규칙이 대신하는 공통 규칙. */
-  readonly replaces?: readonly string[];
+  readonly replaces: readonly string[];
 };
 
-const THEME_RULES: Readonly<Record<string, ThemeRules>> = {
-  [EDITION25_THEME_ID]: { rules: EDITION25_RULES, replaces: ["C-12"] },
-};
+/** 특정 테마에만 붙는 규칙. 담당자에게 규칙을 받으면 여기에 더한다(D-007). */
+export const THEME_RULE_SETS: readonly ThemeRuleSet[] = [
+  { themeId: EDITION25_THEME_ID, themeName: "서울에디션25", rules: EDITION25_RULES, replaces: ["C-12"] },
+];
 
 export function rulesFor(themeId: string): readonly Rule[] {
-  const theme = THEME_RULES[themeId];
+  const theme = THEME_RULE_SETS.find((set) => set.themeId === themeId);
   if (!theme) return COMMON_RULES;
-  return [...COMMON_RULES.filter((rule) => !theme.replaces?.includes(rule.id)), ...theme.rules];
+  return [...COMMON_RULES.filter((rule) => !theme.replaces.includes(rule.id)), ...theme.rules];
 }

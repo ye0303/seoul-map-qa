@@ -17,6 +17,8 @@ const FUZZY_COMPARE_MAX_NAMES = 50;
 export const duplicateEntry: Rule = {
   id: "C-08",
   title: "중복 등록 의심",
+  description:
+    "ID·등록일만 다르고 내용이 같은 행, 또는 같은 좌표·같은 분류에 이름이 같거나 비슷한 행입니다. 분류가 다르면 한 장소를 여러 분류에 올린 것으로 보고 제외하며, '16동 1층/2층'·'(좌)/(우)'처럼 같은 장소의 다른 지점도 제외합니다. 의심으로 알립니다.",
   check: ({ facts }) => {
     const findings: FindingDraft[] = [];
     for (const group of groupBy(facts, sameContentKey)) {
@@ -44,6 +46,8 @@ export const duplicateEntry: Rule = {
 export const nearbySameName: Rule = {
   id: "C-09",
   title: "가까운 곳에 같은 이름",
+  description:
+    "같은 분류 안에서 30m 이내에 이름이 같은 행이 있습니다. 테마 안에서 5번 이상 나오는 이름(소화기 같은 분류명)은 보지 않습니다. 의심으로 알립니다.",
   check: ({ facts }) => {
     const nameCounts = new Map<string, number>();
     for (const fact of facts) {
@@ -76,6 +80,8 @@ export const nearbySameName: Rule = {
 export const duplicateId: Rule = {
   id: "C-15",
   title: "콘텐츠 ID 중복",
+  description:
+    "같은 테마 안에서 콘텐츠 ID가 겹쳐 고칠 행이나 비교할 행을 특정할 수 없습니다. 오류로 봅니다.",
   check: ({ facts }) =>
     groupBy(facts, (fact) => String(fact.row["COT_CONTS_ID"] ?? ""))
       .filter((group) => group.length > 1)

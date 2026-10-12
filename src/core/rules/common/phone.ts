@@ -37,6 +37,8 @@ type Issue = { readonly severity: Severity; readonly reason: string; readonly su
 export const phoneFormat: Rule = {
   id: "C-10",
   title: "전화번호 형식",
+  description:
+    "전화번호를 숫자 구조로 판정합니다. URL 인코딩 잔재(%29 등)·링크·'null'·깨진 글자처럼 화면에 깨져 보이는 값은 오류이며 풀어 쓴 값을 제안합니다. 지역번호 없음·자릿수 오류·앞자리 0 누락은 의심(0을 붙인 번호를 제안), '-'·'없음' 같은 표시는 정보입니다.",
   check: ({ facts }) =>
     facts.flatMap((fact): FindingDraft[] => {
       const value = text(fact.row, "COT_TEL_NO");

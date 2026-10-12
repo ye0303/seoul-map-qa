@@ -20,6 +20,8 @@ function parseId(fact: RowFacts): ParsedId | null {
 export const edition25IdFormat: Rule = {
   id: "T-E25-01",
   title: "서울에디션25 ID 형식",
+  description:
+    "서울에디션25의 콘텐츠 ID는 '연도 두 자리_edition25_구 번호(1~25)' 형식이어야 합니다. 아니면 오류입니다.",
   check: ({ facts }) =>
     facts
       .filter((fact) => parseId(fact) === null)
@@ -35,6 +37,8 @@ export const edition25IdFormat: Rule = {
 export const edition25IdDistrict: Rule = {
   id: "T-E25-02",
   title: "서울에디션25 ID의 구 번호와 구명 불일치",
+  description:
+    "ID의 구 번호(가나다순: 1 강남구 … 25 중랑구)가 가리키는 구와 구명이 다릅니다. 오류로 보고 번호의 구를 제안합니다.",
   check: ({ facts }) =>
     facts.flatMap((fact): FindingDraft[] => {
       const parsed = parseId(fact);
@@ -55,6 +59,8 @@ export const edition25IdDistrict: Rule = {
 export const edition25OnePerDistrict: Rule = {
   id: "T-E25-03",
   title: "서울에디션25 연도별 자치구당 1곳",
+  description:
+    "연도마다 25개 자치구에 한 곳씩이어야 합니다. 한 구에 두 곳 이상이면 해당 행 모두를, 빠진 구는 테마 수준으로 오류를 알립니다.",
   check: ({ facts }) => {
     const years = [...new Set(facts.flatMap((fact) => parseId(fact)?.year ?? []))].sort();
     const findings: FindingDraft[] = [];
@@ -91,6 +97,8 @@ export const edition25OnePerDistrict: Rule = {
 export const edition25ImageId: Rule = {
   id: "T-E25-04",
   title: "서울에디션25 대표 이미지가 다른 장소의 것",
+  description:
+    "대표 이미지 파일명에 다른 장소의 ID가 들어 있어 이미지가 잘못 연결됐을 수 있습니다. 의심으로 알립니다. 이 테마에서는 공통 규칙 C-12를 대신합니다.",
   check: ({ facts }) =>
     facts.flatMap((fact): FindingDraft[] => {
       const url = text(fact.row, "COT_IMG_MAIN_URL");

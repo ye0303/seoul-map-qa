@@ -6,6 +6,8 @@ import type { Rule } from "../types.ts";
 export const missingName: Rule = {
   id: "C-11",
   title: "이름 없음",
+  description:
+    "콘텐츠 이름이 비어 있어 지도에서 무엇인지 알 수 없습니다. 오류로 봅니다.",
   check: ({ facts }) =>
     facts
       .filter((fact) => fact.name === "")
@@ -21,6 +23,8 @@ export const missingName: Rule = {
 export const sharedImage: Rule = {
   id: "C-12",
   title: "대표 이미지 공유",
+  description:
+    "테마의 절반 이상이 같은 대표 이미지를 씁니다. 테마마다 1건의 정보로 알립니다. 모든 행이 같은 이미지(테마 아이콘)이면 정상으로 봅니다.",
   check: ({ facts }) => {
     const counts = new Map<string, number>();
     for (const fact of facts) {

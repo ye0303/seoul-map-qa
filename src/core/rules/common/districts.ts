@@ -14,6 +14,8 @@ import type { FindingDraft, Rule } from "../types.ts";
 export const districtMismatchCoordinate: Rule = {
   id: "C-05",
   title: "구명과 좌표의 구 불일치",
+  description:
+    "구명과 좌표가 가리키는 자치구가 다릅니다. 주소도 좌표와 같은 구를 가리키면 구명이 틀린 것으로 보고 오류(구 경계 100m 안이면 의심)로 알리며 좌표의 구를 제안합니다. 이름이 다른 여러 장소가 한 좌표를 함께 쓰면 좌표·주소가 대표값으로 들어갔을 수 있어 의심으로 낮추고 제안하지 않습니다.",
   check: ({ facts, districts }) => {
     const findings: FindingDraft[] = [];
     const namesAtPoint = namesByPoint(facts);
@@ -78,6 +80,8 @@ function namesByPoint(facts: readonly RowFacts[]): Map<string, Set<string>> {
 export const districtMismatchAddress: Rule = {
   id: "C-06",
   title: "구명과 주소의 구 불일치",
+  description:
+    "구명과 주소의 구가 다릅니다. 구명과 좌표가 같은 구를 가리키면 주소가 틀렸을 가능성이 커서 주소를 확인하라는 의심으로 알립니다. 구 경계 100m 안의 차이는 표시하지 않습니다.",
   check: ({ facts, districts }) => {
     const findings: FindingDraft[] = [];
     for (const fact of facts) {
@@ -111,6 +115,8 @@ export const districtMismatchAddress: Rule = {
 export const districtEmpty: Rule = {
   id: "C-07",
   title: "구명 비어 있음",
+  description:
+    "구명이 비어 있습니다. 정보로 알리고 좌표나 주소의 구를 제안합니다. 테마의 90% 이상이 비어 있으면 그 테마는 구명을 쓰지 않는 것으로 보고 1건으로 묶습니다.",
   check: ({ facts }) => {
     const empty = facts.filter((fact) => fact.guName === "");
     if (empty.length === 0) return [];

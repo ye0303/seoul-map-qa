@@ -5,6 +5,8 @@ import type { FindingDraft, Rule } from "../types.ts";
 export const missingCoordinate: Rule = {
   id: "C-01",
   title: "좌표 없음",
+  description:
+    "경도·위도가 비어 있거나 숫자가 아니어서 지도에 표시되지 않습니다. 오류로 봅니다.",
   check: ({ facts }) =>
     facts
       .filter((fact) => fact.coordinateStatus === "missing")
@@ -19,6 +21,8 @@ export const missingCoordinate: Rule = {
 export const swappedCoordinate: Rule = {
   id: "C-02",
   title: "위경도 뒤바뀜",
+  description:
+    "경도 자리에 위도(33~39), 위도 자리에 경도(124~132)가 들어가 있습니다. 오류로 보고, 두 값을 바꾼 좌표를 제안합니다.",
   check: ({ facts }) =>
     facts
       .filter((fact) => fact.coordinateStatus === "swapped")
@@ -35,6 +39,8 @@ export const swappedCoordinate: Rule = {
 export const outOfRangeCoordinate: Rule = {
   id: "C-03",
   title: "국내 범위 밖 좌표",
+  description:
+    "좌표가 국내 범위(경도 124~132, 위도 33~39)를 벗어났습니다. 0, 0이나 오타로 생깁니다. 오류로 봅니다.",
   check: ({ facts }) =>
     facts
       .filter((fact) => fact.coordinateStatus === "outOfRange")
@@ -54,6 +60,8 @@ export const outOfRangeCoordinate: Rule = {
 export const outsideSeoul: Rule = {
   id: "C-04",
   title: "서울 밖 좌표",
+  description:
+    "점 콘텐츠의 좌표가 서울 경계에서 100m 넘게 밖에 있습니다. 주소나 구명이 서울이면 오류, 판단할 근거가 없으면 의심입니다. 주소도 서울 밖인 장소(캠핑장 등)는 정상으로 보고 테마마다 1건의 정보로만 셉니다.",
   check: ({ facts, districts }) => {
     const findings: FindingDraft[] = [];
     let consistentOutside = 0;
