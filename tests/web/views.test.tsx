@@ -29,18 +29,43 @@ const THEMES = [
 ];
 
 describe("홈", () => {
-  test("마지막 검사, 등급별 합계, 직전 대비, 과별 표, 검사하지 못한 테마", () => {
-    const page = text(renderToStaticMarkup(<HomeView run={RUN} themes={THEMES} now={new Date("2026-10-08T11:00:00Z")} />));
+  const since = "2026-10-08T14:58";
+  const homeThemes = [
+    THEMES[0]!,
+    {
+      ...THEMES[1]!,
+      change: { since, rows: { added: 2, removed: 0, modified: 5, datesOnly: 1154 }, findings: { added: 3, resolved: 1, severityChanged: 0 } },
+    },
+    THEMES[2]!,
+    theme("777", { name: "서울 둘레길", change: { since, rows: { added: 0, removed: 0, modified: 0, datesOnly: 12 }, findings: { added: 0, resolved: 0, severityChanged: 0 } } }),
+  ];
+
+  test("마지막 검사, 등급별 합계와 테마 수, 테마 상태 막대", () => {
+    const page = text(renderToStaticMarkup(<HomeView run={RUN} themes={homeThemes} now={new Date("2026-10-08T11:00:00Z")} />));
     expect(page).toContain("마지막 검사 2026-10-08 16:56 (3시간 전)");
     expect(page).toContain("공개 테마 3개 중 2개 검사");
-    expect(page).toContain("23,087");
-    expect(page).toContain("2026-10-08 14:58 검사 이후 내용이 바뀐 테마 2개");
-    expect(page).toContain("추가 0 · 삭제 0 · 변경 1 · 수정일만 바뀜 1,154");
-    expect(page).toContain("신규 3 · 해결 1 · 등급 변경 0");
-    // 오류 많은 과(공원여가정책과 193)가 문화정책과(1)보다 먼저, 담당 미상은 맨 뒤.
-    expect(page.indexOf("서울시 공원여가정책과")).toBeLessThan(page.indexOf("서울시 문화본부 문화정책과"));
-    expect(page).toContain("검사하지 못한 테마 1개");
-    expect(page).toContain("인증키에 이 테마 권한이 없습니다");
+    expect(page).toContain("23,087 사람이 확인할 값 · 테마 2개");
+    expect(page).toContain("테마 4개 한눈에");
+    expect(page).toContain("오류 있음 2 의심만 0 정보만 0 문제 없음 1 검사 못함 1");
+  });
+
+  test("바뀐 테마는 카드로, 수정일만 바뀐 테마는 따로, 전체 합계는 한 줄로", () => {
+    const html = renderToStaticMarkup(<HomeView run={RUN} themes={homeThemes} now={new Date("2026-10-08T11:00:00Z")} />);
+    const page = text(html);
+    expect(page).toContain("2026-10-08 14:58 검사 이후 바뀐 테마 1개");
+    expect(page).toContain("전체 합계 — 콘텐츠: 추가 0 · 삭제 0 · 변경 1 · 수정일만 바뀜 1,154 · 판정: 신규 3 · 해결 1 · 등급 변경 0");
+    expect(page).toContain("서울시 공공와이파이 서울시 공원여가정책과 콘텐츠 추가 2 · 삭제 0 · 변경 5 · 수정일만 바뀜 1,154 / 전체 10건 판정 신규 +3 해결 −1 버전 비교 →");
+    expect(html).toContain('href="#/theme/11102828/versions"');
+    expect(page).toContain("수정일만 바뀐 테마 1개 (내용은 같음)");
+    expect(page).toContain("서울 둘레길 수정일만 12행");
+  });
+
+  test("담당 과 순위: 오류 많은 과부터, 담당 미상은 맨 뒤", () => {
+    const page = text(renderToStaticMarkup(<HomeView run={RUN} themes={homeThemes} now={new Date()} />));
+    expect(page).toContain("서울시 공원여가정책과 테마 2 · 정보 1 · 신규 +3 · 해결 −1 오류 193 의심 2,930");
+    expect(page.indexOf("서울시 공원여가정책과 테마")).toBeLessThan(page.indexOf("서울시 문화본부 문화정책과 테마"));
+    expect(page.indexOf("서울시 문화본부 문화정책과 테마")).toBeLessThan(page.indexOf("담당 미상 테마 0/1"));
+    expect(page).not.toContain("전체 3개 보기"); // 10개 이하면 접지 않는다
   });
 
   test("첫 검사면 비교할 이전 결과가 없다고 알린다", () => {
@@ -81,7 +106,10 @@ describe("테마", () => {
     expect(page).toContain("판정 목록 (2)");
     expect(page).toContain("버전 이력 (2)");
     expect(page).toContain("직전 검사(2026-10-08 14:58) 대비 신규 1건 · 해결 1건 · 등급 변경 0건");
-    expect(page.indexOf("C-05")).toBeLessThan(page.indexOf("C-10 전화번호 형식"));
+    expect(page).toContain("오류 1 의심 1 정보 0");
+    expect(page).toContain("C-05 구명과 좌표의 구 불일치 1");
+    const table = text(renderToStaticMarkup(<ThemeView entry={entry} results={results} versions={versions} tab="findings" changes={changes} />).split('class="findings"')[1]!);
+    expect(table.indexOf("C-05")).toBeLessThan(table.indexOf("C-10 전화번호 형식"));
     expect(page).toContain("오류 신규");
     expect(page).toContain("2-123-4567 전화번호");
     expect(page).toContain("02-123-4567");

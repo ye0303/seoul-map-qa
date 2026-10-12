@@ -34,11 +34,15 @@ export function filterFindings(findings: readonly Finding[], filter: FindingFilt
     .sort((a, b) => SEVERITY_ORDER.indexOf(a.severity) - SEVERITY_ORDER.indexOf(b.severity));
 }
 
-/** 규칙별 판정 수(규칙 ID순). 규칙 거르기 목록에 쓴다. */
-export function countByRule(findings: readonly Finding[]): { readonly ruleId: string; readonly count: number }[] {
-  const counts = new Map<string, number>();
-  for (const finding of findings) counts.set(finding.ruleId, (counts.get(finding.ruleId) ?? 0) + 1);
-  return [...counts].sort(([a], [b]) => a.localeCompare(b, "en", { numeric: true })).map(([ruleId, count]) => ({ ruleId, count }));
+export type RuleCount = { readonly ruleId: string; readonly count: number; readonly counts: FindingCounts };
+
+/** 규칙별 판정 수와 등급별 수(규칙 ID순). 규칙 거르기와 규칙별 막대에 쓴다. */
+export function countByRule(findings: readonly Finding[]): RuleCount[] {
+  const byRule = new Map<string, Finding[]>();
+  for (const finding of findings) (byRule.get(finding.ruleId) ?? byRule.set(finding.ruleId, []).get(finding.ruleId)!).push(finding);
+  return [...byRule]
+    .sort(([a], [b]) => a.localeCompare(b, "en", { numeric: true }))
+    .map(([ruleId, items]) => ({ ruleId, count: items.length, counts: countBySeverity(items) }));
 }
 
 export function countBySeverity(findings: readonly Finding[]): FindingCounts {

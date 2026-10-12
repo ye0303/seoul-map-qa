@@ -18,6 +18,7 @@
   --new: #6a1b9a;
   --new-soft: #f3e8fa;
   --hl: #fff8c4;
+  --unchecked: #b9c1cb;
   font-family: "Pretendard", "Apple SD Gothic Neo", "Malgun Gothic", system-ui, sans-serif;
   font-size: 15px;
   line-height: 1.55;
@@ -47,6 +48,7 @@
     --new: #d7a6f2;
     --new-soft: #33223f;
     --hl: #3d3a1c;
+    --unchecked: #4a5361;
   }
 }
 
@@ -541,4 +543,392 @@ summary {
   overflow: hidden;
   clip-path: inset(50%);
   white-space: nowrap;
+}
+
+/* 막대 색 */
+.tone-error {
+  background: var(--error);
+}
+
+.tone-suspect {
+  background: var(--suspect);
+}
+
+.tone-info {
+  background: var(--info);
+}
+
+.tone-clean,
+.tone-added {
+  background: var(--ok);
+}
+
+.tone-removed {
+  background: var(--error);
+}
+
+.tone-modified {
+  background: var(--suspect);
+}
+
+.tone-unchecked {
+  background: var(--unchecked);
+}
+
+/* 한 줄 누적 막대와 범례 */
+.stacked {
+  margin: 8px 0;
+}
+
+.stacked-bar {
+  display: flex;
+  height: 28px;
+  border-radius: 6px;
+  overflow: hidden;
+  background: var(--line);
+}
+
+.stacked-bar .seg {
+  display: block;
+  height: 100%;
+  min-width: 4px;
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+}
+
+.stacked-bar .seg + .seg {
+  border-left: 2px solid var(--surface);
+}
+
+.stacked-bar.has-selection .seg:not(.selected) {
+  opacity: 0.3;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 8px;
+  margin-top: 8px;
+}
+
+.legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--text);
+  font-size: 0.9rem;
+}
+
+.legend-item strong {
+  font-variant-numeric: tabular-nums;
+}
+
+.legend-item.selected {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+button.legend-item:disabled {
+  opacity: 0.5;
+}
+
+.dot {
+  display: inline-block;
+  flex: none;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.drill {
+  margin-top: 12px;
+}
+
+.drill h3 {
+  margin: 8px 0;
+}
+
+/* 바뀐 테마 카드 */
+.change-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 12px;
+  margin: 8px 0;
+}
+
+.change-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--suspect);
+  border-radius: 8px;
+  padding: 12px 16px;
+}
+
+.change-card.findings-only {
+  border-left-color: var(--new);
+}
+
+.change-card h3 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.card-dept {
+  margin: 0 0 4px;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.card-row {
+  display: grid;
+  grid-template-columns: 48px 1fr;
+  gap: 8px;
+  align-items: start;
+  font-size: 0.92rem;
+}
+
+.card-key {
+  color: var(--muted);
+}
+
+.card-value {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.card-value.inline {
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.card-value small {
+  display: inline;
+}
+
+.mini-bar {
+  display: flex;
+  width: 100%;
+  height: 8px;
+  margin-top: 6px;
+  border-radius: 4px;
+  overflow: hidden;
+  background: var(--line);
+}
+
+.mini-bar .seg {
+  display: block;
+  height: 100%;
+  min-width: 3px;
+}
+
+.delta {
+  display: inline-block;
+  padding: 0 8px;
+  border-radius: 999px;
+  background: var(--bg);
+  color: var(--muted);
+  font-size: 0.85rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.delta-new {
+  background: var(--new-soft);
+  color: var(--new);
+  font-weight: 600;
+}
+
+.delta-resolved {
+  background: var(--ok-soft);
+  color: var(--ok);
+  font-weight: 600;
+}
+
+.card-link {
+  align-self: flex-end;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 8px 0;
+  padding: 0;
+  list-style: none;
+}
+
+.chips li {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 2px 12px;
+}
+
+.chips small {
+  display: inline;
+}
+
+/* 담당 과 순위 */
+.ranking {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.ranking ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.ranking-head,
+.ranking li {
+  display: grid;
+  grid-template-columns: minmax(200px, 1.3fr) 1fr 1fr;
+  gap: 16px;
+  align-items: center;
+  padding: 8px 14px;
+}
+
+.ranking-head {
+  color: var(--muted);
+  font-size: 0.85rem;
+  font-weight: 600;
+  border-bottom: 1px solid var(--line);
+}
+
+.ranking li {
+  border-bottom: 1px solid var(--line);
+}
+
+.ranking li:last-child {
+  border-bottom: none;
+}
+
+.rank-name a {
+  font-weight: 600;
+}
+
+.meter {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.meter-track {
+  flex: 1;
+  height: 12px;
+  border-radius: 6px;
+  overflow: hidden;
+  background: var(--bg);
+}
+
+.meter-fill {
+  display: block;
+  height: 100%;
+  min-width: 3px;
+  border-radius: 6px;
+}
+
+.meter-value {
+  min-width: 56px;
+  text-align: right;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+/* 테마: 판정 요약 */
+.overview {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin: 8px 0 12px;
+}
+
+.rule-bars ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.rule-bars .hint {
+  margin-top: 12px;
+}
+
+.rule-bar {
+  display: grid;
+  grid-template-columns: minmax(220px, 1.2fr) 2fr 64px;
+  gap: 12px;
+  align-items: center;
+  width: 100%;
+  text-align: left;
+  color: var(--text);
+  background: none;
+  border: 0;
+  border-radius: 6px;
+  padding: 6px 8px;
+}
+
+.rule-bar:hover {
+  background: var(--bg);
+}
+
+.rule-bar.selected {
+  background: var(--accent-soft);
+}
+
+.rule-id {
+  font-weight: 600;
+}
+
+.rule-track {
+  display: flex;
+  height: 12px;
+  border-radius: 6px;
+  overflow: hidden;
+  background: var(--bg);
+}
+
+.rule-track .seg {
+  display: block;
+  height: 100%;
+  min-width: 3px;
+}
+
+.rule-count {
+  text-align: right;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+@media (max-width: 640px) {
+  .ranking-head {
+    display: none;
+  }
+
+  .ranking li {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+
+  .rule-bar {
+    grid-template-columns: 1fr 48px;
+  }
+
+  .rule-track {
+    grid-column: 1 / -1;
+    grid-row: 2;
+  }
 }

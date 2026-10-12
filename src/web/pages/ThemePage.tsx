@@ -2,17 +2,18 @@ import { Fragment, useMemo, useState } from "react";
 
 import { diffFindings } from "../../core/diff/findingDiff.ts";
 import { columnLabel } from "../../core/labels/columns.ts";
-import type { StoredResults, ThemeChange, ThemeEntry, VersionEntry } from "../../core/model/dataFiles.ts";
+import type { StoredResults, ThemeEntry, VersionEntry } from "../../core/model/dataFiles.ts";
 import { runTag } from "../../core/model/run.ts";
 import { THEME_RULE_SETS } from "../../core/rules/registry.ts";
 import type { Finding, Severity } from "../../core/rules/types.ts";
+import { StackedBar } from "../components/charts.tsx";
 import { Async, ContentName, CountCells, CountHeaders, ErrorBox, Loading, Pager, SeverityBadge, StatusBadge } from "../components/common.tsx";
 import { PAGE_SIZE } from "../config.ts";
 import { loadResults, loadSnapshot, loadThemes, loadVersions } from "../data.ts";
 import { createRowReader } from "../model/compare.ts";
-import { countByRule, countBySeverity, filterFindings, NO_FILTER, ruleTitle, type FindingFilter } from "../model/findings.ts";
+import { countByRule, countBySeverity, filterFindings, NO_FILTER, ruleTitle, type FindingFilter, type RuleCount } from "../model/findings.ts";
 import { displayValue, formatNumber, koreanDateTime, rowChangeText, runIdLabel, tagLabel } from "../model/format.ts";
-import { departmentOf, SEVERITY_LABEL, SEVERITY_ORDER } from "../model/summary.ts";
+import { departmentOf, findingChangeTotal, SEVERITY_LABEL, SEVERITY_ORDER } from "../model/summary.ts";
 import { href, type ThemeTab } from "../route.ts";
 import { useAsync } from "../useAsync.ts";
 
@@ -50,15 +51,10 @@ function LoadedTheme({ entry, results, versions, tab }: ThemeData & { readonly t
   return <ThemeView entry={entry} results={results} versions={versions} tab={tab} changes={changes} />;
 }
 
-/** 판정 변화 합계. 0이면 직전 판정 파일을 받을 필요가 없다. */
-function changeTotal(change: ThemeChange): number {
-  const sum = (counts: ThemeChange["rulesEffect"] | null) => (counts ? counts.added + counts.resolved + counts.severityChanged : 0);
-  return sum(change.findings) + sum(change.rulesEffect);
-}
-
 function useFindingChanges(entry: ThemeEntry, results: StoredResults | null): FindingChanges {
   const change = entry.change;
-  const previousTag = results && change?.findings && changeTotal(change) > 0 ? runTag(change.since) : null;
+  // 판정 변화가 없으면 직전 판정 파일을 받을 필요가 없다.
+  const previousTag = results && change?.findings && findingChangeTotal(change) > 0 ? runTag(change.since) : null;
   const previous = useAsync(async () => (previousTag ? loadResults(entry.id, previousTag) : null), [entry.id, previousTag]);
   return useMemo((): FindingChanges => {
     if (!results || !change) return { status: "unknown", reason: "이번 검사에서 받지 못한 테마라 직전 검사 대비 변화를 알 수 없습니다." };
@@ -170,6 +166,15 @@ function FindingsTab({
   return (
     <>
       <ChangeSummary changes={changes} />
+      <section className="overview" aria-label="판정 요약">
+        <StackedBar
+          label={`판정 ${findings.length}건`}
+          segments={SEVERITY_ORDER.map((severity) => ({ key: severity, label: SEVERITY_LABEL[severity], value: severities[severity], tone: severity }))}
+          selected={filter.severity === "all" ? null : filter.severity}
+          onSelect={(key) => update({ severity: filter.severity === key ? "all" : (key as Severity) })}
+        />
+        <RuleBars rules={rules} selected={filter.ruleId} onSelect={(ruleId) => update({ ruleId: filter.ruleId === ruleId ? "" : ruleId })} />
+      </section>
       <div className="filters">
         <label>
           등급
@@ -282,6 +287,34 @@ function FindingsTab({
 
 function sentence(text: string): string {
   return text.endsWith(".") ? text : `${text}.`;
+}
+
+/** 규칙별 판정 수를 많은 순 막대로. 막대 안은 등급별 비율. 누르면 그 규칙만 거른다. */
+function RuleBars({ rules, selected, onSelect }: { readonly rules: readonly RuleCount[]; readonly selected: string; readonly onSelect: (ruleId: string) => void }) {
+  const sorted = [...rules].sort((a, b) => b.count - a.count || a.ruleId.localeCompare(b.ruleId, "en", { numeric: true }));
+  const max = Math.max(1, ...rules.map((rule) => rule.count));
+  return (
+    <div className="rule-bars">
+      <p className="hint">규칙별 (누르면 그 규칙 판정만 보기, 다시 누르면 전체)</p>
+      <ul>
+        {sorted.map((rule) => (
+          <li key={rule.ruleId}>
+            <button type="button" className={`rule-bar${selected === rule.ruleId ? " selected" : ""}`} aria-pressed={selected === rule.ruleId} onClick={() => onSelect(rule.ruleId)}>
+              <span className="rule-name">
+                <span className="rule-id">{rule.ruleId}</span> {ruleTitle(rule.ruleId)}
+              </span>
+              <span className="rule-track" aria-hidden="true">
+                {SEVERITY_ORDER.filter((severity) => rule.counts[severity] > 0).map((severity) => (
+                  <span key={severity} className={`seg tone-${severity}`} style={{ width: `${(rule.counts[severity] / max) * 100}%` }} />
+                ))}
+              </span>
+              <span className="rule-count">{formatNumber(rule.count)}</span>
+            </button>
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
 }
 
 function ChangeSummary({ changes }: { readonly changes: FindingChanges }) {

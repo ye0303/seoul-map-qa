@@ -4,7 +4,15 @@ import { normalizeRows } from "../../src/core/model/snapshot.ts";
 import { compareVersions, createRowReader, rowNames } from "../../src/web/model/compare.ts";
 import { countByRule, filterFindings, NO_FILTER, ruleTitle } from "../../src/web/model/findings.ts";
 import { displayValue, koreanDateTime, rowChangeText, tagLabel, timeAgo } from "../../src/web/model/format.ts";
-import { searchThemes, summarizeDepartments, uncheckedThemes, UNKNOWN_DEPARTMENT } from "../../src/web/model/summary.ts";
+import {
+  changedThemes,
+  groupByHealth,
+  healthOf,
+  searchThemes,
+  summarizeDepartments,
+  themesWithSeverity,
+  UNKNOWN_DEPARTMENT,
+} from "../../src/web/model/summary.ts";
 import { href, parseRoute } from "../../src/web/route.ts";
 import { finding, theme } from "./fixtures.ts";
 
@@ -27,11 +35,55 @@ describe("담당 과 요약", () => {
     expect(summary[2]).toMatchObject({ themes: 1, checked: 0, counts: { error: 0, suspect: 0, info: 0 } });
   });
 
-  test("검사하지 못한 테마와 이름·과 검색", () => {
-    expect(uncheckedThemes(themes).map((entry) => entry.id)).toEqual(["d"]);
+  test("이름·과 검색", () => {
     expect(searchThemes(themes, "관광 정책").map((entry) => entry.id)).toEqual(["c", "a"]);
     expect(searchThemes(themes, "테마 b").map((entry) => entry.id)).toEqual(["b"]);
     expect(searchThemes(themes, "  ")).toEqual([]);
+  });
+});
+
+describe("테마 상태와 바뀐 테마", () => {
+  test("가장 높은 등급으로 상태를 나누고, 이번에 받지 못한 테마는 검사 못함", () => {
+    const themes = [
+      theme("e", { counts: { error: 1, suspect: 5, info: 0 } }),
+      theme("s", { counts: { error: 0, suspect: 2, info: 9 } }),
+      theme("i", { counts: { error: 0, suspect: 0, info: 1 } }),
+      theme("c"),
+      theme("u", { status: "unavailable", counts: null }),
+      theme("f", { status: "error", counts: { error: 3, suspect: 0, info: 0 } }),
+    ];
+    expect(themes.map(healthOf)).toEqual(["error", "suspect", "info", "clean", "unchecked", "unchecked"]);
+    const groups = groupByHealth(themes);
+    expect([...groups].map(([health, entries]) => [health, entries.map((entry) => entry.id)])).toEqual([
+      ["error", ["e"]],
+      ["suspect", ["s"]],
+      ["info", ["i"]],
+      ["clean", ["c"]],
+      ["unchecked", ["f", "u"]],
+    ]);
+    // 등급별 "그 등급 판정이 있는 테마 수"는 이번에 검사한 테마만 센다.
+    expect(themesWithSeverity(themes)).toEqual({ error: 1, suspect: 2, info: 2 });
+  });
+
+  test("콘텐츠나 판정이 바뀐 테마는 행 변화 많은 순, 수정일만 바뀐 테마는 따로", () => {
+    const change = (rows: { added: number; removed: number; modified: number; datesOnly?: number } | null, added = 0) => ({
+      since: "2026-10-08T14:58",
+      rows,
+      findings: { added, resolved: 0, severityChanged: 0 },
+    });
+    const themes = [
+      theme("same", { change: change({ added: 0, removed: 0, modified: 0 }) }),
+      theme("small", { change: change({ added: 1, removed: 0, modified: 0 }) }),
+      theme("big", { change: change({ added: 0, removed: 3, modified: 50, datesOnly: 7 }) }),
+      theme("dates", { change: change({ added: 0, removed: 0, modified: 0, datesOnly: 1154 }) }),
+      theme("findings", { change: change({ added: 0, removed: 0, modified: 0 }, 2) }),
+      theme("unknown", { change: change(null) }),
+      theme("rules", { change: { ...change({ added: 0, removed: 0, modified: 0 }), rulesEffect: { added: 0, resolved: 4, severityChanged: 0 } } }),
+      theme("not-fetched", { change: undefined }),
+    ];
+    const { changed, datesOnly } = changedThemes(themes);
+    expect(changed.map((entry) => entry.id)).toEqual(["unknown", "big", "small", "findings", "rules"]);
+    expect(datesOnly.map((entry) => entry.id)).toEqual(["dates"]);
   });
 });
 
@@ -98,11 +150,11 @@ describe("판정 거르기", () => {
 
   test("규칙별 수는 규칙 번호순, 이름은 등록부에서", () => {
     const many = [finding("C-10", "1"), finding("C-05", "2"), finding("C-05", "3"), finding("C-15", "4"), finding("T-E25-01", "5")];
-    expect(countByRule(many)).toEqual([
-      { ruleId: "C-05", count: 2 },
-      { ruleId: "C-10", count: 1 },
-      { ruleId: "C-15", count: 1 },
-      { ruleId: "T-E25-01", count: 1 },
+    expect(countByRule([...many, finding("C-05", "6", { severity: "suspect" })])).toEqual([
+      { ruleId: "C-05", count: 3, counts: { error: 2, suspect: 1, info: 0 } },
+      { ruleId: "C-10", count: 1, counts: { error: 1, suspect: 0, info: 0 } },
+      { ruleId: "C-15", count: 1, counts: { error: 1, suspect: 0, info: 0 } },
+      { ruleId: "T-E25-01", count: 1, counts: { error: 1, suspect: 0, info: 0 } },
     ]);
     expect(ruleTitle("C-05")).toBe("구명과 좌표의 구 불일치");
     expect(ruleTitle("X-99")).toBe("X-99");
